@@ -1,13 +1,13 @@
-#EXTM3U x-tvg-url="https://github.io"
+#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz"
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Antena 3
-https://githubusercontent.comantena3.m3u8
+https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/antena3.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="laSexta" tvg-logo="https://atresplayer.com" group-title="Atresmedia",laSexta
-https://githubusercontent.comlasexta.m3u8
+https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/lasexta.m3u8
 #EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Neox
-https://githubusercontent.comneox.m3u8
+https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/neox.m3u8
 #EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Nova
-https://githubusercontent.comnova.m3u8
+https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/nova.m3u8
 #EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Mega
-https://githubusercontent.commega.m3u8
+https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/mega.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Atreseries
-https://githubusercontent.comatreseries.m3u8
+https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/atreseries.m3u8
