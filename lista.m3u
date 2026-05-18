@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Antena 3
 https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/antena3.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="laSexta" tvg-logo="https://atresplayer.com" group-title="Atresmedia",laSexta
