@@ -1,0 +1,21 @@
+# Ignorar llaves de seguridad y certificados
+*.key
+*.pem
+*.pub
+
+# Ignorar absolutamente todos los archivos de video pesados
+*.mp4
+*.mkv
+*.avi
+*.ts
+*.mov
+
+# Ignorar archivos de oficina y notas
+*.odt
+*.docx
+*.pdf
+*.txt
+
+# Ignorar copias temporales
+*.old
+*.bak
