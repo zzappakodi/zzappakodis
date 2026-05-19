@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#--- REGISTRO PREVIO DEL GRUPO DE AUDIO (OBLIGATORIO ARRIBA) ---
+#EXT-X-MEDIA:TYPE=AUDIO,CHANNELS="2",GROUP-ID="audio",NAME="Català",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ca",URI="https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/bitrate_7.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,CHANNELS="2",GROUP-ID="audio",NAME="Versió Original",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/bitrate_9.m3u8"
+
+#--- DEFINICIÓN DEL STREAM DE VÍDEO CON INYECCIÓN DE CABECERAS ---
+#EXTINF:-1,TV3 Directe 1080p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/201001
+#EXTVLCOPT:http-referrer=https://www.3cat.cat/3cat/directes/tv3/
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4128000,CODECS="avc1.4d0029,mp4a.40.2",RESOLUTION=1920x1080,AUDIO="audio",FRAME-RATE=25.000
+https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8

@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1, Antena 3 Series
+http://192.168.1.99/a3series.m3u8
+#EXTM3U
+#EXTINF:-1, Antena 3
+antena3.m3u8
+#EXTM3U
+#EXTINF:-1, Canal56
+http://192.168.1.99/canal56.m3u8
+#EXTM3U
+#EXTINF:-1, La 1
+http://192.168.1.99/la1.m3u8
+#EXTM3U
+#EXTINF:-1, La 2
+http://192.168.1.99/la2.m3u8
+#EXTM3U
+#EXTINF:-1, La Sexta
+http://192.168.1.99/laSexta.m3u8
+#EXTM3U
+#EXTINF:-1, Neox
+http://192.168.1.99/neox.m3u8
+#EXTM3U
+#EXTINF:-1, Nova
+http://192.168.1.99/nova.m3u8
+#EXTM3U
+#EXTINF:-1, Parlamento
+http://192.168.1.99/parlamento.m3u8
+#EXTM3U
+#EXTINF:-1, TV3
+http://192.168.1.99/tv3.m3u8

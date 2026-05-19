@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# --- Definición de la pista de audio ---
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-fijo",NAME="Audio Stream",DEFAULT=YES,AUTOSELECT=YES,URI="https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets10/2026/01/28/1C2F1141-23E1-42E5-83A4-AFFD3BD5B898/hls.smil/chunklist_b128000_ao_sles_t64U3BhbmlzaA==.m3u8?pulse=assets10%2F2026%2F01%2F28%2F1C2F1141-23E1-42E5-83A4-AFFD3BD5B898%2F%7C1770825600%7C1b9dda3af48cdaca85d3ca2f0403fc24"
+
+# --- Definición de la variante de video vinculada al audio ---
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1280x720,AUDIO="audio-fijo"
+https://nogeovod-fy.atresmedia.com/vsg/_definst_/assets10/2026/01/28/1C2F1141-23E1-42E5-83A4-AFFD3BD5B898/hls.smil/chunklist_b4131000_vo.m3u8?pulse=assets10%2F2026%2F01%2F28%2F1C2F1141-23E1-42E5-83A4-AFFD3BD5B898%2F%7C1770825600%7C1b9dda3af48cdaca85d3ca2f0403fc24

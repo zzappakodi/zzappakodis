@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="referrer" content="no-referrer">
+    <script src="https://cloudflare.com"></script>
+</head>
+<body style="background:black; margin:0;">
+    <video id="video" controls autoplay style="width:100%; height:100vh;"></video>
+    <script>
+        var video = document.getElementById('video');
+        var videoSrc = 'http://192.168.1.99/antena3.m3u8';
+        
+        if (Hls.isSupported()) {
+            var hls = new Hls({
+                // Esto ayuda a evitar algunos bloqueos de CORS/CORB
+                xhrSetup: function(xhr, url) {
+                    xhr.withCredentials = false;
+                }
+            });
+            hls.loadSource(videoSrc);
+            hls.attachMedia(video);
+        }
+    </script>
+</body>
+</html>
