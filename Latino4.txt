@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:VIAJAR HD" group-title="SPAIN",ES:VIAJAR HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/411
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:TV Galicia 2" group-title="SPAIN",ES:TV Galicia 2
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/345
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:TV Galicia" group-title="SPAIN",ES:TV Galicia
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/344
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:TNT HD" group-title="SPAIN",ES:TNT HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/377
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:TLnovelas" group-title="SPAIN",ES:TLnovelas
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/347
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:TELEDEPORTE" group-title="SPAIN",ES:TELEDEPORTE
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/391
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:TELECINCO HD" group-title="SPAIN",ES:TELECINCO HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/335
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:TCM HD" group-title="SPAIN",ES:TCM HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/375
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:SYFY HD" group-title="SPAIN",ES:SYFY HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/376
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:RCN TV" group-title="SPAIN",ES:RCN TV
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/348
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:PARAMOUNT CHANNEL" group-title="SPAIN",ES:PARAMOUNT CHANNEL
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/380
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:NOVA" group-title="SPAIN",ES:NOVA
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/346
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Nickelodeon HD" group-title="SPAIN",ES:Nickelodeon HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/365
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:NEOX" group-title="SPAIN",ES:NEOX
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/354
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:NAT GEO WILD HD" group-title="SPAIN",ES:NAT GEO WILD HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/419
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:NAT GEO" group-title="SPAIN",ES:NAT GEO
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/418
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:MTV ESPANA" group-title="SPAIN",ES:MTV ESPANA
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/424
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Series HD" group-title="SPAIN",ES:Movistar Series HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/389
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Liga de Campeones 2 HD" group-title="SPAIN",ES:Movistar Liga de Campeones 2 HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/400
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Liga de Campeones 1 HD" group-title="SPAIN",ES:Movistar Liga de Campeones 1 HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/399
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar LaLigatv" group-title="SPAIN",ES:Movistar LaLigatv
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/396
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Golf" group-title="SPAIN",ES:Movistar Golf
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/401
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Fest HD" group-title="SPAIN",ES:Movistar Fest HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/381
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Estrenos HD" group-title="SPAIN",ES:Movistar Estrenos HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/387
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Drama HD" group-title="SPAIN",ES:Movistar Drama HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/382
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Deportes HD" group-title="SPAIN",ES:Movistar Deportes HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/392
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Comedia HD" group-title="SPAIN",ES:Movistar Comedia HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/383
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Cine ESPANOL" group-title="SPAIN",ES:Movistar Cine ESPANOL
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/379
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Movistar Accion HD" group-title="SPAIN",ES:Movistar Accion HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/384
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:MEGA" group-title="SPAIN",ES:MEGA
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/350
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:LaLiga TV BAR HD" group-title="SPAIN",ES:LaLiga TV BAR HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/397
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:LA2 HD" group-title="SPAIN",ES:LA2 HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/332
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:LA1 HD" group-title="SPAIN",ES:LA1 HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/331
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:LA SEXTA HD" group-title="SPAIN",ES:LA SEXTA HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/336
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:HOLLYWOOD HD" group-title="SPAIN",ES:HOLLYWOOD HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/373
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:HISTORIA" group-title="SPAIN",ES:HISTORIA
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/415
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:GOL" group-title="SPAIN",ES:GOL
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/390
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:FOX LIFE HD" group-title="SPAIN",ES:FOX LIFE HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/371
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:FOX HD" group-title="SPAIN",ES:FOX HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/370
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:FDF" group-title="SPAIN",ES:FDF
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/355
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:EUROSPORT1 HD" group-title="SPAIN",ES:EUROSPORT1 HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/406
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:ENERGY" group-title="SPAIN",ES:ENERGY
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/356
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:DIVINITY" group-title="SPAIN",ES:DIVINITY
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/357
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Disney Channel" group-title="SPAIN",ES:Disney Channel
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/362
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:DISCOVERY" group-title="SPAIN",ES:DISCOVERY
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/417
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:CUATRO HD" group-title="SPAIN",ES:CUATRO HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/334
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Crimen Investigacion" group-title="SPAIN",ES:Crimen Investigacion
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/422
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:COSMO HD" group-title="SPAIN",ES:COSMO HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/358
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:COMEDY CENTRAL HD" group-title="SPAIN",ES:COMEDY CENTRAL HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/372
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:CLANTVE" group-title="SPAIN",ES:CLANTVE
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/361
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:CAZAYPESCA" group-title="SPAIN",ES:CAZAYPESCA
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/420
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:Caracol TV" group-title="SPAIN",ES:Caracol TV
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/349
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:CANALODISEA" group-title="SPAIN",ES:CANALODISEA
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/421
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:CANAL PANDA" group-title="SPAIN",ES:CANAL PANDA
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/366
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:CANAL DECASA" group-title="SPAIN",ES:CANAL DECASA
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/413
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:CANAL COCINA" group-title="SPAIN",ES:CANAL COCINA
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/412
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:CANAL  TOROS" group-title="SPAIN",ES:CANAL  TOROS
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/410
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:CALLE13 HD" group-title="SPAIN",ES:CALLE13 HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/378
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:BOING" group-title="SPAIN",ES:BOING
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/360
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:BLAZE" group-title="SPAIN",ES:BLAZE
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/414
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:beIN Sport Ã‘ HD" group-title="SPAIN",ES:beIN Sport Ã‘ HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/398
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:BE MAD HD" group-title="SPAIN",ES:BE MAD HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/337
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:BARCA TV" group-title="SPAIN",ES:BARCA TV
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/409
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:BABY" group-title="SPAIN",ES:BABY
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/359
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:AXN WHITE HD" group-title="SPAIN",ES:AXN WHITE HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/369
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:AXN HD" group-title="SPAIN",ES:AXN HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/368
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:ANTENA 3 HD" group-title="SPAIN",ES:ANTENA 3 HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/333
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:AMC HD" group-title="SPAIN",ES:AMC HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/374
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:24h" group-title="SPAIN",ES:24h
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/351
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:#Vamos" group-title="SPAIN",ES:#Vamos
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/393
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES:#0 HD" group-title="SPAIN",ES:#0 HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/367
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: TEN" group-title="SPAIN",ES: TEN
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/352
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: SUNDANCE" group-title="SPAIN",ES: SUNDANCE
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/353
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: SOL" group-title="SPAIN",ES: SOL
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/423
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: REAL MADRID" group-title="SPAIN",ES: REAL MADRID
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/408
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: Movistar Estrenos 2 HD" group-title="SPAIN",ES: Movistar Estrenos 2 HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/385
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: Movistar Dreamworks HD" group-title="SPAIN",ES: Movistar Dreamworks HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/386
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: Movistar Clasicos" group-title="SPAIN",ES: Movistar Clasicos
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/388
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: EUROSPORT 2" group-title="SPAIN",ES: EUROSPORT 2
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/407
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: DMAX" group-title="SPAIN",ES: DMAX
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/416
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: Disney XD" group-title="SPAIN",ES: Disney XD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/364
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: Disney Junior" group-title="SPAIN",ES: Disney Junior
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/363
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: CLASSICATV" group-title="SPAIN",ES: CLASSICATV
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/425
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ES: #Vamos HD" group-title="SPAIN",ES: #Vamos HD
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/394
