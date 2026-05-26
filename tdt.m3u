@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="http://192.168.1.98:8080/guiatv.xml"
 #EXTM3U
 #EXTINF:-1, Antena 3 Series
 http://192.168.1.99/a3series.m3u8
