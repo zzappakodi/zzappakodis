@@ -1,6 +1,6 @@
 *.xml
 *.gz
-#*.m3u
+*.m3u
 *.m3u8
 sueno.m3u8
 public.key
