@@ -1,0 +1,110 @@
+#EXTM3U x-tvg-url="http://192.168.1.98:8080/tivify_fast_epg.xml"
+
+#EXTINF:-1 tvg-id="Qwest_TV" tvg-name="Qwest TV", Qwest TV
+https://amg00447-amg00447c1-tivify-international-5977.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00447-qwesttvfast-qwesttv-tivifyinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Stingray_Classica" tvg-name="Stingray Classica", Stingray Classica
+https://daiconnect.com/live/hls/tvup/classica-tvfy/.m3u8
+
+#EXTINF:-1 tvg-id="That's_80s" tvg-name="That's 80s", That's 80s
+https://now80s-tivify.ssai.tcscdn.net/playlist_0.m3u8
+
+#EXTINF:-1 tvg-id="Clips_Don't_Lie" tvg-name="Clips Don't Lie", Clips Don't Lie
+https://amg01821-amg01821c28-tivify-international-8120.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-clipsdontlie-tivifyinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Águila_Roja_FAST" tvg-name="Águila Roja FAST", Águila Roja FAST
+https://aguilaroja-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Curro_Jiménez_FAST" tvg-name="Curro Jiménez FAST", Curro Jiménez FAST
+https://currojimenez-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Ana_y_los_7_FAST" tvg-name="Ana y los 7 FAST", Ana y los 7 FAST
+https://anaylos7-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime", Runtime
+https://runtime-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_Thriller_+_Terror" tvg-name="Runtime Thriller + Terror", Runtime Thriller + Terror
+https://runtimethrillerterror-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_A_Sangre_Fría" tvg-name="Runtime A Sangre Fría", Runtime A Sangre Fría
+https://runtimeasangrefria-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_Clásicos" tvg-name="Runtime Clásicos", Runtime Clásicos
+https://runtimeclasicos-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_Familia" tvg-name="Runtime Familia", Runtime Familia
+https://runtimefamilia-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_Crimen" tvg-name="Runtime Crimen", Runtime Crimen
+https://runtimecrimen-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_Acción" tvg-name="Runtime Acción", Runtime Acción
+https://runtimeaccion-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_Series" tvg-name="Runtime Series", Runtime Series
+https://runtimeseries-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_Romance" tvg-name="Runtime Romance", Runtime Romance
+https://runtimeromance-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_Comedia" tvg-name="Runtime Comedia", Runtime Comedia
+https://runtimecomedia-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Cine_Feel_Good_Verdi_TV" tvg-name="Cine Feel Good Verdi TV", Cine Feel Good Verdi TV
+https://cinesfeelgood-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Cines_Verdi_TV" tvg-name="Cines Verdi TV", Cines Verdi TV
+https://cinesverdi-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Anime_Visión" tvg-name="Anime Visión", Anime Visión
+https://animevision-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Anime_Visión_Classics" tvg-name="Anime Visión Classics", Anime Visión Classics
+https://animevisionclassics-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Beyblade_FAST" tvg-name="Beyblade FAST", Beyblade FAST
+https://beyblade-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Yu-Gi-Oh!" tvg-name="Yu-Gi-Oh!", Yu-Gi-Oh!
+https://yugioh-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Oficios_Perdidos" tvg-name="Oficios Perdidos", Oficios Perdidos
+https://oficiosperdidos-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Todo_Pasión" tvg-name="Todo Pasión", Todo Pasión
+https://todopasion-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Todo_Novelas" tvg-name="Todo Novelas", Todo Novelas
+https://todonovelas-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Movie_Music" tvg-name="Movie Music", Movie Music
+https://moviemusic-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Qello_Concerts" tvg-name="Qello Concerts", Qello Concerts
+https://qelloconcerts-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision_TV" tvg-name="Motorvision TV", Motorvision TV
+https://motorvision-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Inglés_Total" tvg-name="Inglés Total", Inglés Total
+https://inglestotal-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Cine_Western" tvg-name="Cine Western", Cine Western
+https://cinewestern-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Cine_Friki" tvg-name="Cine Friki", Cine Friki
+https://cinefriki-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Film_&_Co" tvg-name="Film & Co", Film & Co
+https://filmandco-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Planeta_de_Cine" tvg-name="Planeta de Cine", Planeta de Cine
+https://planetadecine-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Pocoyó_y_Más" tvg-name="Pocoyó y Más", Pocoyó y Más
+https://pocoyo-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Historia_y_Vida" tvg-name="Historia y Vida", Historia y Vida
+https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8
+
