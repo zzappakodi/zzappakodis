@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.1.98:8080/tivify_fast_epg.xml?v=1"
+#EXTM3U x-tvg-url="http://192.168.1.98:8080/tivify_fast_epg.xml"
 
 #EXTINF:-1 tvg-id="Qwest_TV" tvg-name="Qwest TV", Qwest TV
 https://amg00447-amg00447c1-tivify-international-5977.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00447-qwesttvfast-qwesttv-tivifyinternational/playlist.m3u8
