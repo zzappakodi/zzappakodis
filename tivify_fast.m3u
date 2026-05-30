@@ -6,6 +6,15 @@ https://amg00447-amg00447c1-tivify-international-5977.playouts.now.amagi.tv/ts-e
 #EXTINF:-1 tvg-id="Stingray_Classica" tvg-name="Stingray Classica", Stingray Classica
 https://daiconnect.com/live/hls/tvup/classica-tvfy/.m3u8
 
+#EXTINF:-1 tvg-id="Greatest_Hits" tvg-name="Greatest Hits", Greatest Hits
+https://greatesthits-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Stingray_Classica" tvg-name="Stingray Classica", Stingray Classica
+https://easylistening-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="The_Spa" tvg-name="The Spa", The Spa
+https://thespa-tivify.ssai.tcscdn.net/master.m3u8
+
 #EXTINF:-1 tvg-id="That's_80s" tvg-name="That's 80s", That's 80s
 https://now80s-tivify.ssai.tcscdn.net/playlist_0.m3u8
 
@@ -107,4 +116,10 @@ https://pocoyo-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Historia_y_Vida" tvg-name="Historia y Vida", Historia y Vida
 https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-id="The_Love_Planet" tvg-name="The Love Planet", The Love Planet
+https://amg01821-lovetv-amg01821c9-tivify-international-2006.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-tivifyinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Naturescape" tvg-name="Naturescape", Naturescape
+https://naturescape-tivify.ssai.tcscdn.net/master.m3u8
 
