@@ -9,7 +9,7 @@ https://daiconnect.com/live/hls/tvup/classica-tvfy/.m3u8
 #EXTINF:-1 tvg-id="Greatest_Hits" tvg-name="Greatest Hits", Greatest Hits
 https://greatesthits-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Stingray_Classica" tvg-name="Stingray Classica", Stingray Classica
+#EXTINF:-1 tvg-id="Stingray_Easy_Listening" tvg-name="Stingray Easy Listening", Stingray Easy Listening
 https://easylistening-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="The_Spa" tvg-name="The Spa", The Spa
@@ -120,6 +120,6 @@ https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/pla
 #EXTINF:-1 tvg-id="The_Love_Planet" tvg-name="The Love Planet", The Love Planet
 https://amg01821-lovetv-amg01821c9-tivify-international-2006.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-tivifyinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Naturescape" tvg-name="Naturescape", Naturescape
+#EXTINF:-1 tvg-id="Stingray_Naturescape" tvg-name="Stingray Naturescape", Stingray Naturescape
 https://naturescape-tivify.ssai.tcscdn.net/master.m3u8
 
