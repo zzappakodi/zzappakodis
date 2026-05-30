@@ -100,644 +100,903 @@
     <icon src="http://192.168.1Runtime%20Comedia.png"/>
     <logo>http://192.168.1Runtime%20Comedia.png</logo>
   </channel>
+  <channel id="Qello_Concerts">
+    <display-name>Qello Concerts</display-name>
+    <icon src="http://192.168.1Qello%20Concerts.png"/>
+    <logo>http://192.168.1Qello%20Concerts.png</logo>
+  </channel>
+  <channel id="Stingray_Classica">
+    <display-name>Stingray Classica</display-name>
+    <icon src="http://192.168.1Stingray%20Classica.png"/>
+    <logo>http://192.168.1Stingray%20Classica.png</logo>
+  </channel>
+  <channel id="Greatest_Hits">
+    <display-name>Greatest Hits</display-name>
+    <icon src="http://192.168.1Runtime.png"/>
+    <logo>http://192.168.1Runtime.png</logo>
+  </channel>
+  <channel id="Stingray_Easy_Listening">
+    <display-name>Stingray Easy Listening</display-name>
+    <icon src="http://192.168.1Runtime.png"/>
+    <logo>http://192.168.1Runtime.png</logo>
+  </channel>
+  <channel id="The_Spa">
+    <display-name>The Spa</display-name>
+    <icon src="http://192.168.1Runtime.png"/>
+    <logo>http://192.168.1Runtime.png</logo>
+  </channel>
+  <channel id="Movie_Music">
+    <display-name>Movie Music</display-name>
+    <icon src="http://192.168.1Movie%20Music.png"/>
+    <logo>http://192.168.1Movie%20Music.png</logo>
+  </channel>
+  <channel id="Stingray_Naturescape">
+    <display-name>Stingray Naturescape</display-name>
+    <icon src="http://192.168.1Runtime.png"/>
+    <logo>http://192.168.1Runtime.png</logo>
+  </channel>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Anime_Visión">
     <title lang="es">Emisión Anime Visión en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Anime_Visión_Classics">
     <title lang="es">Emisión Anime Visión Classics en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Yu-Gi-Oh!">
     <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Beyblade_FAST">
     <title lang="es">Emisión Beyblade en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Beyblade.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Pocoyó_y_Más">
     <title lang="es">Emisión Pocoyó y Más en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Águila_Roja_FAST">
     <title lang="es">Emisión Águila Roja en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Águila Roja.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Curro_Jiménez_FAST">
     <title lang="es">Emisión Curro Jiménez en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Curro Jiménez.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Ana_y_los_7_FAST">
     <title lang="es">Emisión Ana y los 7 en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Ana y los 7.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Cines_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cines Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cines Verdi TV.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cine Feel Good Verdi TV.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime">
-    <title lang="es">El tren de las 3:10</title>
-    <desc lang="es">Un ranchero endeudado acepta escoltar a un peligroso forajido hacia el tren que lo llevará a la justicia. Un western magistral de suspense.</desc>
+    <title lang="es">El maquinista</title>
+    <desc lang="es">Un operario de fábrica que padece insomnio severo empieza a sufrir alucinaciones.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Thriller_+_Terror">
-    <title lang="es">La hufrfana</title>
-    <desc lang="es">Una pareja que acaba de perder a su bebé adopta a una niña de nueve años que no es tan inocente como aparenta en su nuevo hogar.</desc>
+    <title lang="es">Insidious</title>
+    <desc lang="es">Una familia se enfrenta a fuerzas paranormales cuando su hijo cae en un coma místico.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_A_Sangre_Fría">
-    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+    <title lang="es">Grandes Películas en Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime A Sangre Fría.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Clásicos">
-    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+    <title lang="es">Grandes Películas en Runtime Clásicos</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Clásicos.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Familia">
-    <title lang="es">Grandes Éxitos de Runtime Familia</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+    <title lang="es">Grandes Películas en Runtime Familia</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Familia.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Crimen">
-    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+    <title lang="es">Grandes Películas en Runtime Crimen</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Crimen.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Acción">
-    <title lang="es">Mercenarios de élite</title>
-    <desc lang="es">Bruce Willis interpreta a un multimillonario tecnológico cuyo grupo de mercenarios debe rescatar a su hija secuestrada.</desc>
+    <title lang="es">Blitz</title>
+    <desc lang="es">Un inspector de policía persigue a un asesino en serie que ataca a agentes de Londres.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Series">
-    <title lang="es">Grandes Éxitos de Runtime Series</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+    <title lang="es">Grandes Películas en Runtime Series</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Series.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Romance">
-    <title lang="es">Un amor inolvidable</title>
-    <desc lang="es">Una apasionante historia romántica donde el destino cruza las vidas de dos personas con pasados difíciles que se curan mutuamente.</desc>
+    <title lang="es">One Day</title>
+    <desc lang="es">La historia de dos amigos a lo largo de veinte años mostrando sus encuentros amorosos.</desc>
   </programme>
   <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Comedia">
-    <title lang="es">Un golpe brillante</title>
-    <desc lang="es">Pierce Brosnan y Emma Thompson interpretan a una pareja divorciada que planea robar un diamante para recuperar sus pensiones robadas.</desc>
+    <title lang="es">El chef</title>
+    <desc lang="es">Un prestigioso cocinero pierde su trabajo y monta un camión de comida ambulante.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Qello_Concerts">
+    <title lang="es">Rolling Stones: Havana Moon</title>
+    <desc lang="es">Histórico concierto gratuito de la banda de rock en Cuba ante miles de personas.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Stingray_Classica">
+    <title lang="es">Vivaldi: Las cuatro estaciones</title>
+    <desc lang="es">Concierto barroco grabado en Venecia interpretando la obra maestra.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Greatest_Hits">
+    <title lang="es">Iconos del Rock de los 90</title>
+    <desc lang="es">Recopilación con los videoclips de las bandas de rock más influyentes de la década.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Stingray_Easy_Listening">
+    <title lang="es">Música Relax: Stingray Easy Listening</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Easy Listening.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="The_Spa">
+    <title lang="es">Música Relax: The Spa</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal The Spa.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Movie_Music">
+    <title lang="es">Ennio Morricone: Arena de Verona</title>
+    <desc lang="es">El maestro dirige sus mejores composiciones de Western y cine clásico en directo.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Stingray_Naturescape">
+    <title lang="es">Música Relax: Stingray Naturescape</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Naturescape.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Anime_Visión">
     <title lang="es">Emisión Anime Visión en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Anime_Visión_Classics">
     <title lang="es">Emisión Anime Visión Classics en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Yu-Gi-Oh!">
     <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Beyblade_FAST">
     <title lang="es">Emisión Beyblade en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Beyblade.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Pocoyó_y_Más">
     <title lang="es">Emisión Pocoyó y Más en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Águila_Roja_FAST">
     <title lang="es">Emisión Águila Roja en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Águila Roja.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Curro_Jiménez_FAST">
     <title lang="es">Emisión Curro Jiménez en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Curro Jiménez.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Ana_y_los_7_FAST">
     <title lang="es">Emisión Ana y los 7 en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Ana y los 7.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Cines_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cines Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cines Verdi TV.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cine Feel Good Verdi TV.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime">
-    <title lang="es">Valkiria</title>
-    <desc lang="es">Tom Cruise protagoniza la historia real del complot militar alemán para asesinar a Adolf Hitler durante la Segunda Guerra Mundial.</desc>
+    <title lang="es">Sin tregua</title>
+    <desc lang="es">Dos jóvenes policías patrullan las calles de Los Ángeles enfrentándose a bandas.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Thriller_+_Terror">
     <title lang="es">Sin frenos</title>
-    <desc lang="es">Un mensajero ciclista de Nueva York es perseguido por un policía corrupto que intenta arrebatarle desesperadamente un sobre misterioso.</desc>
+    <desc lang="es">Un mensajero ciclista es perseguido por un policía corrupto por Nueva York.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_A_Sangre_Fría">
-    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+    <title lang="es">Grandes Películas en Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime A Sangre Fría.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Clásicos">
-    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+    <title lang="es">Grandes Películas en Runtime Clásicos</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Clásicos.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Familia">
-    <title lang="es">Grandes Éxitos de Runtime Familia</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+    <title lang="es">Grandes Películas en Runtime Familia</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Familia.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Crimen">
-    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+    <title lang="es">Grandes Películas en Runtime Crimen</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Crimen.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Acción">
-    <title lang="es">El protector</title>
-    <desc lang="es">Jason Statham es un exagente de la DEA que se muda a un pueblo tranquilo pero termina enfrentándose a una violenta banda local.</desc>
+    <title lang="es">Transporter 3</title>
+    <desc lang="es">Frank Martin es obligado a entregar un paquete cruzando fronteras europeas.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Series">
-    <title lang="es">Grandes Éxitos de Runtime Series</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+    <title lang="es">Grandes Películas en Runtime Series</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Series.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Romance">
-    <title lang="es">Postdata: Te amo</title>
-    <desc lang="es">Una viuda joven descubre que su difunto esposo le ha dejado una serie de cartas destinadas a guiarla para rehacer su vida emocional.</desc>
+    <title lang="es">Begin Again</title>
+    <desc lang="es">Un productor musical en horas bajas y una joven cantante componen un álbum en Nueva York.</desc>
   </programme>
   <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Comedia">
-    <title lang="es">Cosas que hacer antes de morir</title>
-    <desc lang="es">Un grupo de amigos se reúne tras la muerte de uno de ellos y deciden cumplir las últimas promesas divertidas de su lista.</desc>
+    <title lang="es">Siete psicópatas</title>
+    <desc lang="es">Un guionista se ve envuelto en el submundo criminal tras el secuestro de un perro.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Qello_Concerts">
+    <title lang="es">Coldplay: Live in São Paulo</title>
+    <desc lang="es">Concierto lleno de color y grandes himnos dentro de su gira mundial de estadios.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Stingray_Classica">
+    <title lang="es">Chopin: Nocturnos para piano</title>
+    <desc lang="es">Recital íntimo de piano interpretando las piezas más célebres del compositor.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Greatest_Hits">
+    <title lang="es">Grandes Divas del Pop</title>
+    <desc lang="es">Bloque musical dedicado a las voces femeninas más potentes e internacionales de la historia.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Stingray_Easy_Listening">
+    <title lang="es">Música Relax: Stingray Easy Listening</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Easy Listening.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="The_Spa">
+    <title lang="es">Música Relax: The Spa</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal The Spa.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Movie_Music">
+    <title lang="es">Cine y Orquesta: El Señor de los Anillos</title>
+    <desc lang="es">Interpretación épica de la banda sonora ganadora del Óscar compuesta por Howard Shore.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Stingray_Naturescape">
+    <title lang="es">Música Relax: Stingray Naturescape</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Naturescape.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Anime_Visión">
     <title lang="es">Emisión Anime Visión en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Anime_Visión_Classics">
     <title lang="es">Emisión Anime Visión Classics en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Yu-Gi-Oh!">
     <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Beyblade_FAST">
     <title lang="es">Emisión Beyblade en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Beyblade.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Pocoyó_y_Más">
     <title lang="es">Emisión Pocoyó y Más en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Águila_Roja_FAST">
     <title lang="es">Emisión Águila Roja en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Águila Roja.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Curro_Jiménez_FAST">
     <title lang="es">Emisión Curro Jiménez en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Curro Jiménez.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Ana_y_los_7_FAST">
     <title lang="es">Emisión Ana y los 7 en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Ana y los 7.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Cines_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cines Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cines Verdi TV.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cine Feel Good Verdi TV.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime">
     <title lang="es">El tren de las 3:10</title>
-    <desc lang="es">Un ranchero endeudado acepta escoltar a un peligroso forajido hacia el tren que lo llevará a la justicia. Un western magistral de suspense.</desc>
+    <desc lang="es">Un ranchero escolta a un peligroso forajido hacia el tren de la justicia.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Thriller_+_Terror">
-    <title lang="es">La hufrfana</title>
-    <desc lang="es">Una pareja que acaba de perder a su bebé adopta a una niña de nueve años que no es tan inocente como aparenta en su nuevo hogar.</desc>
+    <title lang="es">La huérfana</title>
+    <desc lang="es">Una pareja adopta a una misteriosa niña que oculta un secreto terrorífico.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_A_Sangre_Fría">
-    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+    <title lang="es">Grandes Películas en Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime A Sangre Fría.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Clásicos">
-    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+    <title lang="es">Grandes Películas en Runtime Clásicos</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Clásicos.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Familia">
-    <title lang="es">Grandes Éxitos de Runtime Familia</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+    <title lang="es">Grandes Películas en Runtime Familia</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Familia.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Crimen">
-    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+    <title lang="es">Grandes Películas en Runtime Crimen</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Crimen.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Acción">
     <title lang="es">Mercenarios de élite</title>
-    <desc lang="es">Bruce Willis interpreta a un multimillonario tecnológico cuyo grupo de mercenarios debe rescatar a su hija secuestrada.</desc>
+    <desc lang="es">Bruce Willis debe rescatar a su hija secuestrada por terroristas.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Series">
-    <title lang="es">Grandes Éxitos de Runtime Series</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+    <title lang="es">Grandes Películas en Runtime Series</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Series.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Romance">
     <title lang="es">Un amor inolvidable</title>
-    <desc lang="es">Una apasionante historia romántica donde el destino cruza las vidas de dos personas con pasados difíciles que se curan mutuamente.</desc>
+    <desc lang="es">El destino cruza las vidas de dos personas con pasados difíciles.</desc>
   </programme>
   <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Comedia">
     <title lang="es">Un golpe brillante</title>
-    <desc lang="es">Pierce Brosnan y Emma Thompson interpretan a una pareja divorciada que planea robar un diamante para recuperar sus pensiones robadas.</desc>
+    <desc lang="es">Pierce Brosnan y Emma Thompson planean robar un valioso diamante.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Qello_Concerts">
+    <title lang="es">Queen: Live at Wembley</title>
+    <desc lang="es">El concierto legendario de Freddie Mercury en Londres en 1986.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Stingray_Classica">
+    <title lang="es">Beethoven: Sinfonía Nº 9</title>
+    <desc lang="es">Interpretación magistral de la Filarmónica de Berlín de la Novena Sinfonía.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Greatest_Hits">
+    <title lang="es">Lo Mejor de los 80s y 90s</title>
+    <desc lang="es">Selección continua con los videoclips más exitosos del pop y rock mundial.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Stingray_Easy_Listening">
+    <title lang="es">Música Relax: Stingray Easy Listening</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Easy Listening.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="The_Spa">
+    <title lang="es">Música Relax: The Spa</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal The Spa.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Movie_Music">
+    <title lang="es">Bandas Sonoras de Hans Zimmer</title>
+    <desc lang="es">Temas míticos de Gladiator, Origen, Interstellar y El Rey León sinfónico.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Stingray_Naturescape">
+    <title lang="es">Música Relax: Stingray Naturescape</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Naturescape.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Anime_Visión">
     <title lang="es">Emisión Anime Visión en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Anime_Visión_Classics">
     <title lang="es">Emisión Anime Visión Classics en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Yu-Gi-Oh!">
     <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Beyblade_FAST">
     <title lang="es">Emisión Beyblade en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Beyblade.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Pocoyó_y_Más">
     <title lang="es">Emisión Pocoyó y Más en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Águila_Roja_FAST">
     <title lang="es">Emisión Águila Roja en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Águila Roja.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Curro_Jiménez_FAST">
     <title lang="es">Emisión Curro Jiménez en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Curro Jiménez.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Ana_y_los_7_FAST">
     <title lang="es">Emisión Ana y los 7 en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Ana y los 7.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Cines_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cines Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cines Verdi TV.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cine Feel Good Verdi TV.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime">
     <title lang="es">Valkiria</title>
-    <desc lang="es">Tom Cruise protagoniza la historia real del complot militar alemán para asesinar a Adolf Hitler durante la Segunda Guerra Mundial.</desc>
+    <desc lang="es">Historia real del complot militar alemán para asesinar a Adolf Hitler.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Thriller_+_Terror">
-    <title lang="es">Sin frenos</title>
-    <desc lang="es">Un mensajero ciclista de Nueva York es perseguido por un policía corrupto que intenta arrebatarle desesperadamente un sobre misterioso.</desc>
+    <title lang="es">Shutter Island</title>
+    <desc lang="es">Un agente judicial investiga la desaparición de una asesina en un psiquiátrico.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_A_Sangre_Fría">
-    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+    <title lang="es">Grandes Películas en Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime A Sangre Fría.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Clásicos">
-    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+    <title lang="es">Grandes Películas en Runtime Clásicos</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Clásicos.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Familia">
-    <title lang="es">Grandes Éxitos de Runtime Familia</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+    <title lang="es">Grandes Películas en Runtime Familia</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Familia.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Crimen">
-    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+    <title lang="es">Grandes Películas en Runtime Crimen</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Crimen.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Acción">
     <title lang="es">El protector</title>
-    <desc lang="es">Jason Statham es un exagente de la DEA que se muda a un pueblo tranquilo pero termina enfrentándose a una violenta banda local.</desc>
+    <desc lang="es">Jason Statham se enfrenta a una violenta banda en un pueblo tranquilo.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Series">
-    <title lang="es">Grandes Éxitos de Runtime Series</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+    <title lang="es">Grandes Películas en Runtime Series</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Series.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Romance">
     <title lang="es">Postdata: Te amo</title>
-    <desc lang="es">Una viuda joven descubre que su difunto esposo le ha dejado una serie de cartas destinadas a guiarla para rehacer su vida emocional.</desc>
+    <desc lang="es">Una viuda descubre cartas de su esposo destinadas a guiar su vida.</desc>
   </programme>
   <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Comedia">
     <title lang="es">Cosas que hacer antes de morir</title>
-    <desc lang="es">Un grupo de amigos se reúne tras la muerte de uno de ellos y deciden cumplir las últimas promesas divertidas de su lista.</desc>
+    <desc lang="es">Un grupo de amigos cumple las promesas divertidas de su lista.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Qello_Concerts">
+    <title lang="es">Michael Jackson: Dangerous Tour</title>
+    <desc lang="es">Espectacular concierto en directo del Rey del Pop con sus grandes éxitos.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Stingray_Classica">
+    <title lang="es">Mozart: La flauta mágica</title>
+    <desc lang="es">Representación de la ópera mítica de Mozart desde el festival de Salzburgo.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Greatest_Hits">
+    <title lang="es">Especial Pop-Rock Español</title>
+    <desc lang="es">Grandes éxitos musicales que marcaron a toda una generación en España.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Stingray_Easy_Listening">
+    <title lang="es">Música Relax: Stingray Easy Listening</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Easy Listening.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="The_Spa">
+    <title lang="es">Música Relax: The Spa</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal The Spa.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Movie_Music">
+    <title lang="es">John Williams en Directo</title>
+    <desc lang="es">La música de Star Wars, Indiana Jones y Harry Potter tocada por la orquesta.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Stingray_Naturescape">
+    <title lang="es">Música Relax: Stingray Naturescape</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Naturescape.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Anime_Visión">
     <title lang="es">Emisión Anime Visión en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Anime_Visión_Classics">
     <title lang="es">Emisión Anime Visión Classics en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Yu-Gi-Oh!">
     <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Beyblade_FAST">
     <title lang="es">Emisión Beyblade en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Beyblade.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Pocoyó_y_Más">
     <title lang="es">Emisión Pocoyó y Más en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Águila_Roja_FAST">
     <title lang="es">Emisión Águila Roja en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Águila Roja.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Curro_Jiménez_FAST">
     <title lang="es">Emisión Curro Jiménez en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Curro Jiménez.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Ana_y_los_7_FAST">
     <title lang="es">Emisión Ana y los 7 en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Ana y los 7.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Cines_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cines Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cines Verdi TV.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cine Feel Good Verdi TV.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime">
-    <title lang="es">El tren de las 3:10</title>
-    <desc lang="es">Un ranchero endeudado acepta escoltar a un peligroso forajido hacia el tren que lo llevará a la justicia. Un western magistral de suspense.</desc>
+    <title lang="es">El maquinista</title>
+    <desc lang="es">Un operario de fábrica que padece insomnio severo empieza a sufrir alucinaciones.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Thriller_+_Terror">
-    <title lang="es">La hufrfana</title>
-    <desc lang="es">Una pareja que acaba de perder a su bebé adopta a una niña de nueve años que no es tan inocente como aparenta en su nuevo hogar.</desc>
+    <title lang="es">Insidious</title>
+    <desc lang="es">Una familia se enfrenta a fuerzas paranormales cuando su hijo cae en un coma místico.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_A_Sangre_Fría">
-    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+    <title lang="es">Grandes Películas en Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime A Sangre Fría.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Clásicos">
-    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+    <title lang="es">Grandes Películas en Runtime Clásicos</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Clásicos.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Familia">
-    <title lang="es">Grandes Éxitos de Runtime Familia</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+    <title lang="es">Grandes Películas en Runtime Familia</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Familia.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Crimen">
-    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+    <title lang="es">Grandes Películas en Runtime Crimen</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Crimen.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Acción">
-    <title lang="es">Mercenarios de élite</title>
-    <desc lang="es">Bruce Willis interpreta a un multimillonario tecnológico cuyo grupo de mercenarios debe rescatar a su hija secuestrada.</desc>
+    <title lang="es">Blitz</title>
+    <desc lang="es">Un inspector de policía persigue a un asesino en serie que ataca a agentes de Londres.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Series">
-    <title lang="es">Grandes Éxitos de Runtime Series</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+    <title lang="es">Grandes Películas en Runtime Series</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Series.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Romance">
-    <title lang="es">Un amor inolvidable</title>
-    <desc lang="es">Una apasionante historia romántica donde el destino cruza las vidas de dos personas con pasados difíciles que se curan mutuamente.</desc>
+    <title lang="es">One Day</title>
+    <desc lang="es">La historia de dos amigos a lo largo de veinte años mostrando sus encuentros amorosos.</desc>
   </programme>
   <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Comedia">
-    <title lang="es">Un golpe brillante</title>
-    <desc lang="es">Pierce Brosnan y Emma Thompson interpretan a una pareja divorciada que planea robar un diamante para recuperar sus pensiones robadas.</desc>
+    <title lang="es">El chef</title>
+    <desc lang="es">Un prestigioso cocinero pierde su trabajo y monta un camión de comida ambulante.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Qello_Concerts">
+    <title lang="es">Rolling Stones: Havana Moon</title>
+    <desc lang="es">Histórico concierto gratuito de la banda de rock en Cuba ante miles de personas.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Stingray_Classica">
+    <title lang="es">Vivaldi: Las cuatro estaciones</title>
+    <desc lang="es">Concierto barroco grabado en Venecia interpretando la obra maestra.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Greatest_Hits">
+    <title lang="es">Iconos del Rock de los 90</title>
+    <desc lang="es">Recopilación con los videoclips de las bandas de rock más influyentes de la década.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Stingray_Easy_Listening">
+    <title lang="es">Música Relax: Stingray Easy Listening</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Easy Listening.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="The_Spa">
+    <title lang="es">Música Relax: The Spa</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal The Spa.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Movie_Music">
+    <title lang="es">Ennio Morricone: Arena de Verona</title>
+    <desc lang="es">El maestro dirige sus mejores composiciones de Western y cine clásico en directo.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Stingray_Naturescape">
+    <title lang="es">Música Relax: Stingray Naturescape</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Naturescape.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Anime_Visión">
     <title lang="es">Emisión Anime Visión en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Anime_Visión_Classics">
     <title lang="es">Emisión Anime Visión Classics en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Yu-Gi-Oh!">
     <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Beyblade_FAST">
     <title lang="es">Emisión Beyblade en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Beyblade.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Pocoyó_y_Más">
     <title lang="es">Emisión Pocoyó y Más en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Águila_Roja_FAST">
     <title lang="es">Emisión Águila Roja en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Águila Roja.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Curro_Jiménez_FAST">
     <title lang="es">Emisión Curro Jiménez en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Curro Jiménez.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Ana_y_los_7_FAST">
     <title lang="es">Emisión Ana y los 7 en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Ana y los 7.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Cines_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cines Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cines Verdi TV.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cine Feel Good Verdi TV.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime">
-    <title lang="es">Valkiria</title>
-    <desc lang="es">Tom Cruise protagoniza la historia real del complot militar alemán para asesinar a Adolf Hitler durante la Segunda Guerra Mundial.</desc>
+    <title lang="es">Sin tregua</title>
+    <desc lang="es">Dos jóvenes policías patrullan las calles de Los Ángeles enfrentándose a bandas.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Thriller_+_Terror">
     <title lang="es">Sin frenos</title>
-    <desc lang="es">Un mensajero ciclista de Nueva York es perseguido por un policía corrupto que intenta arrebatarle desesperadamente un sobre misterioso.</desc>
+    <desc lang="es">Un mensajero ciclista es perseguido por un policía corrupto por Nueva York.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_A_Sangre_Fría">
-    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+    <title lang="es">Grandes Películas en Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime A Sangre Fría.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Clásicos">
-    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+    <title lang="es">Grandes Películas en Runtime Clásicos</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Clásicos.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Familia">
-    <title lang="es">Grandes Éxitos de Runtime Familia</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+    <title lang="es">Grandes Películas en Runtime Familia</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Familia.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Crimen">
-    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+    <title lang="es">Grandes Películas en Runtime Crimen</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Crimen.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Acción">
-    <title lang="es">El protector</title>
-    <desc lang="es">Jason Statham es un exagente de la DEA que se muda a un pueblo tranquilo pero termina enfrentándose a una violenta banda local.</desc>
+    <title lang="es">Transporter 3</title>
+    <desc lang="es">Frank Martin es obligado a entregar un paquete cruzando fronteras europeas.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Series">
-    <title lang="es">Grandes Éxitos de Runtime Series</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+    <title lang="es">Grandes Películas en Runtime Series</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Series.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Romance">
-    <title lang="es">Postdata: Te amo</title>
-    <desc lang="es">Una viuda joven descubre que su difunto esposo le ha dejado una serie de cartas destinadas a guiarla para rehacer su vida emocional.</desc>
+    <title lang="es">Begin Again</title>
+    <desc lang="es">Un productor musical en horas bajas y una joven cantante componen un álbum en Nueva York.</desc>
   </programme>
   <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Comedia">
-    <title lang="es">Cosas que hacer antes de morir</title>
-    <desc lang="es">Un grupo de amigos se reúne tras la muerte de uno de ellos y deciden cumplir las últimas promesas divertidas de su lista.</desc>
+    <title lang="es">Siete psicópatas</title>
+    <desc lang="es">Un guionista se ve envuelto en el submundo criminal tras el secuestro de un perro.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Qello_Concerts">
+    <title lang="es">Coldplay: Live in São Paulo</title>
+    <desc lang="es">Concierto lleno de color y grandes himnos dentro de su gira mundial de estadios.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Stingray_Classica">
+    <title lang="es">Chopin: Nocturnos para piano</title>
+    <desc lang="es">Recital íntimo de piano interpretando las piezas más célebres del compositor.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Greatest_Hits">
+    <title lang="es">Grandes Divas del Pop</title>
+    <desc lang="es">Bloque musical dedicado a las voces femeninas más potentes e internacionales de la historia.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Stingray_Easy_Listening">
+    <title lang="es">Música Relax: Stingray Easy Listening</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Easy Listening.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="The_Spa">
+    <title lang="es">Música Relax: The Spa</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal The Spa.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Movie_Music">
+    <title lang="es">Cine y Orquesta: El Señor de los Anillos</title>
+    <desc lang="es">Interpretación épica de la banda sonora ganadora del Óscar compuesta por Howard Shore.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Stingray_Naturescape">
+    <title lang="es">Música Relax: Stingray Naturescape</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Naturescape.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Anime_Visión">
     <title lang="es">Emisión Anime Visión en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Anime_Visión_Classics">
     <title lang="es">Emisión Anime Visión Classics en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Yu-Gi-Oh!">
     <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Beyblade_FAST">
     <title lang="es">Emisión Beyblade en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Beyblade.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Pocoyó_y_Más">
     <title lang="es">Emisión Pocoyó y Más en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Águila_Roja_FAST">
     <title lang="es">Emisión Águila Roja en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Águila Roja.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Curro_Jiménez_FAST">
     <title lang="es">Emisión Curro Jiménez en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Curro Jiménez.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Ana_y_los_7_FAST">
     <title lang="es">Emisión Ana y los 7 en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Ana y los 7.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Cines_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cines Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cines Verdi TV.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cine Feel Good Verdi TV.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime">
     <title lang="es">El tren de las 3:10</title>
-    <desc lang="es">Un ranchero endeudado acepta escoltar a un peligroso forajido hacia el tren que lo llevará a la justicia. Un western magistral de suspense.</desc>
+    <desc lang="es">Un ranchero escolta a un peligroso forajido hacia el tren de la justicia.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Thriller_+_Terror">
-    <title lang="es">La hufrfana</title>
-    <desc lang="es">Una pareja que acaba de perder a su bebé adopta a una niña de nueve años que no es tan inocente como aparenta en su nuevo hogar.</desc>
+    <title lang="es">La huérfana</title>
+    <desc lang="es">Una pareja adopta a una misteriosa niña que oculta un secreto terrorífico.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_A_Sangre_Fría">
-    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+    <title lang="es">Grandes Películas en Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime A Sangre Fría.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Clásicos">
-    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+    <title lang="es">Grandes Películas en Runtime Clásicos</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Clásicos.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Familia">
-    <title lang="es">Grandes Éxitos de Runtime Familia</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+    <title lang="es">Grandes Películas en Runtime Familia</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Familia.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Crimen">
-    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+    <title lang="es">Grandes Películas en Runtime Crimen</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Crimen.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Acción">
     <title lang="es">Mercenarios de élite</title>
-    <desc lang="es">Bruce Willis interpreta a un multimillonario tecnológico cuyo grupo de mercenarios debe rescatar a su hija secuestrada.</desc>
+    <desc lang="es">Bruce Willis debe rescatar a su hija secuestrada por terroristas.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Series">
-    <title lang="es">Grandes Éxitos de Runtime Series</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+    <title lang="es">Grandes Películas en Runtime Series</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Series.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Romance">
     <title lang="es">Un amor inolvidable</title>
-    <desc lang="es">Una apasionante historia romántica donde el destino cruza las vidas de dos personas con pasados difíciles que se curan mutuamente.</desc>
+    <desc lang="es">El destino cruza las vidas de dos personas con pasados difíciles.</desc>
   </programme>
   <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Comedia">
     <title lang="es">Un golpe brillante</title>
-    <desc lang="es">Pierce Brosnan y Emma Thompson interpretan a una pareja divorciada que planea robar un diamante para recuperar sus pensiones robadas.</desc>
+    <desc lang="es">Pierce Brosnan y Emma Thompson planean robar un valioso diamante.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Qello_Concerts">
+    <title lang="es">Queen: Live at Wembley</title>
+    <desc lang="es">El concierto legendario de Freddie Mercury en Londres en 1986.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Stingray_Classica">
+    <title lang="es">Beethoven: Sinfonía Nº 9</title>
+    <desc lang="es">Interpretación magistral de la Filarmónica de Berlín de la Novena Sinfonía.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Greatest_Hits">
+    <title lang="es">Lo Mejor de los 80s y 90s</title>
+    <desc lang="es">Selección continua con los videoclips más exitosos del pop y rock mundial.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Stingray_Easy_Listening">
+    <title lang="es">Música Relax: Stingray Easy Listening</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Easy Listening.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="The_Spa">
+    <title lang="es">Música Relax: The Spa</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal The Spa.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Movie_Music">
+    <title lang="es">Bandas Sonoras de Hans Zimmer</title>
+    <desc lang="es">Temas míticos de Gladiator, Origen, Interstellar y El Rey León sinfónico.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Stingray_Naturescape">
+    <title lang="es">Música Relax: Stingray Naturescape</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Naturescape.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Anime_Visión">
     <title lang="es">Emisión Anime Visión en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Anime_Visión_Classics">
     <title lang="es">Emisión Anime Visión Classics en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Yu-Gi-Oh!">
     <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Beyblade_FAST">
     <title lang="es">Emisión Beyblade en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Beyblade.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Pocoyó_y_Más">
     <title lang="es">Emisión Pocoyó y Más en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Águila_Roja_FAST">
     <title lang="es">Emisión Águila Roja en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Águila Roja.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Curro_Jiménez_FAST">
     <title lang="es">Emisión Curro Jiménez en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Curro Jiménez.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Ana_y_los_7_FAST">
     <title lang="es">Emisión Ana y los 7 en Directo</title>
-    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+    <desc lang="es">Señal de televisión de tu casa. Disfruta de la programación continua del canal Ana y los 7.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Cines_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cines Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cines Verdi TV.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+    <title lang="es">Grandes Películas en Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Cine Feel Good Verdi TV.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime">
     <title lang="es">Valkiria</title>
-    <desc lang="es">Tom Cruise protagoniza la historia real del complot militar alemán para asesinar a Adolf Hitler durante la Segunda Guerra Mundial.</desc>
+    <desc lang="es">Historia real del complot militar alemán para asesinar a Adolf Hitler.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Thriller_+_Terror">
-    <title lang="es">Sin frenos</title>
-    <desc lang="es">Un mensajero ciclista de Nueva York es perseguido por un policía corrupto que intenta arrebatarle desesperadamente un sobre misterioso.</desc>
+    <title lang="es">Shutter Island</title>
+    <desc lang="es">Un agente judicial investiga la desaparición de una asesina en un psiquiátrico.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_A_Sangre_Fría">
-    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+    <title lang="es">Grandes Películas en Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime A Sangre Fría.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Clásicos">
-    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+    <title lang="es">Grandes Películas en Runtime Clásicos</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Clásicos.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Familia">
-    <title lang="es">Grandes Éxitos de Runtime Familia</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+    <title lang="es">Grandes Películas en Runtime Familia</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Familia.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Crimen">
-    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+    <title lang="es">Grandes Películas en Runtime Crimen</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Crimen.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Acción">
     <title lang="es">El protector</title>
-    <desc lang="es">Jason Statham es un exagente de la DEA que se muda a un pueblo tranquilo pero termina enfrentándose a una violenta banda local.</desc>
+    <desc lang="es">Jason Statham se enfrenta a una violenta banda en un pueblo tranquilo.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Series">
-    <title lang="es">Grandes Éxitos de Runtime Series</title>
-    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+    <title lang="es">Grandes Películas en Runtime Series</title>
+    <desc lang="es">Emisión de largometrajes, cine temático y grandes éxitos de taquilla en Runtime Series.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Romance">
     <title lang="es">Postdata: Te amo</title>
-    <desc lang="es">Una viuda joven descubre que su difunto esposo le ha dejado una serie de cartas destinadas a guiarla para rehacer su vida emocional.</desc>
+    <desc lang="es">Una viuda descubre cartas de su esposo destinadas a guiar su vida.</desc>
   </programme>
   <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Comedia">
     <title lang="es">Cosas que hacer antes de morir</title>
-    <desc lang="es">Un grupo de amigos se reúne tras la muerte de uno de ellos y deciden cumplir las últimas promesas divertidas de su lista.</desc>
+    <desc lang="es">Un grupo de amigos cumple las promesas divertidas de su lista.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Qello_Concerts">
+    <title lang="es">Michael Jackson: Dangerous Tour</title>
+    <desc lang="es">Espectacular concierto en directo del Rey del Pop con sus grandes éxitos.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Stingray_Classica">
+    <title lang="es">Mozart: La flauta mágica</title>
+    <desc lang="es">Representación de la ópera mítica de Mozart desde el festival de Salzburgo.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Greatest_Hits">
+    <title lang="es">Especial Pop-Rock Español</title>
+    <desc lang="es">Grandes éxitos musicales que marcaron a toda una generación en España.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Stingray_Easy_Listening">
+    <title lang="es">Música Relax: Stingray Easy Listening</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Easy Listening.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="The_Spa">
+    <title lang="es">Música Relax: The Spa</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal The Spa.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Movie_Music">
+    <title lang="es">John Williams en Directo</title>
+    <desc lang="es">La música de Star Wars, Indiana Jones y Harry Potter tocada por la orquesta.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Stingray_Naturescape">
+    <title lang="es">Música Relax: Stingray Naturescape</title>
+    <desc lang="es">Hilos musicales ambientales, melodías suaves y paisajes relajantes en el canal Stingray Naturescape.</desc>
   </programme>
 </tv>
