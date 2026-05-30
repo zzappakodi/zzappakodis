@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="PlutoTV_Style_Tivify_EPG">
+  <channel id="Anime_Visión">
+    <display-name>Anime Visión</display-name>
+    <icon src="http://192.168.1Anime%20Visi%C3%B3n.png"/>
+    <logo>http://192.168.1Anime%20Visi%C3%B3n.png</logo>
+  </channel>
+  <channel id="Anime_Visión_Classics">
+    <display-name>Anime Visión Classics</display-name>
+    <icon src="http://192.168.1Anime%20Visi%C3%B3n%20Classics.png"/>
+    <logo>http://192.168.1Anime%20Visi%C3%B3n%20Classics.png</logo>
+  </channel>
+  <channel id="Yu-Gi-Oh!">
+    <display-name>Yu-Gi-Oh!</display-name>
+    <icon src="http://192.168.1Yu-Gi-Oh%21.png"/>
+    <logo>http://192.168.1Yu-Gi-Oh%21.png</logo>
+  </channel>
+  <channel id="Beyblade_FAST">
+    <display-name>Beyblade</display-name>
+    <icon src="http://192.168.1Beyblade.png"/>
+    <logo>http://192.168.1Beyblade.png</logo>
+  </channel>
+  <channel id="Pocoyó_y_Más">
+    <display-name>Pocoyó y Más</display-name>
+    <icon src="http://192.168.1pocoyoymas.png"/>
+    <logo>http://192.168.1pocoyoymas.png</logo>
+  </channel>
+  <channel id="Águila_Roja_FAST">
+    <display-name>Águila Roja</display-name>
+    <icon src="http://192.168.1%C3%81guila%20Roja.png"/>
+    <logo>http://192.168.1%C3%81guila%20Roja.png</logo>
+  </channel>
+  <channel id="Curro_Jiménez_FAST">
+    <display-name>Curro Jiménez</display-name>
+    <icon src="http://192.168.1Curro%20Jim%C3%A9nez.png"/>
+    <logo>http://192.168.1Curro%20Jim%C3%A9nez.png</logo>
+  </channel>
+  <channel id="Ana_y_los_7_FAST">
+    <display-name>Ana y los 7</display-name>
+    <icon src="http://192.168.1Ana%20y%20los%207.png"/>
+    <logo>http://192.168.1Ana%20y%20los%207.png</logo>
+  </channel>
+  <channel id="Cines_Verdi_TV">
+    <display-name>Cines Verdi TV</display-name>
+    <icon src="http://192.168.1Cines%20Verdi.png"/>
+    <logo>http://192.168.1Cines%20Verdi.png</logo>
+  </channel>
+  <channel id="Cine_Feel_Good_Verdi_TV">
+    <display-name>Cine Feel Good Verdi TV</display-name>
+    <icon src="http://192.168.1Cinesfeelgoodverdi.png"/>
+    <logo>http://192.168.1Cinesfeelgoodverdi.png</logo>
+  </channel>
+  <channel id="Runtime">
+    <display-name>Runtime</display-name>
+    <icon src="http://192.168.1Runtime.png"/>
+    <logo>http://192.168.1Runtime.png</logo>
+  </channel>
+  <channel id="Runtime_Thriller_+_Terror">
+    <display-name>Runtime Thriller + Terror</display-name>
+    <icon src="http://192.168.1runtimethrillerterror.png"/>
+    <logo>http://192.168.1runtimethrillerterror.png</logo>
+  </channel>
+  <channel id="Runtime_A_Sangre_Fría">
+    <display-name>Runtime A Sangre Fría</display-name>
+    <icon src="http://192.168.1Runtime%20Acci%C3%B3n.png"/>
+    <logo>http://192.168.1Runtime%20Acci%C3%B3n.png</logo>
+  </channel>
+  <channel id="Runtime_Clásicos">
+    <display-name>Runtime Clásicos</display-name>
+    <icon src="http://192.168.1Runtime%20Cl%C3%A1sicos.png"/>
+    <logo>http://192.168.1Runtime%20Cl%C3%A1sicos.png</logo>
+  </channel>
+  <channel id="Runtime_Familia">
+    <display-name>Runtime Familia</display-name>
+    <icon src="http://192.168.1Runtime%20Familia.png"/>
+    <logo>http://192.168.1Runtime%20Familia.png</logo>
+  </channel>
+  <channel id="Runtime_Crimen">
+    <display-name>Runtime Crimen</display-name>
+    <icon src="http://192.168.1Runtime%20Crimen.png"/>
+    <logo>http://192.168.1Runtime%20Crimen.png</logo>
+  </channel>
+  <channel id="Runtime_Acción">
+    <display-name>Runtime Acción</display-name>
+    <icon src="http://192.168.1Runtime%20Acci%C3%B3n.png"/>
+    <logo>http://192.168.1Runtime%20Acci%C3%B3n.png</logo>
+  </channel>
+  <channel id="Runtime_Series">
+    <display-name>Runtime Series</display-name>
+    <icon src="http://192.168.1Runtime%20Series.png"/>
+    <logo>http://192.168.1Runtime%20Series.png</logo>
+  </channel>
+  <channel id="Runtime_Romance">
+    <display-name>Runtime Romance</display-name>
+    <icon src="http://192.168.1Runtime%20Romance.png"/>
+    <logo>http://192.168.1Runtime%20Romance.png</logo>
+  </channel>
+  <channel id="Runtime_Comedia">
+    <display-name>Runtime Comedia</display-name>
+    <icon src="http://192.168.1Runtime%20Comedia.png"/>
+    <logo>http://192.168.1Runtime%20Comedia.png</logo>
+  </channel>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Anime_Visión">
+    <title lang="es">Emisión Anime Visión en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Anime_Visión_Classics">
+    <title lang="es">Emisión Anime Visión Classics en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Yu-Gi-Oh!">
+    <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Beyblade_FAST">
+    <title lang="es">Emisión Beyblade en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Pocoyó_y_Más">
+    <title lang="es">Emisión Pocoyó y Más en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Águila_Roja_FAST">
+    <title lang="es">Emisión Águila Roja en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Curro_Jiménez_FAST">
+    <title lang="es">Emisión Curro Jiménez en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Ana_y_los_7_FAST">
+    <title lang="es">Emisión Ana y los 7 en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Cines_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Cine_Feel_Good_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime">
+    <title lang="es">El tren de las 3:10</title>
+    <desc lang="es">Un ranchero endeudado acepta escoltar a un peligroso forajido hacia el tren que lo llevará a la justicia. Un western magistral de suspense.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Thriller_+_Terror">
+    <title lang="es">La hufrfana</title>
+    <desc lang="es">Una pareja que acaba de perder a su bebé adopta a una niña de nueve años que no es tan inocente como aparenta en su nuevo hogar.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_A_Sangre_Fría">
+    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Clásicos">
+    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Familia">
+    <title lang="es">Grandes Éxitos de Runtime Familia</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Crimen">
+    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Acción">
+    <title lang="es">Mercenarios de élite</title>
+    <desc lang="es">Bruce Willis interpreta a un multimillonario tecnológico cuyo grupo de mercenarios debe rescatar a su hija secuestrada.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Series">
+    <title lang="es">Grandes Éxitos de Runtime Series</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Romance">
+    <title lang="es">Un amor inolvidable</title>
+    <desc lang="es">Una apasionante historia romántica donde el destino cruza las vidas de dos personas con pasados difíciles que se curan mutuamente.</desc>
+  </programme>
+  <programme start="20260530000000 +0200" stop="20260530030000 +0200" channel="Runtime_Comedia">
+    <title lang="es">Un golpe brillante</title>
+    <desc lang="es">Pierce Brosnan y Emma Thompson interpretan a una pareja divorciada que planea robar un diamante para recuperar sus pensiones robadas.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Anime_Visión">
+    <title lang="es">Emisión Anime Visión en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Anime_Visión_Classics">
+    <title lang="es">Emisión Anime Visión Classics en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Yu-Gi-Oh!">
+    <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Beyblade_FAST">
+    <title lang="es">Emisión Beyblade en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Pocoyó_y_Más">
+    <title lang="es">Emisión Pocoyó y Más en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Águila_Roja_FAST">
+    <title lang="es">Emisión Águila Roja en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Curro_Jiménez_FAST">
+    <title lang="es">Emisión Curro Jiménez en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Ana_y_los_7_FAST">
+    <title lang="es">Emisión Ana y los 7 en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Cines_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Cine_Feel_Good_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime">
+    <title lang="es">Valkiria</title>
+    <desc lang="es">Tom Cruise protagoniza la historia real del complot militar alemán para asesinar a Adolf Hitler durante la Segunda Guerra Mundial.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Thriller_+_Terror">
+    <title lang="es">Sin frenos</title>
+    <desc lang="es">Un mensajero ciclista de Nueva York es perseguido por un policía corrupto que intenta arrebatarle desesperadamente un sobre misterioso.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_A_Sangre_Fría">
+    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Clásicos">
+    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Familia">
+    <title lang="es">Grandes Éxitos de Runtime Familia</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Crimen">
+    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Acción">
+    <title lang="es">El protector</title>
+    <desc lang="es">Jason Statham es un exagente de la DEA que se muda a un pueblo tranquilo pero termina enfrentándose a una violenta banda local.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Series">
+    <title lang="es">Grandes Éxitos de Runtime Series</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Romance">
+    <title lang="es">Postdata: Te amo</title>
+    <desc lang="es">Una viuda joven descubre que su difunto esposo le ha dejado una serie de cartas destinadas a guiarla para rehacer su vida emocional.</desc>
+  </programme>
+  <programme start="20260530030000 +0200" stop="20260530060000 +0200" channel="Runtime_Comedia">
+    <title lang="es">Cosas que hacer antes de morir</title>
+    <desc lang="es">Un grupo de amigos se reúne tras la muerte de uno de ellos y deciden cumplir las últimas promesas divertidas de su lista.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Anime_Visión">
+    <title lang="es">Emisión Anime Visión en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Anime_Visión_Classics">
+    <title lang="es">Emisión Anime Visión Classics en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Yu-Gi-Oh!">
+    <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Beyblade_FAST">
+    <title lang="es">Emisión Beyblade en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Pocoyó_y_Más">
+    <title lang="es">Emisión Pocoyó y Más en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Águila_Roja_FAST">
+    <title lang="es">Emisión Águila Roja en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Curro_Jiménez_FAST">
+    <title lang="es">Emisión Curro Jiménez en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Ana_y_los_7_FAST">
+    <title lang="es">Emisión Ana y los 7 en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Cines_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Cine_Feel_Good_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime">
+    <title lang="es">El tren de las 3:10</title>
+    <desc lang="es">Un ranchero endeudado acepta escoltar a un peligroso forajido hacia el tren que lo llevará a la justicia. Un western magistral de suspense.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Thriller_+_Terror">
+    <title lang="es">La hufrfana</title>
+    <desc lang="es">Una pareja que acaba de perder a su bebé adopta a una niña de nueve años que no es tan inocente como aparenta en su nuevo hogar.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_A_Sangre_Fría">
+    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Clásicos">
+    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Familia">
+    <title lang="es">Grandes Éxitos de Runtime Familia</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Crimen">
+    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Acción">
+    <title lang="es">Mercenarios de élite</title>
+    <desc lang="es">Bruce Willis interpreta a un multimillonario tecnológico cuyo grupo de mercenarios debe rescatar a su hija secuestrada.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Series">
+    <title lang="es">Grandes Éxitos de Runtime Series</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Romance">
+    <title lang="es">Un amor inolvidable</title>
+    <desc lang="es">Una apasionante historia romántica donde el destino cruza las vidas de dos personas con pasados difíciles que se curan mutuamente.</desc>
+  </programme>
+  <programme start="20260530060000 +0200" stop="20260530090000 +0200" channel="Runtime_Comedia">
+    <title lang="es">Un golpe brillante</title>
+    <desc lang="es">Pierce Brosnan y Emma Thompson interpretan a una pareja divorciada que planea robar un diamante para recuperar sus pensiones robadas.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Anime_Visión">
+    <title lang="es">Emisión Anime Visión en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Anime_Visión_Classics">
+    <title lang="es">Emisión Anime Visión Classics en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Yu-Gi-Oh!">
+    <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Beyblade_FAST">
+    <title lang="es">Emisión Beyblade en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Pocoyó_y_Más">
+    <title lang="es">Emisión Pocoyó y Más en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Águila_Roja_FAST">
+    <title lang="es">Emisión Águila Roja en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Curro_Jiménez_FAST">
+    <title lang="es">Emisión Curro Jiménez en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Ana_y_los_7_FAST">
+    <title lang="es">Emisión Ana y los 7 en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Cines_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Cine_Feel_Good_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime">
+    <title lang="es">Valkiria</title>
+    <desc lang="es">Tom Cruise protagoniza la historia real del complot militar alemán para asesinar a Adolf Hitler durante la Segunda Guerra Mundial.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Thriller_+_Terror">
+    <title lang="es">Sin frenos</title>
+    <desc lang="es">Un mensajero ciclista de Nueva York es perseguido por un policía corrupto que intenta arrebatarle desesperadamente un sobre misterioso.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_A_Sangre_Fría">
+    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Clásicos">
+    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Familia">
+    <title lang="es">Grandes Éxitos de Runtime Familia</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Crimen">
+    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Acción">
+    <title lang="es">El protector</title>
+    <desc lang="es">Jason Statham es un exagente de la DEA que se muda a un pueblo tranquilo pero termina enfrentándose a una violenta banda local.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Series">
+    <title lang="es">Grandes Éxitos de Runtime Series</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Romance">
+    <title lang="es">Postdata: Te amo</title>
+    <desc lang="es">Una viuda joven descubre que su difunto esposo le ha dejado una serie de cartas destinadas a guiarla para rehacer su vida emocional.</desc>
+  </programme>
+  <programme start="20260530090000 +0200" stop="20260530120000 +0200" channel="Runtime_Comedia">
+    <title lang="es">Cosas que hacer antes de morir</title>
+    <desc lang="es">Un grupo de amigos se reúne tras la muerte de uno de ellos y deciden cumplir las últimas promesas divertidas de su lista.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Anime_Visión">
+    <title lang="es">Emisión Anime Visión en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Anime_Visión_Classics">
+    <title lang="es">Emisión Anime Visión Classics en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Yu-Gi-Oh!">
+    <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Beyblade_FAST">
+    <title lang="es">Emisión Beyblade en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Pocoyó_y_Más">
+    <title lang="es">Emisión Pocoyó y Más en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Águila_Roja_FAST">
+    <title lang="es">Emisión Águila Roja en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Curro_Jiménez_FAST">
+    <title lang="es">Emisión Curro Jiménez en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Ana_y_los_7_FAST">
+    <title lang="es">Emisión Ana y los 7 en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Cines_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Cine_Feel_Good_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime">
+    <title lang="es">El tren de las 3:10</title>
+    <desc lang="es">Un ranchero endeudado acepta escoltar a un peligroso forajido hacia el tren que lo llevará a la justicia. Un western magistral de suspense.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Thriller_+_Terror">
+    <title lang="es">La hufrfana</title>
+    <desc lang="es">Una pareja que acaba de perder a su bebé adopta a una niña de nueve años que no es tan inocente como aparenta en su nuevo hogar.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_A_Sangre_Fría">
+    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Clásicos">
+    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Familia">
+    <title lang="es">Grandes Éxitos de Runtime Familia</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Crimen">
+    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Acción">
+    <title lang="es">Mercenarios de élite</title>
+    <desc lang="es">Bruce Willis interpreta a un multimillonario tecnológico cuyo grupo de mercenarios debe rescatar a su hija secuestrada.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Series">
+    <title lang="es">Grandes Éxitos de Runtime Series</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Romance">
+    <title lang="es">Un amor inolvidable</title>
+    <desc lang="es">Una apasionante historia romántica donde el destino cruza las vidas de dos personas con pasados difíciles que se curan mutuamente.</desc>
+  </programme>
+  <programme start="20260530120000 +0200" stop="20260530150000 +0200" channel="Runtime_Comedia">
+    <title lang="es">Un golpe brillante</title>
+    <desc lang="es">Pierce Brosnan y Emma Thompson interpretan a una pareja divorciada que planea robar un diamante para recuperar sus pensiones robadas.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Anime_Visión">
+    <title lang="es">Emisión Anime Visión en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Anime_Visión_Classics">
+    <title lang="es">Emisión Anime Visión Classics en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Yu-Gi-Oh!">
+    <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Beyblade_FAST">
+    <title lang="es">Emisión Beyblade en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Pocoyó_y_Más">
+    <title lang="es">Emisión Pocoyó y Más en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Águila_Roja_FAST">
+    <title lang="es">Emisión Águila Roja en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Curro_Jiménez_FAST">
+    <title lang="es">Emisión Curro Jiménez en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Ana_y_los_7_FAST">
+    <title lang="es">Emisión Ana y los 7 en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Cines_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Cine_Feel_Good_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime">
+    <title lang="es">Valkiria</title>
+    <desc lang="es">Tom Cruise protagoniza la historia real del complot militar alemán para asesinar a Adolf Hitler durante la Segunda Guerra Mundial.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Thriller_+_Terror">
+    <title lang="es">Sin frenos</title>
+    <desc lang="es">Un mensajero ciclista de Nueva York es perseguido por un policía corrupto que intenta arrebatarle desesperadamente un sobre misterioso.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_A_Sangre_Fría">
+    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Clásicos">
+    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Familia">
+    <title lang="es">Grandes Éxitos de Runtime Familia</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Crimen">
+    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Acción">
+    <title lang="es">El protector</title>
+    <desc lang="es">Jason Statham es un exagente de la DEA que se muda a un pueblo tranquilo pero termina enfrentándose a una violenta banda local.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Series">
+    <title lang="es">Grandes Éxitos de Runtime Series</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Romance">
+    <title lang="es">Postdata: Te amo</title>
+    <desc lang="es">Una viuda joven descubre que su difunto esposo le ha dejado una serie de cartas destinadas a guiarla para rehacer su vida emocional.</desc>
+  </programme>
+  <programme start="20260530150000 +0200" stop="20260530180000 +0200" channel="Runtime_Comedia">
+    <title lang="es">Cosas que hacer antes de morir</title>
+    <desc lang="es">Un grupo de amigos se reúne tras la muerte de uno de ellos y deciden cumplir las últimas promesas divertidas de su lista.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Anime_Visión">
+    <title lang="es">Emisión Anime Visión en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Anime_Visión_Classics">
+    <title lang="es">Emisión Anime Visión Classics en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Yu-Gi-Oh!">
+    <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Beyblade_FAST">
+    <title lang="es">Emisión Beyblade en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Pocoyó_y_Más">
+    <title lang="es">Emisión Pocoyó y Más en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Águila_Roja_FAST">
+    <title lang="es">Emisión Águila Roja en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Curro_Jiménez_FAST">
+    <title lang="es">Emisión Curro Jiménez en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Ana_y_los_7_FAST">
+    <title lang="es">Emisión Ana y los 7 en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Cines_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Cine_Feel_Good_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime">
+    <title lang="es">El tren de las 3:10</title>
+    <desc lang="es">Un ranchero endeudado acepta escoltar a un peligroso forajido hacia el tren que lo llevará a la justicia. Un western magistral de suspense.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Thriller_+_Terror">
+    <title lang="es">La hufrfana</title>
+    <desc lang="es">Una pareja que acaba de perder a su bebé adopta a una niña de nueve años que no es tan inocente como aparenta en su nuevo hogar.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_A_Sangre_Fría">
+    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Clásicos">
+    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Familia">
+    <title lang="es">Grandes Éxitos de Runtime Familia</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Crimen">
+    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Acción">
+    <title lang="es">Mercenarios de élite</title>
+    <desc lang="es">Bruce Willis interpreta a un multimillonario tecnológico cuyo grupo de mercenarios debe rescatar a su hija secuestrada.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Series">
+    <title lang="es">Grandes Éxitos de Runtime Series</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Romance">
+    <title lang="es">Un amor inolvidable</title>
+    <desc lang="es">Una apasionante historia romántica donde el destino cruza las vidas de dos personas con pasados difíciles que se curan mutuamente.</desc>
+  </programme>
+  <programme start="20260530180000 +0200" stop="20260530210000 +0200" channel="Runtime_Comedia">
+    <title lang="es">Un golpe brillante</title>
+    <desc lang="es">Pierce Brosnan y Emma Thompson interpretan a una pareja divorciada que planea robar un diamante para recuperar sus pensiones robadas.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Anime_Visión">
+    <title lang="es">Emisión Anime Visión en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Anime_Visión_Classics">
+    <title lang="es">Emisión Anime Visión Classics en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Anime Visión Classics.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Yu-Gi-Oh!">
+    <title lang="es">Emisión Yu-Gi-Oh! en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Yu-Gi-Oh!.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Beyblade_FAST">
+    <title lang="es">Emisión Beyblade en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Beyblade.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Pocoyó_y_Más">
+    <title lang="es">Emisión Pocoyó y Más en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Pocoyó y Más.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Águila_Roja_FAST">
+    <title lang="es">Emisión Águila Roja en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Águila Roja.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Curro_Jiménez_FAST">
+    <title lang="es">Emisión Curro Jiménez en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Curro Jiménez.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Ana_y_los_7_FAST">
+    <title lang="es">Emisión Ana y los 7 en Directo</title>
+    <desc lang="es">Señal de televisión gratuita en abierto. Disfruta de la programación continua del canal Ana y los 7.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Cines_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cines Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cines Verdi TV.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Cine_Feel_Good_Verdi_TV">
+    <title lang="es">Grandes Éxitos de Cine Feel Good Verdi TV</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Cine Feel Good Verdi TV.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime">
+    <title lang="es">Valkiria</title>
+    <desc lang="es">Tom Cruise protagoniza la historia real del complot militar alemán para asesinar a Adolf Hitler durante la Segunda Guerra Mundial.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Thriller_+_Terror">
+    <title lang="es">Sin frenos</title>
+    <desc lang="es">Un mensajero ciclista de Nueva York es perseguido por un policía corrupto que intenta arrebatarle desesperadamente un sobre misterioso.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_A_Sangre_Fría">
+    <title lang="es">Grandes Éxitos de Runtime A Sangre Fría</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime A Sangre Fría.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Clásicos">
+    <title lang="es">Grandes Éxitos de Runtime Clásicos</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Clásicos.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Familia">
+    <title lang="es">Grandes Éxitos de Runtime Familia</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Familia.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Crimen">
+    <title lang="es">Grandes Éxitos de Runtime Crimen</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Crimen.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Acción">
+    <title lang="es">El protector</title>
+    <desc lang="es">Jason Statham es un exagente de la DEA que se muda a un pueblo tranquilo pero termina enfrentándose a una violenta banda local.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Series">
+    <title lang="es">Grandes Éxitos de Runtime Series</title>
+    <desc lang="es">Emisión continua de grandes largometrajes, cine independiente y cine de autor en Runtime Series.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Romance">
+    <title lang="es">Postdata: Te amo</title>
+    <desc lang="es">Una viuda joven descubre que su difunto esposo le ha dejado una serie de cartas destinadas a guiarla para rehacer su vida emocional.</desc>
+  </programme>
+  <programme start="20260530210000 +0200" stop="20260531000000 +0200" channel="Runtime_Comedia">
+    <title lang="es">Cosas que hacer antes de morir</title>
+    <desc lang="es">Un grupo de amigos se reúne tras la muerte de uno de ellos y deciden cumplir las últimas promesas divertidas de su lista.</desc>
+  </programme>
+</tv>
