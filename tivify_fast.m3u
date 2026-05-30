@@ -1,25 +1,25 @@
 #EXTM3U x-tvg-url="http://192.168.1.98:8080/tivify_fast_epg.xml"
 
 #EXTINF:-1 tvg-id="Qwest_TV" tvg-name="Qwest TV" tvg-logo="http://192.168.1.98:8080/logos/Qwest%20TV.png" group-title="Tivify FAST",Qwest TV
-https://amg00447-amg00447c1-tivify-international-5977.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00447-qwesttvfast-qwesttv-tivifyinternational/playlist.m3u8
+https://amagi.tvts-eu-w1-n2/playlist/amg00447-qwesttvfast-qwesttv-tivifyinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Stingray_Classica" tvg-name="Stingray Classica" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Classica.png" group-title="Tivify FAST",Stingray Classica
-https://daiconnect.com/live/hls/tvup/classica-tvfy/.m3u8
+https://daiconnect.com
 
-#EXTINF:-1 tvg-id="Greatest_Hits" tvg-name="Greatest Hits" tvg-logo="http://192.168.1.98:8080/logos/Runtime.png" group-title="Tivify FAST",Greatest Hits
-https://greatesthits-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-id="Greatest_Hits" tvg-name="Greatest Hits" tvg-logo="http://192.168.1.98:8080/logos/NOW%2080s.png" group-title="Tivify FAST",Greatest Hits
+https://tcscdn.net
 
-#EXTINF:-1 tvg-id="Stingray_Easy_Listening" tvg-name="Stingray Easy Listening" tvg-logo="http://192.168.1.98:8080/logos/Runtime.png" group-title="Tivify FAST",Stingray Easy Listening
-https://easylistening-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-id="Stingray_Easy_Listening" tvg-name="Stingray Easy Listening" tvg-logo="http://192.168.1.98:8080/logos/NOW%2080s.png" group-title="Tivify FAST",Stingray Easy Listening
+https://tcscdn.net
 
-#EXTINF:-1 tvg-id="The_Spa" tvg-name="The Spa" tvg-logo="http://192.168.1.98:8080/logos/Runtime.png" group-title="Tivify FAST",The Spa
-https://thespa-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-id="The_Spa" tvg-name="The Spa" tvg-logo="http://192.168.1.98:8080/logos/NOW%2080s.png" group-title="Tivify FAST",The Spa
+https://tcscdn.net
 
 #EXTINF:-1 tvg-id="That's_80s" tvg-name="That's 80s" tvg-logo="http://192.168.1.98:8080/logos/that%27s%2080s.png" group-title="Tivify FAST",That's 80s
 https://now80s-tivify.ssai.tcscdn.net/playlist_0.m3u8
 
 #EXTINF:-1 tvg-id="Clips_Don't_Lie" tvg-name="Clips Don't Lie" tvg-logo="http://192.168.1.98:8080/logos/Clips%20Don%27t%20Lie.png" group-title="Tivify FAST",Clips Don't Lie
-https://amg01821-amg01821c28-tivify-international-8120.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-clipsdontlie-tivifyinternational/playlist.m3u8
+https://amagi.tvplaylist/amg01821-lovetvfast-clipsdontlie-tivifyinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Águila_Roja_FAST" tvg-name="Águila Roja FAST" tvg-logo="http://192.168.1.98:8080/logos/%C3%81guila%20Roja.png" group-title="Tivify FAST",Águila Roja FAST
 https://aguilaroja-tivify.ssai.tcscdn.net/master.m3u8
@@ -36,7 +36,7 @@ https://runtime-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="Runtime_Thriller_+_Terror" tvg-name="Runtime Thriller + Terror" tvg-logo="http://192.168.1.98:8080/logos/runtimethrillerterror.png" group-title="Tivify FAST",Runtime Thriller + Terror
 https://runtimethrillerterror-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Runtime_A_Sangre_Fría" tvg-name="Runtime A Sangre Fría" tvg-logo="http://192.168.1.98:8080/logos/Runtime.png" group-title="Tivify FAST",Runtime A Sangre Fría
+#EXTINF:-1 tvg-id="Runtime_A_Sangre_Fría" tvg-name="Runtime A Sangre Fría" tvg-logo="http://192.168.1.98:8080/logos/Runtime%20Acci%C3%B3n.png" group-title="Tivify FAST",Runtime A Sangre Fría
 https://runtimeasangrefria-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Runtime_Clásicos" tvg-name="Runtime Clásicos" tvg-logo="http://192.168.1.98:8080/logos/Runtime%20Cl%C3%A1sicos.png" group-title="Tivify FAST",Runtime Clásicos
@@ -115,11 +115,11 @@ https://planetadecine-tivify.ssai.tcscdn.net/master.m3u8
 https://pocoyo-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Historia_y_Vida" tvg-name="Historia y Vida" tvg-logo="http://192.168.1.98:8080/logos/Historia%20y%20Vida.png" group-title="Tivify FAST",Historia y Vida
-https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8
+https://amagi.tvplaylist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-id="The_Love_Planet" tvg-name="The Love Planet" tvg-logo="http://192.168.1.98:8080/logos/Runtime.png" group-title="Tivify FAST",The Love Planet
-https://amg01821-lovetv-amg01821c9-tivify-international-2006.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-tivifyinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="The_Love_Planet" tvg-name="The Love Planet" tvg-logo="http://192.168.1.98:8080/logos/Love%20the%20Planet.png" group-title="Tivify FAST",The Love Planet
+https://amagi.tv
 
-#EXTINF:-1 tvg-id="Stingray_Naturescape" tvg-name="Stingray Naturescape" tvg-logo="http://192.168.1.98:8080/logos/Runtime.png" group-title="Tivify FAST",Stingray Naturescape
-https://naturescape-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-id="Stingray_Naturescape" tvg-name="Stingray Naturescape" tvg-logo="http://192.168.1.98:8080/logos/Love%20the%20Planet.png" group-title="Tivify FAST",Stingray Naturescape
+https://tcscdn.net
 
