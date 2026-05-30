@@ -1,80 +1,80 @@
-#EXTM3U x-tvg-url="http://192.168.1"
+#EXTM3U x-tvg-url="http://192.168.1.98:8080"
 
-#EXTINF:-1 tvg-id="Anime_Visión" tvg-name="Anime Visión" tvg-logo="http://192.168.1Anime%20Visi%C3%B3n.png" group-title="Tivify FAST",Anime Visión
+#EXTINF:-1 tvg-id="Anime_Visión" tvg-name="Anime Visión" tvg-logo="http://192.168.1.98:8080/logos/Anime%20Visi%C3%B3n.png" group-title="Tivify FAST",Anime Visión
 https://animevisionclassics-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Yu-Gi-Oh!" tvg-name="Yu-Gi-Oh!" tvg-logo="http://192.168.1Yu-Gi-Oh%21.png" group-title="Tivify FAST",Yu-Gi-Oh!
+#EXTINF:-1 tvg-id="Yu-Gi-Oh!" tvg-name="Yu-Gi-Oh!" tvg-logo="http://192.168.1.98:8080/logos/Yu-Gi-Oh%21.png" group-title="Tivify FAST",Yu-Gi-Oh!
 https://yugioh-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Beyblade_FAST" tvg-name="Beyblade" tvg-logo="http://192.168.1Beyblade.png" group-title="Tivify FAST",Beyblade
+#EXTINF:-1 tvg-id="Beyblade_FAST" tvg-name="Beyblade" tvg-logo="http://192.168.1.98:8080/logos/Beyblade.png" group-title="Tivify FAST",Beyblade
 https://beyblade-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" tvg-logo="http://192.168.1Runtime.png" group-title="Tivify FAST",Runtime
+#EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" tvg-logo="http://192.168.1.98:8080/logos/Runtime.png" group-title="Tivify FAST",Runtime
 https://runtimecomedia-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Todo_Novelas" tvg-name="Todo Novelas" tvg-logo="http://192.168.1Todo%20Novelas.png" group-title="Tivify FAST",Todo Novelas
+#EXTINF:-1 tvg-id="Todo_Novelas" tvg-name="Todo Novelas" tvg-logo="http://192.168.1.98:8080/logos/Todo%20Novelas.png" group-title="Tivify FAST",Todo Novelas
 https://todonovelas-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Todo_Pasión" tvg-name="Todo Pasión" tvg-logo="http://192.168.1Todo%20Pasi%C3%B3n.png" group-title="Tivify FAST",Todo Pasión
+#EXTINF:-1 tvg-id="Todo_Pasión" tvg-name="Todo Pasión" tvg-logo="http://192.168.1.98:8080/logos/Todo%20Pasi%C3%B3n.png" group-title="Tivify FAST",Todo Pasión
 https://todopasion-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Cines_Verdi_TV" tvg-name="Cines Verdi TV" tvg-logo="http://192.168.1Cines%20Verdi.png" group-title="Tivify FAST",Cines Verdi TV
+#EXTINF:-1 tvg-id="Cines_Verdi_TV" tvg-name="Cines Verdi TV" tvg-logo="http://192.168.1.98:8080/logos/Cines%20Verdi.png" group-title="Tivify FAST",Cines Verdi TV
 https://cinesverdi-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Cine_Feel_Good_Verdi_TV" tvg-name="Cine Feel Good Verdi TV" tvg-logo="http://192.168.1Cinesfeelgoodverdi.png" group-title="Tivify FAST",Cine Feel Good Verdi TV
+#EXTINF:-1 tvg-id="Cine_Feel_Good_Verdi_TV" tvg-name="Cine Feel Good Verdi TV" tvg-logo="http://192.168.1.98:8080/logos/Cinesfeelgoodverdi.png" group-title="Tivify FAST",Cine Feel Good Verdi TV
 https://cinesfeelgood-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Qello_Concerts" tvg-name="Qello Concerts" tvg-logo="http://192.168.1Qello%20Concerts.png" group-title="Tivify FAST",Qello Concerts
+#EXTINF:-1 tvg-id="Qello_Concerts" tvg-name="Qello Concerts" tvg-logo="http://192.168.1.98:8080/logos/Qello%20Concerts.png" group-title="Tivify FAST",Qello Concerts
 https://qelloconcerts-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="That's_80s" tvg-name="That's 80s" tvg-logo="http://192.168.1that%27s%2080s.png" group-title="Tivify FAST",That's 80s
+#EXTINF:-1 tvg-id="That's_80s" tvg-name="That's 80s" tvg-logo="http://192.168.1.98:8080/logos/that%27s%2080s.png" group-title="Tivify FAST",That's 80s
 https://now80s-tivify.ssai.tcscdn.net/playlist_0.m3u8
 
-#EXTINF:-1 tvg-id="Clips_Don't_Lie" tvg-name="Clips Don't Lie" tvg-logo="http://192.168.1Clips%20Don%27t%20Lie.png" group-title="Tivify FAST",Clips Don't Lie
+#EXTINF:-1 tvg-id="Clips_Don't_Lie" tvg-name="Clips Don't Lie" tvg-logo="http://192.168.1.98:8080/logos/Clips%20Don%27t%20Lie.png" group-title="Tivify FAST",Clips Don't Lie
 https://amg01821-amg01821c28-tivify-international-8120.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-clipsdontlie-tivifyinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Movie_Music" tvg-name="Movie Music" tvg-logo="http://192.168.1Movie%20Music.png" group-title="Tivify FAST",Movie Music
+#EXTINF:-1 tvg-id="Movie_Music" tvg-name="Movie Music" tvg-logo="http://192.168.1.98:8080/logos/Movie%20Music.png" group-title="Tivify FAST",Movie Music
 https://moviemusic-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Oficios_Perdidos" tvg-name="Oficios Perdidos" tvg-logo="http://192.168.1Oficios%20Perdidos.png" group-title="Tivify FAST",Oficios Perdidos
+#EXTINF:-1 tvg-id="Oficios_Perdidos" tvg-name="Oficios Perdidos" tvg-logo="http://192.168.1.98:8080/logos/Oficios%20Perdidos.png" group-title="Tivify FAST",Oficios Perdidos
 https://oficiosperdidos-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Motorvision_TV" tvg-name="Motorvision TV" tvg-logo="http://192.168.1Motorvision%20TV.png" group-title="Tivify FAST",Motorvision TV
+#EXTINF:-1 tvg-id="Motorvision_TV" tvg-name="Motorvision TV" tvg-logo="http://192.168.1.98:8080/logos/Motorvision%20TV.png" group-title="Tivify FAST",Motorvision TV
 https://motorvision-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Águila_Roja_FAST" tvg-name="Águila Roja" tvg-logo="http://192.168.1%C3%81guila%20Roja.png" group-title="Tivify FAST",Águila Roja
+#EXTINF:-1 tvg-id="Águila_Roja_FAST" tvg-name="Águila Roja" tvg-logo="http://192.168.1.98:8080/logos/%C3%81guila%20Roja.png" group-title="Tivify FAST",Águila Roja
 https://aguilaroja-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Curro_Jiménez_FAST" tvg-name="Curro Jiménez" tvg-logo="http://192.168.1Curro%20Jim%C3%A9nez.png" group-title="Tivify FAST",Curro Jiménez
+#EXTINF:-1 tvg-id="Curro_Jiménez_FAST" tvg-name="Curro Jiménez" tvg-logo="http://192.168.1.98:8080/logos/Curro%20Jim%C3%A9nez.png" group-title="Tivify FAST",Curro Jiménez
 https://currojimenez-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Ana_y_los_7_FAST" tvg-name="Ana y los 7" tvg-logo="http://192.168.1Ana%20y%20los%207.png" group-title="Tivify FAST",Ana y los 7
+#EXTINF:-1 tvg-id="Ana_y_los_7_FAST" tvg-name="Ana y los 7" tvg-logo="http://192.168.1.98:8080/logos/Ana%20y%20los%207.png" group-title="Tivify FAST",Ana y los 7
 https://anaylos7-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Pocoyó_y_Más" tvg-name="Pocoyó y Más" tvg-logo="http://192.168.1pocoyoymas.png" group-title="Tivify FAST",Pocoyó y Más
+#EXTINF:-1 tvg-id="Pocoyó_y_Más" tvg-name="Pocoyó y Más" tvg-logo="http://192.168.1.98:8080/logos/pocoyoymas.png" group-title="Tivify FAST",Pocoyó y Más
 https://pocoyo-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Historia_y_Vida" tvg-name="Historia y Vida" tvg-logo="http://192.168.1Historia%20y%20Vida.png" group-title="Tivify FAST",Historia y Vida
+#EXTINF:-1 tvg-id="Historia_y_Vida" tvg-name="Historia y Vida" tvg-logo="http://192.168.1.98:8080/logos/Historia%20y%20Vida.png" group-title="Tivify FAST",Historia y Vida
 https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Qwest_TV" tvg-name="Qwest TV" tvg-logo="http://192.168.1Qwest%20TV.png" group-title="Tivify FAST",Qwest TV
+#EXTINF:-1 tvg-id="Qwest_TV" tvg-name="Qwest TV" tvg-logo="http://192.168.1.98:8080/logos/Qwest%20TV.png" group-title="Tivify FAST",Qwest TV
 https://amg00447-amg00447c1-tivify-international-5977.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00447-qwesttvfast-qwesttv-tivifyinternational/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Stingray_Classica" tvg-name="Stingray Classica" tvg-logo="http://192.168.1Stingray%20Classica.png" group-title="Tivify FAST",Stingray Classica
+#EXTINF:-1 tvg-id="Stingray_Classica" tvg-name="Stingray Classica" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Classica.png" group-title="Tivify FAST",Stingray Classica
 https://daiconnect.com/live/hls/tvup/classica-tvfy/.m3u8
 
-#EXTINF:-1 tvg-id="Cine_Western" tvg-name="Cine Western" tvg-logo="http://192.168.1Cine%20Western.png" group-title="Tivify FAST",Cine Western
+#EXTINF:-1 tvg-id="Cine_Western" tvg-name="Cine Western" tvg-logo="http://192.168.1.98:8080/logos/Cine%20Western.png" group-title="Tivify FAST",Cine Western
 https://cinewestern-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Cine_Friki" tvg-name="Cine Friki" tvg-logo="http://192.168.1Cine%20Friki.png" group-title="Tivify FAST",Cine Friki
+#EXTINF:-1 tvg-id="Cine_Friki" tvg-name="Cine Friki" tvg-logo="http://192.168.1.98:8080/logos/Cine%20Friki.png" group-title="Tivify FAST",Cine Friki
 https://cinefriki-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Film_&_Co" tvg-name="Film & Co" tvg-logo="http://192.168.1Film%20%26%20Co.png" group-title="Tivify FAST",Film & Co
+#EXTINF:-1 tvg-id="Film_&_Co" tvg-name="Film & Co" tvg-logo="http://192.168.1.98:8080/logos/Film%20%26%20Co.png" group-title="Tivify FAST",Film & Co
 https://filmandco-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Planeta_de_Cine" tvg-name="Planeta de Cine" tvg-logo="http://192.168.1Planeta%20de%20Cine.png" group-title="Tivify FAST",Planeta de Cine
+#EXTINF:-1 tvg-id="Planeta_de_Cine" tvg-name="Planeta de Cine" tvg-logo="http://192.168.1.98:8080/logos/Planeta%20de%20Cine.png" group-title="Tivify FAST",Planeta de Cine
 https://planetadecine-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Inglés_Total" tvg-name="Inglés Total" tvg-logo="http://192.168.1Ingl%C3%A9s%20Total.png" group-title="Tivify FAST",Inglés Total
+#EXTINF:-1 tvg-id="Inglés_Total" tvg-name="Inglés Total" tvg-logo="http://192.168.1.98:8080/logos/Ingl%C3%A9s%20Total.png" group-title="Tivify FAST",Inglés Total
 https://inglestotal-tivify.ssai.tcscdn.net/master.m3u8
 
