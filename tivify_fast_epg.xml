@@ -1,535 +1,135 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Runtime">
-    <display-name lang="es">Runtime</display-name>
+  <channel id="Qwest_TV">
+    <display-name lang="es">Qwest TV</display-name>
     <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Runtime_Crimen">
-    <display-name lang="es">Runtime Crimen</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Runtime_Acción">
-    <display-name lang="es">Runtime Acción</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Runtime_Romance">
-    <display-name lang="es">Runtime Romance</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Runtime_Clásicos">
-    <display-name lang="es">Runtime Clásicos</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Runtime_Thriller_+_Terror">
-    <display-name lang="es">Runtime Thriller Terror</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Runtime_Comedia">
-    <display-name lang="es">Runtime Comedia</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Runtime_Series">
-    <display-name lang="es">Runtime Series</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Cines_Verdi_TV">
-    <display-name lang="es">Cines Verdi TV</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Cine_Feel_Good_Verdi_TV">
-    <display-name lang="es">Cine Feel Good Verdi TV</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Curro_Jiménez_FAST">
-    <display-name lang="es">Curro Jiménez</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Ana_y_los_7_FAST">
-    <display-name lang="es">Ana y los 7</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Motorvision_TV">
-    <display-name lang="es">Motorvision TV</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Historia_y_Vida">
-    <display-name lang="es">Historia</display-name>
-    <url>http://www.tivify.tv</url>
-  </channel>
-  <channel id="Águila_Roja_FAST">
-    <display-name lang="en">Águila Roja</display-name>
-    <url>http://www.rakuten.tv</url>
-  </channel>
-  <channel id="Yu-Gi-Oh!">
-    <display-name lang="en">Yu-Gi-Oh!</display-name>
-    <url>http://www.rakuten.tv</url>
-  </channel>
-  <channel id="Anime_Visión">
-    <display-name lang="es">Anime Visión</display-name>
-    <url>http://www.orange.es</url>
-  </channel>
-  <channel id="Anime_Visión_Classics">
-    <display-name lang="es">Anime Visión Classics</display-name>
-    <url>http://www.orange.es</url>
-  </channel>
-  <channel id="Beyblade_FAST">
-    <display-name lang="es">Beyblade FAST</display-name>
-    <url>http://www.orange.es</url>
-  </channel>
-  <channel id="Pocoyó_y_Más">
-    <display-name lang="es">Pocoyó</display-name>
-    <url>http://www.orange.es</url>
-  </channel>
-  <channel id="Qello_Concerts">
-    <display-name lang="es">Qello Concerts</display-name>
-    <url>http://www.orange.es</url>
   </channel>
   <channel id="Stingray_Classica">
     <display-name lang="es">Stingray Classica</display-name>
-    <url>http://www.orange.es</url>
+    <url>http://www.tivify.tv</url>
   </channel>
-  <channel id="Greatest_Hits">
-    <display-name lang="es">Greatest Hits</display-name>
-    <url>http://www.orange.es</url>
-  </channel>
-  <channel id="Stingray_Easy_Listening">
-    <display-name lang="es">Easy Listening</display-name>
-    <url>http://www.orange.es</url>
-  </channel>
-  <channel id="The_Spa">
-    <display-name lang="es">The Spa</display-name>
-    <url>http://www.orange.es</url>
-  </channel>
-  <channel id="Movie_Music">
-    <display-name lang="es">Movie Music</display-name>
-    <url>http://www.orange.es</url>
-  </channel>
-  <channel id="Stingray_Naturescape">
-    <display-name lang="es">Naturescape</display-name>
-    <url>http://www.orange.es</url>
-  </channel>
-  <programme start="20260531000000 +0000" stop="20260531013805 +0000" channel="Runtime">
-    <title lang="es">The Quest: En busca de la ciudad perdida</title>
-    <desc lang="es">Un grupo de soldados de fortuna visita una legendaria "Ciudad Perdida", ubicada en el Tíbet. Planean robar una estatua invaluable.(n)</desc>
-  </programme>
-  <programme start="20260531013805 +0000" stop="20260531034631 +0000" channel="Runtime">
-    <title lang="es">Las Seductoras</title>
-    <desc lang="es">Max y su hija Page son dos timadoras profesionales que utilizan sus dotes de seducción para estafar a millonarios. Pero, en una ocasión, mientras Max intenta embaucar a un excéntrico magnate del tabaco, Page conoce a un simpático chico y se enamora de él.(n)</desc>
-  </programme>
-  <programme start="20260531034631 +0000" stop="20260531040617 +0000" channel="Runtime">
-    <title lang="es">Los Hijos de Allen Funt</title>
-    <desc lang="es">Entre las paredes de una habitación blanca, cinco personas viven confinadas. A diario, son obligadas a participar en una votación que permitirá al ganador lograr la recompensa prometida de salir al exterior. Uno de ellos tendrá la oportunidad de conseguirlo.(n)</desc>
-  </programme>
-  <programme start="20260531040617 +0000" stop="20260531061827 +0000" channel="Runtime">
-    <title lang="es">Reglas de Compromiso</title>
-    <desc lang="es">Un abogado defiende a un oficial acusado de ordenar a sus tropas a disparar a civiles después de que asaltaran la embajada de EE. UU. en un país de Oriente Medio.(n)</desc>
-  </programme>
-  <programme start="20260531061827 +0000" stop="20260531082312 +0000" channel="Runtime">
-    <title lang="es">El Puente de San Luis Rey</title>
-    <desc lang="es">Perú, siglo XVIII. La historia se desplaza desde los burdeles y los teatros de Lima a la majestuosa Corte de España, desde los palacios arzobispales peruanos a la Inquisición de Madrid. Cuando el puente de San Luis se rompe, cinco viajeros se precipitan al abismo. ¿Es el azar o la mano de Dios lo que reunió a estas cinco personas en ese lugar en ese momento fatídico? O, por el contrario, ¿fueron ellos mismos los responsables de lo que ocurrió?(n)</desc>
-  </programme>
-  <programme start="20260531082312 +0000" stop="20260531100000 +0000" channel="Runtime">
-    <title lang="es">The Quest: En busca de la ciudad perdida</title>
-    <desc lang="es">Un grupo de soldados de fortuna visita una legendaria "Ciudad Perdida", ubicada en el Tíbet. Planean robar una estatua invaluable.(n)</desc>
-  </programme>
-  <programme start="20260531100000 +0000" stop="20260531120826 +0000" channel="Runtime">
-    <title lang="es">Las Seductoras</title>
-    <desc lang="es">Max y su hija Page son dos timadoras profesionales que utilizan sus dotes de seducción para estafar a millonarios. Pero, en una ocasión, mientras Max intenta embaucar a un excéntrico magnate del tabaco, Page conoce a un simpático chico y se enamora de él.(n)</desc>
-  </programme>
-  <programme start="20260531120826 +0000" stop="20260531142036 +0000" channel="Runtime">
-    <title lang="es">Reglas de Compromiso</title>
-    <desc lang="es">Un abogado defiende a un oficial acusado de ordenar a sus tropas a disparar a civiles después de que asaltaran la embajada de EE. UU. en un país de Oriente Medio.(n)</desc>
-  </programme>
-  <programme start="20260531142036 +0000" stop="20260531162521 +0000" channel="Runtime">
-    <title lang="es">El Puente de San Luis Rey</title>
-    <desc lang="es">Perú, siglo XVIII. La historia se desplaza desde los burdeles y los teatros de Lima a la majestuosa Corte de España, desde los palacios arzobispales peruanos a la Inquisición de Madrid. Cuando el puente de San Luis se rompe, cinco viajeros se precipitan al abismo. ¿Es el azar o la mano de Dios lo que reunió a estas cinco personas en ese lugar en ese momento fatídico? O, por el contrario, ¿fueron ellos mismos los responsables de lo que ocurrió?(n)</desc>
-  </programme>
-  <programme start="20260531162521 +0000" stop="20260531182109 +0000" channel="Runtime">
-    <title lang="es">ReMine. El último movimiento obrero</title>
-    <desc lang="es">Más de cuatro mil mineros se declaran en paro indefinido contra los cortes impuestos por el gobierno.(n)</desc>
-  </programme>
-  <programme start="20260531182109 +0000" stop="20260531200000 +0000" channel="Runtime">
-    <title lang="es">The Quest: En busca de la ciudad perdida</title>
-    <desc lang="es">Un grupo de soldados de fortuna visita una legendaria "Ciudad Perdida", ubicada en el Tíbet. Planean robar una estatua invaluable.(n)</desc>
-  </programme>
-  <programme start="20260531200000 +0000" stop="20260531220445 +0000" channel="Runtime">
-    <title lang="es">El Puente de San Luis Rey</title>
-    <desc lang="es">Perú, siglo XVIII. La historia se desplaza desde los burdeles y los teatros de Lima a la majestuosa Corte de España, desde los palacios arzobispales peruanos a la Inquisición de Madrid. Cuando el puente de San Luis se rompe, cinco viajeros se precipitan al abismo. ¿Es el azar o la mano de Dios lo que reunió a estas cinco personas en ese lugar en ese momento fatídico? O, por el contrario, ¿fueron ellos mismos los responsables de lo que ocurrió?(n)</desc>
-  </programme>
-  <programme start="20260531220445 +0000" stop="20260601000000 +0000" channel="Runtime">
-    <title lang="es">ReMine. El último movimiento obrero</title>
-    <desc lang="es">Más de cuatro mil mineros se declaran en paro indefinido contra los cortes impuestos por el gobierno.(n)</desc>
-  </programme>
-  <programme start="20260601000000 +0000" stop="20260601014459 +0000" channel="Runtime">
-    <title lang="es">Siempre a tu lado Hachiko</title>
-    <desc lang="es">Basada en una historia real, la película narra la historia de amistad entre un profesor universitario (encarnado por Richard Gere) y Hachi, el perro de raza Akita que recoge perdido en una estación.(n)</desc>
-  </programme>
-  <programme start="20260601014459 +0000" stop="20260601033830 +0000" channel="Runtime">
-    <title lang="es">La Cornisa</title>
-    <desc lang="es">Tras haber tenido un tórrido romance con la mujer de un vecino (Liv Tyler), Gavin (Charlie Hunnam) está en la cornisa de un edificio de gran altura con la intención de saltar al vacío antes de mediodía. Un policía (Terrence Howard) intentará por todos los medios manejar la situación e impedir el suicidio de Gavin. 2011: Festival de Sundance, Nominada al Gran Premio del Jurado.(n)</desc>
-  </programme>
-  <programme start="20260601033830 +0000" stop="20260601044621 +0000" channel="Runtime">
-    <title lang="es">Diddy: La Caída El Monstruo</title>
-    <desc lang="es">El magnate del hip-hop caído en desgracia, Sean "Diddy" Combs, ya no pudo comprar su salida de los problemas cuando un gran jurado lo acusó en septiembre de 2024 de una conspiración de crimen organizado que incluía tráfico sexual, trabajo forzado y soborno. Sin fianza, iba a la cárcel.(n)</desc>
-  </programme>
-  <programme start="20260601044621 +0000" stop="20260601063153 +0000" channel="Runtime">
-    <title lang="es">Fuera de Combate</title>
-    <desc lang="es">Dirigida y protagonizada brillantemente por Paddy Considine. El boxeador Matty Burton vuelve a proclamarse ganador del mundo tras una dura pelea en la que recibe un fuerte golpe en la cabeza. Esto le provocará una importante lesión cerebral en la que, tras despertar del coma, no recordará nada. Matty y su familia se enfrentarán a la pelea más dura de sus vidas.(n)</desc>
-  </programme>
-  <programme start="20260601063153 +0000" stop="20260601081305 +0000" channel="Runtime">
-    <title lang="es">Animal</title>
-    <desc lang="es">Cuando James "Animal" James es encerrado en una prisión de máxima seguridad, conoce a un revolucionario que le cambia la vida. Ahora que se ha reformado, James es liberado sólo para descubrir que su propio hijo ha adoptado una vida de crimen y violencia.(n)</desc>
-  </programme>
-  <programme start="20260601081305 +0000" stop="20260601100000 +0000" channel="Runtime">
-    <title lang="es">Siempre a tu lado Hachiko</title>
-    <desc lang="es">Basada en una historia real, la película narra la historia de amistad entre un profesor universitario (encarnado por Richard Gere) y Hachi, el perro de raza Akita que recoge perdido en una estación.(n)</desc>
-  </programme>
-  <programme start="20260601100000 +0000" stop="20260601115031 +0000" channel="Runtime">
-    <title lang="es">La Cornisa</title>
-    <desc lang="es">Tras haber tenido un tórrido romance con la mujer de un vecino (Liv Tyler), Gavin (Charlie Hunnam) está en la cornisa de un edificio de gran altura con la intención de saltar al vacío antes de mediodía. Un policía (Terrence Howard) intentará por todos los medios manejar la situación e impedir el suicidio de Gavin. 2011: Festival de Sundance, Nominada al Gran Premio del Jurado.(n)</desc>
-  </programme>
-  <programme start="20260601115031 +0000" stop="20260601133303 +0000" channel="Runtime">
-    <title lang="es">Fuera de Combate</title>
-    <desc lang="es">Dirigida y protagonizada brillantemente por Paddy Considine. El boxeador Matty Burton vuelve a proclamarse ganador del mundo tras una dura pelea en la que recibe un fuerte golpe en la cabeza. Esto le provocará una importante lesión cerebral en la que, tras despertar del coma, no recordará nada. Matty y su familia se enfrentarán a la pelea más dura de sus vidas.(n)</desc>
-  </programme>
-  <programme start="20260601133303 +0000" stop="20260601151415 +0000" channel="Runtime">
-    <title lang="es">Animal</title>
-    <desc lang="es">Cuando James "Animal" James es encerrado en una prisión de máxima seguridad, conoce a un revolucionario que le cambia la vida. Ahora que se ha reformado, James es liberado sólo para descubrir que su propio hijo ha adoptado una vida de crimen y violencia.(n)</desc>
-  </programme>
-  <programme start="20260601151415 +0000" stop="20260601162406 +0000" channel="Runtime">
-    <title lang="es">Diddy: La Caída El Monstruo</title>
-    <desc lang="es">El magnate del hip-hop caído en desgracia, Sean "Diddy" Combs, ya no pudo comprar su salida de los problemas cuando un gran jurado lo acusó en septiembre de 2024 de una conspiración de crimen organizado que incluía tráfico sexual, trabajo forzado y soborno. Sin fianza, iba a la cárcel.(n)</desc>
-  </programme>
-  <programme start="20260601162406 +0000" stop="20260601181105 +0000" channel="Runtime">
-    <title lang="es">Siempre a tu lado Hachiko</title>
-    <desc lang="es">Basada en una historia real, la película narra la historia de amistad entre un profesor universitario (encarnado por Richard Gere) y Hachi, el perro de raza Akita que recoge perdido en una estación.(n)</desc>
-  </programme>
-  <programme start="20260601181105 +0000" stop="20260601200000 +0000" channel="Runtime">
-    <title lang="es">La Cornisa</title>
-    <desc lang="es">Tras haber tenido un tórrido romance con la mujer de un vecino (Liv Tyler), Gavin (Charlie Hunnam) está en la cornisa de un edificio de gran altura con la intención de saltar al vacío antes de mediodía. Un policía (Terrence Howard) intentará por todos los medios manejar la situación e impedir el suicidio de Gavin. 2011: Festival de Sundance, Nominada al Gran Premio del Jurado.(n)</desc>
-  </programme>
-  <programme start="20260601200000 +0000" stop="20260601214128 +0000" channel="Runtime">
-    <title lang="es">La Bahía Del Silencio</title>
-    <desc lang="es">La repentina desaparición de su esposa e hijos después del traumático nacimiento de su hijo lleva a Will a una búsqueda frenética por Europa para recuperar a su familia y reconstruir su vida. A medida que el misterio detrás de las acciones de su esposa lentamente comienza a tomar una forma oscura y amenazante, Will está decidido a buscar la verdad, sin importar el costo.(n)</desc>
-  </programme>
-  <programme start="20260601214128 +0000" stop="20260601232442 +0000" channel="Runtime">
-    <title lang="es">Red, Debieron decir la verdad...</title>
-    <desc lang="es">Basada en una novela de Jack Ketchum. El mejor amigo de un hombre mayor es su perro Red. Cuando tres adolescentes matan al perro sin razón, el hombre buscará justicia a toda costa.(n)</desc>
-  </programme>
-  <programme start="20260531000000 +0000" stop="20260531020353 +0000" channel="Runtime_Crimen">
-    <title lang="es">Blackjack</title>
-    <desc lang="es">Jack trabaja como guardaespaldas y se hacer cargo de Casey una niña hija de un amigo muerto en un accidente. Además Jack tendrá que velar por la seguridad de una supermodelo acosada por un psicópata.(n)</desc>
-  </programme>
-  <programme start="20260531020353 +0000" stop="20260531042836 +0000" channel="Runtime_Crimen">
-    <title lang="es">Cut Off</title>
-    <desc lang="es">Un médico forense descubre un mensaje en el cuerpo de una víctima que lo lleva a una carrera contrarreloj para salvar a su hija secuestrada.(n)</desc>
-  </programme>
-  <programme start="20260531042836 +0000" stop="20260531061338 +0000" channel="Runtime_Crimen">
-    <title lang="es">El Otro Barrio</title>
-    <desc lang="es">Roberto Morales investiga un incendio fatal y enfrenta asesinato, corrupción y una llama peligrosa de su pasado.(n)</desc>
-  </programme>
-  <programme start="20260531061338 +0000" stop="20260531081731 +0000" channel="Runtime_Crimen">
-    <title lang="es">Blackjack</title>
-    <desc lang="es">Jack trabaja como guardaespaldas y se hacer cargo de Casey una niña hija de un amigo muerto en un accidente. Además Jack tendrá que velar por la seguridad de una supermodelo acosada por un psicópata.(n)</desc>
-  </programme>
-  <programme start="20260531081731 +0000" stop="20260531101424 +0000" channel="Runtime_Crimen">
-    <title lang="es">Los Chicos de Scottsboro</title>
-    <desc lang="es">En 1931, un abogado defensor de Nueva York (Timothy Hutton) acude en ayuda de nueve hombres negros acusados ​​de violar a dos mujeres blancas en el sur.(n)</desc>
-  </programme>
-  <programme start="20260531101424 +0000" stop="20260531120000 +0000" channel="Runtime_Crimen">
-    <title lang="es">Una Pistola Para 100 Cruces</title>
-    <desc lang="es">Un irlandés es asesinado en el salvaje Oeste. Su hijo Jimmy sale en busca de los asesinos de su padre, pero pronto es emboscado por dos bandoleros.(n)</desc>
-  </programme>
-  <programme start="20260531120000 +0000" stop="20260531140353 +0000" channel="Runtime_Crimen">
-    <title lang="es">Blackjack</title>
-    <desc lang="es">Jack trabaja como guardaespaldas y se hacer cargo de Casey una niña hija de un amigo muerto en un accidente. Además Jack tendrá que velar por la seguridad de una supermodelo acosada por un psicópata.(n)</desc>
-  </programme>
-  <programme start="20260531140353 +0000" stop="20260531162836 +0000" channel="Runtime_Crimen">
-    <title lang="es">Cut Off</title>
-    <desc lang="es">Un médico forense descubre un mensaje en el cuerpo de una víctima que lo lleva a una carrera contrarreloj para salvar a su hija secuestrada.(n)</desc>
-  </programme>
-  <programme start="20260531162836 +0000" stop="20260531181338 +0000" channel="Runtime_Crimen">
-    <title lang="es">El Otro Barrio</title>
-    <desc lang="es">Roberto Morales investiga un incendio fatal y enfrenta asesinato, corrupción y una llama peligrosa de su pasado.(n)</desc>
-  </programme>
-  <programme start="20260531181338 +0000" stop="20260531201731 +0000" channel="Runtime_Crimen">
-    <title lang="es">Blackjack</title>
-    <desc lang="es">Jack trabaja como guardaespaldas y se hacer cargo de Casey una niña hija de un amigo muerto en un accidente. Además Jack tendrá que velar por la seguridad de una supermodelo acosada por un psicópata.(n)</desc>
-  </programme>
-  <programme start="20260531201731 +0000" stop="20260531221424 +0000" channel="Runtime_Crimen">
-    <title lang="es">Los Chicos de Scottsboro</title>
-    <desc lang="es">En 1931, un abogado defensor de Nueva York (Timothy Hutton) acude en ayuda de nueve hombres negros acusados ​​de violar a dos mujeres blancas en el sur.(n)</desc>
-  </programme>
-  <programme start="20260531221424 +0000" stop="20260601000000 +0000" channel="Runtime_Crimen">
-    <title lang="es">Una Pistola Para 100 Cruces</title>
-    <desc lang="es">Un irlandés es asesinado en el salvaje Oeste. Su hijo Jimmy sale en busca de los asesinos de su padre, pero pronto es emboscado por dos bandoleros.(n)</desc>
-  </programme>
-  <programme start="20260601000000 +0000" stop="20260601014305 +0000" channel="Runtime_Crimen">
-    <title lang="es">Doble Identidad</title>
-    <desc lang="es">Un médico estadounidense, que se encuentra en Chechenia por motivos laborales, es testigo de un asalto y ayuda a la joven víctima, una misteriosa mujer, a huir. Desde ese momento, su vida está en peligro y deberá ingeniárselas para sobrevivir en un país en el que no puede acudir a nadie en busca de ayuda.(n)</desc>
-  </programme>
-  <programme start="20260601014305 +0000" stop="20260601033548 +0000" channel="Runtime_Crimen">
-    <title lang="es">Faust, La Venganza Está En La Sangre</title>
-    <desc lang="es">Un hombre vende su alma al diablo para obtener superpoderes y vengar la brutal muerte de su novia. Al darse cuenta de que el precio es el alma de su nuevo interés amoroso, se vuelve contra el diablo.(n)</desc>
-  </programme>
-  <programme start="20260601033548 +0000" stop="20260601051728 +0000" channel="Runtime_Crimen">
-    <title lang="es">Becky</title>
-    <desc lang="es">Una adolescente debe defenderse y proteger a su familia cuando un grupo de convictos violentos invade su casa de vacaciones.(n)</desc>
-  </programme>
-  <programme start="20260601051728 +0000" stop="20260601071052 +0000" channel="Runtime_Crimen">
-    <title lang="es">Pena de Muerte</title>
-    <desc lang="es">Death Penalty es un documental sobre la serie de crímenes más emocionante registrada en la historia de Chile. Un grupo de asesinos psicópatas cometió asesinatos que aterrorizó a todo un país. La historia refleja la evolución de una mente criminal que se desarrolló y se manifestó durante el gobierno militar en los años 80.(n)</desc>
-  </programme>
-  <programme start="20260601071052 +0000" stop="20260601085109 +0000" channel="Runtime_Crimen">
-    <title lang="es">Los Cazarrecompensas</title>
-    <desc lang="es">No Name and Dynamite comienza cuando nos encontramos con la asociación de cazarrecompensas de No Name (Northup) y Dynamite Davenport (Ting), quienes siguen su propio camino para recolectar las recompensas, pero se ayudan mutuamente cuando se trata de las recompensas más desafiantes.(n)</desc>
-  </programme>
-  <programme start="20260601085109 +0000" stop="20260601102325 +0000" channel="Runtime_Crimen">
-    <title lang="es">Come Out Fighting</title>
-    <desc lang="es">Durante la Segunda Guerra Mundial, un escuadrón de soldados del ejército estadounidense es enviado a una misión detrás de las líneas para localizar a su oficial de mando desaparecido.(n)</desc>
-  </programme>
-  <programme start="20260601102325 +0000" stop="20260601120000 +0000" channel="Runtime_Crimen">
-    <title lang="es">Las dos vidas de Andrés Rabadán</title>
-    <desc lang="es">Andrés Rabadán vive en una cárcel psiquiátrica después de once años.(n)</desc>
-  </programme>
-  <programme start="20260601120000 +0000" stop="20260601135524 +0000" channel="Runtime_Crimen">
-    <title lang="es">Pena de Muerte</title>
-    <desc lang="es">Death Penalty es un documental sobre la serie de crímenes más emocionante registrada en la historia de Chile. Un grupo de asesinos psicópatas cometió asesinatos que aterrorizó a todo un país. La historia refleja la evolución de una mente criminal que se desarrolló y se manifestó durante el gobierno militar en los años 80.(n)</desc>
-  </programme>
-  <programme start="20260601135524 +0000" stop="20260601153718 +0000" channel="Runtime_Crimen">
-    <title lang="es">Los Cazarrecompensas</title>
-    <desc lang="es">No Name and Dynamite comienza cuando nos encontramos con la asociación de cazarrecompensas de No Name (Northup) y Dynamite Davenport (Ting), quienes siguen su propio camino para recolectar las recompensas, pero se ayudan mutuamente cuando se trata de las recompensas más desafiantes.(n)</desc>
-  </programme>
-  <programme start="20260601153718 +0000" stop="20260601172801 +0000" channel="Runtime_Crimen">
-    <title lang="es">Faust, La Venganza Está En La Sangre</title>
-    <desc lang="es">Un hombre vende su alma al diablo para obtener superpoderes y vengar la brutal muerte de su novia. Al darse cuenta de que el precio es el alma de su nuevo interés amoroso, se vuelve contra el diablo.(n)</desc>
-  </programme>
-  <programme start="20260601172801 +0000" stop="20260601190017 +0000" channel="Runtime_Crimen">
-    <title lang="es">Come Out Fighting</title>
-    <desc lang="es">Durante la Segunda Guerra Mundial, un escuadrón de soldados del ejército estadounidense es enviado a una misión detrás de las líneas para localizar a su oficial de mando desaparecido.(n)</desc>
-  </programme>
-  <programme start="20260601190017 +0000" stop="20260601203627 +0000" channel="Runtime_Crimen">
-    <title lang="es">Las dos vidas de Andrés Rabadán</title>
-    <desc lang="es">Andrés Rabadán vive en una cárcel psiquiátrica después de once años.(n)</desc>
-  </programme>
-  <programme start="20260601203627 +0000" stop="20260601221807 +0000" channel="Runtime_Crimen">
-    <title lang="es">Becky</title>
-    <desc lang="es">Una adolescente debe defenderse y proteger a su familia cuando un grupo de convictos violentos invade su casa de vacaciones.(n)</desc>
-  </programme>
-  <programme start="20260531000000 +0000" stop="20260531015314 +0000" channel="Runtime_Acción">
-    <title lang="es">Los Mercenarios</title>
-    <desc lang="es">Barney Ross (Stallone) es un veterano de guerra que ha reunido a un grupo de mercenarios de elite para eliminar a un dictador y a un agente renegado de la CIA.(n)</desc>
-  </programme>
-  <programme start="20260531015314 +0000" stop="20260531033103 +0000" channel="Runtime_Acción">
-    <title lang="es">Tierra Marciana</title>
-    <desc lang="es">En un futuro lejano, la humanidad vive en Marte, en ciudades que se parecen a las que alguna vez se encontraron en la Tierra, protegidas de la atmósfera alienígena por campos de fuerza en forma de cúpulas. Cuando una enorme tormenta de arena atraviesa la cúpula y destruye Mars New York, los habitantes de Mars Los Angeles deben descubrir cómo detener la tormenta antes de que los aniquile a ellos.(n)</desc>
-  </programme>
-  <programme start="20260531033103 +0000" stop="20260531050904 +0000" channel="Runtime_Acción">
-    <title lang="es">El último Sharknado Ya era hora</title>
-    <desc lang="es">Decidido a devolverle la vida a su familia, Gil envía a su padre Fin al pasado para evitar que los Sharknados comiencen. En el camino, lucha contra dinosaurios, caballeros, vaqueros y una versión robot de su esposa. Esta vez, la cuestión no es cómo detener los Sharknados, sino cuándo.(n)</desc>
-  </programme>
-  <programme start="20260531050904 +0000" stop="20260531065152 +0000" channel="Runtime_Acción">
-    <title lang="es">Sharknado 2: El Segundo</title>
-    <desc lang="es">Cuando un huracán de categoría 7 azota Nueva York, las crecientes aguas atraen a miles de tiburones. Para empeorar las cosas, pronto los tornados salpican el horizonte. Mientras los Sharknados arrasan la ciudad, ningún vehículo, edificio o monumento nacional está a salvo.(n)</desc>
-  </programme>
-  <programme start="20260531065152 +0000" stop="20260531082845 +0000" channel="Runtime_Acción">
-    <title lang="es">La batalla de los malditos</title>
-    <desc lang="es">Tras un brote viral mortal, el soldado privado Max Gatling lidera a un puñado de supervivientes y a una variopinta banda de robots contra un ejército de infectados.(n)</desc>
-  </programme>
-  <programme start="20260531082845 +0000" stop="20260531101630 +0000" channel="Runtime_Acción">
-    <title lang="es">Beowulf &amp; Grendel: El Retorno de la Bestia</title>
-    <desc lang="es">Durante el siglo VI, el rey danés Hrothgar y sus guerreros matan a un troll. Su hijo Grendel, jura venganza.(n)</desc>
-  </programme>
-  <programme start="20260531101630 +0000" stop="20260531120000 +0000" channel="Runtime_Acción">
-    <title lang="es">El Agente</title>
-    <desc lang="es">Un thriller ambientado en el año 2030, en un mundo en un estado de recesión económica y enfrentado a serios problemas ambientales como resultado del calentamiento global.(n)</desc>
-  </programme>
-  <programme start="20260531120000 +0000" stop="20260531135314 +0000" channel="Runtime_Acción">
-    <title lang="es">Los Mercenarios</title>
-    <desc lang="es">Barney Ross (Stallone) es un veterano de guerra que ha reunido a un grupo de mercenarios de elite para eliminar a un dictador y a un agente renegado de la CIA.(n)</desc>
-  </programme>
-  <programme start="20260531135314 +0000" stop="20260531153103 +0000" channel="Runtime_Acción">
-    <title lang="es">Tierra Marciana</title>
-    <desc lang="es">En un futuro lejano, la humanidad vive en Marte, en ciudades que se parecen a las que alguna vez se encontraron en la Tierra, protegidas de la atmósfera alienígena por campos de fuerza en forma de cúpulas. Cuando una enorme tormenta de arena atraviesa la cúpula y destruye Mars New York, los habitantes de Mars Los Angeles deben descubrir cómo detener la tormenta antes de que los aniquile a ellos.(n)</desc>
-  </programme>
-  <programme start="20260531153103 +0000" stop="20260531170904 +0000" channel="Runtime_Acción">
-    <title lang="es">El último Sharknado Ya era hora</title>
-    <desc lang="es">Decidido a devolverle la vida a su familia, Gil envía a su padre Fin al pasado para evitar que los Sharknados comiencen. En el camino, lucha contra dinosaurios, caballeros, vaqueros y una versión robot de su esposa. Esta vez, la cuestión no es cómo detener los Sharknados, sino cuándo.(n)</desc>
-  </programme>
-  <programme start="20260531170904 +0000" stop="20260531185152 +0000" channel="Runtime_Acción">
-    <title lang="es">Sharknado 2: El Segundo</title>
-    <desc lang="es">Cuando un huracán de categoría 7 azota Nueva York, las crecientes aguas atraen a miles de tiburones. Para empeorar las cosas, pronto los tornados salpican el horizonte. Mientras los Sharknados arrasan la ciudad, ningún vehículo, edificio o monumento nacional está a salvo.(n)</desc>
-  </programme>
-  <programme start="20260531185152 +0000" stop="20260531202845 +0000" channel="Runtime_Acción">
-    <title lang="es">La batalla de los malditos</title>
-    <desc lang="es">Tras un brote viral mortal, el soldado privado Max Gatling lidera a un puñado de supervivientes y a una variopinta banda de robots contra un ejército de infectados.(n)</desc>
-  </programme>
-  <programme start="20260531202845 +0000" stop="20260531221630 +0000" channel="Runtime_Acción">
-    <title lang="es">Beowulf &amp; Grendel: El Retorno de la Bestia</title>
-    <desc lang="es">Durante el siglo VI, el rey danés Hrothgar y sus guerreros matan a un troll. Su hijo Grendel, jura venganza.(n)</desc>
-  </programme>
-  <programme start="20260531221630 +0000" stop="20260601000000 +0000" channel="Runtime_Acción">
-    <title lang="es">El Agente</title>
-    <desc lang="es">Un thriller ambientado en el año 2030, en un mundo en un estado de recesión económica y enfrentado a serios problemas ambientales como resultado del calentamiento global.(n)</desc>
-  </programme>
-  <programme start="20260601000000 +0000" stop="20260601014737 +0000" channel="Runtime_Acción">
-    <title lang="es">Soldado Universal 4: El juicio final</title>
-    <desc lang="es">Joe despierta de un coma meses después de que él y su familia fuesen brutalmente atacados. Para recomponer su vida y vengarse de los culpables, deberá enfrentarse a una milicia paramilitar de 'soldados universales'. De este modo, tratará de llegar hasta los líderes del grupo: Andrew Scott y Luc Deveraux.(n)</desc>
-  </programme>
-  <programme start="20260601014737 +0000" stop="20260601033113 +0000" channel="Runtime_Acción">
-    <title lang="es">Ataque terrorista</title>
-    <desc lang="es">Dolph Lundgren hace el papel de un ex marine de los Estados Unidos, ahora baterista de un grupo musical de heavy metal invitado a dar un concierto benéfico en Moscú. La actuación se convierte en un baño de sangre cuando terroristas armados secuestran al presidente de Rusia y a su familia.(n)</desc>
-  </programme>
-  <programme start="20260601033113 +0000" stop="20260601050812 +0000" channel="Runtime_Acción">
-    <title lang="es">Última Esperanza</title>
-    <desc lang="es">En una peligrosa Tierra futura llena de monstruos, un huérfano intenta escapar a SkyArk, una ciudad artificial en el cielo, pero pronto descubre que tiene un propósito mucho mayor.(n)</desc>
-  </programme>
-  <programme start="20260601050812 +0000" stop="20260601065332 +0000" channel="Runtime_Acción">
-    <title lang="es">La Balada de Davy Crockett</title>
-    <desc lang="es">En 1815, una leyenda estadounidense, cuya esposa ha caído enferma de muerte, dejando a sus hijos pequeños para sobrevivir solos, debe luchar para regresar con ellos a través de los muchos peligros que se encuentran en las Tierras Salvajes.(n)</desc>
-  </programme>
-  <programme start="20260601065332 +0000" stop="20260601084114 +0000" channel="Runtime_Acción">
-    <title lang="es">Drive</title>
-    <desc lang="es">Un prototipo de humano mejorado, que huye de unos asesinos a sueldo chinos, se une a un transeúnte con rastas, y ambos eluden a sus perseguidores por muy poco.(n)</desc>
-  </programme>
-  <programme start="20260601084114 +0000" stop="20260601102049 +0000" channel="Runtime_Acción">
-    <title lang="es">Pequeño gran guerrero</title>
-    <desc lang="es">Un viejo soldado secuestra a un joven general de un estado enemigo y lo lleva en un largo viaje para conseguir la recompensa.(n)</desc>
-  </programme>
-  <programme start="20260601102049 +0000" stop="20260601120000 +0000" channel="Runtime_Acción">
-    <title lang="es">Bigfoot</title>
-    <desc lang="es">Cuando Bigfoot ataca un concierto de música con temática de los 80, un promotor del concierto y un hippie agotado harán cualquier cosa para proteger a las "especies en peligro de extinción".(n)</desc>
-  </programme>
-  <programme start="20260601120000 +0000" stop="20260601133659 +0000" channel="Runtime_Acción">
-    <title lang="es">Última Esperanza</title>
-    <desc lang="es">En una peligrosa Tierra futura llena de monstruos, un huérfano intenta escapar a SkyArk, una ciudad artificial en el cielo, pero pronto descubre que tiene un propósito mucho mayor.(n)</desc>
-  </programme>
-  <programme start="20260601133659 +0000" stop="20260601152219 +0000" channel="Runtime_Acción">
-    <title lang="es">La Balada de Davy Crockett</title>
-    <desc lang="es">En 1815, una leyenda estadounidense, cuya esposa ha caído enferma de muerte, dejando a sus hijos pequeños para sobrevivir solos, debe luchar para regresar con ellos a través de los muchos peligros que se encuentran en las Tierras Salvajes.(n)</desc>
-  </programme>
-  <programme start="20260601152219 +0000" stop="20260601170305 +0000" channel="Runtime_Acción">
-    <title lang="es">Bigfoot</title>
-    <desc lang="es">Cuando Bigfoot ataca un concierto de música con temática de los 80, un promotor del concierto y un hippie agotado harán cualquier cosa para proteger a las "especies en peligro de extinción".(n)</desc>
-  </programme>
-  <programme start="20260601170305 +0000" stop="20260601185047 +0000" channel="Runtime_Acción">
-    <title lang="es">Drive</title>
-    <desc lang="es">Un prototipo de humano mejorado, que huye de unos asesinos a sueldo chinos, se une a un transeúnte con rastas, y ambos eluden a sus perseguidores por muy poco.(n)</desc>
-  </programme>
-  <programme start="20260601185047 +0000" stop="20260601203022 +0000" channel="Runtime_Acción">
-    <title lang="es">Pequeño gran guerrero</title>
-    <desc lang="es">Un viejo soldado secuestra a un joven general de un estado enemigo y lo lleva en un largo viaje para conseguir la recompensa.(n)</desc>
-  </programme>
-  <programme start="20260601203022 +0000" stop="20260601221759 +0000" channel="Runtime_Acción">
-    <title lang="es">Soldado Universal 4: El juicio final</title>
-    <desc lang="es">Joe despierta de un coma meses después de que él y su familia fuesen brutalmente atacados. Para recomponer su vida y vengarse de los culpables, deberá enfrentarse a una milicia paramilitar de 'soldados universales'. De este modo, tratará de llegar hasta los líderes del grupo: Andrew Scott y Luc Deveraux.(n)</desc>
-  </programme>
-  <programme start="20260531000000 +0000" stop="20260531012406 +0000" channel="Runtime_Romance">
-    <title lang="es">Para Toda la Vida</title>
-    <desc lang="es">Una madre lucha por cuidar a su bebé, mientras el padre se aleja de ellos.(n)</desc>
-  </programme>
-  <programme start="20260531012406 +0000" stop="20260531030122 +0000" channel="Runtime_Romance">
-    <title lang="es">Una novia muy especial</title>
-    <desc lang="es">Comedia romántica acerca de dos amigos de la infancia que se reúnen despues de muchos años. Uno de ellos le pide al otro que finja ser judío para conquistar a una chica judía.(n)</desc>
-  </programme>
-  <programme start="20260531030122 +0000" stop="20260531045735 +0000" channel="Runtime_Romance">
-    <title lang="es">Lejos de la tierra quemada</title>
-    <desc lang="es">Ópera prima de Guillermo Arriaga como director después de los magníficos guiones de Amores perros, 21 gramos y Babel. Cuatro intensas historias en torno al amor, las relaciones clandestinas, los accidentes y la muerte que se cruzan entre sí.(n)</desc>
-  </programme>
-  <programme start="20260531045735 +0000" stop="20260531062141 +0000" channel="Runtime_Romance">
-    <title lang="es">Para Toda la Vida</title>
-    <desc lang="es">Una madre lucha por cuidar a su bebé, mientras el padre se aleja de ellos.(n)</desc>
-  </programme>
-  <programme start="20260531062141 +0000" stop="20260531082033 +0000" channel="Runtime_Romance">
-    <title lang="es">Me Quiere, No Me Quiere</title>
-    <desc lang="es">Un cínico mujeriego vuelve a casa por vacaciones, sólo para enredarse con la mujer que le rompió el corazón años atrás.(n)</desc>
-  </programme>
-  <programme start="20260531082033 +0000" stop="20260531100638 +0000" channel="Runtime_Romance">
-    <title lang="es">La Ola Perfecta</title>
-    <desc lang="es">¿Podrías encontrar a tu amor verdadero haciendo surf?(n)</desc>
-  </programme>
-  <programme start="20260531100638 +0000" stop="20260531120000 +0000" channel="Runtime_Romance">
-    <title lang="es">Eva</title>
-    <desc lang="es">Un guionista teatral toma refugio en un chalet durante una violenta nevada, donde conoce a una misteriosa mujer.(n)</desc>
-  </programme>
-  <programme start="20260531120000 +0000" stop="20260531132406 +0000" channel="Runtime_Romance">
-    <title lang="es">Para Toda la Vida</title>
-    <desc lang="es">Una madre lucha por cuidar a su bebé, mientras el padre se aleja de ellos.(n)</desc>
-  </programme>
-  <programme start="20260531132406 +0000" stop="20260531150122 +0000" channel="Runtime_Romance">
-    <title lang="es">Una novia muy especial</title>
-    <desc lang="es">Comedia romántica acerca de dos amigos de la infancia que se reúnen despues de muchos años. Uno de ellos le pide al otro que finja ser judío para conquistar a una chica judía.(n)</desc>
-  </programme>
-  <programme start="20260531150122 +0000" stop="20260531165735 +0000" channel="Runtime_Romance">
-    <title lang="es">Lejos de la tierra quemada</title>
-    <desc lang="es">Ópera prima de Guillermo Arriaga como director después de los magníficos guiones de Amores perros, 21 gramos y Babel. Cuatro intensas historias en torno al amor, las relaciones clandestinas, los accidentes y la muerte que se cruzan entre sí.(n)</desc>
-  </programme>
-  <programme start="20260531165735 +0000" stop="20260531182141 +0000" channel="Runtime_Romance">
-    <title lang="es">Para Toda la Vida</title>
-    <desc lang="es">Una madre lucha por cuidar a su bebé, mientras el padre se aleja de ellos.(n)</desc>
-  </programme>
-  <programme start="20260531182141 +0000" stop="20260531202033 +0000" channel="Runtime_Romance">
-    <title lang="es">Me Quiere, No Me Quiere</title>
-    <desc lang="es">Un cínico mujeriego vuelve a casa por vacaciones, sólo para enredarse con la mujer que le rompió el corazón años atrás.(n)</desc>
-  </programme>
-  <programme start="20260531202033 +0000" stop="20260531220638 +0000" channel="Runtime_Romance">
-    <title lang="es">La Ola Perfecta</title>
-    <desc lang="es">¿Podrías encontrar a tu amor verdadero haciendo surf?(n)</desc>
-  </programme>
-  <programme start="20260531220638 +0000" stop="20260601000000 +0000" channel="Runtime_Romance">
-    <title lang="es">Eva</title>
-    <desc lang="es">Un guionista teatral toma refugio en un chalet durante una violenta nevada, donde conoce a una misteriosa mujer.(n)</desc>
-  </programme>
-  <programme start="20260601000000 +0000" stop="20260601014059 +0000" channel="Runtime_Romance">
-    <title lang="es">Nunca Es Tarde Para Enamorarse</title>
-    <desc lang="es">Dustin Hoffman da vida a Harvey, un hombre que acaba de quedarse sin trabajo y que viaja a Londres para asistir a la boda de su hija. Para colmo de males, lo han alojado solo en un hotel, mientras el resto de la familia comparte una casa, y su hija quiere que sea su padrastro quien la lleve al altar. Pero conoce a Kate, una peculiar mujer que puede hacer que su viaje a Londres merezca la pena.(n)</desc>
-  </programme>
-  <programme start="20260601014059 +0000" stop="20260601032141 +0000" channel="Runtime_Romance">
-    <title lang="es">El problema con el muérdago</title>
-    <desc lang="es">Willa Davis es propietaria de una tienda de mascotas en San Francisco. Un día se reencuentra con el chico que la dejó plantada en el instituto, y tendrá que luchar con todas sus fuerzas contra su propio corazón para no volver a enamorarse, diez años después.(n)</desc>
-  </programme>
-  <programme start="20260601032141 +0000" stop="20260601051432 +0000" channel="Runtime_Romance">
-    <title lang="es">Tercera identidad</title>
-    <desc lang="es">Años 60. Sally Cauffield (Sharon Stone) es una estadounidense casada con Leo Cauffield (Rupert Everett), un inglés que lleva una doble vida: es periodista y agente de la KGB. Cuando, tras varios años de matrimonio, Leo desaparece, Sally lo busca y cuando lo encuentra se entera de que es un espía cuyo nombre en clave es “El Tercer Hombre”.(n)</desc>
-  </programme>
-  <programme start="20260601051432 +0000" stop="20260601064644 +0000" channel="Runtime_Romance">
-    <title lang="es">Amor Sin Tiempo</title>
-    <desc lang="es">Megan parece tener la vida perfecta: una relación amorosa con un maravilloso esposo llamado Thomas y dos adorables hijos. Luego se encuentra despertando de un coma y descubre que no está y que nunca se ha casado. Thomas y los niños parecen no existir. Sus padres se preocupan por ella y Megan lucha por dejar de lado la realidad con la que soñaba.(n)</desc>
-  </programme>
-  <programme start="20260601064644 +0000" stop="20260601082240 +0000" channel="Runtime_Romance">
-    <title lang="es">Navidad A La Vuelta De La Esquina</title>
-    <desc lang="es">Claire, una experta capitalista de riesgo de la ciudad, escapa a un pueblo pintoresco durante las vacaciones y se convierte en invitada de la librería Fortenbury. A su llegada, Claire descubre que las celebraciones navideñas han sido canceladas después de una inundación y la librería está en muy mal estado.(n)</desc>
-  </programme>
-  <programme start="20260601082240 +0000" stop="20260601100916 +0000" channel="Runtime_Romance">
-    <title lang="es">La promesa</title>
-    <desc lang="es">En la Alemania de antes de la Primera Guerra Mundial, un joven se enamora de la esposa de su jefe, desatando un romance prohibido.(n)</desc>
-  </programme>
-  <programme start="20260601100916 +0000" stop="20260601120000 +0000" channel="Runtime_Romance">
-    <title lang="es">Cariño, cuánto te odio</title>
-    <desc lang="es">Dos compañeros de trabajo con una intensa rivalidad se ven obligados a colaborar, descubriendo que el odio y el amor están más cerca de lo que pensaban.(n)</desc>
-  </programme>
-  <programme start="20260601120000 +0000" stop="20260601134059 +0000" channel="Runtime_Romance">
-    <title lang="es">Nunca Es Tarde Para Enamorarse</title>
-    <desc lang="es">Dustin Hoffman da vida a Harvey, un hombre que acaba de quedarse sin trabajo y que viaja a Londres para asistir a la boda de su hija. Para colmo de males, lo han alojado solo en un hotel, mientras el resto de la familia comparte una casa, y su hija quiere que sea su padrastro quien la lleve al altar. Pero conoce a Kate, una peculiar mujer que puede hacer que su viaje a Londres merezca la pena.(n)</desc>
-  </programme>
-  <programme start="20260601134059 +0000" stop="20260601152141 +0000" channel="Runtime_Romance">
-    <title lang="es">El problema con el muérdago</title>
-    <desc lang="es">Willa Davis es propietaria de una tienda de mascotas en San Francisco. Un día se reencuentra con el chico que la dejó plantada en el instituto, y tendrá que luchar con todas sus fuerzas contra su propio corazón para no volver a enamorarse, diez años después.(n)</desc>
-  </programme>
-  <programme start="20260601152141 +0000" stop="20260601171432 +0000" channel="Runtime_Romance">
-    <title lang="es">Tercera identidad</title>
-    <desc lang="es">Años 60. Sally Cauffield (Sharon Stone) es una estadounidense casada con Leo Cauffield (Rupert Everett), un inglés que lleva una doble vida: es periodista y agente de la KGB. Cuando, tras varios años de matrimonio, Leo desaparece, Sally lo busca y cuando lo encuentra se entera de que es un espía cuyo nombre en clave es “El Tercer Hombre”.(n)</desc>
-  </programme>
-  <programme start="20260601171432 +0000" stop="20260601184644 +0000" channel="Runtime_Romance">
-    <title lang="es">Amor Sin Tiempo</title>
-    <desc lang="es">Megan parece tener la vida perfecta: una relación amorosa con un maravilloso esposo llamado Thomas y dos adorables hijos. Luego se encuentra despertando de un coma y descubre que no está y que nunca se ha casado. Thomas y los niños parecen no existir. Sus padres se preocupan por ella y Megan lucha por dejar de lado la realidad con la que soñaba.(n)</desc>
-  </programme>
-  <programme start="20260601184644 +0000" stop="20260601202240 +0000" channel="Runtime_Romance">
-    <title lang="es">Navidad A La Vuelta De La Esquina</title>
-    <desc lang="es">Claire, una experta capitalista de riesgo de la ciudad, escapa a un pueblo pintoresco durante las vacaciones y se convierte en invitada de la librería Fortenbury. A su llegada, Claire descubre que las celebraciones navideñas han sido canceladas después de una inundación y la librería está en muy mal estado.(n)</desc>
-  </programme>
-  <programme start="20260601202240 +0000" stop="20260601220916 +0000" channel="Runtime_Romance">
-    <title lang="es">La promesa</title>
-    <desc lang="es">En la Alemania de antes de la Primera Guerra Mundial, un joven se enamora de la esposa de su jefe, desatando un romance prohibido.(n)</desc>
+  <programme start="20260601000000 +0000" stop="20260601010100 +0000" channel="Qwest_TV">
+    <title lang="es">Omar Sosa - Tribute to Miles Davis</title>
+    <desc lang="es">Omar Sosa approaches Miles Davis’ masterwork with an inventive historical outlook.(n)</desc>
+  </programme>
+  <programme start="20260601010100 +0000" stop="20260601025600 +0000" channel="Qwest_TV">
+    <title lang="es">American's Music Legacy: Soul</title>
+    <desc lang="es">Gladys Knight, Percy Sledge, Rufus Thomas, Freda Payne, Otis Redding: the best of soul music is here!(n)</desc>
+  </programme>
+  <programme start="20260601025600 +0000" stop="20260601042700 +0000" channel="Qwest_TV">
+    <title lang="es">Never Stop - A Music That Resists</title>
+    <desc lang="es">This documentary traces the rise of Detroit techno, a counterculture that became a global movement.(n)</desc>
+  </programme>
+  <programme start="20260601042700 +0000" stop="20260601050000 +0000" channel="Qwest_TV">
+    <title lang="es">Late Night Sounds by Qwest TV</title>
+    <desc lang="es">"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music" - Quincy Jones.(n)</desc>
+  </programme>
+  <programme start="20260601050000 +0000" stop="20260601074700 +0000" channel="Qwest_TV">
+    <title lang="es">Chillin' with Qwest TV</title>
+    <desc lang="es">Enjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!(n)</desc>
+  </programme>
+  <programme start="20260601074700 +0000" stop="20260601103800 +0000" channel="Qwest_TV">
+    <title lang="es">Diverse, Beautiful Music by Qwest TV</title>
+    <desc lang="es">Qwest TV breaks down the barriers between the world’s best, diverse sounds that will move you!(n)</desc>
+  </programme>
+  <programme start="20260601103800 +0000" stop="20260601131500 +0000" channel="Qwest_TV">
+    <title lang="es">Where Great Music Meets by Qwest TV</title>
+    <desc lang="es">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!(n)</desc>
+  </programme>
+  <programme start="20260601131500 +0000" stop="20260601160500 +0000" channel="Qwest_TV">
+    <title lang="es">From Be Bop to Hip Hop by Qwest TV</title>
+    <desc lang="es">Discover new tracks and timeless standards: "From Bebop to Doo-Wop to Hip Hop" as Quincy Jones loves to say!(n)</desc>
+  </programme>
+  <programme start="20260601160500 +0000" stop="20260601180000 +0000" channel="Qwest_TV">
+    <title lang="es">It’s Showtime! by Qwest TV</title>
+    <desc lang="es">This is your front-row seat for tonight's concert on Qwest TV!(n)</desc>
+  </programme>
+  <programme start="20260601180000 +0000" stop="20260601185100 +0000" channel="Qwest_TV">
+    <title lang="es">Qwest TV On Stage - Sekouba Bambino</title>
+    <desc lang="es">Sékouba Bambino ignites Paris with a vibrant set mixing African roots and Afro-Latin grooves.(n)</desc>
+  </programme>
+  <programme start="20260601185100 +0000" stop="20260601193500 +0000" channel="Qwest_TV">
+    <title lang="es">Qwest TV On Stage - Celia Wa</title>
+    <desc lang="es">Flutist Célia Wa blends Afro-Caribbean roots with captivating modern sounds in a mesmerizing live performance.(n)</desc>
+  </programme>
+  <programme start="20260601193500 +0000" stop="20260601210600 +0000" channel="Qwest_TV">
+    <title lang="es">Black Lives - Live at New Morning</title>
+    <desc lang="es">The doublebass master delivers a beautiful and intimate performance in trio at the Philharmonie de Paris.(n)</desc>
+  </programme>
+  <programme start="20260601013538 +0000" stop="20260601014255 +0000" channel="Stingray_Classica">
+    <title lang="es">Classica Spotlight</title>
+    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  </programme>
+  <programme start="20260601014255 +0000" stop="20260601025800 +0000" channel="Stingray_Classica">
+    <title lang="es">Mahler - El Wunderhorn de la juventud</title>
+    <desc lang="es">Las canciones de "El cuerno mágico de la juventud" son un conjunto de 12 lieder orquestales de Mahler, basados en poemas populares de la colección de Arnim y Brentano, que fusionan el romanticismo con elementos folclóricos y exploran la experiencia humana con autenticidad y una profundidad emocional. Estas canciones se inspiran en las tradiciones folclóricas alemanas, incorporando temas de la naturaleza, el amor y la vida de los soldados, a menudo con un carácter dramático o conmovedor.(n)</desc>
+  </programme>
+  <programme start="20260601025800 +0000" stop="20260601043719 +0000" channel="Stingray_Classica">
+    <title lang="es">Sinfonía por el Perú en la Philharmonie de París</title>
+    <desc lang="es">El tenor superestrella Juan Diego Flórez da vida a los papeles más icónicos del repertorio bel canto, acompañado por los vibrantes jóvenes músicos de Sinfonía por el Perú, dirigidos por la célebre directora Ana María Patiño-Osorio. Embárcate en una aventura lírica con ellos, desde el poderoso drama de I Capuleti e I Montecchi de Bellini y la majestuosa Jerusalem de Verdi, hasta el bullicioso y animado can-can de la opereta Orpheus in the Underworld de Offenbach. Sinfonía por el Perú es una organización sin ánimo de lucro fundada por Juan Diego Flórez, con la misión de inspirar el cambio social a través de la educación musical colectiva. Desde su creación en 2011, más de seis mil jóvenes peruanos han tenido la oportunidad de tocar un instrumento o cantar en un coro. Estudiantes del programa han pisado los escenarios más prestigiosos del mundo, desde Salzburgo hasta Gstaad, incluyendo el Festival de Lucerna, y acompañan a Juan Diego Flórez en este concierto.(n)</desc>
+  </programme>
+  <programme start="20260601043719 +0000" stop="20260601062833 +0000" channel="Stingray_Classica">
+    <title lang="es">Las hermanas Berthollet en París</title>
+    <desc lang="es">Para este excepcional recital, grabado en 2019 en el Teatro de los Campos Eliseos, Camille y Julie Berthollet (violonchelo y violin, respectivamente) están acompañadas por el pianista Guillaume Vincent y el Ensemble Appassionato bajo la dirección de Mathieu Herzog. Las dos hermanas músicas han elegido un repertorio que atraviesa géneros y épocas para explorar el papel expresivo del violín y el violonchelo, desde el barroco de Vivaldi hasta las notas jazzísticas de Django Reinhardt y Stéphane Grapelli. Entre las obras del programa se encuentran las Danzas Húngaras nº 5 y nº 6 de Brahms, Palladio de Karl Jenkins, el Tema de la película Forrest Gump, de Alan Silvestri, el Quinteto con Piano, Op. 44 de Schumann, El violín rojo de Corigliano, la Rapsodia Húngara Op. 68 de Popper, Minor Swing de Reinhardt/Grappeli, y Csárdás de Monti.(n)</desc>
+  </programme>
+  <programme start="20260601062833 +0000" stop="20260601063351 +0000" channel="Stingray_Classica">
+    <title lang="es">Classica Spotlight</title>
+    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  </programme>
+  <programme start="20260601063351 +0000" stop="20260601082201 +0000" channel="Stingray_Classica">
+    <title lang="es">Chopin - Conciertos para piano</title>
+    <desc lang="es">Antoni Wit dirige a la Orquesta Filarmónica de Varsovia en la interpretación de los Conciertos para Piano nº 1, Op. 11, y nº 2, Op. 21 de Chopin. Los solistas son Nikolai Demidenko y Evgeny Kissin. Tras interpretar el primer concierto, Demidenko hace un bis con la Mazurka Op. 17/4 de Chopin. Kissin cierra el concierto con el Estudio Op. 10/12 de Chopin y el Vals en Mi menor, Op. post. Este concierto se enmarca en la celebración del 200 aniversario de Chopin en 2010. En realidad el ordinal de los conciertos parece cambiado, ya que Chopin compuso el segundo concierto un año antes que el Concierto nº 1 y completó ambas obras a la edad de 20 años, antes de dejar su país natal, Polonia, y trasladarse a París.(n)</desc>
+  </programme>
+  <programme start="20260601082201 +0000" stop="20260601105552 +0000" channel="Stingray_Classica">
+    <title lang="es">La Bayadère</title>
+    <desc lang="es">La Bayadère es un ballet en tres actos del coreógrafo francés Marius Petipa. Ambientado en la India del siglo XIX, La Bayadère cuenta la triste historia de amor entre el noble guerrero Solor y la bailarina del templo, o bayadère, Nikia, que es envenenada por su rival, Gamzatti. El ballet cuenta con una de las escenas más célebres del ballet clásico, "El reino de las sombras". En esta icónica escena, Solor sueña, bajo la influencia del opio, con reunirse con su amada Nikia. Esta producción del ballet presenta la coreografía revisada de Vladimir Ponomarev y Vakhtang Chabukiani (1941), e incluye danzas de Konstantin Sergeyev y Nikolai Zubkovsky. La música del ballet, compuesta por Ludwig Minkus, es interpretada por la Orquesta del Mariinsky bajo la dirección de Boris Gruzin. Entre los intérpretes están Viktoria Tereshkina, Anastasia Matvienko, Vladimir Shklyarov y Vladimir Ponomarev. Grabado en el Teatro Mariinsky de San Petersburgo, Rusia, en julio de 2014.(n)</desc>
+  </programme>
+  <programme start="20260601105552 +0000" stop="20260601115751 +0000" channel="Stingray_Classica">
+    <title lang="es">Mozart - Réquiem en Re menor, K. 626</title>
+    <desc lang="es">Daniel Harding dirige a la Orquesta y Coro del Maggio Musicale Fiorentino y a cuatro solistas vocales en una magnífica interpretación del Réquiem en Re menor K. 626, de Wolfgang Amadeus Mozart. Los solistas son la soprano Christiane Karg, la mezzosoprano Sara Mingardo, el tenor Matthew Swensen y el bajo Gianluca Buratto. El Réquiem de Mozart fue encargado por el conde austriaco Walsegg en julio de 1791 para conmemorar a su difunta esposa, Anna. En aquella época, el compositor estaba ocupado trabajando en sus óperas La clemenza di Tito y La flauta mágica. Cuando Mozart empezó a trabajar en el Réquiem, en otoño de ese mismo año, su salud estaba gravemente deteriorada. El compositor falleció en diciembre de 1791, dejando inconclusa la obra maestra. El Réquiem fue finalmente completado por su discípulo Franz Xaver Süssmayr en la forma conocida hoy en día, utilizando material de composición del compositor que ya no existe, y quizás también instrucciones verbales del propio Mozart. Grabado en el Teatro del Maggio Musicale Fiorentino de Florencia, Italia, en 2021.(n)</desc>
+  </programme>
+  <programme start="20260601115751 +0000" stop="20260601135533 +0000" channel="Stingray_Classica">
+    <title lang="es">Beethoven - Sinfonías y Concierto para Piano no 4</title>
+    <desc lang="es">Iván Fischer dirige a la Orquesta del Festival de Budapest (BFO) en un programa de concierto dedicado a la música de Ludwig van Beethoven. El programa se abre con la Sinfonía nº 1 en Do mayor Op. 21, del compositor. A continuación, Fischer dirige el Concierto para Piano nº 4 en Sol mayor Op. 58, de Beethoven, en el que Richard Goode actúa como solista. El aclamado pianista estadounidense (1943) es conocido por sus interpretaciones del repertorio beethoveniano. Goode grabó los cinco conciertos para piano de Beethoven con la BFO y Fischer, lo que le valió un excepcional reconocimiento de la crítica y una nominación a los premios Grammy. Como propina, Goode interpreta la Sarabande de la Partita en Si bemol mayor BWV 825, de J.S. Bach. El programa se cierra con la célebre Sinfonía nº 5 en Do menor Op. 67, de Beethoven. Grabado en la Sala Nacional de Conciertos Béla Bartók de Budapest (Hungría), el 29 de enero de 2017.(n)</desc>
+  </programme>
+  <programme start="20260601135533 +0000" stop="20260601135721 +0000" channel="Stingray_Classica">
+    <title lang="es">Classica Spotlight</title>
+    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  </programme>
+  <programme start="20260601135721 +0000" stop="20260601153351 +0000" channel="Stingray_Classica">
+    <title lang="es">Welser-Möst dirige Farrenc y Mussorgsky/Ravel</title>
+    <desc lang="es">Franz Welser-Möst dirige con maestría a la Cleveland Orchestra en un programa cautivador grabado en el emblemático Severance Music Center de Cleveland en marzo de 2023. El programa, que promete una experiencia musical inolvidable, incluye la majestuosa Sinfonía n.º 3 de Louise Farrenc, el vibrante Concierto para piano en sol de Ravel, con la virtuosa interpretación de Vïkingur Ólafsson como solista, y la evocadora obra Cuadros de una exposición de Mussorgsky, en la brillante orquestación de Ravel. Una velada que sin duda deleitará a los amantes de la música clásica.(n)</desc>
+  </programme>
+  <programme start="20260601153351 +0000" stop="20260601154249 +0000" channel="Stingray_Classica">
+    <title lang="es">Classica Spotlight</title>
+    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  </programme>
+  <programme start="20260601154249 +0000" stop="20260601171617 +0000" channel="Stingray_Classica">
+    <title lang="es">Réquiem de Fauré</title>
+    <desc lang="es">El año 2024 marca el centenario del fallecimiento de Gabriel Fauré, considerado uno de los compositores más importantes e influyentes, quien fue maestro de Maurice Ravel, Georges Enescu, Nadia Boulanger y muchos otros. El Orchestre National du Capitole de Toulouse y el Philharmonic Chorus of Tokyo, con Florian Sempey como solista, interpretan el Réquiem de Gabriel Fauré en la Basílica de Saint-Sernin en Toulouse, la mayor iglesia románica conservada en Francia y uno de los edificios más importantes de la arquitectura románica. Este concierto extraordinario está dirigido por Kazuki Yamada, actualmente uno de los jóvenes directores más prometedores. En la primavera de 2023, fue nombrado Director Principal y Asesor Artístico de la City of Birmingham Symphony Orchestra, y también es Director Artístico y Musical del Orchestre Philharmonique de Monte-Carlo.(n)</desc>
+  </programme>
+  <programme start="20260601171617 +0000" stop="20260601182853 +0000" channel="Stingray_Classica">
+    <title lang="es">Gianandrea Noseda dirige Strauss y Liszt</title>
+    <desc lang="es">Gianandrea Noseda dirige la London Symphony Orchestra en una actuación de concierto grabada el 15 de abril de 2021 en St. Luke’s, Londres. El programa comienza con el Duett-Concertino para clarinete y fagot de Richard Strauss, una obra tardía y lírica que evoca un diálogo de cuento de hadas entre los dos instrumentos solistas, con Chris Richards (clarinete) y Rachel Gough (fagot). A continuación, el Poema Sinfónico n.º 4, Orfeo, de Franz Liszt, un homenaje contemplativo y radiante al músico mítico. El concierto concluye con la Sinfonía n.º 3 de Nino Rota, una obra rítmicamente vibrante y ricamente melódica que refleja el estilo cinematográfico por el que el compositor es ampliamente conocido.(n)</desc>
+  </programme>
+  <programme start="20260601182853 +0000" stop="20260601183047 +0000" channel="Stingray_Classica">
+    <title lang="es">Classica Spotlight</title>
+    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  </programme>
+  <programme start="20260601183047 +0000" stop="20260601201105 +0000" channel="Stingray_Classica">
+    <title lang="es">La fulguración romántica: Beethoven y Bizet</title>
+    <desc lang="es">La joven directora de orquesta venezolana Glass Marcano es una estrella emergente en el mundo de los directores de música clásica. Como violinista tocó en la Orquesta Juvenil de San Felipe, la Orquesta Sinfónica de Yaracuy y la Orquesta Juvenil de Yaracuy. Más tarde, tras su primera experiencia en dirección en 2012, decidió comenzar a estudiar dirección un año después. En septiembre de 2020, fue galardonada con el premio de orquesta del Concurso La Maestra, el primer concurso de dirección de orquesta para mujeres, celebrado en París. En este concierto de 2021, Marcano dirige la Orchestre Symphonique Région Cenre-Val de Loire/Tours en la interpretación de dos obras maestras del repertorio romántico. El programa se abre con el Concierto para Violín en Re mayor, Op. 61 de Ludwig van Beethoven, protagonizado por Stéphanie-Marie Degand como solista. El Concierto para Violín del compositor es una de las obras más importantes de su género. El programa concluye con la Sinfonía en Do de Georges Bizet, escrita en 1855, cuando el compositor tenía tan sólo 17 años. Grabado en la Ópera de Tours, en febrero de 2021.(n)</desc>
+  </programme>
+  <programme start="20260601201105 +0000" stop="20260601201515 +0000" channel="Stingray_Classica">
+    <title lang="es">Classica Spotlight</title>
+    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  </programme>
+  <programme start="20260601201515 +0000" stop="20260601215756 +0000" channel="Stingray_Classica">
+    <title lang="es">Galaxymphony Strikes Back</title>
+    <desc lang="es">La Orquesta Sinfónica Nacional de Dinamarca nos lleva a un espectacular viaje espacial sinfónico en un programa de concierto de música de cine fuera de este mundo. Bajo la dirección del holandés Antony Hermus, la orquesta nos guía a través del universo musical, interpretando una selección de música de películas icónicas de ciencia ficción, como Avatar, Gravity, Interstellar y Star Wars, escritas por grandes compositores como John Williams, Hans Zimmer y James Horner. Los solistas de este concierto son Tuva Semmingsen, Christine Nonbo Andersen, Steffen Bruun y David Bateson. Grabado en el DR Koncerthuset de Copenhague, Dinamarca, en agosto de 2021.(n)</desc>
+  </programme>
+  <programme start="20260601215756 +0000" stop="20260601220000 +0000" channel="Stingray_Classica">
+    <title lang="es">Classica Spotlight</title>
+    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
   </programme>
 </tv>
