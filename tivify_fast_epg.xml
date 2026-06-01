@@ -1,135 +1,937 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Qwest_TV">
-    <display-name lang="es">Qwest TV</display-name>
+  <channel id="Todo_Novelas">
+    <display-name lang="es">Todo Novelas</display-name>
     <url>http://www.tivify.tv</url>
   </channel>
-  <channel id="Stingray_Classica">
-    <display-name lang="es">Stingray Classica</display-name>
+  <channel id="Movie_Music">
+    <display-name lang="es">Movie Music</display-name>
     <url>http://www.tivify.tv</url>
   </channel>
-  <programme start="20260601000000 +0000" stop="20260601010100 +0000" channel="Qwest_TV">
-    <title lang="es">Omar Sosa - Tribute to Miles Davis</title>
-    <desc lang="es">Omar Sosa approaches Miles Davis’ masterwork with an inventive historical outlook.(n)</desc>
+  <channel id="Qello_Concerts">
+    <display-name lang="es">Qello Concerts</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Motorvision_TV">
+    <display-name lang="es">Motorvision TV</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Inglés_Total">
+    <display-name lang="es">Inglés Total</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Cine_Western">
+    <display-name lang="es">Cine Western</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Cine_Friki">
+    <display-name lang="es">Cine Friki</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Film &amp; Co">
+    <display-name lang="es">Film &amp; Co</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Planeta_de_Cine">
+    <display-name lang="es">Planeta de Cine</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png" />
+    <icon src="https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png" />
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Pocoyó_y_Más">
+    <display-name lang="es">Pocoyó y Más</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Historia_y_Vida">
+    <display-name lang="es">Historia y Vida</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="The_Love_Planet">
+    <display-name lang="es">The Love Planet</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <channel id="Naturescape">
+    <display-name lang="es">Naturescape</display-name>
+    <url>http://www.tivify.tv</url>
+  </channel>
+  <programme start="20260601000109 +0000" stop="20260601005112 +0000" channel="Todo_Novelas">
+    <title lang="es">Teresa</title>
+    <desc lang="es">Teresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.(n)</desc>
   </programme>
-  <programme start="20260601010100 +0000" stop="20260601025600 +0000" channel="Qwest_TV">
-    <title lang="es">American's Music Legacy: Soul</title>
-    <desc lang="es">Gladys Knight, Percy Sledge, Rufus Thomas, Freda Payne, Otis Redding: the best of soul music is here!(n)</desc>
+  <programme start="20260601005112 +0000" stop="20260601014110 +0000" channel="Todo_Novelas">
+    <title lang="es">Amor Sin Limites</title>
+    <desc lang="es">Zeca fue encarcelado por un crimen en el que no participó, ahora está libre y mientras intenta hacer una nueva vida se encuentra con un chico, sorprendentemente el chico es el hijo de Ema, su amante desde hace mucho tiempo.(n)</desc>
   </programme>
-  <programme start="20260601025600 +0000" stop="20260601042700 +0000" channel="Qwest_TV">
-    <title lang="es">Never Stop - A Music That Resists</title>
-    <desc lang="es">This documentary traces the rise of Detroit techno, a counterculture that became a global movement.(n)</desc>
+  <programme start="20260601014110 +0000" stop="20260601023606 +0000" channel="Todo_Novelas">
+    <title lang="es">PIEL SALVAJE</title>
+    <desc lang="es">Camila busca a su madre biológica tras haber sido abandonada en la calle años atrás. En el proceso se encuentra en medio de dos empresas de moda enemistadas que quieren destruirse mutuamente por todos los medios, incluidos el secuestro y el asesinato.(n)</desc>
   </programme>
-  <programme start="20260601042700 +0000" stop="20260601050000 +0000" channel="Qwest_TV">
-    <title lang="es">Late Night Sounds by Qwest TV</title>
-    <desc lang="es">"This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music" - Quincy Jones.(n)</desc>
+  <programme start="20260601023606 +0000" stop="20260601032924 +0000" channel="Todo_Novelas">
+    <title lang="es">Amor Sin Limites</title>
+    <desc lang="es">Zeca fue encarcelado por un crimen en el que no participó, ahora está libre y mientras trata de hacer una nueva vida se encuentra con un niño, sorprendentemente el niño es el hijo de Ema, su amante de mucho tiempo.(n)</desc>
   </programme>
-  <programme start="20260601050000 +0000" stop="20260601074700 +0000" channel="Qwest_TV">
-    <title lang="es">Chillin' with Qwest TV</title>
-    <desc lang="es">Enjoy our chillin' playlist cooked with love and get your day off to a good start with Qwest TV!(n)</desc>
+  <programme start="20260601032924 +0000" stop="20260601041955 +0000" channel="Todo_Novelas">
+    <title lang="es">Teresa</title>
+    <desc lang="es">Teresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.(n)</desc>
   </programme>
-  <programme start="20260601074700 +0000" stop="20260601103800 +0000" channel="Qwest_TV">
-    <title lang="es">Diverse, Beautiful Music by Qwest TV</title>
-    <desc lang="es">Qwest TV breaks down the barriers between the world’s best, diverse sounds that will move you!(n)</desc>
+  <programme start="20260601041955 +0000" stop="20260601051504 +0000" channel="Todo_Novelas">
+    <title lang="es">PIEL SALVAJE</title>
+    <desc lang="es">Camila busca a su madre biológica tras haber sido abandonada en la calle años atrás. En el proceso se encuentra en medio de dos empresas de moda enemistadas que quieren destruirse mutuamente por todos los medios, incluidos el secuestro y el asesinato.(n)</desc>
   </programme>
-  <programme start="20260601103800 +0000" stop="20260601131500 +0000" channel="Qwest_TV">
-    <title lang="es">Where Great Music Meets by Qwest TV</title>
-    <desc lang="es">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!(n)</desc>
+  <programme start="20260601051504 +0000" stop="20260601061051 +0000" channel="Todo_Novelas">
+    <title lang="es">PIEL SALVAJE</title>
+    <desc lang="es">Camila busca a su madre biológica tras haber sido abandonada en la calle años atrás. En el proceso se encuentra en medio de dos empresas de moda enemistadas que quieren destruirse mutuamente por todos los medios, incluidos el secuestro y el asesinato.(n)</desc>
   </programme>
-  <programme start="20260601131500 +0000" stop="20260601160500 +0000" channel="Qwest_TV">
-    <title lang="es">From Be Bop to Hip Hop by Qwest TV</title>
-    <desc lang="es">Discover new tracks and timeless standards: "From Bebop to Doo-Wop to Hip Hop" as Quincy Jones loves to say!(n)</desc>
+  <programme start="20260601061051 +0000" stop="20260601070639 +0000" channel="Todo_Novelas">
+    <title lang="es">PIEL SALVAJE</title>
+    <desc lang="es">Camila busca a su madre biológica tras haber sido abandonada en la calle años atrás. En el proceso se encuentra en medio de dos empresas de moda enemistadas que quieren destruirse mutuamente por todos los medios, incluidos el secuestro y el asesinato.(n)</desc>
   </programme>
-  <programme start="20260601160500 +0000" stop="20260601180000 +0000" channel="Qwest_TV">
-    <title lang="es">It’s Showtime! by Qwest TV</title>
-    <desc lang="es">This is your front-row seat for tonight's concert on Qwest TV!(n)</desc>
+  <programme start="20260601070639 +0000" stop="20260601075658 +0000" channel="Todo_Novelas">
+    <title lang="es">Teresa</title>
+    <desc lang="es">Teresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.(n)</desc>
   </programme>
-  <programme start="20260601180000 +0000" stop="20260601185100 +0000" channel="Qwest_TV">
-    <title lang="es">Qwest TV On Stage - Sekouba Bambino</title>
-    <desc lang="es">Sékouba Bambino ignites Paris with a vibrant set mixing African roots and Afro-Latin grooves.(n)</desc>
+  <programme start="20260601075658 +0000" stop="20260601084723 +0000" channel="Todo_Novelas">
+    <title lang="es">Teresa</title>
+    <desc lang="es">Teresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.(n)</desc>
   </programme>
-  <programme start="20260601185100 +0000" stop="20260601193500 +0000" channel="Qwest_TV">
-    <title lang="es">Qwest TV On Stage - Celia Wa</title>
-    <desc lang="es">Flutist Célia Wa blends Afro-Caribbean roots with captivating modern sounds in a mesmerizing live performance.(n)</desc>
+  <programme start="20260601084723 +0000" stop="20260601093812 +0000" channel="Todo_Novelas">
+    <title lang="es">Azucar</title>
+    <desc lang="es">Una maldición sobre la familia de Manuel María Solaz se confirmará durante las próximas tres generaciones. Una novela que te hará viajar a otros tiempos, con pasiones, amores prohibidos, intriga y venganza en el universo de la caña de azúcar.(n)</desc>
   </programme>
-  <programme start="20260601193500 +0000" stop="20260601210600 +0000" channel="Qwest_TV">
-    <title lang="es">Black Lives - Live at New Morning</title>
-    <desc lang="es">The doublebass master delivers a beautiful and intimate performance in trio at the Philharmonie de Paris.(n)</desc>
+  <programme start="20260601093812 +0000" stop="20260601102829 +0000" channel="Todo_Novelas">
+    <title lang="es">Azucar</title>
+    <desc lang="es">Una maldición sobre la familia de Manuel María Solaz se confirmará durante las próximas tres generaciones. Una novela que te hará viajar a otros tiempos, con pasiones, amores prohibidos, intriga y venganza en el universo de la caña de azúcar.(n)</desc>
   </programme>
-  <programme start="20260601013538 +0000" stop="20260601014255 +0000" channel="Stingray_Classica">
-    <title lang="es">Classica Spotlight</title>
-    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  <programme start="20260601102829 +0000" stop="20260601111848 +0000" channel="Todo_Novelas">
+    <title lang="es">LA TREPADORA</title>
+    <desc lang="es">La Trepadora narra el choque entre dos familias poderosas y orgullosas. Nicolás Del Casal, decidido a recuperar el honor que le arrebataron a su madre, regresa a las tierras de sus antepasados. Allí se enfrenta a secretos, traiciones y al dominio de los Peñalver, la familia rival.(n)</desc>
   </programme>
-  <programme start="20260601014255 +0000" stop="20260601025800 +0000" channel="Stingray_Classica">
-    <title lang="es">Mahler - El Wunderhorn de la juventud</title>
-    <desc lang="es">Las canciones de "El cuerno mágico de la juventud" son un conjunto de 12 lieder orquestales de Mahler, basados en poemas populares de la colección de Arnim y Brentano, que fusionan el romanticismo con elementos folclóricos y exploran la experiencia humana con autenticidad y una profundidad emocional. Estas canciones se inspiran en las tradiciones folclóricas alemanas, incorporando temas de la naturaleza, el amor y la vida de los soldados, a menudo con un carácter dramático o conmovedor.(n)</desc>
+  <programme start="20260601111848 +0000" stop="20260601120622 +0000" channel="Todo_Novelas">
+    <title lang="es">LA TREPADORA</title>
+    <desc lang="es">La Trepadora narra el choque entre dos familias poderosas y orgullosas. Nicolás Del Casal, decidido a recuperar el honor que le arrebataron a su madre, regresa a las tierras de sus antepasados. Allí se enfrenta a secretos, traiciones y al dominio de los Peñalver, la familia rival.(n)</desc>
   </programme>
-  <programme start="20260601025800 +0000" stop="20260601043719 +0000" channel="Stingray_Classica">
-    <title lang="es">Sinfonía por el Perú en la Philharmonie de París</title>
-    <desc lang="es">El tenor superestrella Juan Diego Flórez da vida a los papeles más icónicos del repertorio bel canto, acompañado por los vibrantes jóvenes músicos de Sinfonía por el Perú, dirigidos por la célebre directora Ana María Patiño-Osorio. Embárcate en una aventura lírica con ellos, desde el poderoso drama de I Capuleti e I Montecchi de Bellini y la majestuosa Jerusalem de Verdi, hasta el bullicioso y animado can-can de la opereta Orpheus in the Underworld de Offenbach. Sinfonía por el Perú es una organización sin ánimo de lucro fundada por Juan Diego Flórez, con la misión de inspirar el cambio social a través de la educación musical colectiva. Desde su creación en 2011, más de seis mil jóvenes peruanos han tenido la oportunidad de tocar un instrumento o cantar en un coro. Estudiantes del programa han pisado los escenarios más prestigiosos del mundo, desde Salzburgo hasta Gstaad, incluyendo el Festival de Lucerna, y acompañan a Juan Diego Flórez en este concierto.(n)</desc>
+  <programme start="20260601120622 +0000" stop="20260601125938 +0000" channel="Todo_Novelas">
+    <title lang="es">Teresa</title>
+    <desc lang="es">Teresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.(n)</desc>
   </programme>
-  <programme start="20260601043719 +0000" stop="20260601062833 +0000" channel="Stingray_Classica">
-    <title lang="es">Las hermanas Berthollet en París</title>
-    <desc lang="es">Para este excepcional recital, grabado en 2019 en el Teatro de los Campos Eliseos, Camille y Julie Berthollet (violonchelo y violin, respectivamente) están acompañadas por el pianista Guillaume Vincent y el Ensemble Appassionato bajo la dirección de Mathieu Herzog. Las dos hermanas músicas han elegido un repertorio que atraviesa géneros y épocas para explorar el papel expresivo del violín y el violonchelo, desde el barroco de Vivaldi hasta las notas jazzísticas de Django Reinhardt y Stéphane Grapelli. Entre las obras del programa se encuentran las Danzas Húngaras nº 5 y nº 6 de Brahms, Palladio de Karl Jenkins, el Tema de la película Forrest Gump, de Alan Silvestri, el Quinteto con Piano, Op. 44 de Schumann, El violín rojo de Corigliano, la Rapsodia Húngara Op. 68 de Popper, Minor Swing de Reinhardt/Grappeli, y Csárdás de Monti.(n)</desc>
+  <programme start="20260601125938 +0000" stop="20260601134916 +0000" channel="Todo_Novelas">
+    <title lang="es">LA TREPADORA</title>
+    <desc lang="es">La Trepadora narra el choque entre dos familias poderosas y orgullosas. Nicolás Del Casal, decidido a recuperar el honor que le arrebataron a su madre, regresa a las tierras de sus antepasados. Allí se enfrenta a secretos, traiciones y al dominio de los Peñalver, la familia rival.(n)</desc>
   </programme>
-  <programme start="20260601062833 +0000" stop="20260601063351 +0000" channel="Stingray_Classica">
-    <title lang="es">Classica Spotlight</title>
-    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  <programme start="20260601134916 +0000" stop="20260601143925 +0000" channel="Todo_Novelas">
+    <title lang="es">Teresa</title>
+    <desc lang="es">Teresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.(n)</desc>
   </programme>
-  <programme start="20260601063351 +0000" stop="20260601082201 +0000" channel="Stingray_Classica">
-    <title lang="es">Chopin - Conciertos para piano</title>
-    <desc lang="es">Antoni Wit dirige a la Orquesta Filarmónica de Varsovia en la interpretación de los Conciertos para Piano nº 1, Op. 11, y nº 2, Op. 21 de Chopin. Los solistas son Nikolai Demidenko y Evgeny Kissin. Tras interpretar el primer concierto, Demidenko hace un bis con la Mazurka Op. 17/4 de Chopin. Kissin cierra el concierto con el Estudio Op. 10/12 de Chopin y el Vals en Mi menor, Op. post. Este concierto se enmarca en la celebración del 200 aniversario de Chopin en 2010. En realidad el ordinal de los conciertos parece cambiado, ya que Chopin compuso el segundo concierto un año antes que el Concierto nº 1 y completó ambas obras a la edad de 20 años, antes de dejar su país natal, Polonia, y trasladarse a París.(n)</desc>
+  <programme start="20260601143925 +0000" stop="20260601152951 +0000" channel="Todo_Novelas">
+    <title lang="es">Azucar</title>
+    <desc lang="es">Una maldición sobre la familia de Manuel María Solaz se confirmará durante las próximas tres generaciones. Una novela que te hará viajar a otros tiempos, con pasiones, amores prohibidos, intriga y venganza en el universo de la caña de azúcar.(n)</desc>
   </programme>
-  <programme start="20260601082201 +0000" stop="20260601105552 +0000" channel="Stingray_Classica">
-    <title lang="es">La Bayadère</title>
-    <desc lang="es">La Bayadère es un ballet en tres actos del coreógrafo francés Marius Petipa. Ambientado en la India del siglo XIX, La Bayadère cuenta la triste historia de amor entre el noble guerrero Solor y la bailarina del templo, o bayadère, Nikia, que es envenenada por su rival, Gamzatti. El ballet cuenta con una de las escenas más célebres del ballet clásico, "El reino de las sombras". En esta icónica escena, Solor sueña, bajo la influencia del opio, con reunirse con su amada Nikia. Esta producción del ballet presenta la coreografía revisada de Vladimir Ponomarev y Vakhtang Chabukiani (1941), e incluye danzas de Konstantin Sergeyev y Nikolai Zubkovsky. La música del ballet, compuesta por Ludwig Minkus, es interpretada por la Orquesta del Mariinsky bajo la dirección de Boris Gruzin. Entre los intérpretes están Viktoria Tereshkina, Anastasia Matvienko, Vladimir Shklyarov y Vladimir Ponomarev. Grabado en el Teatro Mariinsky de San Petersburgo, Rusia, en julio de 2014.(n)</desc>
+  <programme start="20260601152951 +0000" stop="20260601162018 +0000" channel="Todo_Novelas">
+    <title lang="es">Azucar</title>
+    <desc lang="es">Una maldición sobre la familia de Manuel María Solaz se confirmará durante las próximas tres generaciones. Una novela que te hará viajar a otros tiempos, con pasiones, amores prohibidos, intriga y venganza en el universo de la caña de azúcar.(n)</desc>
   </programme>
-  <programme start="20260601105552 +0000" stop="20260601115751 +0000" channel="Stingray_Classica">
-    <title lang="es">Mozart - Réquiem en Re menor, K. 626</title>
-    <desc lang="es">Daniel Harding dirige a la Orquesta y Coro del Maggio Musicale Fiorentino y a cuatro solistas vocales en una magnífica interpretación del Réquiem en Re menor K. 626, de Wolfgang Amadeus Mozart. Los solistas son la soprano Christiane Karg, la mezzosoprano Sara Mingardo, el tenor Matthew Swensen y el bajo Gianluca Buratto. El Réquiem de Mozart fue encargado por el conde austriaco Walsegg en julio de 1791 para conmemorar a su difunta esposa, Anna. En aquella época, el compositor estaba ocupado trabajando en sus óperas La clemenza di Tito y La flauta mágica. Cuando Mozart empezó a trabajar en el Réquiem, en otoño de ese mismo año, su salud estaba gravemente deteriorada. El compositor falleció en diciembre de 1791, dejando inconclusa la obra maestra. El Réquiem fue finalmente completado por su discípulo Franz Xaver Süssmayr en la forma conocida hoy en día, utilizando material de composición del compositor que ya no existe, y quizás también instrucciones verbales del propio Mozart. Grabado en el Teatro del Maggio Musicale Fiorentino de Florencia, Italia, en 2021.(n)</desc>
+  <programme start="20260601162018 +0000" stop="20260601171026 +0000" channel="Todo_Novelas">
+    <title lang="es">Teresa</title>
+    <desc lang="es">Teresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.(n)</desc>
   </programme>
-  <programme start="20260601115751 +0000" stop="20260601135533 +0000" channel="Stingray_Classica">
-    <title lang="es">Beethoven - Sinfonías y Concierto para Piano no 4</title>
-    <desc lang="es">Iván Fischer dirige a la Orquesta del Festival de Budapest (BFO) en un programa de concierto dedicado a la música de Ludwig van Beethoven. El programa se abre con la Sinfonía nº 1 en Do mayor Op. 21, del compositor. A continuación, Fischer dirige el Concierto para Piano nº 4 en Sol mayor Op. 58, de Beethoven, en el que Richard Goode actúa como solista. El aclamado pianista estadounidense (1943) es conocido por sus interpretaciones del repertorio beethoveniano. Goode grabó los cinco conciertos para piano de Beethoven con la BFO y Fischer, lo que le valió un excepcional reconocimiento de la crítica y una nominación a los premios Grammy. Como propina, Goode interpreta la Sarabande de la Partita en Si bemol mayor BWV 825, de J.S. Bach. El programa se cierra con la célebre Sinfonía nº 5 en Do menor Op. 67, de Beethoven. Grabado en la Sala Nacional de Conciertos Béla Bartók de Budapest (Hungría), el 29 de enero de 2017.(n)</desc>
+  <programme start="20260601171026 +0000" stop="20260601180004 +0000" channel="Todo_Novelas">
+    <title lang="es">LA TREPADORA</title>
+    <desc lang="es">La Trepadora narra el choque entre dos familias poderosas y orgullosas. Nicolás Del Casal, decidido a recuperar el honor que le arrebataron a su madre, regresa a las tierras de sus antepasados. Allí se enfrenta a secretos, traiciones y al dominio de los Peñalver, la familia rival.(n)</desc>
   </programme>
-  <programme start="20260601135533 +0000" stop="20260601135721 +0000" channel="Stingray_Classica">
-    <title lang="es">Classica Spotlight</title>
-    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  <programme start="20260601180004 +0000" stop="20260601185030 +0000" channel="Todo_Novelas">
+    <title lang="es">Azucar</title>
+    <desc lang="es">Una maldición sobre la familia de Manuel María Solaz se confirmará durante las próximas tres generaciones. Una novela que te hará viajar a otros tiempos, con pasiones, amores prohibidos, intriga y venganza en el universo de la caña de azúcar.(n)</desc>
   </programme>
-  <programme start="20260601135721 +0000" stop="20260601153351 +0000" channel="Stingray_Classica">
-    <title lang="es">Welser-Möst dirige Farrenc y Mussorgsky/Ravel</title>
-    <desc lang="es">Franz Welser-Möst dirige con maestría a la Cleveland Orchestra en un programa cautivador grabado en el emblemático Severance Music Center de Cleveland en marzo de 2023. El programa, que promete una experiencia musical inolvidable, incluye la majestuosa Sinfonía n.º 3 de Louise Farrenc, el vibrante Concierto para piano en sol de Ravel, con la virtuosa interpretación de Vïkingur Ólafsson como solista, y la evocadora obra Cuadros de una exposición de Mussorgsky, en la brillante orquestación de Ravel. Una velada que sin duda deleitará a los amantes de la música clásica.(n)</desc>
+  <programme start="20260601185030 +0000" stop="20260601194039 +0000" channel="Todo_Novelas">
+    <title lang="es">Teresa</title>
+    <desc lang="es">Teresa es una joven dominada por la codicia. Sus padres han hecho grandes sacrificios para darle una vida buena y decente, pero Teresa quiere más, mucho más.(n)</desc>
   </programme>
-  <programme start="20260601153351 +0000" stop="20260601154249 +0000" channel="Stingray_Classica">
-    <title lang="es">Classica Spotlight</title>
-    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  <programme start="20260601194039 +0000" stop="20260601203016 +0000" channel="Todo_Novelas">
+    <title lang="es">LA TREPADORA</title>
+    <desc lang="es">La Trepadora narra el choque entre dos familias poderosas y orgullosas. Nicolás Del Casal, decidido a recuperar el honor que le arrebataron a su madre, regresa a las tierras de sus antepasados. Allí se enfrenta a secretos, traiciones y al dominio de los Peñalver, la familia rival.(n)</desc>
   </programme>
-  <programme start="20260601154249 +0000" stop="20260601171617 +0000" channel="Stingray_Classica">
-    <title lang="es">Réquiem de Fauré</title>
-    <desc lang="es">El año 2024 marca el centenario del fallecimiento de Gabriel Fauré, considerado uno de los compositores más importantes e influyentes, quien fue maestro de Maurice Ravel, Georges Enescu, Nadia Boulanger y muchos otros. El Orchestre National du Capitole de Toulouse y el Philharmonic Chorus of Tokyo, con Florian Sempey como solista, interpretan el Réquiem de Gabriel Fauré en la Basílica de Saint-Sernin en Toulouse, la mayor iglesia románica conservada en Francia y uno de los edificios más importantes de la arquitectura románica. Este concierto extraordinario está dirigido por Kazuki Yamada, actualmente uno de los jóvenes directores más prometedores. En la primavera de 2023, fue nombrado Director Principal y Asesor Artístico de la City of Birmingham Symphony Orchestra, y también es Director Artístico y Musical del Orchestre Philharmonique de Monte-Carlo.(n)</desc>
+  <programme start="20260601203016 +0000" stop="20260601212230 +0000" channel="Todo_Novelas">
+    <title lang="es">Amor Sin Limites</title>
+    <desc lang="es">Zeca fue encarcelado por un crimen en el que no participó, ahora está libre y mientras trata de hacer una nueva vida se encuentra con un niño, sorprendentemente el niño es el hijo de Ema, su amante de mucho tiempo.(n)</desc>
   </programme>
-  <programme start="20260601171617 +0000" stop="20260601182853 +0000" channel="Stingray_Classica">
-    <title lang="es">Gianandrea Noseda dirige Strauss y Liszt</title>
-    <desc lang="es">Gianandrea Noseda dirige la London Symphony Orchestra en una actuación de concierto grabada el 15 de abril de 2021 en St. Luke’s, Londres. El programa comienza con el Duett-Concertino para clarinete y fagot de Richard Strauss, una obra tardía y lírica que evoca un diálogo de cuento de hadas entre los dos instrumentos solistas, con Chris Richards (clarinete) y Rachel Gough (fagot). A continuación, el Poema Sinfónico n.º 4, Orfeo, de Franz Liszt, un homenaje contemplativo y radiante al músico mítico. El concierto concluye con la Sinfonía n.º 3 de Nino Rota, una obra rítmicamente vibrante y ricamente melódica que refleja el estilo cinematográfico por el que el compositor es ampliamente conocido.(n)</desc>
+  <programme start="20260601212230 +0000" stop="20260601221222 +0000" channel="Todo_Novelas">
+    <title lang="es">Amor Sin Limites</title>
+    <desc lang="es">Zeca fue encarcelado por un crimen en el que no participó, ahora está libre y mientras trata de hacer una nueva vida se encuentra con un niño, sorprendentemente el niño es el hijo de Ema, su amante de mucho tiempo.(n)</desc>
   </programme>
-  <programme start="20260601182853 +0000" stop="20260601183047 +0000" channel="Stingray_Classica">
-    <title lang="es">Classica Spotlight</title>
-    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  <programme start="20260601221222 +0000" stop="20260601230807 +0000" channel="Todo_Novelas">
+    <title lang="es">PIEL SALVAJE</title>
+    <desc lang="es">Camila busca a su madre biológica tras haber sido abandonada en la calle años atrás. En el proceso se encuentra en medio de dos empresas de moda enemistadas que quieren destruirse mutuamente por todos los medios, incluidos el secuestro y el asesinato.(n)</desc>
   </programme>
-  <programme start="20260601183047 +0000" stop="20260601201105 +0000" channel="Stingray_Classica">
-    <title lang="es">La fulguración romántica: Beethoven y Bizet</title>
-    <desc lang="es">La joven directora de orquesta venezolana Glass Marcano es una estrella emergente en el mundo de los directores de música clásica. Como violinista tocó en la Orquesta Juvenil de San Felipe, la Orquesta Sinfónica de Yaracuy y la Orquesta Juvenil de Yaracuy. Más tarde, tras su primera experiencia en dirección en 2012, decidió comenzar a estudiar dirección un año después. En septiembre de 2020, fue galardonada con el premio de orquesta del Concurso La Maestra, el primer concurso de dirección de orquesta para mujeres, celebrado en París. En este concierto de 2021, Marcano dirige la Orchestre Symphonique Région Cenre-Val de Loire/Tours en la interpretación de dos obras maestras del repertorio romántico. El programa se abre con el Concierto para Violín en Re mayor, Op. 61 de Ludwig van Beethoven, protagonizado por Stéphanie-Marie Degand como solista. El Concierto para Violín del compositor es una de las obras más importantes de su género. El programa concluye con la Sinfonía en Do de Georges Bizet, escrita en 1855, cuando el compositor tenía tan sólo 17 años. Grabado en la Ópera de Tours, en febrero de 2021.(n)</desc>
+  <programme start="20260601000000 +0000" stop="20260601010000 +0000" channel="Movie_Music">
+    <title lang="es">Música de películas</title>
+    <desc lang="es">La maestría sinfónica se fusiona con la magia cinematográfica en las películas.(n)</desc>
   </programme>
-  <programme start="20260601201105 +0000" stop="20260601201515 +0000" channel="Stingray_Classica">
-    <title lang="es">Classica Spotlight</title>
-    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  <programme start="20260601010000 +0000" stop="20260601020000 +0000" channel="Movie_Music">
+    <title lang="es">Música de películas</title>
+    <desc lang="es">La maestría sinfónica se fusiona con la magia cinematográfica en las películas.(n)</desc>
   </programme>
-  <programme start="20260601201515 +0000" stop="20260601215756 +0000" channel="Stingray_Classica">
-    <title lang="es">Galaxymphony Strikes Back</title>
-    <desc lang="es">La Orquesta Sinfónica Nacional de Dinamarca nos lleva a un espectacular viaje espacial sinfónico en un programa de concierto de música de cine fuera de este mundo. Bajo la dirección del holandés Antony Hermus, la orquesta nos guía a través del universo musical, interpretando una selección de música de películas icónicas de ciencia ficción, como Avatar, Gravity, Interstellar y Star Wars, escritas por grandes compositores como John Williams, Hans Zimmer y James Horner. Los solistas de este concierto son Tuva Semmingsen, Christine Nonbo Andersen, Steffen Bruun y David Bateson. Grabado en el DR Koncerthuset de Copenhague, Dinamarca, en agosto de 2021.(n)</desc>
+  <programme start="20260601020000 +0000" stop="20260601030000 +0000" channel="Movie_Music">
+    <title lang="es">Música de películas</title>
+    <desc lang="es">La maestría sinfónica se fusiona con la magia cinematográfica en las películas.(n)</desc>
   </programme>
-  <programme start="20260601215756 +0000" stop="20260601220000 +0000" channel="Stingray_Classica">
-    <title lang="es">Classica Spotlight</title>
-    <desc lang="es">Clips de música cinematográfica y clásicos de concierto con la actuación de artistas de gran proyección.(n)</desc>
+  <programme start="20260601030000 +0000" stop="20260601040000 +0000" channel="Movie_Music">
+    <title lang="es">Música de películas</title>
+    <desc lang="es">La maestría sinfónica se fusiona con la magia cinematográfica en las películas.(n)</desc>
+  </programme>
+  <programme start="20260601040000 +0000" stop="20260601050000 +0000" channel="Movie_Music">
+    <title lang="es">Música de películas</title>
+    <desc lang="es">La maestría sinfónica se fusiona con la magia cinematográfica en las películas.(n)</desc>
+  </programme>
+  <programme start="20260601050000 +0000" stop="20260601060000 +0000" channel="Movie_Music">
+    <title lang="es">Música de cine familiar</title>
+    <desc lang="es">Vuelo, fantasía y una cucharada de azúcar: esta colección despertará al niño en nosotros.(n)</desc>
+  </programme>
+  <programme start="20260601060000 +0000" stop="20260601070000 +0000" channel="Movie_Music">
+    <title lang="es">Música de películas históricas</title>
+    <desc lang="es">Disfruta de las bandas sonoras de dramas históricos que tejen romance e intriga.(n)</desc>
+  </programme>
+  <programme start="20260601070000 +0000" stop="20260601080000 +0000" channel="Movie_Music">
+    <title lang="es">Música de clásicos del cine</title>
+    <desc lang="es">Revisita las partituras inolvidables que definieron la época dorada del cine del siglo XX.(n)</desc>
+  </programme>
+  <programme start="20260601080000 +0000" stop="20260601090000 +0000" channel="Movie_Music">
+    <title lang="es">Música de aventuras y leyendas</title>
+    <desc lang="es">Experimenta la fantasía y la aventura con la música de las historias más épicas.(n)</desc>
+  </programme>
+  <programme start="20260601090000 +0000" stop="20260601100000 +0000" channel="Movie_Music">
+    <title lang="es">Música bandas sonoras de cine</title>
+    <desc lang="es">Disfruta de interpretaciones de bandas sonoras de películas por artistas clásicos.(n)</desc>
+  </programme>
+  <programme start="20260601100000 +0000" stop="20260601110000 +0000" channel="Movie_Music">
+    <title lang="es">Música de historias de amor</title>
+    <desc lang="es">Adéntrate en el mundo del romance con las bandas sonoras más conmovedoras compuestas.(n)</desc>
+  </programme>
+  <programme start="20260601110000 +0000" stop="20260601120000 +0000" channel="Movie_Music">
+    <title lang="es">Música de adaptaciones</title>
+    <desc lang="es">De la página a la pantalla, disfruta de historias que cobran vida con sus bandas sonoras.(n)</desc>
+  </programme>
+  <programme start="20260601120000 +0000" stop="20260601130000 +0000" channel="Movie_Music">
+    <title lang="es">Música de comedias de rollo</title>
+    <desc lang="es">Disfruta de una mezcla de melodías de los momentos cómicos más memorables del cine.(n)</desc>
+  </programme>
+  <programme start="20260601130000 +0000" stop="20260601140000 +0000" channel="Movie_Music">
+    <title lang="es">Música de aventuras y leyendas</title>
+    <desc lang="es">Experimenta la fantasía y la aventura con la música de las historias más épicas.(n)</desc>
+  </programme>
+  <programme start="20260601140000 +0000" stop="20260601150000 +0000" channel="Movie_Music">
+    <title lang="es">Música de cine familiar</title>
+    <desc lang="es">Vuelo, fantasía y una cucharada de azúcar: esta colección despertará al niño en nosotros.(n)</desc>
+  </programme>
+  <programme start="20260601150000 +0000" stop="20260601160000 +0000" channel="Movie_Music">
+    <title lang="es">Música de historias reales</title>
+    <desc lang="es">Sumérgete en historias de íconos la vida real y las bandas sonoras inolvidables que inspiraron.(n)</desc>
+  </programme>
+  <programme start="20260601160000 +0000" stop="20260601170000 +0000" channel="Movie_Music">
+    <title lang="es">Música de clásicos del cine</title>
+    <desc lang="es">Revisita las partituras inolvidables que definieron la época dorada del cine del siglo XX.(n)</desc>
+  </programme>
+  <programme start="20260601170000 +0000" stop="20260601180000 +0000" channel="Movie_Music">
+    <title lang="es">Música bandas sonoras de cine</title>
+    <desc lang="es">Disfruta de interpretaciones de bandas sonoras de películas por artistas clásicos.(n)</desc>
+  </programme>
+  <programme start="20260601180000 +0000" stop="20260601190000 +0000" channel="Movie_Music">
+    <title lang="es">Música de comedias de rollo</title>
+    <desc lang="es">Disfruta de una mezcla de melodías de los momentos cómicos más memorables del cine.(n)</desc>
+  </programme>
+  <programme start="20260601190000 +0000" stop="20260601200000 +0000" channel="Movie_Music">
+    <title lang="es">Música de éxitos de taquilla</title>
+    <desc lang="es">¡Partituras trepidantes de Hollywood que alimentan tu adrenalina y te estremecen!(n)</desc>
+  </programme>
+  <programme start="20260601200000 +0000" stop="20260601210000 +0000" channel="Movie_Music">
+    <title lang="es">Música de lo mejor del cine</title>
+    <desc lang="es">Disfruta bandas sonoras, desde clásicos atemporales hasta obras maestras modernas.(n)</desc>
+  </programme>
+  <programme start="20260601210000 +0000" stop="20260601220000 +0000" channel="Movie_Music">
+    <title lang="es">Música de lo mejor del cine</title>
+    <desc lang="es">Disfruta bandas sonoras, desde clásicos atemporales hasta obras maestras modernas.(n)</desc>
+  </programme>
+  <programme start="20260601220000 +0000" stop="20260601230000 +0000" channel="Movie_Music">
+    <title lang="es">Música de lo mejor del cine</title>
+    <desc lang="es">Disfruta bandas sonoras, desde clásicos atemporales hasta obras maestras modernas.(n)</desc>
+  </programme>
+  <programme start="20260601015941 +0000" stop="20260601042506 +0000" channel="Qello_Concerts">
+    <title lang="es">Live in Madrid</title>
+    <desc lang="es">No Bull es un concierto filmado en 16 mm en la Plaza de Toros de Las Ventas, Madrid, el 10 de julio de 1996, durante la gira Ballbreaker de la banda australiana de hard rock AC/DC, lanzado en VHS en 1996 y en DVD en 2000.(n)</desc>
+  </programme>
+  <programme start="20260601042506 +0000" stop="20260601051639 +0000" channel="Qello_Concerts">
+    <title lang="es">Live in London 2011</title>
+    <desc lang="es">El iTunes Festival es un festival anual de música que se lleva a cabo en Londres durante un mes. Está patrocinado por Apple Inc. y tuvo su primera edición en 2007.(n)</desc>
+  </programme>
+  <programme start="20260601051639 +0000" stop="20260601064454 +0000" channel="Qello_Concerts">
+    <title lang="es">Rod Stewart - Live at Hyde Park</title>
+    <desc lang="es">Un concierto del legendario Rod Stewart que puso el broche final al Annual Festival In A Day de Radio 2, el cual tuvo lugar en septiembre de 2015 en el Hyde Park de Londres.(n)</desc>
+  </programme>
+  <programme start="20260601064454 +0000" stop="20260601100850 +0000" channel="Qello_Concerts">
+    <title lang="es">Live in Hyde Park</title>
+    <desc lang="es">London Calling: Live in Hyde Park es un video del concierto de Bruce Springsteen y la E Street Band durante el festival de música Hard Rock Calling en Hyde Park, Londres, el 28 de junio de 2009.(n)</desc>
+  </programme>
+  <programme start="20260601100850 +0000" stop="20260601122118 +0000" channel="Qello_Concerts">
+    <title lang="es">Live in Nürburgring</title>
+    <desc lang="es">Kiss es uno de los grupos legendarios de la historia del rock pesado. Tienen millones de seguidores en todo el mundo y llevan vendidos más de 100 millones de discos. KISS confirma por qué han sido los mejores en el escenario durante casi cuatro décadas en una actuación que hizo historia y que impresionó a una audiencia de más de 85 000 personas en un espectáculo de más de 2 horas y repleto de éxitos, celebrado en 2010 en el Nürburgring de Alemania.(n)</desc>
+  </programme>
+  <programme start="20260601122118 +0000" stop="20260601141308 +0000" channel="Qello_Concerts">
+    <title lang="es">Live in London 2014</title>
+    <desc lang="es">Esta película de concierto, filmada en el Roundhouse de Londres, será una experiencia en vivo espectacular de principio a fin para todos los fans. Blondie interpreta éxitos como ''Heart of Glass", "Euphoria'', ''Mile High" y muchos más.(n)</desc>
+  </programme>
+  <programme start="20260601141308 +0000" stop="20260601160316 +0000" channel="Qello_Concerts">
+    <title lang="es">Depeche Mode - Rock Am Ring</title>
+    <desc lang="es">Rock Am Ring (Nürburgring), Rock Im Park (Núremberg) es un festival de música que se celebra anualmente en el hipódromo de Nürburgring, en el oeste de Alemania. En esta ocasión se presenta Depeche Mode.(n)</desc>
+  </programme>
+  <programme start="20260601160316 +0000" stop="20260601174425 +0000" channel="Qello_Concerts">
+    <title lang="es">Robert Plant - Live in London 2014</title>
+    <desc lang="es">ITunes Festival, es un festival de música anual que se celebra durante un mes en Londres. Patrocinado por Apple Inc., tuvo su primera edición en 2007.(n)</desc>
+  </programme>
+  <programme start="20260601174425 +0000" stop="20260601202220 +0000" channel="Qello_Concerts">
+    <title lang="es">Orion Festival: Tour Through the Never</title>
+    <desc lang="es">Este concierto, filmado en Orion Festival, Atlantic City, le brinda a los fans, de principio a fin, una experiencia en vivo sin igual. Metallica deleita al público con una versión inolvidable de sus éxitos 'One', 'Master Of Puppets', 'Sad But True', 'Seek And Destroy' y muchos más.(n)</desc>
+  </programme>
+  <programme start="20260601202220 +0000" stop="20260601220000 +0000" channel="Qello_Concerts">
+    <title lang="es">Linkin Park - Live in New York</title>
+    <desc lang="es">Esta película concierto, filmada en el Madison Square Garden de Nueva York, será una espectacular experiencia en vivo de principio a fin para todos los fans. Linkin Park interpreta éxitos como "Numb", "In The End", "Bleed it Out" y muchos más.(n)</desc>
+  </programme>
+  <programme start="20260601220000 +0000" stop="20260601232614 +0000" channel="Qello_Concerts">
+    <title lang="es">Rod Stewart - Live at Hyde Park</title>
+    <desc lang="es">Un concierto del legendario Rod Stewart que puso el broche final al Annual Festival In A Day de Radio 2, el cual tuvo lugar en septiembre de 2015 en el Hyde Park de Londres.(n)</desc>
+  </programme>
+  <programme start="20260601000000 +0000" stop="20260601003130 +0000" channel="Motorvision_TV">
+    <title lang="es">4x4</title>
+    <desc lang="es">El Jaguar XF-S pretende presionar a BMW, Audi y al resto de competidores en el segmento de la clase business. Volvo está adoptando un enfoque diferente. El S90 impresiona con su diseño escandinavo y sus económicos motores de cuatro cilindros.(n)</desc>
+  </programme>
+  <programme start="20260601003130 +0000" stop="20260601010048 +0000" channel="Motorvision_TV">
+    <title lang="es">4x4</title>
+    <desc lang="es">ORZ Vehicles, una empresa alemana especializada en la producción, venta e instalación de piezas y accesorios Jeep, hace realidad el sueño americano del todoterreno. Un buen ejemplo de este enfoque es el Brute, una versión pick-up del Wrangler.(n)</desc>
+  </programme>
+  <programme start="20260601010048 +0000" stop="20260601013220 +0000" channel="Motorvision_TV">
+    <title lang="es">4x4</title>
+    <desc lang="es">El Seat Arona es el típico SUV compacto. Otro pseudo todoterreno es el Volkswagen T-Roc. ¿Podrá el SUV más pequeño de Volkswagen repetir el éxito del Tiguan? También: los competidores asiáticos Hyundai Kona, KIA Stonic y Toyota C-HR.(n)</desc>
+  </programme>
+  <programme start="20260601013220 +0000" stop="20260601020000 +0000" channel="Motorvision_TV">
+    <title lang="es">4x4</title>
+    <desc lang="es">Los especialistas en todoterreno de Delta 4x4 convirtieron un Volkswagen Amarol en su llamada Bestia y desafiaron al experto en todoterreno de Toyota, Alexander Wohlfarth, con su Toyota Hilux. ¿Cuál de estos potentes 4x4 se comporta mejor?(n)</desc>
+  </programme>
+  <programme start="20260601020000 +0000" stop="20260601023247 +0000" channel="Motorvision_TV">
+    <title lang="es">Ponga su carro en la TV</title>
+    <desc lang="es">Se invita a los maníacos de los coches a traer sus vehículos tuneados a "The Walk", en la playa de Jumeirah, para que sean juzgados por su velocidad, estilo y sonido. En este episodio, un Chevrolet Camaro y un Mercedes SLS AMG intentarán sorprender.(n)</desc>
+  </programme>
+  <programme start="20260601023247 +0000" stop="20260601030506 +0000" channel="Motorvision_TV">
+    <title lang="es">Ponga su carro en la TV</title>
+    <desc lang="es">Pon tu coche en la tele invita a los propietarios de coches a que los califique Saif Hattawi. La persona con más puntos ganará un regalo especial del Sofitel Dubai Jumeirah Beach. Incluye: un BMW X5 y un Mercedes SLK 230.(n)</desc>
+  </programme>
+  <programme start="20260601030506 +0000" stop="20260601033757 +0000" channel="Motorvision_TV">
+    <title lang="es">Ponga su carro en la TV</title>
+    <desc lang="es">La gente de Oriente Medio está loca por sus coches. En Put Your Car on TV, pueden presentar sus vehículos tuneados y calificados. Entre los competidores de hoy se encuentran un Nova SS, un Honda Acord especial y un coche lleno de cristales.(n)</desc>
+  </programme>
+  <programme start="20260601033757 +0000" stop="20260601034752 +0000" channel="Motorvision_TV">
+    <title lang="es">BMW M6 Gran Coupé</title>
+    <desc lang="es">El M6 Gran Coupé es la última joya de las plantas M de BMW. Es ancho y bajo y cuenta con las tomas de aire extragrandes típicas de esta serie. Los bávaros sacan a relucir su martillo V8 y demuestran lo que significa tener la sensación de volar.(n)</desc>
+  </programme>
+  <programme start="20260601034752 +0000" stop="20260601040000 +0000" channel="Motorvision_TV">
+    <title lang="es">Porsche 911 GT3 RS</title>
+    <desc lang="es">Los grandes alerones traseros sugieren que hay mucha potencia escondida bajo el capó que debe ser controlada, ya que estos alerones proporcionan la carga aerodinámica necesaria. El Porsche GT3 RS tiene un alerón trasero muy especial.(n)</desc>
+  </programme>
+  <programme start="20260601040000 +0000" stop="20260601041831 +0000" channel="Motorvision_TV">
+    <title lang="es">Breakthrough</title>
+    <desc lang="es">Hace mucho tiempo, los gatos dientes de sable gobernaron las Américas. La evidencia fósil arroja nueva luz sobre las vidas violentas de estas misteriosas especies.(n)</desc>
+  </programme>
+  <programme start="20260601041831 +0000" stop="20260601043453 +0000" channel="Motorvision_TV">
+    <title lang="es">Breakthrough</title>
+    <desc lang="es">El Tiranosaurio Rex es conocido como el rey de los dinosaurios, pero, ¿cómo comenzó su reinado? Conoce a Moros Intrepidus, un ancestro del T-Rex de 80 kg. y del tamaño de un ciervo.(n)</desc>
+  </programme>
+  <programme start="20260601043453 +0000" stop="20260601045402 +0000" channel="Motorvision_TV">
+    <title lang="es">Breakthrough</title>
+    <desc lang="es">¿Cuánto tarda en recuperarse la vida luego de una extinción masiva? La comunidad científica de Svalbard analiza pistas fósiles para realizar sorprendentes descubrimientos sobre la historia de nuestra Tierra.(n)</desc>
+  </programme>
+  <programme start="20260601045402 +0000" stop="20260601051400 +0000" channel="Motorvision_TV">
+    <title lang="es">Breakthrough</title>
+    <desc lang="es">El nuevo descubrimiento extraordinario de un fósil de dinosaurio tan prístino y completo que muestra la textura, patrones y colores de un gigante prehistórico. Descubre esta nueva especie que vivió a fines del período Jurásico y durante el período Cretáceo.(n)</desc>
+  </programme>
+  <programme start="20260601051400 +0000" stop="20260601053315 +0000" channel="Motorvision_TV">
+    <title lang="es">Breakthrough</title>
+    <desc lang="es">¿Es posible que el cráneo de un dinosaurio de 75 millones de años que estuvo guardado en un museo por más de 20 años contenga el primer ADN de dinosaurio descubierto por la humanidad?(n)</desc>
+  </programme>
+  <programme start="20260601053315 +0000" stop="20260601055219 +0000" channel="Motorvision_TV">
+    <title lang="es">Breakthrough</title>
+    <desc lang="es">Los científicos han concluido en que "Meg" alcanzó sus proporciones gigantescas porque comenzó su dieta carnívora muy temprano: en el útero.(n)</desc>
+  </programme>
+  <programme start="20260601055219 +0000" stop="20260601060000 +0000" channel="Motorvision_TV">
+    <title lang="es">Bentley Continental GT3R</title>
+    <desc lang="es">La edición especial del Bentley Continental GT3-R es un noble corredor limitado a 300 unidades.(n)</desc>
+  </programme>
+  <programme start="20260601060000 +0000" stop="20260601070122 +0000" channel="Motorvision_TV">
+    <title lang="es">Velocidad</title>
+    <desc lang="es">A lo largo de la historia, el intercambio humano llegó al océano. Innovaciones en navegación aceleraron el transporte marítimo, revolucionando el mundo al mover personas y bienes más rápido con fines comerciales y recreativos.(n)</desc>
+  </programme>
+  <programme start="20260601070122 +0000" stop="20260601080556 +0000" channel="Motorvision_TV">
+    <title lang="es">Velocidad</title>
+    <desc lang="es">Nunca antes la humanidad tuvo tanta movilidad. La demanda de transporte rápido, eficaz y seguro es altísima. Confiamos más que nunca en la tecnología: autos autónomos y trenes de alta velocidad nos impulsan hacia el futuro.(n)</desc>
+  </programme>
+  <programme start="20260601080556 +0000" stop="20260601081507 +0000" channel="Motorvision_TV">
+    <title lang="es">McLaren 570 GT</title>
+    <desc lang="es">Se supone que el 570 GT es el primer McLaren que no sólo es deportivo, sino sobre todo apto para las largas distancias. Comprobamos si este acto de equilibrio tiene éxito.(n)</desc>
+  </programme>
+  <programme start="20260601081507 +0000" stop="20260601082501 +0000" channel="Motorvision_TV">
+    <title lang="es">McLaren 720 S</title>
+    <desc lang="es">El McLaren 720S es el sucesor oficial del 650S y sigue unos pasos bastante importantes. Analizamos de cerca lo convincente que es en comparación con su predecesor.(n)</desc>
+  </programme>
+  <programme start="20260601082501 +0000" stop="20260601083653 +0000" channel="Motorvision_TV">
+    <title lang="es">McLaren 570</title>
+    <desc lang="es">McLaren se libera de la producción limitada y, con el 570S, lanza al mercado un nuevo modelo de entrada.(n)</desc>
+  </programme>
+  <programme start="20260601083653 +0000" stop="20260601084701 +0000" channel="Motorvision_TV">
+    <title lang="es">McLaren 570S Spider</title>
+    <desc lang="es">La competencia principal de McLaren es el automovilismo. Pero el 570 S Spider está diseñado para aportar prestaciones con estilo y elegancia británica a la carretera.(n)</desc>
+  </programme>
+  <programme start="20260601084701 +0000" stop="20260601085512 +0000" channel="Motorvision_TV">
+    <title lang="es">Pagani Huayra</title>
+    <desc lang="es">Los superdeportivos italianos inspiran a jóvenes y mayores. Y en este fascinante mundo, el Pagani Huayra es la gloria que canta.(n)</desc>
+  </programme>
+  <programme start="20260601085512 +0000" stop="20260601090820 +0000" channel="Motorvision_TV">
+    <title lang="es">Lamborghini Huracan O CT</title>
+    <desc lang="es">El Lamborghini Huracán, con su V10, es brutal, pero todavía hay quien piensa que ni siquiera eso es suficiente potencia. Por eso, la empresa suiza de tuning O.CT convirtió a este toro furioso en una bestia aún más furiosa.(n)</desc>
+  </programme>
+  <programme start="20260601090820 +0000" stop="20260601092021 +0000" channel="Motorvision_TV">
+    <title lang="es">Porsche 911 GT3 RS</title>
+    <desc lang="es">Los grandes alerones traseros sugieren que hay mucha potencia escondida bajo el capó que debe ser controlada, ya que estos alerones proporcionan la carga aerodinámica necesaria. El Porsche GT3 RS tiene un alerón trasero muy especial.(n)</desc>
+  </programme>
+  <programme start="20260601092021 +0000" stop="20260601093159 +0000" channel="Motorvision_TV">
+    <title lang="es">Nissan GT-R R35</title>
+    <desc lang="es">Después de su lavado de cara, el Nissan GTR se presenta recién aerodinámico y más potente que nunca.(n)</desc>
+  </programme>
+  <programme start="20260601093159 +0000" stop="20260601094323 +0000" channel="Motorvision_TV">
+    <title lang="es">Aston Martin DB11</title>
+    <desc lang="es">Con el Aston Martin DB 11, los británicos emprenden el camino hacia el futuro. Nuevo motor, nueva tecnología y un diseño que dará forma a todos los demás modelos.(n)</desc>
+  </programme>
+  <programme start="20260601094323 +0000" stop="20260601095419 +0000" channel="Motorvision_TV">
+    <title lang="es">Tushek TS600</title>
+    <desc lang="es">Es lo exótico entre lo exótico. No es un Ferrari ni un Lamborghini, sino que se llama Tushek TS600 y fue desarrollado por el piloto de carreras esloveno Aljosa Tushek. El concepto: un superdeportivo ligero con prestaciones reales.(n)</desc>
+  </programme>
+  <programme start="20260601095419 +0000" stop="20260601100000 +0000" channel="Motorvision_TV">
+    <title lang="es">Bentley Continental GT3R</title>
+    <desc lang="es">La edición especial del Bentley Continental GT3-R es un noble corredor limitado a 300 unidades.(n)</desc>
+  </programme>
+  <programme start="20260601100000 +0000" stop="20260601101218 +0000" channel="Motorvision_TV">
+    <title lang="es">Mustang</title>
+    <desc lang="es">El Ford Mustang Shelby GT-500 nació de la vibra de los 60 y la experiencia en carreras de Carroll Shelby. Su estilo "boulevard cruiser" y su potente motor lo hicieron un éxito de ventas.(n)</desc>
+  </programme>
+  <programme start="20260601101218 +0000" stop="20260601102118 +0000" channel="Motorvision_TV">
+    <title lang="es">Corvette</title>
+    <desc lang="es">El Split-window Stingray Coupe de 1963 combinaba potencia, desempeño, precisión y diseño juvenil. Su estilo único, elegante y progresivo lo convirtió en un favorito eterno entre los fanáticos de los autos y los coleccionistas.(n)</desc>
+  </programme>
+  <programme start="20260601102118 +0000" stop="20260601103441 +0000" channel="Motorvision_TV">
+    <title lang="es">Oldsmobile</title>
+    <desc lang="es">El Oldsmobile F88 era el "auto soñado" de la línea de GM Oldsmobile, pero el auto, a pesar de su estilo sofisticado y encantador, no estaba destinado a entrar en producción.(n)</desc>
+  </programme>
+  <programme start="20260601103441 +0000" stop="20260601104702 +0000" channel="Motorvision_TV">
+    <title lang="es">Pierce Arrow</title>
+    <desc lang="es">1913 38C Brougham - "construído con un estándar alto, no a precio reducido" - merecía el valor de varias casas del momento, con la distinción especial de ser el primer auto de la Casa Blanca.(n)</desc>
+  </programme>
+  <programme start="20260601104702 +0000" stop="20260601110115 +0000" channel="Motorvision_TV">
+    <title lang="es">Duesenberg</title>
+    <desc lang="es">El modelo 1930 J Duesenberg fue la cima de la ingeniería automotriz en potencia y velocidad, con récords que no fueron superados hasta 1960. Los magnates como Hearst, el rey de España y la estrella del cine Gary Cooper fueron dueños de Duesenbergs.(n)</desc>
+  </programme>
+  <programme start="20260601110115 +0000" stop="20260601111129 +0000" channel="Motorvision_TV">
+    <title lang="es">Terraplane</title>
+    <desc lang="es">El Terraplane 1937 Serie 72 de Hudson fue un auto rápido y asequible con estilo único y diseño innovador. Pero también era confiable y estaba bien construído, entonces la empresa, a diferencia de otras, sobrevivió la Gran Depresión.(n)</desc>
+  </programme>
+  <programme start="20260601111129 +0000" stop="20260601113218 +0000" channel="Motorvision_TV">
+    <title lang="es">Mercedes 300 SL Construcción ligera</title>
+    <desc lang="es">Tuvimos la suerte de probar uno de los 29 Mercedes 300 SL "mariposa" construidos para su primera carrera de la Mille Miglia.(n)</desc>
+  </programme>
+  <programme start="20260601113218 +0000" stop="20260601114142 +0000" channel="Motorvision_TV">
+    <title lang="es">Facel Vega Facellia: Coche de ensueño y clásico de culto</title>
+    <desc lang="es">Un proyecto ambicioso. En los años 50, el Facel Vega Facellia se desarrolló para competir con Porsche y Alfa y para llevar a la joven empresa automovilística francesa a un nuevo segmento de compradores. Un plan que sale terriblemente mal.(n)</desc>
+  </programme>
+  <programme start="20260601114142 +0000" stop="20260601120000 +0000" channel="Motorvision_TV">
+    <title lang="es">120 años de deportes de motor de Mercedes</title>
+    <desc lang="es">El primer "Mercedes" se entrega a finales de 1900. Con su bajo centro de gravedad, su chasis de acero prensado y su radiador de nido de abeja, el Mercedes se considera hoy el primer automóvil moderno construido como coche de carreras.(n)</desc>
+  </programme>
+  <programme start="20260601120000 +0000" stop="20260601122815 +0000" channel="Motorvision_TV">
+    <title lang="es">Motorheads</title>
+    <desc lang="es">En 1964, Ferruccio Lamborghini se fijó el objetivo de construir los mejores coches deportivos del mundo, un movimiento audaz, al estar situado a pocos kilómetros de Ferrari.(n)</desc>
+  </programme>
+  <programme start="20260601122815 +0000" stop="20260601125702 +0000" channel="Motorvision_TV">
+    <title lang="es">Motorheads</title>
+    <desc lang="es">Después de la Segunda Guerra Mundial, siguiendo los pasos de su padre, que había sido responsable del desarrollo del clásico Volkswagen, Ferry Porsche sentó las bases de los modelos deportivos de la marca, como el 356 y el Porsche 911.(n)</desc>
+  </programme>
+  <programme start="20260601125702 +0000" stop="20260601132809 +0000" channel="Motorvision_TV">
+    <title lang="es">Motorheads</title>
+    <desc lang="es">No se puede hablar de rallyes sin mencionar el nombre de Walter Röhrl. Röhrl demostró su talento en los rallies desde muy joven y ganó varios campeonatos europeos, mundiales y otros internacionales a lo largo de su carrera.(n)</desc>
+  </programme>
+  <programme start="20260601132809 +0000" stop="20260601135545 +0000" channel="Motorvision_TV">
+    <title lang="es">Motorheads</title>
+    <desc lang="es">A lo largo de su dilatada carrera, Hans-Joachim Stuck no sólo ganó varias veces la Fórmula II y varios campeonatos internacionales de turismos, sino también las famosas 24 horas de Le Mans en dos ocasiones.(n)</desc>
+  </programme>
+  <programme start="20260601135545 +0000" stop="20260601140000 +0000" channel="Motorvision_TV">
+    <title lang="es">Ford GT40</title>
+    <desc lang="es">Con sus coches V8, los estadounidenses demostraron a finales de los años 60 que también podían construir coches ganadores. El Ford GT 40 es uno de estos coches. Al principio, el proyecto "Victory at Le Mans" de Ford USA amenazaba con fracasar.(n)</desc>
+  </programme>
+  <programme start="20260601140000 +0000" stop="20260601143037 +0000" channel="Motorvision_TV">
+    <title lang="es">4x4</title>
+    <desc lang="es">El Mitsubishi Outlander Plug-In Hybrid es el primer SUV híbrido del mundo con dos motores eléctricos y un motor de dos litros. Probamos si tal combinación tiene sentido para los vehículos todoterreno. Y también: el Chevrolet Silverado.(n)</desc>
+  </programme>
+  <programme start="20260601143037 +0000" stop="20260601150348 +0000" channel="Motorvision_TV">
+    <title lang="es">4x4</title>
+    <desc lang="es">Bentley y Jaguar han presentado sus prototipos de SUV. Echamos un vistazo al Bentley EXP 9F y al C-X17 de Jaguar. Y también: cómo ven el futuro de los SUV fabricantes japoneses como Toyota, Nissan o Subaru y el Unimog de Mercedes-Benz.(n)</desc>
+  </programme>
+  <programme start="20260601150348 +0000" stop="20260601153501 +0000" channel="Motorvision_TV">
+    <title lang="es">4x4</title>
+    <desc lang="es">Los SUV Nissan X-Trail y BMW X4 no son los típicos todoterreno. Asistimos a la presentación del nuevo X-Trail de Nissan y al estreno mundial del BMW X4. Y también: el Trofeo Steinbeißer, con todoterrenos participando en un emocionante rally.(n)</desc>
+  </programme>
+  <programme start="20260601153501 +0000" stop="20260601154352 +0000" channel="Motorvision_TV">
+    <title lang="es">Bentley Bentayga</title>
+    <desc lang="es">Con el Bentley Bentayga, la tradicional marca británica entró en el segmento de mercado de mayor crecimiento. Durante su periodo de desarrollo, completó el programa de pruebas más amplio de la historia de la empresa.(n)</desc>
+  </programme>
+  <programme start="20260601154352 +0000" stop="20260601160000 +0000" channel="Motorvision_TV">
+    <title lang="es">Infiniti QX30</title>
+    <desc lang="es">Diseño moderno, dimensiones compactas y bajo consumo de combustible. El QX30 cumple estos requisitos. El diseño es especialmente importante para ello. Su forma redondeada y robusta lo diferencia claramente de los SUV convencionales.(n)</desc>
+  </programme>
+  <programme start="20260601160000 +0000" stop="20260601163144 +0000" channel="Motorvision_TV">
+    <title lang="es">Tuning</title>
+    <desc lang="es">El sintonizador de automóviles Lorinser cuenta con más de 30 años de experiencia en la puesta a punto de automóviles Mercedes Benz. También: Avión vs. Porsche GT3. Y: en un Aston Martin en el Nordschleife.(n)</desc>
+  </programme>
+  <programme start="20260601163144 +0000" stop="20260601165958 +0000" channel="Motorvision_TV">
+    <title lang="es">Tuning</title>
+    <desc lang="es">El Salón del Automóvil de Essen es el evento para los amantes del automóvil y los deportes de motor. Más de 300.000 visitantes acuden aquí cada año y hacen hervir los salones sagrados.(n)</desc>
+  </programme>
+  <programme start="20260601165958 +0000" stop="20260601173032 +0000" channel="Motorvision_TV">
+    <title lang="es">Tuning</title>
+    <desc lang="es">En el SEMA de Las Vegas, fabricantes y personalizadores presentan sus tesoros automovilísticos acabados a mano. Todos los grandes nombres de la escena se reúnen aquí.(n)</desc>
+  </programme>
+  <programme start="20260601173032 +0000" stop="20260601174224 +0000" channel="Motorvision_TV">
+    <title lang="es">McLaren 570</title>
+    <desc lang="es">McLaren se libera de la producción limitada y, con el 570S, lanza al mercado un nuevo modelo de entrada.(n)</desc>
+  </programme>
+  <programme start="20260601174224 +0000" stop="20260601175244 +0000" channel="Motorvision_TV">
+    <title lang="es">Mercedes-AMG C63 S Performmaster</title>
+    <desc lang="es">Algunos clientes de automóviles aspiran a una mayor exclusividad que la que les proporciona el sintonizador del fabricante. La empresa alemana Performmaster ha mejorado el Mercedes C63 AMG S.(n)</desc>
+  </programme>
+  <programme start="20260601175244 +0000" stop="20260601180000 +0000" channel="Motorvision_TV">
+    <title lang="es">Jaguar XKR S</title>
+    <desc lang="es">El Jaguar XK-RS descapotable con 550 CV es un británico con un temperamento ardiente.(n)</desc>
+  </programme>
+  <programme start="20260601180000 +0000" stop="20260601183137 +0000" channel="Motorvision_TV">
+    <title lang="es">Historia carro</title>
+    <desc lang="es">Nadie tiene más éxito que Porsche Racing. Con más de 28.000 victorias en 65 años, Porsche estableció un récord mundial. La leyenda de los rallies Walter Röhrl y el ganador de Le Mans Hans Hermann también comentan el éxito de Porsche Racing.(n)</desc>
+  </programme>
+  <programme start="20260601183137 +0000" stop="20260601190332 +0000" channel="Motorvision_TV">
+    <title lang="es">Historia carro</title>
+    <desc lang="es">El placer de conducir: BMW, uno de los grupos automovilísticos más exitosos del mundo, promete eso. Los automóviles y motocicletas deportivas de Bavarian Motorenwerke AG son igualmente populares entre los clientes y en los deportes de carrera.(n)</desc>
+  </programme>
+  <programme start="20260601190332 +0000" stop="20260601193557 +0000" channel="Motorvision_TV">
+    <title lang="es">Historia carro</title>
+    <desc lang="es">Es el Porsche "James Dean". Es pequeño, plano y rápido. Sólo se construyó 140 veces y, sin embargo, el Porsche 550 Spider hace historia: es el coche en el que la leyenda de Hollywood James Dean muere en un accidente.(n)</desc>
+  </programme>
+  <programme start="20260601193557 +0000" stop="20260601200814 +0000" channel="Motorvision_TV">
+    <title lang="es">Historia carro</title>
+    <desc lang="es">Henry Ford abrió el camino de la revolución automovilística a principios del siglo XX. Con el Modelo T de Ford, la empresa conquistó no sólo los Estados Unidos, sino el mundo entero, y convirtió a su inventor en uno de los hombres más ricos.(n)</desc>
+  </programme>
+  <programme start="20260601200814 +0000" stop="20260601203844 +0000" channel="Motorvision_TV">
+    <title lang="es">Historia carro</title>
+    <desc lang="es">Pocos fabricantes han sido tan activos en Estados Unidos y Europa como Ford, y con éxito. Mientras el Mustang entusiasmaba a la juventud americana, el Capri hacía girar las cabezas de los europeos.(n)</desc>
+  </programme>
+  <programme start="20260601203844 +0000" stop="20260601204722 +0000" channel="Motorvision_TV">
+    <title lang="es">Porsche Ruf RT35</title>
+    <desc lang="es">El Ruf RT35 puede parecer un Porsche, pero no lo es. Desde 1981, la empresa Ruf de Pfaffhausen (Alemania) está reconocida como fabricante independiente. Sin embargo, la base de los vehículos procede exclusivamente de Porsche.(n)</desc>
+  </programme>
+  <programme start="20260601204722 +0000" stop="20260601210000 +0000" channel="Motorvision_TV">
+    <title lang="es">Rimac Concept One</title>
+    <desc lang="es">El coche eléctrico más rápido, potente y caro del mundo. Este superdeportivo no se ajusta a la norma. El futurista Rimac Concept One es extremadamente plano y potente. Aunque el coche es relativamente pesado, la capacidad de aceleración es enorme.(n)</desc>
+  </programme>
+  <programme start="20260601210000 +0000" stop="20260601213340 +0000" channel="Motorvision_TV">
+    <title lang="es">Motorstories</title>
+    <desc lang="es">Frank Slopianka es un apasionado de la velocidad y constantemente participa en eventos de carreras, como la legendaria Race 61, a 50 kilómetros al norte de Berlín. Aquí es donde los participantes de toda Europa compiten en el Air-Strip del museo de la aviación en la carrera de un octavo de milla. Frank compite con su Dragster-Camaro de 700 caballos de fuerza para defender el título.(n)</desc>
+  </programme>
+  <programme start="20260601213340 +0000" stop="20260601220820 +0000" channel="Motorvision_TV">
+    <title lang="es">Motorstories</title>
+    <desc lang="es">El empresario alemán Tillmann Miritz comienza su sueño en la ciudad que nunca duerme: un viaje por carretera con su propio coche vintage hacia los iconos automovilísticos de su juventud. Con su Mercedes 280 SE 3.5 descapotable visita al legendario distribuidor de coches clásicos Eliot Cuker de Nueva York, que hizo su fortuna con su pasión por los coches antiguos en el centro de Manhattan.(n)</desc>
+  </programme>
+  <programme start="20260601220820 +0000" stop="20260601224111 +0000" channel="Motorvision_TV">
+    <title lang="es">Motorstories</title>
+    <desc lang="es">El recorrido de Tillmann Miritz para encontrar rarezas automovilísticas en los EE.UU. va desde el puente de Manhattan hasta Long Island. Su Mercedes descapotable lo lleva al viñedo Wöllfer Estate, donde se cultivan algunos de los mejores vinos. Su dueño esconde en el garaje una camioneta que representa el "American Way of Life" rural como casi ningún otro coche: el Chevrolet 3100.(n)</desc>
+  </programme>
+  <programme start="20260601224111 +0000" stop="20260601231427 +0000" channel="Motorvision_TV">
+    <title lang="es">Motorstories</title>
+    <desc lang="es">Kati y Patrick son grandes fanáticos de los coches americanos y orgullosos propietarios de un Chevrolet Chevelle de 1972 pero quieren comprar un motor más grande. Por eso visitan a los especialistas de Down Town Garage con más de 50 motores. El lugar es también un restaurante americano con un motel donde puedes pasar la noche con un estilo genuino.(n)</desc>
+  </programme>
+  <programme start="20260601231427 +0000" stop="20260601234955 +0000" channel="Motorvision_TV">
+    <title lang="es">Motorstories</title>
+    <desc lang="es">En Paaren-Glien, cerca de Berlín, tiene lugar el show anual Oldtimer, que atrae a unos 45.000 visitantes ávidos por contemplar más de 5.000 tesoros automovilísticos. Frank y su equipo de Special Cars Berlin también asisten al evento trayendo consigo varios coches. Kati y Patrick viajan a Berlín con su Chevy. Al día siguiente, Fran participa en una carrera en el aeropuerto.(n)</desc>
+  </programme>
+  <programme start="20260601005048 +0000" stop="20260601024102 +0000" channel="Cine_Friki">
+    <title lang="es">Love bite</title>
+    <desc lang="es">La escuela ha terminado y el verano llega a la ciudad costera de Rainmouth. Jamie, un chico de 18 años, deberá empezar a trabajar en el negocio familiar junto a su madre. Aburrido y agobiado, Jamie fantasea con escapar de allí hasta que de repente aparece en el pueblo Juliana, una guapa, inteligente y sexy viajante americana de la que se enamora inmediatamente. Pero hay un recién llegado más siniestro en la ciudad: un hombre lobo se alimenta de vírgenes, y Rainmouth se convierte en un coto de caza.(n)</desc>
+  </programme>
+  <programme start="20260601024102 +0000" stop="20260601043128 +0000" channel="Cine_Friki">
+    <title lang="es">Catástrofe Inminente</title>
+    <desc lang="es">Una gran oleada de asteroides atraviesa el Sistema Solar provocando que la Tierra salga de su órbita y sufriendo una gran devastación. La única oportunidad para los supervivientes es que la fuerza del Sol recupere el control sobre la Tierra pero, aunque lo haga, la vida en el planeta habrá cambiado para siempre. Si alguien te dijera que el mundo se acabará mañana, ¿le creerías?(n)</desc>
+  </programme>
+  <programme start="20260601043128 +0000" stop="20260601061652 +0000" channel="Cine_Friki">
+    <title lang="es">Tren de Bala Abatido</title>
+    <desc lang="es">En su viaje inaugural, el tren de alta velocidad más rápido del mundo está equipado con una bomba que explotará si desciende por debajo de las 200 mph.(n)</desc>
+  </programme>
+  <programme start="20260601061652 +0000" stop="20260601080422 +0000" channel="Cine_Friki">
+    <title lang="es">County Line</title>
+    <desc lang="es">Cuando el mejor amigo del ex sheriff Alden Rockwell es tiroteado, éste se ofrece como investigador privado para averiguar la verdad tras el tiroteo y descubre una conspiración criminal entre dos condados.(n)</desc>
+  </programme>
+  <programme start="20260601080422 +0000" stop="20260601094915 +0000" channel="Cine_Friki">
+    <title lang="es">Código de defensa</title>
+    <desc lang="es">Un operativo de Black Ops es enviado a una remota estación de la CIA para proteger a un operador de código. Pronto se encuentran en una situación a vida o muerte, intentando desmantelar una trama letal antes de que sea demasiado tarde.(n)</desc>
+  </programme>
+  <programme start="20260601094915 +0000" stop="20260601114214 +0000" channel="Cine_Friki">
+    <title lang="es">Arachnid</title>
+    <desc lang="es">Una expedición científica que investiga el brote de una epidemia vírica desconocida en una isla del sur del Pacífico se enfrenta a una araña alienígena gigante en la jungla.(n)</desc>
+  </programme>
+  <programme start="20260601114214 +0000" stop="20260601133510 +0000" channel="Cine_Friki">
+    <title lang="es">Exit Speed</title>
+    <desc lang="es">Diez pasajeros de autobús quedan atrapados en un depósito de chatarra tras ser sacados de la carretera por unos motoristas. Para sobrevivir deben improvisar armas y tener las agallas suficientes para defenderse de los asesinos motoristas.(n)</desc>
+  </programme>
+  <programme start="20260601133510 +0000" stop="20260601153200 +0000" channel="Cine_Friki">
+    <title lang="es">El tren de la muerte</title>
+    <desc lang="es">Un tren con rehenes es robado en Bremen, Alemania. Se dirige al sur de Europa con una bomba nuclear. Un grupo especial de lucha contra el crimen de la ONU se encarga de detenerlo en cooperación con militares y policías locales.(n)</desc>
+  </programme>
+  <programme start="20260601153200 +0000" stop="20260601171720 +0000" channel="Cine_Friki">
+    <title lang="es">En primera línea</title>
+    <desc lang="es">Situé au Viêt Nam en avril 1968, trois mois après l'offensive du Têt et un mois après l'assassinat de Martin Luther King Jr, Point Man raconte l'histoire d'une équipe de pompiers de l'armée américaine fracturée par les tensions raciales, les crises morales et les pressions écrasantes du combat dans une guerre que personne ne veut mener. Andre « Casper » Allen, un idéologue brutal, est en désaccord avec Silas Meeks, le mitrailleur de l'escouade, en raison de ses idées radicales. Lorsque leur mission de recherche et de destruction dans le delta du Mékong tourne mal, les deux hommes se retrouvent opposés l'un à l'autre et à leur chef de section récalcitrant, le lieutenant Sutter. Les hommes de pointe meurent comme des mouches dans la brousse, et à mesure que les loyautés se dissolvent, chaque pas en avant a un prix.(n)</desc>
+  </programme>
+  <programme start="20260601171720 +0000" stop="20260601185907 +0000" channel="Cine_Friki">
+    <title lang="es">Cambio mortal</title>
+    <desc lang="es">David Terran, un brillante científico, ha perdido su credibilidad a causa de sus teorías apocalípticas. Las explosiones nucleares en Irán tendrán graves repercusiones y la comunidad científica tendrá que confiar en David.(n)</desc>
+  </programme>
+  <programme start="20260601185907 +0000" stop="20260601203759 +0000" channel="Cine_Friki">
+    <title lang="es">Collider</title>
+    <desc lang="es">En el año 2033, una joven atrapada en un misterioso orfanato viaja imprudentemente al pasado para encontrar a sus padres y enmendar su pasado.(n)</desc>
+  </programme>
+  <programme start="20260601203759 +0000" stop="20260601221817 +0000" channel="Cine_Friki">
+    <title lang="es">Gun shy</title>
+    <desc lang="es">La historia sigue a Turk Henry (Antonio Banderas), una superestrella del rock con discos de platino, casado con una supermodelo (Olga Kurylenko) y más rico de lo que jamás soñó. Durante unas vacaciones, su esposa es misteriosamente secuestrada por un grupo de piratas renegados sin barco. Con poca ayuda de las autoridades locales, Turk se ve obligado a embarcarse en una misión para rescatarla. Con habilidades más aptas para tocar el bajo, ligar y salir de fiesta, tendrá que enfrentarse a peligrosas selvas y a despiadados bandidos en esta divertida y trepidante aventura llena de acción.(n)</desc>
+  </programme>
+  <programme start="20260601061935 +0000" stop="20260601080515 +0000" channel="Planeta_de_Cine">
+    <title lang="es">Un golpe a la inglesa</title>
+    <desc lang="es">Basada en hechos reales, UN GOLPE A LA INGLESA traslada a la gran pantalla la historia de cuatro delincuentes del East End londinense, liderados por Brian Reader (de 76 años) y un hombre misterioso cuya identidad nunca se desvela, que aprovecharon las festividades de Semana Santa para llevar a cabo el mayo​r atraco de la historia inglesa. Perseguidos por la mafia húngara y Scotland Yard, estos ladrones de pelo blanco lograron lo imposible: taladrar un depósito de seguridad de acero y hormigón en Hatton Garden, el barrio de las joyerías de Londres. Pero, ¿será el golpe del siglo o tanta osadía les saldrá cara?(n)</desc>
+  </programme>
+  <programme start="20260601080515 +0000" stop="20260601094553 +0000" channel="Planeta_de_Cine">
+    <title lang="es">Madame</title>
+    <desc lang="es">Anne y Bob, una pareja americana que vive en París, organizan una cena e invitan a diez amigos. El hijo de Bob llega por sorpresa y el número total de invitados es ahora de 13. La supersticiosa Anne le pide a su criada, María, que pretenda ser un rico amigo español y se unan a la mesa. María conoce a David, un aristócrata británico. Ambos se gustan y continuarán su relación.(n)</desc>
+  </programme>
+  <programme start="20260601094553 +0000" stop="20260601111405 +0000" channel="Planeta_de_Cine">
+    <title lang="es">Momo: Una aventura contrarreloj</title>
+    <desc lang="es">Momo es una niña tímida y cariñosa que ha encontrado nuevos amigos y una casa en medio de las ruinas de un antiguo anfiteatro. Pero un día, repentinamente, los Hombres Grises irrumpen en la ciudad, con el objetivo de robar el tiempo a la gente. Momo desearía impedírselo, pero no sabe como… Casiopea, una pequeña tortuga mágica, la lleva a conocer al Maestro Hora, el Administrador del tiempo. Él es la única persona que puede ayudarla. Cuando regresa para luchar contra los Hombres Grises, se da cuenta de que ya no hay nadie con quien hablar o jugar y teme haber perdido para siempre a sus amigos. El mundo ha cambiado y todos han sido englobados en una nueva y rígida estructura social… A pesar de su repentina soledad, está decidida a intentar lo imposible para salvar a sus amigos y a la ciudad entera.(n)</desc>
+  </programme>
+  <programme start="20260601111405 +0000" stop="20260601130804 +0000" channel="Planeta_de_Cine">
+    <title lang="es">Arthur 3: La guerra de los mundos</title>
+    <desc lang="es">“Tercera y última entrega de la trilogía de Arthur y los Minimoys. Maltazard ha conseguido colarse en el mundo de los humanos. Su objetivo es sencillo: reclutar un ejército de gigantescos secuaces y dominar el universo. Arthur parece ser el único capaz de frustrar sus planes, pero primero tendrá que volver a su habitación... y recuperar su tamaño normal.” Aunque sigue atrapado en un diminuto cuerpo de minimoy, contará con la ayuda de Selenia y Betameche, y, sorprendentemente, también la de Darkos, el hijo de Maltazard, que afirma estar de su lado. A pie, en bici, en coche o incluso en una Harley Davidson, Arthur y sus amigos emplearán cualquier medio a su alcance para librar su batalla final contra Maltazard.(n)</desc>
+  </programme>
+  <programme start="20260601130804 +0000" stop="20260601145453 +0000" channel="Planeta_de_Cine">
+    <title lang="es">El regreso de Aladino</title>
+    <desc lang="es">Después de liberar a Bagdad de las garras de su terrible visir, Aladin está aburrido en palacio. Todavía no ha decidido pedir matrimonio a la princesa. Pero un terrible dictador, Shah Zaman, se invita al Palacio y anuncia que ha venido a tomar la ciudad y casarse con la Princesa. Aladin no tiene más remedio que huir del Palacio. Intentará recuperar a su antiguo Genio y así, volver para liberar a la ciudad y salvar a su novia.(n)</desc>
+  </programme>
+  <programme start="20260601145453 +0000" stop="20260601165538 +0000" channel="Planeta_de_Cine">
+    <title lang="es">El proyecto Colibrí</title>
+    <desc lang="es">Dos primos intentan hacerse millonarios mediante la construcción de un cable de fibra óptica entre Kansas y Nueva Jersey, mientras su antigua jefa intenta evitar que lo consigan.(n)</desc>
+  </programme>
+  <programme start="20260601165538 +0000" stop="20260601183702 +0000" channel="Planeta_de_Cine">
+    <title lang="es">3 generaciones</title>
+    <desc lang="es">Regan (Elle Fanning) es una adolescente de Nueva York que decide operarse para cambiar de sexo. Junto a su madre, Maggie (Naomi Watts), viven en casa de su abuela, Dolly (Susan Sarandon), una manager de música que comparte piso con su novia. Maggie tiene que enfrentarse al padre de Regan para que firme también los permisos de la operación y deberá asumir que tiene que criar a su única hija como un hijo.(n)</desc>
+  </programme>
+  <programme start="20260601183702 +0000" stop="20260601201835 +0000" channel="Planeta_de_Cine">
+    <title lang="es">Mi amigo Blue</title>
+    <desc lang="es">Una icónica historia de amistad entre un muchacho y un perro único y desgarbado que se convertiría en una leyenda australiana.(n)</desc>
+  </programme>
+  <programme start="20260601201835 +0000" stop="20260601220233 +0000" channel="Planeta_de_Cine">
+    <title lang="es">Bienvenue à bord</title>
+    <desc lang="es">Isabelle, directora de recursos humanos de una gran empresa de cruceros, ha cometido el error de ser la amante de su jefe. Sin embargo, cuando él decide poner fin a la relación, Isabelle se servirá del puesto que ocupa en la compañía para planear su venganza.(n)</desc>
+  </programme>
+  <programme start="20260601220233 +0000" stop="20260601235335 +0000" channel="Planeta_de_Cine">
+    <title lang="es">Movie 43</title>
+    <desc lang="es">Comedia hilarante formada por una serie de historias, dirigidas entre otros por los hermanos Farrelly y con un reparto coral espectacular e insólito hasta la fecha: Naomi Watts, Kate Winslet, Hugh Jackman, Uma Thurman, Emma Stone, Richard Gere, Gerard Butler y Halle Berry entre otros.(n)</desc>
+  </programme>
+  <programme start="20260601071802 +0000" stop="20260601082523 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">¡Listos, preparados, a jugar!</title>
+    <desc lang="es">Deportes, carreras y retos divertidos convierten el trabajo en equipo y la práctica en risas aseguradas.(n)</desc>
+  </programme>
+  <programme start="20260601082523 +0000" stop="20260601093314 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Lo mejor de la T1</title>
+    <desc lang="es">Una cálida colección de los primeros descubrimientos y grandes carcajadas de Pocoyó.(n)</desc>
+  </programme>
+  <programme start="20260601093314 +0000" stop="20260601104051 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Lo mejor de la T2</title>
+    <desc lang="es">Los mejores momentos de la segunda temporada, llenos de nuevos amigos y aventuras divertidas.(n)</desc>
+  </programme>
+  <programme start="20260601104051 +0000" stop="20260601114915 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Lo mejor de la T3</title>
+    <desc lang="es">Una mezcla alegre de imaginación, trabajo en equipo y grandes aprendizajes.(n)</desc>
+  </programme>
+  <programme start="20260601114915 +0000" stop="20260601125732 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Lo mejor de la T4</title>
+    <desc lang="es">Lo más destacado de la cuarta temporada, llena de creatividad, amabilidad y sorpresas.(n)</desc>
+  </programme>
+  <programme start="20260601125732 +0000" stop="20260601133033 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Vacaciones</title>
+    <desc lang="es">Vacaciones El Árbol de Navidad El Agujero Negro Montando El Pollo.(n)</desc>
+  </programme>
+  <programme start="20260601133033 +0000" stop="20260601140402 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Pato Al Aparato</title>
+    <desc lang="es">Pato Al Aparato El Marciano Furioso Ataca de Nuevo Porquería En La Tubería Cortocircuito.(n)</desc>
+  </programme>
+  <programme start="20260601140402 +0000" stop="20260601143708 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Nina</title>
+    <desc lang="es">Nina La Cada De Los Colores Rasca Y Baila La Tarta De Fresibayas.(n)</desc>
+  </programme>
+  <programme start="20260601143708 +0000" stop="20260601151011 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Mister Pato</title>
+    <desc lang="es">Mister Pato Adivina, adivinanza Todos para Uno Tori Dori.(n)</desc>
+  </programme>
+  <programme start="20260601151011 +0000" stop="20260601154251 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Boca Abajo</title>
+    <desc lang="es">Boca Abajo La Mezcladora Loca El Invitado Revoltoso El marciano.(n)</desc>
+  </programme>
+  <programme start="20260601154251 +0000" stop="20260601161558 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">El Regalo</title>
+    <desc lang="es">El Regalo Clase de Ballet El Globo de Pocoyo El silbato.(n)</desc>
+  </programme>
+  <programme start="20260601161558 +0000" stop="20260601164925 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">La Banda de Pocoyó</title>
+    <desc lang="es">La Banda de Pocoyó Picnic La Ducha de Pato El Jardin.(n)</desc>
+  </programme>
+  <programme start="20260601164925 +0000" stop="20260601172243 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Pato Cartero</title>
+    <desc lang="es">Pato Cartero Colores Prepardos, Listos, Ya! Nos Vamos de Camping.(n)</desc>
+  </programme>
+  <programme start="20260601172243 +0000" stop="20260601175625 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Misión Espacial</title>
+    <desc lang="es">Misión Espacial El Viaje de Pato Hora de Jugar Tenis Para Todos.(n)</desc>
+  </programme>
+  <programme start="20260601175625 +0000" stop="20260601183024 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Puntazo</title>
+    <desc lang="es">Puntazo Regreso Al Pasado Palabras Mágicas Atrapados Por Los Turistas.(n)</desc>
+  </programme>
+  <programme start="20260601183024 +0000" stop="20260601190336 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Sígueme El Ritmo</title>
+    <desc lang="es">Sígueme El Ritmo El Guardián Del Sueño Acampada de Verano La Banda De Rock.(n)</desc>
+  </programme>
+  <programme start="20260601190336 +0000" stop="20260601193636 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Historias De Halloween</title>
+    <desc lang="es">Historias De Halloween El Pequeño Parque De Atracciones El Cartero Espacial Un Cuento de Navidad Marciano.(n)</desc>
+  </programme>
+  <programme start="20260601193636 +0000" stop="20260601200943 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">El Gran Tobogán</title>
+    <desc lang="es">El Gran Tobogán Los zapatos de Elly Las Mil Puertas Ruidos Misteriosos.(n)</desc>
+  </programme>
+  <programme start="20260601200943 +0000" stop="20260601204246 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Una Solución Perfecta</title>
+    <desc lang="es">Una Solución Perfecta Fuera de control Detective Pocoyo Locos del Patín.(n)</desc>
+  </programme>
+  <programme start="20260601204246 +0000" stop="20260601211545 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Perdidos</title>
+    <desc lang="es">Perdidos ¡Qué Susto! El Aguafiestas Pato es Mío.(n)</desc>
+  </programme>
+  <programme start="20260601211545 +0000" stop="20260601214852 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Jugando al Escondite</title>
+    <desc lang="es">Jugando al Escondite La Fiesta de Cumpleaños Sobre Ruedas El Baño de Elly.(n)</desc>
+  </programme>
+  <programme start="20260601214852 +0000" stop="20260601222231 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">La Gran Torre</title>
+    <desc lang="es">La Gran Torre Los Nuevos Juguetes de Pocoyó Bañando a Loula Pocoyó Mago.(n)</desc>
+  </programme>
+  <programme start="20260601222231 +0000" stop="20260601225642 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">Cocinando con Elly</title>
+    <desc lang="es">Cocinando con Elly El Mercado Hora de Dormir Hoyo en Uno.(n)</desc>
+  </programme>
+  <programme start="20260601225642 +0000" stop="20260601233030 +0000" channel="Pocoyó_y_Más">
+    <title lang="es">¿Cuándo llegamos?</title>
+    <desc lang="es">¿Cuándo Llegamos? Que Empiece La Partida La Gran Final Pato Aceitoso.(n)</desc>
+  </programme>
+  <programme start="20260601003500 +0000" stop="20260601013800 +0000" channel="Historia_y_Vida">
+    <title lang="es">Nazis contra Masones: El Expolio de las Logias</title>
+    <desc lang="es">¿Por qué los nazis robaron los archivos de los masones franceses? Un drama geopolítico con toques esotéricos.(n)</desc>
+  </programme>
+  <programme start="20260601013800 +0000" stop="20260601022900 +0000" channel="Historia_y_Vida">
+    <title lang="es">Mein Kampf: Los Secretos del Libro de Hitler</title>
+    <desc lang="es">Este documental se adentra en los secretos de "Mein Kampf". ¿Cómo se escribió? ¿Fue Hitler realmente el autor?(n)</desc>
+  </programme>
+  <programme start="20260601022900 +0000" stop="20260601032800 +0000" channel="Historia_y_Vida">
+    <title lang="es">Los Horrores de los Médicos Nazis</title>
+    <desc lang="es">El régimen nazi de Adolf Hitler implementó algunas de las prácticas de eugenesia más ridículas de la historia.(n)</desc>
+  </programme>
+  <programme start="20260601032800 +0000" stop="20260601042300 +0000" channel="Historia_y_Vida">
+    <title lang="es">Eva Braun</title>
+    <desc lang="es">La amante secreta de Adolf Hitler no fue conocida hasta después de su muerte. ¿Quién fue esta "novia del mal"?(n)</desc>
+  </programme>
+  <programme start="20260601042300 +0000" stop="20260601051800 +0000" channel="Historia_y_Vida">
+    <title lang="es">Constructores de Castillos</title>
+    <desc lang="es">Maestros y masones: cómo se construía el castillo medieval.(n)</desc>
+  </programme>
+  <programme start="20260601051800 +0000" stop="20260601061300 +0000" channel="Historia_y_Vida">
+    <title lang="es">Constructores de Castillos</title>
+    <desc lang="es">Asedio y tormenta: cómo se atacaba y defendía el castillo medieval.(n)</desc>
+  </programme>
+  <programme start="20260601061300 +0000" stop="20260601070800 +0000" channel="Historia_y_Vida">
+    <title lang="es">Constructores de Castillos</title>
+    <desc lang="es">Sueños y decoraciones: los grandes castillos medievales de Europa como hogares y palacios.(n)</desc>
+  </programme>
+  <programme start="20260601070800 +0000" stop="20260601081100 +0000" channel="Historia_y_Vida">
+    <title lang="es">Nazis contra Masones: El Expolio de las Logias</title>
+    <desc lang="es">¿Por qué los nazis robaron los archivos de los masones franceses? Un drama geopolítico con toques esotéricos.(n)</desc>
+  </programme>
+  <programme start="20260601081100 +0000" stop="20260601090300 +0000" channel="Historia_y_Vida">
+    <title lang="es">Mein Kampf: Los Secretos del Libro de Hitler</title>
+    <desc lang="es">Este documental se adentra en los secretos de "Mein Kampf". ¿Cómo se escribió? ¿Fue Hitler realmente el autor?(n)</desc>
+  </programme>
+  <programme start="20260601090300 +0000" stop="20260601100200 +0000" channel="Historia_y_Vida">
+    <title lang="es">Los Horrores de los Médicos Nazis</title>
+    <desc lang="es">El régimen nazi de Adolf Hitler implementó algunas de las prácticas de eugenesia más ridículas de la historia.(n)</desc>
+  </programme>
+  <programme start="20260601100200 +0000" stop="20260601105800 +0000" channel="Historia_y_Vida">
+    <title lang="es">Constructores de Castillos</title>
+    <desc lang="es">Maestros y masones: cómo se construía el castillo medieval.(n)</desc>
+  </programme>
+  <programme start="20260601105800 +0000" stop="20260601115300 +0000" channel="Historia_y_Vida">
+    <title lang="es">Constructores de Castillos</title>
+    <desc lang="es">Asedio y tormenta: cómo se atacaba y defendía el castillo medieval.(n)</desc>
+  </programme>
+  <programme start="20260601115300 +0000" stop="20260601124800 +0000" channel="Historia_y_Vida">
+    <title lang="es">Constructores de Castillos</title>
+    <desc lang="es">Sueños y decoraciones: los grandes castillos medievales de Europa como hogares y palacios.(n)</desc>
+  </programme>
+  <programme start="20260601124800 +0000" stop="20260601135100 +0000" channel="Historia_y_Vida">
+    <title lang="es">Nazis contra Masones: El Expolio de las Logias</title>
+    <desc lang="es">¿Por qué los nazis robaron los archivos de los masones franceses? Un drama geopolítico con toques esotéricos.(n)</desc>
+  </programme>
+  <programme start="20260601135100 +0000" stop="20260601144300 +0000" channel="Historia_y_Vida">
+    <title lang="es">Mein Kampf: Los Secretos del Libro de Hitler</title>
+    <desc lang="es">Este documental se adentra en los secretos de "Mein Kampf". ¿Cómo se escribió? ¿Fue Hitler realmente el autor?(n)</desc>
+  </programme>
+  <programme start="20260601144300 +0000" stop="20260601154200 +0000" channel="Historia_y_Vida">
+    <title lang="es">Los Horrores de los Médicos Nazis</title>
+    <desc lang="es">El régimen nazi de Adolf Hitler implementó algunas de las prácticas de eugenesia más ridículas de la historia.(n)</desc>
+  </programme>
+  <programme start="20260601154200 +0000" stop="20260601164600 +0000" channel="Historia_y_Vida">
+    <title lang="es">Construcciones Extremas</title>
+    <desc lang="es">Descubre la historia y la innovadora tecnología del metro de París: 100 años, 220 km de vías, 302 estaciones.(n)</desc>
+  </programme>
+  <programme start="20260601164600 +0000" stop="20260601175000 +0000" channel="Historia_y_Vida">
+    <title lang="es">Construcciones Extremas</title>
+    <desc lang="es">Proyecto: ampliar Canal de Suez, transportando 500M m³ de arena. Imágenes 3D muestran expansión e historia.(n)</desc>
+  </programme>
+  <programme start="20260601175000 +0000" stop="20260601185400 +0000" channel="Historia_y_Vida">
+    <title lang="es">Construcciones Extremas</title>
+    <desc lang="es">Conoce la construcción en St. Nazaire del Meraviglia, el crucero por excelencia. 315m de eslora y 65 de altura.(n)</desc>
+  </programme>
+  <programme start="20260601185400 +0000" stop="20260601194800 +0000" channel="Historia_y_Vida">
+    <title lang="es">La Pirámide Perdida de Egipto</title>
+    <desc lang="es">En el desierto del norte de Egipto hallan una pirámide sellada; al abrirla, surge un crimen de 4.000 años.(n)</desc>
+  </programme>
+  <programme start="20260601194800 +0000" stop="20260601204500 +0000" channel="Historia_y_Vida">
+    <title lang="es">Redescubriendo el T-rex</title>
+    <desc lang="es">Un viaje de investigación que explora los misterios del gran depredador Tyrannosaurus Rex.(n)</desc>
+  </programme>
+  <programme start="20260601204500 +0000" stop="20260601214900 +0000" channel="Historia_y_Vida">
+    <title lang="es">El Legado Celta</title>
+    <desc lang="es">Con el Castro de Baroña como eje central, describimos la cultura castreña que se originó en la actualGalicia.(n)</desc>
+  </programme>
+  <programme start="20260601214900 +0000" stop="20260601225200 +0000" channel="Historia_y_Vida">
+    <title lang="es">Construcciones Extremas</title>
+    <desc lang="es">Descubre la historia y la innovadora tecnología del metro de París: 100 años, 220 km de vías, 302 estaciones.(n)</desc>
+  </programme>
+  <programme start="20260601225200 +0000" stop="20260601235600 +0000" channel="Historia_y_Vida">
+    <title lang="es">Construcciones Extremas</title>
+    <desc lang="es">Proyecto: ampliar Canal de Suez, transportando 500M m³ de arena. Imágenes 3D muestran expansión e historia.(n)</desc>
+  </programme>
+  <programme start="20260601005947 +0000" stop="20260601020000 +0000" channel="Naturescape">
+    <title lang="es">Volar sobre la Tierra</title>
+    <desc lang="es">Haz un recorrido global a algunos de los destinos más deslumbrantes que el mundo tiene para ofrecer.(n)</desc>
+  </programme>
+  <programme start="20260601020000 +0000" stop="20260601025955 +0000" channel="Naturescape">
+    <title lang="es">Rompientes de Olas: Hawái</title>
+    <desc lang="es">Un nuevo día amanece en la playa de Pa’ako, en Hawái, mientras las olas rompen en la orilla y el cielo luce sus preciosos colores.(n)</desc>
+  </programme>
+  <programme start="20260601025955 +0000" stop="20260601035951 +0000" channel="Naturescape">
+    <title lang="es">Pasih Uug (conocida como Playa Rota): Indonesia</title>
+    <desc lang="es">Explora las cuevas y los túneles marinos de una piscina natural única rodeada de acantilados y de vistas deslumbrantes.(n)</desc>
+  </programme>
+  <programme start="20260601035951 +0000" stop="20260601045947 +0000" channel="Naturescape">
+    <title lang="es">Isla Bulog Dos</title>
+    <desc lang="es">Siente la belleza natural de una isla tropical pequeña rodeada de aguas turquesas.(n)</desc>
+  </programme>
+  <programme start="20260601045947 +0000" stop="20260601055943 +0000" channel="Naturescape">
+    <title lang="es">Un día en el paraíso</title>
+    <desc lang="es">A Day In Paradise, una experiencia de relajación en la naturaleza virgen con una duración de cuatro horas, sumerge a los espectadores en las vistas y sonidos de una de las islas tropicales más puras y pintorescas del mundo, durante todo un día, desde el amanecer hasta la puesta de sol. La pequeña isla, filmada en 2013 por David Huting, está oculta en la costa noreste de las islas Fiyi exteriores (cerca de Taveuni) y ostenta una playa perfecta de arena blanca, palmerales y una majestuosa laguna que protege la isla en todas las direcciones. ¡La visitan más tortugas que humanos!(n)</desc>
+  </programme>
+  <programme start="20260601055943 +0000" stop="20260601065939 +0000" channel="Naturescape">
+    <title lang="es">Parque Nacional Abel Tasman</title>
+    <desc lang="es">Paséate por las playas doradas y descubre los frondosos arbustos naturales de la costa desde este parque nacional de Nueva Zelanda.(n)</desc>
+  </programme>
+  <programme start="20260601065939 +0000" stop="20260601075935 +0000" channel="Naturescape">
+    <title lang="es">Cristalinas Olas Azules</title>
+    <desc lang="es">Transforma tu televisor o monitor en una vívida ventana azul y relajante, hacia el glorioso océano, con este video de ultra alta calidad 4K que contiene vistas y sonidos de grandes olas rompiendo a lo largo de un muelle costero en un día perfecto de cielo azul.(n)</desc>
+  </programme>
+  <programme start="20260601075935 +0000" stop="20260601085930 +0000" channel="Naturescape">
+    <title lang="es">Playas de Hawái: Oahu 2</title>
+    <desc lang="es">Escápate a lo aislado y arenoso de las playas tropicales de Hawái durante 2 horas en 4K UHD con esta película de naturaleza ambiental que contiene solo sonidos estéreo de la naturaleza.(n)</desc>
+  </programme>
+  <programme start="20260601085930 +0000" stop="20260601095926 +0000" channel="Naturescape">
+    <title lang="es">Un día en Santorini</title>
+    <desc lang="es">Convierte cualquier pantalla en una ventana de las islas griegas con este relajante viaje visual en alta definición por la excepcional y hermosa aldea costera de Oia, que se encuentra en la punta de la isla de Santorini. Despierta lentamente tus sentidos mientras el sol de la mañana se eleva sobre el mar y observa cómo el día pasa lentamente al atardecer. Las olas distantes se rompen y los pájaros trinan añadiendo una agradable música ambiental que se combina para crear un vídeo tan relajante que casi hipnotiza.(n)</desc>
+  </programme>
+  <programme start="20260601095926 +0000" stop="20260601105922 +0000" channel="Naturescape">
+    <title lang="es">Paraíso para Tortugas 1</title>
+    <desc lang="es">Deja atrás las preocupaciones del mundo de arriba y sumérgete en un vibrante mundo submarino habitado por las icónicas tortugas marinas durante estas dos horas de Nature Relaxation. Capturado por los cineastas y colaboradores Tilo e Yvonne Kühnast, Turtle Paradise presenta cientos de escenas únicas del Caribe capturadas en tiempo real, junto con suaves sonidos submarinos y música tranquila para una relajación profunda de Jason Stephenson.(n)</desc>
+  </programme>
+  <programme start="20260601105922 +0000" stop="20260601115918 +0000" channel="Naturescape">
+    <title lang="es">Sobrevolar los Alpes Franceses 2 (Música)</title>
+    <desc lang="es">Experimente la belleza escarpada, los sitios históricos y las lujosas mansiones de los Alpes franceses desde una perspectiva aérea.(n)</desc>
+  </programme>
+  <programme start="20260601115918 +0000" stop="20260601125914 +0000" channel="Naturescape">
+    <title lang="es">Vuela por el paraíso: Filipinas (Música)</title>
+    <desc lang="es">Participa de una travesía aérea para descubrir las playas tropicales, las aguas turquesas y la exuberante vegetación.(n)</desc>
+  </programme>
+  <programme start="20260601125914 +0000" stop="20260601135910 +0000" channel="Naturescape">
+    <title lang="es">Este Bali (Música)</title>
+    <desc lang="es">Relájate con una banda sonora tranquila mientras viajas a estas playas espectaculares de Bali.(n)</desc>
+  </programme>
+  <programme start="20260601135910 +0000" stop="20260601145905 +0000" channel="Naturescape">
+    <title lang="es">Cascadas Abundantes: Noroeste de Estados Unidos</title>
+    <desc lang="es">No son necesarias las vacaciones para admirar algunas de las cascadas más hermosas del noroeste americano.(n)</desc>
+  </programme>
+  <programme start="20260601145905 +0000" stop="20260601155901 +0000" channel="Naturescape">
+    <title lang="es">Atuh Beach (Música)</title>
+    <desc lang="es">Haz un recorrido de las hermosas aguas de Indonesia, rodeadas de formaciones rocosas imponentes.(n)</desc>
+  </programme>
+  <programme start="20260601155901 +0000" stop="20260601165857 +0000" channel="Naturescape">
+    <title lang="es">Cita con la naturaleza - Sri Lanka</title>
+    <desc lang="es">Deleita la vista con la diversa belleza de Sri Lanka, donde exuberantes selvas tropicales, tranquilas playas y un vibrante follaje te sumergen en un sueño de maravillas naturales.(n)</desc>
+  </programme>
+  <programme start="20260601165857 +0000" stop="20260601175853 +0000" channel="Naturescape">
+    <title lang="es">Cascadas del Mundo dos acompañado de música</title>
+    <desc lang="es">Durante 60 minutos relajantes viajarás sin esfuerzo de una impresionante cascada a otra, visitando lugares como las cataratas de Iguazú en Argentina, la Patagonia chilena, Banff y Jasper en Alberta, las cataratas McWay y las Hidden Falls en Big Sur, California, las cataratas del río Columbia en Oregón y mucho más, todo ello acompañado de la música ambiental relajante de Relax Moods.(n)</desc>
+  </programme>
+  <programme start="20260601175853 +0000" stop="20260601185849 +0000" channel="Naturescape">
+    <title lang="es">Playa Green Bowl: Indonesia</title>
+    <desc lang="es">Escápate a una playa solitaria de Bali. Las suaves olas sobre la orilla rocosa sosegarán tu alma.(n)</desc>
+  </programme>
+  <programme start="20260601185849 +0000" stop="20260601195844 +0000" channel="Naturescape">
+    <title lang="es">Playas de Auckland: Nueva Zelanda Música</title>
+    <desc lang="es">Disfruta del ambiente relajante de un día de playa con un recorrido por las impresionantes costas cercanas a Auckland.(n)</desc>
+  </programme>
+  <programme start="20260601195844 +0000" stop="20260601205840 +0000" channel="Naturescape">
+    <title lang="es">Belleza Glacial: Terranova, Canadá</title>
+    <desc lang="es">Explora Amherst Cove, en Terranova, para admirar la tranquilidad y la belleza glacial de los icebergs que flotan en la bahía.(n)</desc>
+  </programme>
+  <programme start="20260601205840 +0000" stop="20260601220000 +0000" channel="Naturescape">
+    <title lang="es">Bosque en el Mar</title>
+    <desc lang="es">¡Hay mucha vida en el mar más allá de los peces! Estos vibrantes bosques submarinos son hábitats para criaturas marinas, productores de oxígeno vital y un deleite para observar.(n)</desc>
+  </programme>
+  <programme start="20260601220000 +0000" stop="20260601225745 +0000" channel="Naturescape">
+    <title lang="es">Un día en la costa de Napali 2</title>
+    <desc lang="es">Una película de naturaleza ambiental de 5 horas de duración con los espectaculares paisajes y sonidos del legendario sendero Kalalau de millas de largo. Con cientos de escenas impresionantes pero tranquilas con audio estéreo, este video comienza en Kalalau Beach al amanecer y avanza a lo largo del sendero durante casi un día completo. Los espectadores disfrutarán de una innumerable variedad de vistas que contemplan el vasto océano azul, donde una abundancia de vida silvestre y naturaleza aparecen en su imponente y curativa majestad.(n)</desc>
+  </programme>
+  <programme start="20260601225745 +0000" stop="20260601235951 +0000" channel="Naturescape">
+    <title lang="es">Cascadas Cristalinas de Croacia 2</title>
+    <desc lang="es">Transporta tus sentidos a las impresionantes aguas cristalinas de Croacia con esta nueva película dinámica de 2 horas sobre la naturaleza, filmada en ultra alta definición 4K. Filmada en el icónico Parque Nacional de los Lagos de Plitvice, la película ofrece un conjunto cautivador y ultradinámico de hermosas escenas de la naturaleza que muestran las cascadas, los manantiales y los senderos excepcionales y abundantes que dan cuenta de por qué es un destino tan único.(n)</desc>
   </programme>
 </tv>
