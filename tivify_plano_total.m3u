@@ -1,61 +1,28 @@
 #EXTM3U x-tvg-url="http://192.168.1.98:8080/tivify_fast_epg.xml"
 
+#EXTINF:-1 tvg-id="La_2" tvg-name="La 2" tvg-logo="http://192.168.1.98:8080/logos/La%202.png" group-title="Cajón de Sastre",La 2
+https://live.tvup.edge2befaster.io/la2/la2.mpd
+
 #EXTINF:-1 tvg-id="RTPi" tvg-name="RTPi" tvg-logo="http://192.168.1.98:8080/logos/RTPi.png" group-title="Cajón de Sastre",RTPi
 https://live-tcsand.c511.transparentedge.io/rtpi/rtpi.mpd
 
-#EXTINF:-1 tvg-id="BBC_World_News" tvg-name="BBC World News" tvg-logo="http://192.168.1.98:8080/logos/BBC%20World%20News.png" group-title="Cajón de Sastre",BBC World News
-https://live.tvup.edge2befaster.io/bbcworldnews/bbcworldnews.mpd
+#EXTINF:-1 tvg-id="Canal_Extremadura" tvg-name="Canal Extremadura" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Extremadura.png" group-title="TDT & Canales Locales",Canal Extremadura
+https://live.tvup.edge2befaster.io/canalextremadura/canalextremadura.mpd
 
-#EXTINF:-1 tvg-id="Aragon_TV" tvg-name="Aragon TV" tvg-logo="http://192.168.1.98:8080/logos/Aragon%20TV.png" group-title="TDT & Canales Locales",Aragon TV
-https://live.tvup.edge2befaster.io/aragontvsd/aragontvsd.mpd
+#EXTINF:-1 tvg-id="TRT_Arabi" tvg-name="TRT Arabi" tvg-logo="http://192.168.1.98:8080/logos/TRT%20Arabi.png" group-title="Cajón de Sastre",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TVG" tvg-name="TVG" tvg-logo="http://192.168.1.98:8080/logos/TVG.png" group-title="Cajón de Sastre",TVG
-https://live.tvup.edge2befaster.io/tvghd/tvghd.mpd
+#EXTINF:-1 tvg-id="Canal_24_horas" tvg-name="Canal 24 horas" tvg-logo="http://192.168.1.98:8080/logos/Canal%2024%20horas.png" group-title="Cajón de Sastre",Canal 24 horas
+https://live.tvup.edge2befaster.io/canal24hhd/canal24hhd.mpd
 
-#EXTINF:-1 tvg-id="3CatInfo" tvg-name="3CatInfo" tvg-logo="http://192.168.1.98:8080/logos/3CatInfo.png" group-title="Cajón de Sastre",3CatInfo
-https://live.tvup.edge2befaster.io/324hdsrt/324hdsrt.mpd
-
-#EXTINF:-1 tvg-id="France_24_ES" tvg-name="France 24 ES" tvg-logo="http://192.168.1.98:8080/logos/France%2024%20ES.png" group-title="Cajón de Sastre",France 24 ES
-https://tvup-fti-france24.c456.transparentedge.io/live/F24_ES_HI_HLS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DW_en_espanol" tvg-name="DW en espanol" tvg-logo="http://192.168.1.98:8080/logos/DW%20en%20espanol.png" group-title="Cajón de Sastre",DW en espanol
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="http://192.168.1.98:8080/logos/Hollywood.png" group-title="Cine",Hollywood
-https://live.tvup.edge2befaster.io/hollywood6/hollywood6.mpd
-
-#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="http://192.168.1.98:8080/logos/Odisea.png" group-title="Documentales",Odisea
-https://live.tvup.edge2befaster.io/odisea/odisea.mpd
-
-#EXTINF:-1 tvg-id="Canal_Sur" tvg-name="Canal Sur" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Sur.png" group-title="Cajón de Sastre",Canal Sur
-https://live.tvup.edge2befaster.io/canalsur/canalsur.mpd
-
-#EXTINF:-1 tvg-id="La_2" tvg-name="La 2" tvg-logo="http://192.168.1.98:8080/logos/La%202.png" group-title="Cajón de Sastre",La 2
-https://live.tvup.edge2befaster.io/la2/la2.mpd
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="http://192.168.1.98:8080/logos/DKISS.png" group-title="Cajón de Sastre",DKISS
+https://live.tvup.edge2befaster.io/dkissh/dkissh.mpd
 
 #EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="http://192.168.1.98:8080/logos/Nova.png" group-title="Cajón de Sastre",Nova
 https://live.tvup.edge2befaster.io/nova6/nova6.mpd
 
-#EXTINF:-1 tvg-id="Antena_3" tvg-name="Antena 3" tvg-logo="http://192.168.1.98:8080/logos/Antena%203.png" group-title="Cajón de Sastre",Antena 3
-https://live.tvup.edge2befaster.io/antena3hd/antena3hd.mpd
-
-#EXTINF:-1 tvg-id="Al_Jazeera" tvg-name="Al Jazeera" tvg-logo="http://192.168.1.98:8080/logos/Al%20Jazeera.png" group-title="Cajón de Sastre",Al Jazeera
-https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-id="France_24_EN" tvg-name="France 24 EN" tvg-logo="http://192.168.1.98:8080/logos/France%2024%20EN.png" group-title="Cajón de Sastre",France 24 EN
-https://france24english-tivify.ssai.tcscdn.net/master.m3u8
-
-#EXTINF:-1 tvg-id="Canal_Parlamento" tvg-name="Canal Parlamento" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Parlamento.png" group-title="TDT & Canales Locales",Canal Parlamento
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="http://192.168.1.98:8080/logos/Telemadrid.png" group-title="TDT & Canales Locales",Telemadrid
-https://live.tvup.edge2befaster.io/telemadrid6/telemadrid6.mpd
-
-#EXTINF:-1 tvg-id="Motorvision_TV" tvg-name="Motorvision TV" tvg-logo="http://192.168.1.98:8080/logos/Motorvision%20TV.png" group-title="Deportes",Motorvision TV
-https://motorvision-tivify.ssai.tcscdn.net/master.m3u8
-
-#EXTINF:-1 tvg-id="Historia" tvg-name="Historia" tvg-logo="http://192.168.1.98:8080/logos/Historia.png" group-title="Cajón de Sastre",Historia
-https://live.tvup.edge2befaster.io/historia/historia.mpd
+#EXTINF:-1 tvg-id="Canal_Sur" tvg-name="Canal Sur" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Sur.png" group-title="Cajón de Sastre",Canal Sur
+https://live.tvup.edge2befaster.io/canalsur/canalsur.mpd
 
 #EXTINF:-1 tvg-id="La_Sexta" tvg-name="La Sexta" tvg-logo="http://192.168.1.98:8080/logos/La%20Sexta.png" group-title="Cajón de Sastre",La Sexta
 https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
@@ -66,92 +33,65 @@ https://live.tvup.edge2befaster.io/telecincohd/telecincohd.mpd
 #EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://192.168.1.98:8080/logos/Cuatro.png" group-title="Cajón de Sastre",Cuatro
 https://live.tvup.edge2befaster.io/cuatro/cuatro.mpd
 
+#EXTINF:-1 tvg-id="BBC_World_News" tvg-name="BBC World News" tvg-logo="http://192.168.1.98:8080/logos/BBC%20World%20News.png" group-title="Cajón de Sastre",BBC World News
+https://live.tvup.edge2befaster.io/bbcworldnews/bbcworldnews.mpd
+
 #EXTINF:-1 tvg-id="Super_3-33" tvg-name="Super 3-33" tvg-logo="http://192.168.1.98:8080/logos/Super%203-33.png" group-title="Cajón de Sastre",Super 3-33
 https://live.tvup.edge2befaster.io/super333hdsrt/super333hdsrt.mpd
-
-#EXTINF:-1 tvg-id="À_Punt" tvg-name="À Punt" tvg-logo="http://192.168.1.98:8080/logos/À%20Punt.png" group-title="Cajón de Sastre",À Punt
-https://live.tvup.edge2befaster.io/apunt6/apunt6.mpd
-
-#EXTINF:-1 tvg-id="TPA7" tvg-name="TPA7" tvg-logo="http://192.168.1.98:8080/logos/TPA7.png" group-title="Cajón de Sastre",TPA7
-https://live.tvup.edge2befaster.io/tpa7/tpa7.mpd
-
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="http://192.168.1.98:8080/logos/Teledeporte.png" group-title="Deportes",Teledeporte
-https://live.tvup.edge2befaster.io/teledeporte/teledeporte.mpd
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://192.168.1.98:8080/logos/AXN.png" group-title="Cajón de Sastre",AXN
-https://live.tvup.edge2befaster.io/axn-hd/axn-hd.mpd
-
-#EXTINF:-1 tvg-id="Canal_Extremadura" tvg-name="Canal Extremadura" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Extremadura.png" group-title="TDT & Canales Locales",Canal Extremadura
-https://live.tvup.edge2befaster.io/canalextremadura/canalextremadura.mpd
-
-#EXTINF:-1 tvg-id="Canal_24_horas" tvg-name="Canal 24 horas" tvg-logo="http://192.168.1.98:8080/logos/Canal%2024%20horas.png" group-title="Cajón de Sastre",Canal 24 horas
-https://live.tvup.edge2befaster.io/canal24hhd/canal24hhd.mpd
-
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="http://192.168.1.98:8080/logos/Mega.png" group-title="Cajón de Sastre",Mega
-https://live.tvup.edge2befaster.io/mega6/mega6.mpd
-
-#EXTINF:-1 tvg-id="FDF" tvg-name="FDF" tvg-logo="http://192.168.1.98:8080/logos/FDF.png" group-title="Cajón de Sastre",FDF
-https://live.tvup.edge2befaster.io/fdf6/fdf6.mpd
-
-#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="http://192.168.1.98:8080/logos/Divinity.png" group-title="Cajón de Sastre",Divinity
-https://live.tvup.edge2befaster.io/divinity6/divinity6.mpd
-
-#EXTINF:-1 tvg-id="Red_Bull_TV" tvg-name="Red Bull TV" tvg-logo="http://192.168.1.98:8080/logos/Red%20Bull%20TV.png" group-title="Deportes",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="http://192.168.1.98:8080/logos/DKISS.png" group-title="Cajón de Sastre",DKISS
-https://live.tvup.edge2befaster.io/dkissh/dkissh.mpd
-
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://192.168.1.98:8080/logos/TV3.png" group-title="Cajón de Sastre",TV3
-https://live.tvup.edge2befaster.io/tv3hd/tv3hd.mpd
-
-#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="http://192.168.1.98:8080/logos/Neox.png" group-title="Cajón de Sastre",Neox
-https://live.tvup.edge2befaster.io/neox6/neox6.mpd
-
-#EXTINF:-1 tvg-id="NHK_World" tvg-name="NHK World" tvg-logo="http://192.168.1.98:8080/logos/NHK%20World.png" group-title="Cajón de Sastre",NHK World
-https://tvup-fti-nhk.c456.transparentedge.io/00489ab02a9d71cc/wSAKzjrGiKX3RPFr/0d7733Vbd99f0bd8.m3u8
-
-#EXTINF:-1 tvg-id="Canal_Malaga" tvg-name="Canal Malaga" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Malaga.png" group-title="TDT & Canales Locales",Canal Malaga
-https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="http://192.168.1.98:8080/logos/Mezzo.png" group-title="Cajón de Sastre",Mezzo
-https://live.tvup.edge2befaster.io/mezzo6/mezzo6.mpd
-
-#EXTINF:-1 tvg-id="Fibwi_TV_Autonomica" tvg-name="Fibwi TV Autonomica" tvg-logo="http://192.168.1.98:8080/logos/Fibwi%20TV%20Autonomica.png" group-title="Cajón de Sastre",Fibwi TV Autonomica
-https://live.tvup.edge2befaster.io/fibwitv1/fibwitv1.mpd
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://192.168.1.98:8080/logos/AMC.png" group-title="Cajón de Sastre",AMC
-https://live.tvup.edge2befaster.io/amc-hd/amc-hd.mpd
-
-#EXTINF:-1 tvg-id="Mezzo_Live" tvg-name="Mezzo Live" tvg-logo="http://192.168.1.98:8080/logos/Mezzo%20Live.png" group-title="Cajón de Sastre",Mezzo Live
-https://live.tvup.edge2befaster.io/mezzolivehd6/mezzolivehd6.mpd
-
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="http://192.168.1.98:8080/logos/Boing.png" group-title="Cajón de Sastre",Boing
-https://live.tvup.edge2befaster.io/boing/boing.mpd
-
-#EXTINF:-1 tvg-id="AMC_Western" tvg-name="AMC Western" tvg-logo="http://192.168.1.98:8080/logos/AMC%20Western.png" group-title="Cine",AMC Western
-https://live.tvup.edge2befaster.io/buenviaje/buenviaje.mpd
-
-#EXTINF:-1 tvg-id="Al_Jazeera_Arabic" tvg-name="Al Jazeera Arabic" tvg-logo="http://192.168.1.98:8080/logos/Al%20Jazeera%20Arabic.png" group-title="Cajón de Sastre",Al Jazeera Arabic
-https://live-hls-apps-aja.getaj.net/AJA/index.m3u8
-
-#EXTINF:-1 tvg-id="TV_Ripollès" tvg-name="TV Ripollès" tvg-logo="http://192.168.1.98:8080/logos/TV%20Ripollès.png" group-title="Cajón de Sastre",TV Ripollès
-https://tvup-fti-tvr.c456.transparentedge.io/0.m3u8
-
-#EXTINF:-1 tvg-id="TRT_Arabi" tvg-name="TRT Arabi" tvg-logo="http://192.168.1.98:8080/logos/TRT%20Arabi.png" group-title="Cajón de Sastre",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries" tvg-logo="http://192.168.1.98:8080/logos/Atreseries.png" group-title="Cajón de Sastre",Atreseries
 https://live.tvup.edge2befaster.io/atresseries/atresseries.mpd
 
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="http://192.168.1.98:8080/logos/Mega.png" group-title="Cajón de Sastre",Mega
+https://live.tvup.edge2befaster.io/mega6/mega6.mpd
+
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://192.168.1.98:8080/logos/TV3.png" group-title="Cajón de Sastre",TV3
+https://live.tvup.edge2befaster.io/tv3hd/tv3hd.mpd
+
 #EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="http://192.168.1.98:8080/logos/TRECE.png" group-title="Cajón de Sastre",TRECE
 https://live.tvup.edge2befaster.io/trece6/trece6.mpd
+
+#EXTINF:-1 tvg-id="Aragon_TV" tvg-name="Aragon TV" tvg-logo="http://192.168.1.98:8080/logos/Aragon%20TV.png" group-title="TDT & Canales Locales",Aragon TV
+https://live.tvup.edge2befaster.io/aragontvsd/aragontvsd.mpd
+
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="http://192.168.1.98:8080/logos/Neox.png" group-title="Cajón de Sastre",Neox
+https://live.tvup.edge2befaster.io/neox6/neox6.mpd
 
 #EXTINF:-1 tvg-id="IB3" tvg-name="IB3" tvg-logo="http://192.168.1.98:8080/logos/IB3.png" group-title="Cajón de Sastre",IB3
 https://live.tvup.edge2befaster.io/ib3hd/ib3hd.mpd
 
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF" tvg-logo="http://192.168.1.98:8080/logos/FDF.png" group-title="Cajón de Sastre",FDF
+https://live.tvup.edge2befaster.io/fdf6/fdf6.mpd
+
+#EXTINF:-1 tvg-id="À_Punt" tvg-name="À Punt" tvg-logo="http://192.168.1.98:8080/logos/À%20Punt.png" group-title="Cajón de Sastre",À Punt
+https://live.tvup.edge2befaster.io/apunt6/apunt6.mpd
+
+#EXTINF:-1 tvg-id="TVG" tvg-name="TVG" tvg-logo="http://192.168.1.98:8080/logos/TVG.png" group-title="Cajón de Sastre",TVG
+https://live.tvup.edge2befaster.io/tvghd/tvghd.mpd
+
+#EXTINF:-1 tvg-id="NHK_World" tvg-name="NHK World" tvg-logo="http://192.168.1.98:8080/logos/NHK%20World.png" group-title="Cajón de Sastre",NHK World
+https://tvup-fti-nhk.c456.transparentedge.io/00489ab02a9d71cc/wSAKzjrGiKX3RPFr/0d7733Vbd99f0bd8.m3u8
+
+#EXTINF:-1 tvg-id="Antena_3" tvg-name="Antena 3" tvg-logo="http://192.168.1.98:8080/logos/Antena%203.png" group-title="Cajón de Sastre",Antena 3
+https://live.tvup.edge2befaster.io/antena3hd/antena3hd.mpd
+
+#EXTINF:-1 tvg-id="3CatInfo" tvg-name="3CatInfo" tvg-logo="http://192.168.1.98:8080/logos/3CatInfo.png" group-title="Cajón de Sastre",3CatInfo
+https://live.tvup.edge2befaster.io/324hdsrt/324hdsrt.mpd
+
 #EXTINF:-1 tvg-id="VOTV" tvg-name="VOTV" tvg-logo="http://192.168.1.98:8080/logos/VOTV.png" group-title="Cajón de Sastre",VOTV
 https://live.tvup.edge2befaster.io/votv/votv.mpd
+
+#EXTINF:-1 tvg-id="Al_Jazeera" tvg-name="Al Jazeera" tvg-logo="http://192.168.1.98:8080/logos/Al%20Jazeera.png" group-title="Cajón de Sastre",Al Jazeera
+https://live-hls-apps-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="France_24_ES" tvg-name="France 24 ES" tvg-logo="http://192.168.1.98:8080/logos/France%2024%20ES.png" group-title="Cajón de Sastre",France 24 ES
+https://tvup-fti-france24.c456.transparentedge.io/live/F24_ES_HI_HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al_Jazeera_Arabic" tvg-name="Al Jazeera Arabic" tvg-logo="http://192.168.1.98:8080/logos/Al%20Jazeera%20Arabic.png" group-title="Cajón de Sastre",Al Jazeera Arabic
+https://live-hls-apps-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="France_24_EN" tvg-name="France 24 EN" tvg-logo="http://192.168.1.98:8080/logos/France%2024%20EN.png" group-title="Cajón de Sastre",France 24 EN
+https://france24english-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Andalucia_TV" tvg-name="Andalucia TV" tvg-logo="http://192.168.1.98:8080/logos/Andalucia%20TV.png" group-title="Cajón de Sastre",Andalucia TV
 https://live.tvup.edge2befaster.io/andaluciatv/andaluciatv.mpd
@@ -159,29 +99,95 @@ https://live.tvup.edge2befaster.io/andaluciatv/andaluciatv.mpd
 #EXTINF:-1 tvg-id="TV3_CAT" tvg-name="TV3 CAT" tvg-logo="http://192.168.1.98:8080/logos/TV3%20CAT.png" group-title="Cajón de Sastre",TV3 CAT
 https://live.tvup.edge2befaster.io/tv3esp/tv3esp.mpd
 
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="http://192.168.1.98:8080/logos/Divinity.png" group-title="Cajón de Sastre",Divinity
+https://live.tvup.edge2befaster.io/divinity6/divinity6.mpd
+
+#EXTINF:-1 tvg-id="Canal_Parlamento" tvg-name="Canal Parlamento" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Parlamento.png" group-title="TDT & Canales Locales",Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+
 #EXTINF:-1 tvg-id="Clan" tvg-name="Clan" tvg-logo="http://192.168.1.98:8080/logos/Clan.png" group-title="Animación",Clan
 https://live.tvup.edge2befaster.io/clan/clan.m3u8
 
-#EXTINF:-1 tvg-id="AXN_Movies" tvg-name="AXN Movies" tvg-logo="http://192.168.1.98:8080/logos/AXN%20Movies.png" group-title="Cajón de Sastre",AXN Movies
-https://live.tvup.edge2befaster.io/axnwhite6/axnwhite6.mpd
+#EXTINF:-1 tvg-id="Canal_Malaga" tvg-name="Canal Malaga" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Malaga.png" group-title="TDT & Canales Locales",Canal Malaga
+https://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="http://192.168.1.98:8080/logos/Telemadrid.png" group-title="TDT & Canales Locales",Telemadrid
+https://live.tvup.edge2befaster.io/telemadrid6/telemadrid6.mpd
+
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" tvg-logo="http://192.168.1.98:8080/logos/Mezzo.png" group-title="Cajón de Sastre",Mezzo
+https://live.tvup.edge2befaster.io/mezzo6/mezzo6.mpd
+
+#EXTINF:-1 tvg-id="TPA7" tvg-name="TPA7" tvg-logo="http://192.168.1.98:8080/logos/TPA7.png" group-title="Cajón de Sastre",TPA7
+https://live.tvup.edge2befaster.io/tpa7/tpa7.mpd
 
 #EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="http://192.168.1.98:8080/logos/Energy.png" group-title="Cajón de Sastre",Energy
 https://live.tvup.edge2befaster.io/energy6/energy6.mpd
 
+#EXTINF:-1 tvg-id="Fibwi_TV_Autonomica" tvg-name="Fibwi TV Autonomica" tvg-logo="http://192.168.1.98:8080/logos/Fibwi%20TV%20Autonomica.png" group-title="Cajón de Sastre",Fibwi TV Autonomica
+https://live.tvup.edge2befaster.io/fibwitv1/fibwitv1.mpd
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="http://192.168.1.98:8080/logos/Teledeporte.png" group-title="Deportes",Teledeporte
+https://live.tvup.edge2befaster.io/teledeporte/teledeporte.mpd
+
+#EXTINF:-1 tvg-id="Red_Bull_TV" tvg-name="Red Bull TV" tvg-logo="http://192.168.1.98:8080/logos/Red%20Bull%20TV.png" group-title="Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:-1 tvg-id="TRT_World" tvg-name="TRT World" tvg-logo="http://192.168.1.98:8080/logos/TRT%20World.png" group-title="Cajón de Sastre",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Mezzo_Live" tvg-name="Mezzo Live" tvg-logo="http://192.168.1.98:8080/logos/Mezzo%20Live.png" group-title="Cajón de Sastre",Mezzo Live
+https://live.tvup.edge2befaster.io/mezzolivehd6/mezzolivehd6.mpd
+
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="http://192.168.1.98:8080/logos/Boing.png" group-title="Cajón de Sastre",Boing
+https://live.tvup.edge2befaster.io/boing/boing.mpd
 
 #EXTINF:-1 tvg-id="7_Region_de_Murcia" tvg-name="7 Region de Murcia" tvg-logo="http://192.168.1.98:8080/logos/7%20Region%20de%20Murcia.png" group-title="Cajón de Sastre",7 Region de Murcia
 https://live.tvup.edge2befaster.io/7rmhd/7rmhd.mpd
 
+#EXTINF:-1 tvg-id="DW_en_espanol" tvg-name="DW en espanol" tvg-logo="http://192.168.1.98:8080/logos/DW%20en%20espanol.png" group-title="Cajón de Sastre",DW en espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="TV_Ripollès" tvg-name="TV Ripollès" tvg-logo="http://192.168.1.98:8080/logos/TV%20Ripollès.png" group-title="Cajón de Sastre",TV Ripollès
+https://tvup-fti-tvr.c456.transparentedge.io/0.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision_TV" tvg-name="Motorvision TV" tvg-logo="http://192.168.1.98:8080/logos/Motorvision%20TV.png" group-title="Deportes",Motorvision TV
+https://motorvision-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://192.168.1.98:8080/logos/AXN.png" group-title="Cajón de Sastre",AXN
+https://live.tvup.edge2befaster.io/axn-hd/axn-hd.mpd
+
+#EXTINF:-1 tvg-id="AXN_Movies" tvg-name="AXN Movies" tvg-logo="http://192.168.1.98:8080/logos/AXN%20Movies.png" group-title="Cajón de Sastre",AXN Movies
+https://live.tvup.edge2befaster.io/axnwhite6/axnwhite6.mpd
+
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="http://192.168.1.98:8080/logos/Hollywood.png" group-title="Cine",Hollywood
+https://live.tvup.edge2befaster.io/hollywood6/hollywood6.mpd
+
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea" tvg-logo="http://192.168.1.98:8080/logos/Odisea.png" group-title="Documentales",Odisea
+https://live.tvup.edge2befaster.io/odisea/odisea.mpd
+
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia" tvg-logo="http://192.168.1.98:8080/logos/Historia.png" group-title="Cajón de Sastre",Historia
+https://live.tvup.edge2befaster.io/historia/historia.mpd
+
+#EXTINF:-1 tvg-id="AMC_Western" tvg-name="AMC Western" tvg-logo="http://192.168.1.98:8080/logos/AMC%20Western.png" group-title="Cine",AMC Western
+https://live.tvup.edge2befaster.io/buenviaje/buenviaje.mpd
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://192.168.1.98:8080/logos/AMC.png" group-title="Cajón de Sastre",AMC
+https://live.tvup.edge2befaster.io/amc-hd/amc-hd.mpd
+
 #EXTINF:-1 tvg-id="Canal_Cocina" tvg-name="Canal Cocina" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Cocina.png" group-title="Cajón de Sastre",Canal Cocina
 https://live.tvup.edge2befaster.io/canal-cocina/canal-cocina.mpd
+
+#EXTINF:-1 tvg-id="AMC_Living" tvg-name="AMC Living" tvg-logo="http://192.168.1.98:8080/logos/AMC%20Living.png" group-title="Cajón de Sastre",AMC Living
+https://live.tvup.edge2befaster.io/decasa/decasa.mpd
 
 #EXTINF:-1 tvg-id="Sundance_TV" tvg-name="Sundance TV" tvg-logo="http://192.168.1.98:8080/logos/Sundance%20TV.png" group-title="Música",Sundance TV
 https://live.tvup.edge2befaster.io/sundance6/sundance6.mpd
 
-#EXTINF:-1 tvg-id="AMC_Living" tvg-name="AMC Living" tvg-logo="http://192.168.1.98:8080/logos/AMC%20Living.png" group-title="Cajón de Sastre",AMC Living
-https://live.tvup.edge2befaster.io/decasa/decasa.mpd
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos" tvg-logo="http://192.168.1.98:8080/logos/Somos.png" group-title="Cajón de Sastre",Somos
+https://live.tvup.edge2befaster.io/somos6/somos6.mpd
+
+#EXTINF:-1 tvg-id="VinTV" tvg-name="VinTV" tvg-logo="http://192.168.1.98:8080/logos/VinTV.png" group-title="Cajón de Sastre",VinTV
+https://live.tvup.edge2befaster.io/enfamilia/enfamilia.mpd
 
 #EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM" tvg-logo="http://192.168.1.98:8080/logos/XTRM.png" group-title="Cajón de Sastre",XTRM
 https://live.tvup.edge2befaster.io/xtrm6/xtrm6.mpd
@@ -194,12 +200,6 @@ https://live.tvup.edge2befaster.io/crimen-investigacion/crimen-investigacion.mpd
 
 #EXTINF:-1 tvg-id="CMM_TV" tvg-name="CMM TV" tvg-logo="http://192.168.1.98:8080/logos/CMM%20TV.png" group-title="Cajón de Sastre",CMM TV
 https://live.tvup.edge2befaster.io/castillalamancha/castillalamancha.mpd
-
-#EXTINF:-1 tvg-id="VinTV" tvg-name="VinTV" tvg-logo="http://192.168.1.98:8080/logos/VinTV.png" group-title="Cajón de Sastre",VinTV
-https://live.tvup.edge2befaster.io/enfamilia/enfamilia.mpd
-
-#EXTINF:-1 tvg-id="Somos" tvg-name="Somos" tvg-logo="http://192.168.1.98:8080/logos/Somos.png" group-title="Cajón de Sastre",Somos
-https://live.tvup.edge2befaster.io/somos6/somos6.mpd
 
 #EXTINF:-1 tvg-id="Canal_4_Televisio" tvg-name="Canal 4 Televisio" tvg-logo="http://192.168.1.98:8080/logos/Canal%204%20Televisio.png" group-title="TDT & Canales Locales",Canal 4 Televisio
 https://5caf24a595d94.streamlock.net:1937/8014/8014/playlist.m3u8
@@ -219,14 +219,14 @@ https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist
 #EXTINF:-1 tvg-id="CMM_Global" tvg-name="CMM Global" tvg-logo="http://192.168.1.98:8080/logos/CMM%20Global.png" group-title="Cajón de Sastre",CMM Global
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
 
+#EXTINF:-1 tvg-id="Descubre_Tivify" tvg-name="Descubre Tivify" tvg-logo="http://192.168.1.98:8080/logos/Descubre%20Tivify.png" group-title="Cajón de Sastre",Descubre Tivify
+https://descubretivify-tivify.fast.tcscdn.net/master.m3u8
+
 #EXTINF:-1 tvg-id="La_7" tvg-name="La 7" tvg-logo="http://192.168.1.98:8080/logos/La%207.png" group-title="Cajón de Sastre",La 7
 https://live.tvup.edge2befaster.io/7cyltv/7cyltv.mpd
 
-#EXTINF:-1 tvg-id="TV_Canaria" tvg-name="TV Canaria" tvg-logo="http://192.168.1.98:8080/logos/TV%20Canaria.png" group-title="Cajón de Sastre",TV Canaria
-https://live.tvup.edge2befaster.io/tvcanaria/tvcanaria.mpd
-
-#EXTINF:-1 tvg-id="Descubre_Tivify" tvg-name="Descubre Tivify" tvg-logo="http://192.168.1.98:8080/logos/Descubre%20Tivify.png" group-title="Cajón de Sastre",Descubre Tivify
-https://descubretivify-tivify.fast.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-id="La_8" tvg-name="La 8" tvg-logo="http://192.168.1.98:8080/logos/La%208.png" group-title="Cajón de Sastre",La 8
+https://live.tvup.edge2befaster.io/8cyltv/8cyltv.mpd
 
 #EXTINF:-1 tvg-id="TPA8" tvg-name="TPA8" tvg-logo="http://192.168.1.98:8080/logos/TPA8.png" group-title="Cajón de Sastre",TPA8
 https://live.tvup.edge2befaster.io/tpa8/tpa8.mpd
@@ -234,8 +234,8 @@ https://live.tvup.edge2befaster.io/tpa8/tpa8.mpd
 #EXTINF:-1 tvg-id="TVG_2" tvg-name="TVG 2" tvg-logo="http://192.168.1.98:8080/logos/TVG%202.png" group-title="Cajón de Sastre",TVG 2
 https://live.tvup.edge2befaster.io/tvg2/tvg2.mpd
 
-#EXTINF:-1 tvg-id="La_8" tvg-name="La 8" tvg-logo="http://192.168.1.98:8080/logos/La%208.png" group-title="Cajón de Sastre",La 8
-https://live.tvup.edge2befaster.io/8cyltv/8cyltv.mpd
+#EXTINF:-1 tvg-id="TV_Canaria" tvg-name="TV Canaria" tvg-logo="http://192.168.1.98:8080/logos/TV%20Canaria.png" group-title="Cajón de Sastre",TV Canaria
+https://live.tvup.edge2befaster.io/tvcanaria/tvcanaria.mpd
 
 #EXTINF:-1 tvg-id="Hustler_TV" tvg-name="Hustler TV" tvg-logo="http://192.168.1.98:8080/logos/Hustler%20TV.png" group-title="Cajón de Sastre",Hustler TV
 https://live.tvup.edge2befaster.io/hustler/hustler.mpd
@@ -252,41 +252,41 @@ https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax_TV" tvg-name="Newsmax TV" tvg-logo="http://192.168.1.98:8080/logos/Newsmax%20TV.png" group-title="Cajón de Sastre",Newsmax TV
 https://daiconnect.com/live/hls/tvup/tvfy-nmax/.m3u8
 
+#EXTINF:-1 tvg-id="Teleribera" tvg-name="Teleribera" tvg-logo="http://192.168.1.98:8080/logos/Teleribera.png" group-title="TDT & Canales Locales",Teleribera
+https://video3.lhdserver.es/teleribera/live.m3u8
+
 #EXTINF:-1 tvg-id="Pocoyo_y_Mas" tvg-name="PocoyoyMas" tvg-logo="http://192.168.1.98:8080/logos/PocoyoyMas.png" group-title="Animación",PocoyoyMas
 https://pocoyo-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Cubavision" tvg-name="Cubavision" tvg-logo="http://192.168.1.98:8080/logos/Cubavision.png" group-title="Cajón de Sastre",Cubavision
 https://live.tvup.edge2befaster.io/cubavision/cubavision.mpd
 
-#EXTINF:-1 tvg-id="Teleribera" tvg-name="Teleribera" tvg-logo="http://192.168.1.98:8080/logos/Teleribera.png" group-title="TDT & Canales Locales",Teleribera
-https://video3.lhdserver.es/teleribera/live.m3u8
-
 #EXTINF:-1 tvg-id="Toon_Goggles_EN" tvg-name="Toon Goggles EN" tvg-logo="http://192.168.1.98:8080/logos/Toon%20Goggles%20EN.png" group-title="Cajón de Sastre",Toon Goggles EN
 https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8
-
-#EXTINF:-1 tvg-id="SIC_Noticias" tvg-name="SIC Noticias" tvg-logo="http://192.168.1.98:8080/logos/SIC%20Noticias.png" group-title="Cajón de Sastre",SIC Noticias
-https://live-tcsand.c511.transparentedge.io/sicnoticias/sicnoticias.mpd
-
-#EXTINF:-1 tvg-id="El_Toro_TV" tvg-name="El Toro TV" tvg-logo="http://192.168.1.98:8080/logos/El%20Toro%20TV.png" group-title="Cajón de Sastre",El Toro TV
-https://live.tvup.edge2befaster.io/eltorotv/eltorotv.mpd
-
-#EXTINF:-1 tvg-id="La_Otra" tvg-name="La Otra" tvg-logo="http://192.168.1.98:8080/logos/La%20Otra.png" group-title="Cajón de Sastre",La Otra
-https://live.tvup.edge2befaster.io/laotra/laotra.mpd
 
 #EXTINF:-1 tvg-id="SIC_Internacional" tvg-name="SIC Internacional" tvg-logo="http://192.168.1.98:8080/logos/SIC%20Internacional.png" group-title="Cajón de Sastre",SIC Internacional
 https://live-tcsand.c511.transparentedge.io/sicinternacional/sicinternacional.mpd
 
+#EXTINF:-1 tvg-id="SIC_Noticias" tvg-name="SIC Noticias" tvg-logo="http://192.168.1.98:8080/logos/SIC%20Noticias.png" group-title="Cajón de Sastre",SIC Noticias
+https://live-tcsand.c511.transparentedge.io/sicnoticias/sicnoticias.mpd
+
 #EXTINF:-1 tvg-id="BFM_TV" tvg-name="BFM TV" tvg-logo="http://192.168.1.98:8080/logos/BFM%20TV.png" group-title="Cajón de Sastre",BFM TV
 https://live-tcsand.c511.transparentedge.io/bmf/bmf.mpd
+
+#EXTINF:-1 tvg-id="La_Otra" tvg-name="La Otra" tvg-logo="http://192.168.1.98:8080/logos/La%20Otra.png" group-title="Cajón de Sastre",La Otra
+https://live.tvup.edge2befaster.io/laotra/laotra.mpd
+
+#EXTINF:-1 tvg-id="El_Toro_TV" tvg-name="El Toro TV" tvg-logo="http://192.168.1.98:8080/logos/El%20Toro%20TV.png" group-title="Cajón de Sastre",El Toro TV
+https://live.tvup.edge2befaster.io/eltorotv/eltorotv.mpd
 
 #EXTINF:-1 tvg-id="Televisio_LHospitalet" tvg-name="Televisio LHospitalet" tvg-logo="http://192.168.1.98:8080/logos/Televisio%20LHospitalet.png" group-title="TDT & Canales Locales",Televisio LHospitalet
 https://live.tvup.edge2befaster.io/tvhospitalet/tvhospitalet.mpd
 
-#EXTINF:-1 tvg-id="Vallès_Visio" tvg-name="Vallès Visio" tvg-logo="http://192.168.1.98:8080/logos/Vallès%20Visio.png" group-title="Cajón de Sastre",Vallès Visio
-https://live.tvup.edge2befaster.io/vallesvisio/vallesvisio.mpd
-
 #EXTINF:-1 tvg-id="BDN_Televisio" tvg-name="BDN Televisio" tvg-logo="http://192.168.1.98:8080/logos/BDN%20Televisio.png" group-title="TDT & Canales Locales",BDN Televisio
 https://live.tvup.edge2befaster.io/bdnbadalona/bdnbadalona.mpd
+
+#EXTINF:-1 tvg-id="Vallès_Visio" tvg-name="Vallès Visio" tvg-logo="http://192.168.1.98:8080/logos/Vallès%20Visio.png" group-title="Cajón de Sastre",Vallès Visio
+https://live.tvup.edge2befaster.io/vallesvisio/vallesvisio.mpd
 
 #EXTINF:-1 tvg-id="Bon_Dia_TV" tvg-name="Bon Dia TV" tvg-logo="http://192.168.1.98:8080/logos/Bon%20Dia%20TV.png" group-title="Cajón de Sastre",Bon Dia TV
 https://live.tvup.edge2befaster.io/bondiatvsrt/bondiatvsrt.mpd
@@ -303,26 +303,23 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="Mijas_3.40_TV" tvg-name="Mijas 3.40 TV" tvg-logo="http://192.168.1.98:8080/logos/Mijas%203.40%20TV.png" group-title="Cajón de Sastre",Mijas 3.40 TV
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
-#EXTINF:-1 tvg-id="9_La_Loma_TV" tvg-name="9 La Loma TV" tvg-logo="http://192.168.1.98:8080/logos/9%20La%20Loma%20TV.png" group-title="TDT & Canales Locales",9 La Loma TV
-https://9laloma.tv/live.m3u8
-
 #EXTINF:-1 tvg-id="Onda_Algeciras" tvg-name="Onda Algeciras" tvg-logo="http://192.168.1.98:8080/logos/Onda%20Algeciras.png" group-title="TDT & Canales Locales",Onda Algeciras
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-
-#EXTINF:-1 tvg-id="Estepona_TV" tvg-name="Estepona TV" tvg-logo="http://192.168.1.98:8080/logos/Estepona%20TV.png" group-title="TDT & Canales Locales",Estepona TV
-https://cloudvideo.servers10.com:8081/8022/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal_San_Roque" tvg-name="Canal San Roque" tvg-logo="http://192.168.1.98:8080/logos/Canal%20San%20Roque.png" group-title="TDT & Canales Locales",Canal San Roque
 https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Estepona_TV" tvg-name="Estepona TV" tvg-logo="http://192.168.1.98:8080/logos/Estepona%20TV.png" group-title="TDT & Canales Locales",Estepona TV
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+
+#EXTINF:-1 tvg-id="9_La_Loma_TV" tvg-name="9 La Loma TV" tvg-logo="http://192.168.1.98:8080/logos/9%20La%20Loma%20TV.png" group-title="TDT & Canales Locales",9 La Loma TV
+https://9laloma.tv/live.m3u8
+
 #EXTINF:-1 tvg-id="TVM_Cordoba" tvg-name="TVM Cordoba" tvg-logo="http://192.168.1.98:8080/logos/TVM%20Cordoba.png" group-title="TDT & Canales Locales",TVM Cordoba
 https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8
 
-#EXTINF:-1 tvg-id="El_Pais" tvg-name="El Pais" tvg-logo="http://192.168.1.98:8080/logos/El%20Pais.png" group-title="Cajón de Sastre",El Pais
-https://elpais-tivify.ssai.tcscdn.net/master.m3u8
-
-#EXTINF:-1 tvg-id="Film&Co" tvg-name="Film&Co" tvg-logo="http://192.168.1.98:8080/logos/Film&Co.png" group-title="Cine",Film&Co
-https://filmandco-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="http://192.168.1.98:8080/logos/Euronews.png" group-title="Cajón de Sastre",Euronews
+https://euronews-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Qello_Concerts" tvg-name="Qello Concerts" tvg-logo="http://192.168.1.98:8080/logos/Qello%20Concerts.png" group-title="Música",Qello Concerts
 https://qelloconcerts-tivify.ssai.tcscdn.net/master.m3u8
@@ -330,17 +327,23 @@ https://qelloconcerts-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="El_Confidencial" tvg-name="El Confidencial" tvg-logo="http://192.168.1.98:8080/logos/El%20Confidencial.png" group-title="Documentales",El Confidencial
 https://elconfidencial-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="http://192.168.1.98:8080/logos/Euronews.png" group-title="Cajón de Sastre",Euronews
-https://euronews-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-id="Film&Co" tvg-name="Film&Co" tvg-logo="http://192.168.1.98:8080/logos/Film&Co.png" group-title="Cine",Film&Co
+https://filmandco-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="ITA_|_Intermedio" tvg-name="ITA | Intermedio" tvg-logo="http://192.168.1.98:8080/logos/ITA%20|%20Intermedio.png" group-title="Idiomas",ITA | Intermedio
-https://itaintermedio-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-id="El_Pais" tvg-name="El Pais" tvg-logo="http://192.168.1.98:8080/logos/El%20Pais.png" group-title="Cajón de Sastre",El Pais
+https://elpais-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Ingles_Total" tvg-name="Ingles Total" tvg-logo="http://192.168.1.98:8080/logos/Ingles%20Total.png" group-title="Idiomas",Ingles Total
 https://inglestotal-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Gross_Out_TV" tvg-name="Gross Out TV" tvg-logo="http://192.168.1.98:8080/logos/Gross%20Out%20TV.png" group-title="Telerealidad & Variedades",Gross Out TV
-https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8
+#EXTINF:-1 tvg-id="ITA_|_Principiante" tvg-name="ITA | Principiante" tvg-logo="http://192.168.1.98:8080/logos/ITA%20|%20Principiante.png" group-title="Idiomas",ITA | Principiante
+https://itaprincipiante-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="ITA_|_Intermedio" tvg-name="ITA | Intermedio" tvg-logo="http://192.168.1.98:8080/logos/ITA%20|%20Intermedio.png" group-title="Idiomas",ITA | Intermedio
+https://itaintermedio-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="ITA_|_Avanzado" tvg-name="ITA | Avanzado" tvg-logo="http://192.168.1.98:8080/logos/ITA%20|%20Avanzado.png" group-title="Idiomas",ITA | Avanzado
+https://itaavanzado-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Vivir_con_perros" tvg-name="Vivir con perros" tvg-logo="http://192.168.1.98:8080/logos/Vivir%20con%20perros.png" group-title="Hogar",Vivir con perros
 https://vivirconperros-tivify.ssai.tcscdn.net/master.m3u8
@@ -351,11 +354,8 @@ https://vivircongatos-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="Sin_Filtros" tvg-name="Sin Filtros" tvg-logo="http://192.168.1.98:8080/logos/Sin%20Filtros.png" group-title="Telerealidad & Variedades",Sin Filtros
 https://sinfiltros-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="ITA_|_Principiante" tvg-name="ITA | Principiante" tvg-logo="http://192.168.1.98:8080/logos/ITA%20|%20Principiante.png" group-title="Idiomas",ITA | Principiante
-https://itaprincipiante-tivify.ssai.tcscdn.net/master.m3u8
-
-#EXTINF:-1 tvg-id="ITA_|_Avanzado" tvg-name="ITA | Avanzado" tvg-logo="http://192.168.1.98:8080/logos/ITA%20|%20Avanzado.png" group-title="Idiomas",ITA | Avanzado
-https://itaavanzado-tivify.ssai.tcscdn.net/master.m3u8
+#EXTINF:-1 tvg-id="Gross_Out_TV" tvg-name="Gross Out TV" tvg-logo="http://192.168.1.98:8080/logos/Gross%20Out%20TV.png" group-title="Telerealidad & Variedades",Gross Out TV
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="Cooking_Panda" tvg-name="Cooking Panda" tvg-logo="http://192.168.1.98:8080/logos/Cooking%20Panda.png" group-title="Telerealidad & Variedades",Cooking Panda
 https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8
@@ -438,11 +438,11 @@ https://todonovelas-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="Runtime_Familia" tvg-name="Runtime Familia" tvg-logo="http://192.168.1.98:8080/logos/Runtime%20Familia.png" group-title="Cine",Runtime Familia
 https://runtimefamilia-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Trace_Latina" tvg-name="Trace Latina" tvg-logo="http://192.168.1.98:8080/logos/Trace%20Latina.png" group-title="Música",Trace Latina
-https://tracelatina-tivify.ssai.tcscdn.net/master.m3u8
-
 #EXTINF:-1 tvg-id="Trace_Urban" tvg-name="Trace Urban" tvg-logo="http://192.168.1.98:8080/logos/Trace%20Urban.png" group-title="Música",Trace Urban
 https://traceurban-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Trace_Latina" tvg-name="Trace Latina" tvg-logo="http://192.168.1.98:8080/logos/Trace%20Latina.png" group-title="Música",Trace Latina
+https://tracelatina-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Trace_Brasil" tvg-name="Trace Brasil" tvg-logo="http://192.168.1.98:8080/logos/Trace%20Brasil.png" group-title="Música",Trace Brasil
 https://tracebrasil-tivify.ssai.tcscdn.net/master.m3u8
@@ -498,11 +498,11 @@ https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8
 #EXTINF:-1 tvg-id="Azteca_Internacional" tvg-name="Azteca Internacional" tvg-logo="http://192.168.1.98:8080/logos/Azteca%20Internacional.png" group-title="Cajón de Sastre",Azteca Internacional
 https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8
 
-#EXTINF:-1 tvg-id="Record_News" tvg-name="Record News" tvg-logo="http://192.168.1.98:8080/logos/Record%20News.png" group-title="Cajón de Sastre",Record News
-https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8
-
 #EXTINF:-1 tvg-id="Pitufo_TV" tvg-name="Pitufo TV" tvg-logo="http://192.168.1.98:8080/logos/Pitufo%20TV.png" group-title="Animación",Pitufo TV
 https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="Record_News" tvg-name="Record News" tvg-logo="http://192.168.1.98:8080/logos/Record%20News.png" group-title="Cajón de Sastre",Record News
+https://api-ott-rnw-rn.ottera.tv/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="Wedo_Big_Stories" tvg-name="Wedo Big Stories" tvg-logo="http://192.168.1.98:8080/logos/Wedo%20Big%20Stories.png" group-title="Cajón de Sastre",Wedo Big Stories
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-tivify/playlist.m3u8
@@ -639,20 +639,20 @@ https://classicrock-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="Stingray_Easy_Listening" tvg-name="Stingray Easy Listening" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Easy%20Listening.png" group-title="Música",Stingray Easy Listening
 https://easylistening-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Stingray_Flashback_70s" tvg-name="Stingray Flashback 70s" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Flashback%2070s.png" group-title="Música",Stingray Flashback 70s
-https://flashback70s-tivify.ssai.tcscdn.net/master.m3u8
-
 #EXTINF:-1 tvg-id="Stingray_Romance_Latino" tvg-name="Stingray Romance Latino" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Romance%20Latino.png" group-title="Música",Stingray Romance Latino
 https://romancelatino-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Stingray_Flashback_70s" tvg-name="Stingray Flashback 70s" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Flashback%2070s.png" group-title="Música",Stingray Flashback 70s
+https://flashback70s-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Stingray_Soul_Storm" tvg-name="Stingray Soul Storm" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Soul%20Storm.png" group-title="Música",Stingray Soul Storm
 https://soulstorm-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Stingray_Reggaeton" tvg-name="Stingray Reggaeton" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Reggaeton.png" group-title="Música",Stingray Reggaeton
-https://reggaeton-tivify.ssai.tcscdn.net/master.m3u8
-
 #EXTINF:-1 tvg-id="Stingray_DanceFloor_Fillers" tvg-name="Stingray DanceFloor Fillers" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20DanceFloor%20Fillers.png" group-title="Música",Stingray DanceFloor Fillers
 https://dancefloorfillers-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Stingray_Reggaeton" tvg-name="Stingray Reggaeton" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Reggaeton.png" group-title="Música",Stingray Reggaeton
+https://reggaeton-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Stingray_Exitos_Latinos" tvg-name="Stingray Exitos Latinos" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Exitos%20Latinos.png" group-title="Música",Stingray Exitos Latinos
 https://exitoslatinos-tivify.ssai.tcscdn.net/master.m3u8
@@ -711,14 +711,14 @@ https://introubleesp-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="DFB_Play_TV" tvg-name="DFB Play TV" tvg-logo="http://192.168.1.98:8080/logos/DFB%20Play%20TV.png" group-title="Deportes",DFB Play TV
 https://dfbplaytv-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="1+1_News" tvg-name="1+1 News" tvg-logo="http://192.168.1.98:8080/logos/1+1%20News.png" group-title="Cajón de Sastre",1+1 News
-https://1mas1news-tivify.ssai.tcscdn.net/master.m3u8
-
 #EXTINF:-1 tvg-id="Qwest_TV" tvg-name="Qwest TV" tvg-logo="http://192.168.1.98:8080/logos/Qwest%20TV.png" group-title="Música",Qwest TV
 https://amg00447-amg00447c1-tivify-international-5977.playouts.now.amagi.tv/playlist/amg00447-qwesttvfast-qwesttv-tivifyinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1+1_Travel" tvg-name="1+1 Travel" tvg-logo="http://192.168.1.98:8080/logos/1+1%20Travel.png" group-title="Entretenimiento & Estilo de Vida",1+1 Travel
 https://daiconnect.com/live/hls/tvup/tvfy-1travel/.m3u8
+
+#EXTINF:-1 tvg-id="1+1_News" tvg-name="1+1 News" tvg-logo="http://192.168.1.98:8080/logos/1+1%20News.png" group-title="Cajón de Sastre",1+1 News
+https://1mas1news-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Aguila_Roja_FAST" tvg-name="Aguila Roja" tvg-logo="http://192.168.1.98:8080/logos/Aguila%20Roja.png" group-title="Cajón de Sastre",Aguila Roja
 https://aguilaroja-tivify.ssai.tcscdn.net/master.m3u8
