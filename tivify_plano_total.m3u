@@ -600,9 +600,6 @@ https://tennischannel-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="Planeta_de_Cine" tvg-name="Planeta de Cine" tvg-logo="http://192.168.1.98:8080/logos/Planeta%20de%20Cine.png" group-title="Cine",Planeta de Cine
 https://planetadecine-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="EscapaTV" tvg-name="EscapaTV" tvg-logo="http://192.168.1.98:8080/logos/EscapaTV.png" group-title="Cajón de Sastre",EscapaTV
-https://live.tvup.edge2befaster.io/escapatv/escapatv.mpd
-
 #EXTINF:-1 tvg-id="Historia_y_Vida" tvg-name="Historia y Vida" tvg-logo="http://192.168.1.98:8080/logos/Historia%20y%20Vida.png" group-title="Documentales",Historia y Vida
 https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8
 
