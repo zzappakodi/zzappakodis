@@ -27,9 +27,6 @@ https://live.tvup.edge2befaster.io/canalsur/canalsur.mpd
 #EXTINF:-1 tvg-id="La_Sexta" tvg-name="La Sexta" tvg-logo="http://192.168.1.98:8080/logos/La%20Sexta.png" group-title="Cajón de Sastre",La Sexta
 https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
 
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="http://192.168.1.98:8080/logos/Telecinco.png" group-title="TDT & Canales Locales",Telecinco
-https://live.tvup.edge2befaster.io/telecincohd/telecincohd.mpd
-
 #EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro" tvg-logo="http://192.168.1.98:8080/logos/Cuatro.png" group-title="Cajón de Sastre",Cuatro
 https://live.tvup.edge2befaster.io/cuatro/cuatro.mpd
 
@@ -125,9 +122,6 @@ https://live.tvup.edge2befaster.io/energy6/energy6.mpd
 
 #EXTINF:-1 tvg-id="Fibwi_TV_Autonomica" tvg-name="Fibwi TV Autonomica" tvg-logo="http://192.168.1.98:8080/logos/Fibwi%20TV%20Autonomica.png" group-title="Cajón de Sastre",Fibwi TV Autonomica
 https://live.tvup.edge2befaster.io/fibwitv1/fibwitv1.mpd
-
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="http://192.168.1.98:8080/logos/Teledeporte.png" group-title="Deportes",Teledeporte
-https://live.tvup.edge2befaster.io/teledeporte/teledeporte.mpd
 
 #EXTINF:-1 tvg-id="Red_Bull_TV" tvg-name="Red Bull TV" tvg-logo="http://192.168.1.98:8080/logos/Red%20Bull%20TV.png" group-title="Deportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
