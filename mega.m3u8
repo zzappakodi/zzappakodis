@@ -1,16 +1,16 @@
 #EXTM3U
-#TIMESTAMP: 2026-06-13 15:12:02
+#TIMESTAMP: 2026-06-13 15:14:02
 #EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/7df3991f78f7291b5d5b5982dba352e39ff2cb0c_ES_1781356382_1781385122/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Reserved for local use",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://atres-live.atresmedia.com/7df3991f78f7291b5d5b5982dba352e39ff2cb0c_ES_1781356382_1781385122/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_qaa=128000.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="audio_ads",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ads",URI="https://atres-live.atresmedia.com/7df3991f78f7291b5d5b5982dba352e39ff2cb0c_ES_1781356382_1781385122/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_ads=128000.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/7df3991f78f7291b5d5b5982dba352e39ff2cb0c_ES_1781356382_1781385122/hlsts/live/mega_usp/mega_usp.isml/mega_usp-textstream_spa=0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/db5b2145d7b82eaac438b6b2ee9f737f1d2d80f8_ES_1781356502_1781385242/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Reserved for local use",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://atres-live.atresmedia.com/db5b2145d7b82eaac438b6b2ee9f737f1d2d80f8_ES_1781356502_1781385242/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_qaa=128000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="audio_ads",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ads",URI="https://atres-live.atresmedia.com/db5b2145d7b82eaac438b6b2ee9f737f1d2d80f8_ES_1781356502_1781385242/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_ads=128000.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/db5b2145d7b82eaac438b6b2ee9f737f1d2d80f8_ES_1781356502_1781385242/hlsts/live/mega_usp/mega_usp.isml/mega_usp-textstream_spa=0.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=622000,AVERAGE-BANDWIDTH=565000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=640x360,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/7df3991f78f7291b5d5b5982dba352e39ff2cb0c_ES_1781356382_1781385122/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000-video=405000.m3u8
+https://atres-live.atresmedia.com/db5b2145d7b82eaac438b6b2ee9f737f1d2d80f8_ES_1781356502_1781385242/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000-video=405000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1304000,AVERAGE-BANDWIDTH=1186000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=854x480,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/7df3991f78f7291b5d5b5982dba352e39ff2cb0c_ES_1781356382_1781385122/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000-video=990000.m3u8
+https://atres-live.atresmedia.com/db5b2145d7b82eaac438b6b2ee9f737f1d2d80f8_ES_1781356502_1781385242/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000-video=990000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1829000,AVERAGE-BANDWIDTH=1663000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/7df3991f78f7291b5d5b5982dba352e39ff2cb0c_ES_1781356382_1781385122/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000-video=1440000.m3u8
+https://atres-live.atresmedia.com/db5b2145d7b82eaac438b6b2ee9f737f1d2d80f8_ES_1781356502_1781385242/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000-video=1440000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=3298000,AVERAGE-BANDWIDTH=2998000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/7df3991f78f7291b5d5b5982dba352e39ff2cb0c_ES_1781356382_1781385122/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000-video=2700000.m3u8
+https://atres-live.atresmedia.com/db5b2145d7b82eaac438b6b2ee9f737f1d2d80f8_ES_1781356502_1781385242/hlsts/live/mega_usp/mega_usp.isml/mega_usp-audio_spa=128000-video=2700000.m3u8
 
