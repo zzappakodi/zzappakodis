@@ -3271,22 +3271,6 @@
     <title lang="es">Operacion Concha</title>
     <desc lang="es">Un estafador, propietario de una empresa cinematografica en quiebra, intenta atraer a un inversor contratando a un doble de una estrella de cine y haciendolo pasar por el autentico.</desc>
   </programme>
-  <programme start="20260615124642 +0000" stop="20260615144215 +0000" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Housebound</title>
-    <desc lang="es">Bajo arresto domiciliario en la casa donde crecio, Kylie Bucknell encuentra su sentencia aun mas insoportable ya que debe cumplirla con su madre Miriam, que esta convencida de que la casa esta encantada. Kylie piensa que las supersticiones de su madre son ridiculas pero cuando comienza a escuchar susurros inquietantes y extranos ruidos durante la noche, se pregunta si ha heredado la vivida imaginacion de su madre o si la casa esta realmente habitada por un espiritu hostil.</desc>
-  </programme>
-  <programme start="20260615144215 +0000" stop="20260615163310 +0000" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Eugenie Grandet</title>
-    <desc lang="es">Felix Grandet reina en su modesto hogar en Saumur, donde su esposa y su hija Eugenie llevan una existencia libre de distracciones. Extraordinariamente tacano, no ve con buenos ojos a los guapos pretendientes que se apresuran a pedir la mano de su hija. Nada debe socavar la colosal fortuna que esconde de todos. La repentina llegada del sobrino de Grandet, un dandy parisino huerfano y arruinado, pondra patas arriba la vida de la familia.</desc>
-  </programme>
-  <programme start="20260615163310 +0000" stop="20260615181024 +0000" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Los bicivoladores</title>
-    <desc lang="es">Tres jovenes tienen el bicicross como aficion. Un dia, tras un accidente sus bicicletas quedan destrozadas. Para sacar dinero se les ocurre pescar almejas y encuentran un paquete que les traera problemas...</desc>
-  </programme>
-  <programme start="20260615181024 +0000" stop="20260615195804 +0000" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Mejor otro dia</title>
-    <desc lang="es">Vispera de ano Nuevo. En la azotea de un rascacielos de Londres coinciden Martin, Maureen, Jess y JJ para poner fin a su vida. En lugar de saltar, los extranos hacen un pacto para seguir con vida hasta el dia de San Valentin. Y asi, en el dia que todo debia terminar, nace una amistad que los lleva a superar todos los obstaculos juntos. Sus aventuras son emocionantes, impredecibles y una autentica afirmacion de la vida.</desc>
-  </programme>
   <programme start="20260615195804 +0000" stop="20260615220036 +0000" channel="Cine_Feel_Good_Verdi_TV">
     <title lang="es">A bittersweet life</title>
     <desc lang="es">Sun-woo no es solo el gerente de un hotel, tambien es la mano derecha de un mafioso local llamado Kang. El dia que este le ordena que vigile a su prometida, de la que sospecha pueda estar viendose con otro hombre, su suerte cambia fatidicamente. Enamorado en secreto de la chica, Sun-woo decide perdonar la vida de su amante, aunque eso provocara las iras de su jefe, con consecuencias en extremo dolorosas.</desc>
@@ -3342,18 +3326,6 @@
   <programme start="20260616212956 +0000" stop="20260616230015 +0000" channel="Cine_Feel_Good_Verdi_TV">
     <title lang="es">Kamikaze</title>
     <desc lang="es">La inexplicable muerte violenta ante las camaras de los mas famosos presentadores de television pone en jaque al gobierno y a la policia del pais. Tras estos crimenes se oculta un asesino invisible, una mente genial, pervertida por la sed de venganza. Un nuevo metodo para matar que pone en peligro la seguridad del mismo Estado.</desc>
-  </programme>
-  <programme start="20260615141629 +0000" stop="20260615155412 +0000" channel="Cines_Verdi_TV">
-    <title lang="es">Despertando a Ned</title>
-    <desc lang="es">Tullymore es un pequeno e idilico pueblo irlandes cuya tranquilidad se rompe cuando a uno de sus 52 habitantes le toca el primer premio de la loteria. Se trata de Ned, un anciano sin familia que es encontrado muerto ese mismo dia con el billete premiado entre las manos y una sonrisa de felicidad en el rostro. Jackie y su mejor amigo Michael deciden hacerse pasar por Ned para reclamar el premio.</desc>
-  </programme>
-  <programme start="20260615155412 +0000" stop="20260615175027 +0000" channel="Cines_Verdi_TV">
-    <title lang="es">Orfeo negro</title>
-    <desc lang="es">Ambientacion del mito griego en el carnaval de Rio de Janeiro. La bella Euridice visita la ciudad brasilena en visperas de su famoso carnaval, invitada por una prima que vive en los arrabales. Hasta alli llega en un tranvia cuyo conductor, un guitarrista llamado Orfeo, queda prendado de sus encantos. Sin embargo su relacion se vera empanada por las sospechas de su celosa novia.</desc>
-  </programme>
-  <programme start="20260615175027 +0000" stop="20260615195620 +0000" channel="Cines_Verdi_TV">
-    <title lang="es">La voz de la luna</title>
-    <desc lang="es">Las divertidas y entretenidas aventuras de un hombre recientemente dado de alta de un centro de salud mental y su grupo de amigos inadaptados en busca del amor.</desc>
   </programme>
   <programme start="20260615195620 +0000" stop="20260615215925 +0000" channel="Cines_Verdi_TV">
     <title lang="es">Old Boy</title>
@@ -3414,81 +3386,6 @@
   <programme start="20260616215401 +0000" stop="20260616233639 +0000" channel="Cines_Verdi_TV">
     <title lang="es">Teniente corrupto</title>
     <desc lang="es">Un policia agobiado por las enormes deudas contraidas en el juego y que comete toda clase de abusos de autoridad, decide replantearse su vida y su profesion cuando investiga el caso de una joven monja que ha sido violada.</desc>
-  </programme>
-  <programme start="20260615141349 +0000" stop="20260615143832 +0000" channel="Anime_Vision">
-    <title lang="es">Toradora!</title>
-    <sub-title lang="es">El Festival Cultural De Ohashi (parte 3)</sub-title>
-    <desc lang="es">Mientras espera su turno en el concurso de belleza, Taiga no deja de mirar el movil, esperando noticias de su padre. En ese momento, Ryuji recibe un correo de parte del padre de Taiga y al leer el contenido queda atonito.</desc>
-  </programme>
-  <programme start="20260615143832 +0000" stop="20260615150314 +0000" channel="Anime_Vision">
-    <title lang="es">Toradora!</title>
-    <sub-title lang="es">La Tigresa De La Felicidad</sub-title>
-    <desc lang="es">Desde el festival, corre el rumor de que tocar a Taiga trae buena suerte, dando origen a la leyenda de la “Tigresa de la Felicidad”. Mientras todos tratan de tocarla como si fuera un amuleto, ella sigue lidiando con la traicion de su padre.</desc>
-  </programme>
-  <programme start="20260615150314 +0000" stop="20260615152757 +0000" channel="Anime_Vision">
-    <title lang="es">Toradora!</title>
-    <sub-title lang="es">Las Estrellas Están Lejos</sub-title>
-    <desc lang="es">Se acercan las elecciones para la presidencia del consejo estudiantil y Kitamura, desanimado, asegura que no se presentara. Taiga decide presentarse como una aspirante a presidenta malvada con la intencion de que Kitamura recapacite.</desc>
-  </programme>
-  <programme start="20260615152757 +0000" stop="20260615155239 +0000" channel="Anime_Vision">
-    <title lang="es">Toradora!</title>
-    <sub-title lang="es">Un Paso Adelante</sub-title>
-    <desc lang="es">Aunque el plazo para las candidaturas esta a punto de cerrarse, Kitamura sigue sin reaccionar y sus amigos estan preocupados. Al descubrir la verdadera razon por la que Kitamura ha caido en la desesperacion, Ryuji corre en su busqueda….</desc>
-  </programme>
-  <programme start="20260615155239 +0000" stop="20260615161932 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">La Espada Del Aislamiento</sub-title>
-    <desc lang="es">Hypnos convoca a sus hijos, los dioses menores Iquelo, Oneiros, Fantaso y Morfeo, para que den muerte a un mortal que ha tenido la osadia de introducirse en el reino de los suenos. Se trata ni mas ni menos que de El Cid, Caballero de Oro de Capricornio, que ha sido enviado tras Manigoldo con la mision de rescatar el alma de Sisifo, Caballero de Oro de Sagitario.</desc>
-  </programme>
-  <programme start="20260615161932 +0000" stop="20260615164627 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Cárcel De Sueños</sub-title>
-    <desc lang="es">Decidido a rescatar el alma de Sisifo, El Cid se enfrenta en solitario a los cuatro dioses del sueno. Mientras tanto, Tenma, camino del Castillo de Hades, se encuentra de repente en su pueblo. Alli se reune con Sasha, que le asegura que todo lo sucedido hasta ahora no ha sido mas que un sueno. Pero Tenma no puede evitar pensar que hay algo terriblemente equivocado en todo esto….</desc>
-  </programme>
-  <programme start="20260615164627 +0000" stop="20260615171322 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Más Allá De Los Sueños</sub-title>
-    <desc lang="es">Iquelo supera una y otra vez a El Cid en combate, pero el Caballero de Oro decide emplear su propia sangre derramada para derrotar a su enemigo. Al mismo tiempo, Tenma consigue escapar de la carcel de suenos y se enfrenta abiertamente a Morfeo, quien se aprovecha de sus sentimientos para someterle. Pero justo entonces la Armadura de Pegaso parece cambiar….</desc>
-  </programme>
-  <programme start="20260615171322 +0000" stop="20260615174018 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">El Camino De La Rectitud</sub-title>
-    <desc lang="es">Tenma y El Cid se encuentran acorralados contra el poder combinado de Oneiros y sus companeros Fantaso, Iquelo y Morfeo. Pero justo entonces Atenea llega al Mundo de los Suenos para despertar a Sisifo permitiendo a Tenma y El Cid reanudar la lucha con la intencion de expulsar a Oneiros del Mundo de los Suenos y llevar el enfrentamiento al mundo real.</desc>
-  </programme>
-  <programme start="20260615174018 +0000" stop="20260615180631 +0000" channel="Anime_Vision">
-    <title lang="es">Yona, la princesa del amanecer</title>
-    <sub-title lang="es">La Larga Espera</sub-title>
-    <desc lang="es">Yona y sus amigos llegan a la aldea del Dragon Blanco, donde consideran el cabello rojo como un presagio. Mas tarde, Kija, conocido como el Dragon Blanco, aparece ante Yona y los otros para eliminar a los intrusos con sus propias manos.</desc>
-  </programme>
-  <programme start="20260615180631 +0000" stop="20260615183224 +0000" channel="Anime_Vision">
-    <title lang="es">High Card</title>
-    <sub-title lang="es">Chris</sub-title>
-    <desc lang="es">¿Por que Chris le ha disparado a Finn? High Card esta preocupado por el misterioso comportamiento de Chris. Mientras, Owen Alldays, el secretario de Theodore, trabaja bajo las ordenes directas del presidente para proteger a Chris.</desc>
-  </programme>
-  <programme start="20260615183224 +0000" stop="20260615185817 +0000" channel="Anime_Vision">
-    <title lang="es">High Card</title>
-    <sub-title lang="es">Finn</sub-title>
-    <desc lang="es">Mientras Leo y los demas protegen a la familia real de los Klondike, Finn es capturado por Owen por interponerse en la captura de Chris, que se marcha con Michelle. ¿Conseguira High Card detener el Ex-Hand de su amigo Chris?</desc>
-  </programme>
-  <programme start="20260615185817 +0000" stop="20260615192429 +0000" channel="Anime_Vision">
-    <title lang="es">No game no life</title>
-    <sub-title lang="es">Principiante</sub-title>
-    <desc lang="es">Los hermanos y gamers legendarios Shiro y Sora son transportados por el “dios” Tet a otra dimension en la que todo se rige mediante juegos de logica.</desc>
-  </programme>
-  <programme start="20260615192429 +0000" stop="20260615195050 +0000" channel="Anime_Vision">
-    <title lang="es">No game no life</title>
-    <sub-title lang="es">Aspirante</sub-title>
-    <desc lang="es">Los hermanos unen sus fuerzas con Stephanie Dola, la nieta del antiguo rey de Elchea, para salvar lo que queda de humanidad de su condenacion.</desc>
-  </programme>
-  <programme start="20260615195050 +0000" stop="20260615201803 +0000" channel="Anime_Vision">
-    <title lang="es">Kingdom</title>
-    <sub-title lang="es">El Significado De Un General</sub-title>
-    <desc lang="es">Cuando Shin ve a Ou Ki por primera vez se siente abrumado por su presencia. Mientras Ou Ki observa la batalla que cambia rapidamente debajo de el, asegura que han sido unicamente dos generales los que han provocado esta situacion.</desc>
-  </programme>
-  <programme start="20260615201803 +0000" stop="20260615204516 +0000" channel="Anime_Vision">
-    <title lang="es">Kingdom</title>
-    <sub-title lang="es">El General Inteligente Contra El General Audaz</sub-title>
-    <desc lang="es">Go Kei de Gi cambia de formacion en funcion de la situacion desde una posicion ventajosa, mientras que Hyou de Chin cabalga la batalla como un fuego ardiente. Finalmente, la batalla entre generales opuestos se decide en combate singular.</desc>
   </programme>
   <programme start="20260615204516 +0000" stop="20260615222645 +0000" channel="Anime_Vision">
     <title lang="es">Josee, el tigre y los peces</title>
@@ -3746,86 +3643,6 @@
     <title lang="es">No game no life</title>
     <sub-title lang="es">Plaza Débil</sub-title>
     <desc lang="es">Los nuevos reyes de Elchea delegan las responsabilidades administrativas en Stephanie para dedicarse a recopilar informacion sobre sus enemigos.</desc>
-  </programme>
-  <programme start="20260615141333 +0000" stop="20260615143951 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Inuyasha</title>
-    <sub-title lang="es">Naraku Y Sesshomaru Unen Sus Fuerzas</sub-title>
-    <desc lang="es">Naraku ofrece a Sesshomaru un brazo humano y uno de los fragmentos de La Esfera de los Cuatro Espiritus para que pueda empunar a Tessaiga contra Inuyasha.</desc>
-  </programme>
-  <programme start="20260615143951 +0000" stop="20260615150610 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Inuyasha</title>
-    <sub-title lang="es">¡regresa A Tu Tiempo, Kagome!</sub-title>
-    <desc lang="es">Despues de la dura lucha contra Sesshomaru, Inuyasha utiliza los fragmentos de la joya para obligar a Kagome a regresar a su tiempo a traves del pozo.</desc>
-  </programme>
-  <programme start="20260615150610 +0000" stop="20260615153229 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Inuyasha</title>
-    <sub-title lang="es">El Enigma De Onigumo, El Ladrón Miserable</sub-title>
-    <desc lang="es">Naraku envia al lobo Royakan tras Inuyasha, que todavia no se ha recuperado totalmente de las heridas sufridas en el combate contra Sesshomaru.</desc>
-  </programme>
-  <programme start="20260615153229 +0000" stop="20260615155847 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Inuyasha</title>
-    <sub-title lang="es">Una Verdad De Hace 50 Años. La Identidad De Naraku</sub-title>
-    <desc lang="es">Kagome regresa al pasado y el grupo descubre que Naraku fue uno de los que enganaron a Kikyo y a Inuyasha para enfrentarlos hace cincuenta anos.</desc>
-  </programme>
-  <programme start="20260615155847 +0000" stop="20260615162420 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Ranma 1/2</title>
-    <sub-title lang="es">Seguro Que Algún Día…</sub-title>
-    <desc lang="es">Con la intencion de que no descubra el secreto de la maldicion de su cuerpo, Ranma no le revela quien es a su madre. Cuando Akane ve a la madre de Ranma, Nodoka, regresar a casa triste y sola, comienza a idear un plan para que madre e hijo se reunan….</desc>
-  </programme>
-  <programme start="20260615162420 +0000" stop="20260615165054 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Last Exile</title>
-    <sub-title lang="es">Primer Movimiento</sub-title>
-    <desc lang="es">Claus y Lavie reciben el encargo de llevar un mensaje al Duque David Madossein. Lo que deberia haber sido una mision de rutina se complica cuando se ven atrapados en medio del infierno de la guerra.</desc>
-  </programme>
-  <programme start="20260615165054 +0000" stop="20260615171727 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Last Exile</title>
-    <sub-title lang="es">Luft Vanship</sub-title>
-    <desc lang="es">Atrapados en medio del conflicto, Claus y Lavie arriesgan sus vidas para entregar un mensaje muy especial que puede cambiar el curso de la batalla.</desc>
-  </programme>
-  <programme start="20260615171727 +0000" stop="20260615174400 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Last Exile</title>
-    <sub-title lang="es">Transposición</sub-title>
-    <desc lang="es">Claus y Lavie rescatan a una misteriosa nina en el transcurso de una carrera y acaban embarcandose en una peligrosa mision que cambiara sus vidas.</desc>
-  </programme>
-  <programme start="20260615174400 +0000" stop="20260615180859 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Kare Kano</title>
-    <sub-title lang="es">14 Días – Parte Ii</sub-title>
-    <desc lang="es">Tonami, el estudiante recien incorporado al instituto, sufrio acoso por parte de Tsubaki por su obesidad durante la escuela primaria y los primeros anos de secundaria. Con la firme determinacion de “evolucionar”, ha regresado a su vida como una persona completamente diferente. Por otro lado, Aya pide al grupo de Tsukino que actuen en el festival escolar interpretando la obra teatral que ha escrito, aunque….</desc>
-  </programme>
-  <programme start="20260615180859 +0000" stop="20260615183357 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Kare Kano</title>
-    <sub-title lang="es">14 Días – Parte Iii</sub-title>
-    <desc lang="es">Tonami le pide a Yukino que no revele que, en efecto, solia ir a clase junto a Tsubaki y las demas en el mismo colegio cuando era pequeno. Por otra parte, Yukino y Maho no estan demasiado convencidas con representar la obra de Aya para el festival escolar, pero al leer el guion se les despejan las dudas y acaban por decidirse. Es entonces cuando Yukino….</desc>
-  </programme>
-  <programme start="20260615183357 +0000" stop="20260615185855 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Kare Kano</title>
-    <sub-title lang="es">14 Días – Parte Iv</sub-title>
-    <desc lang="es">Yukino lanza la propuesta de llevar a escena la obra de Aya de cara al festival cultural y convence de paso a Maho, que se mostraba reluctante inicialmente. Haciendo gala de sus habilidades para la negociacion, Yukino y los demas realizan grandes progresos en los preparativos para representar la funcion, como lograr que el profesor Kawashima les tutorice. Mientras tanto, Arima….</desc>
-  </programme>
-  <programme start="20260615185855 +0000" stop="20260615192354 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Kare Kano</title>
-    <sub-title lang="es">14 Días – Parte V</sub-title>
-    <desc lang="es">Con el festival cultural cada vez mas cerca, Yukino esta hasta arriba de planes y reuniones para los preparativos de la obra de teatro. Tonami, quien ha jurado vengarse de Tsubaki, le confiesa que la odio. Yukino y toda la tropa quedan para reunirse un domingo, pero la conversacion pronto tira hacia otros derroteros. Maho se encuentra algo fuera de lugar y entonces….</desc>
-  </programme>
-  <programme start="20260615192354 +0000" stop="20260615194914 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">La vision de Escaflowne</title>
-    <sub-title lang="es">El Ángel De Las Alas Tenebrosas</sub-title>
-    <desc lang="es">La muerte de las hermanas Naria y Erya despierta en Folken un fuerte rencor hacia Dornkirk. Respondiendo a su llamada, Van y Hitomi se reunen con el entre las ruinas del reino de Fanelia, donde son atacados por sorpresa por dragones de tierra. Durante el combate, Folken cuenta como se unio a Zaibacher. Gravemente herido, Folken fracaso en el ritual de la caza del dragon. Dornkirk le salvo y su brazo perdido fue reemplazado por una protesis mecanica. En nombre de su ideal de un mundo en paz, acepto servir a Dornkirk. Pero ya no soporta mas los metodos de este, al que no le importa lo mas minimo la vida humana. Folken despliega sus alas negras y tira su espada, calmando asi al dragon de tierra que atacaba a Van. Entonces dice algo sorprendente a Van: “¡Derroquemos juntos a Dornkirk!”.</desc>
-  </programme>
-  <programme start="20260615194914 +0000" stop="20260615201434 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">La vision de Escaflowne</title>
-    <sub-title lang="es">Preludio A La Tempestad</sub-title>
-    <desc lang="es">Despues de la peticion de asilo de Folken, el reino de Astria crea una alianza armada entre todos los reinos de Gaia para derrotar a Zaibacher. Hitomi participa en la atencion a las victimas de la guerra, pero es sermoneada por Allen, que se preocupa por ella. Ella se rebela, lo que le entristece. La vispera de su partida al frente, Allen pide matrimonio a Hitomi, para bochorno de la joven. Al dia siguiente, la flota de la alianza se reune en el puerto. Pero el ejercito de Zaibacher, dirigido por un Dilandau convertido en guerrero con refuerzo de suerte, ataca al ejercito aliado, que es rapidamente diezmado. Van intenta abatir a Dilandau, que emprende la huida. El reino de Astria adopta una estrategia mas agresiva. Preocupada, Hitomi desea con todas sus fuerzas regresar a su mundo. Entonces su colgante emite una columna de luz que la transporta a la Tierra.</desc>
-  </programme>
-  <programme start="20260615201434 +0000" stop="20260615203953 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">La vision de Escaflowne</title>
-    <sub-title lang="es">La Elección Del Destino</sub-title>
-    <desc lang="es">Una columna de luz envia repentinamente a Hitomi de vuelta a la Tierra. Esta se encuentra en la vispera de su declaracion a Amano y de su partida hacia Gaia. Si declara de nuevo su amor a Amano, tendra que partir de nuevo hacia Gaia. Si no lo hace, permanecera en la Tierra. Guiada por las cartas del tarot, Hitomi se convence de que ama a Van y decide regresar a Gaia. Para hacerlo, debe declarar de nuevo su amor a Amano y correr los 100 metros. La columna de luz trae a Van y al Escaflowne. Envueltos en un halo de luz, Hitomi regresa con Van a Gaia, tierra de conflictos. Mientras tanto, Celena, hermana de Allen, regresa tras 10 anos de desaparicion. Pero la felicidad no dura mucho. Celena se transforma en Dilandau ante los ojos de su hermano.</desc>
-  </programme>
-  <programme start="20260615203953 +0000" stop="20260615210513 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">La vision de Escaflowne</title>
-    <sub-title lang="es">La Esfera De La Felicidad Absoluta</sub-title>
-    <desc lang="es">Da comienzo la batalla final entre los aliados de Astria y el imperio Zaibacher. Van y Allen luchan desesperadamente para poner fin al conflicto. Folken pide a Hitomi que le envie cerca de Dornkirk mediante la columna de luz. Pero la joven terrestre duda porque ha visto la muerte de Folken. Cuando descubre que el cuerpo de Folken sufre los efectos secundarios del refuerzo de suerte, Hitomi decide que merece la pena intentar cambiar el tragico destino y poner fin a la guerra. De esta forma, decide transportarse junto a Folken hasta Dornkirk. El hermano de Van intenta acabar con Dornkirk con su espada, pero muere como consecuencia de los efectos secundarios del refuerzo de suerte, igual que en la vision de Hitomi. Como habia previsto Dornkirk, Hitomi esta tan conmocionada por semejante espectaculo que pone en marcha el Alternador del Destino. Y la Esfera de la Felicidad Absoluta de Dornkirk se activa….</desc>
   </programme>
   <programme start="20260615210513 +0000" stop="20260615213630 +0000" channel="Anime_Vision_Classics">
     <title lang="es">Conan, el nino del futuro</title>
@@ -5065,74 +4882,6 @@
   <programme start="20260616190000 +0000" stop="20260616220000 +0000" channel="Yu-Gi-Oh!">
     <title lang="es">To Be Announced</title>
     <desc lang="es">Program information is not yet available.</desc>
-  </programme>
-  <programme start="20260615142917 +0000" stop="20260615160014 +0000" channel="Oficios_Perdidos">
-    <title lang="es">La trashumancia y el pastoreo tradicional en 2020. Diario de un viaje con 1000 ovejas</title>
-    <desc lang="es">La Canada Real de los Roncaleses es la mas oriental de las vias de trashumancia navarras. En la actualidad, uno de los pocos rebanos que todavia siguen recorriendo a pie esta canada entre la montana y el llano es el de Angel Mari Sanz, de Vidangoz. En el ano 2020, acompane a este ganadero con su rebano compuesto por un millar de cabezas de ganado lanar.</desc>
-  </programme>
-  <programme start="20260615160014 +0000" stop="20260615163305 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Panes, bollos y dulces amasados como antiguamente: a mano y sin maquinas. Recetas con tradicion</title>
-    <desc lang="es">En Anento (Zaragoza) el horno ha sido uno de los edificios mas concurridos por las mujeres, pues eran precisamente ellas las encargadas de elaborar el pan, bollos y todo tipo de reposteria. Tras muchos anos de haber concluido esta actividad colectiva, un grupo de mujeres decidio en el ano 2004 volver a cocer pan en el horno municipal.</desc>
-  </programme>
-  <programme start="20260615163305 +0000" stop="20260615165720 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Saneamiento de 200 vacas en alta montana. Busqueda y control veterinario una a una en el Pirineo</title>
-    <desc lang="es">Cuando las primeras nieves tenian las cumbres de Sobrepuerto, al pie del Pirineo, los ganaderos tenian que recoger todos los animales del rebano, que habian estado pastando diseminados por el monte. El ganado vacuno de la familia de Adolfo Sanz, de Sarvise (Huesca), era en el ano 2010 el que aprovechaba los pastos de la montana y con el participamos en esa actividad ganadera.</desc>
-  </programme>
-  <programme start="20260615165720 +0000" stop="20260615171947 +0000" channel="Oficios_Perdidos">
-    <title lang="es">El rabel. Pelos de caballo, madera y hojalata para fabricar este instrumento musical pastoril</title>
-    <desc lang="es">Aleccionado por su madre, que cantaba los romances transmitidos generacion tras generacion, aumento en Tomas Macho su interes por este instrumento tradicional pastoril, hasta convertirse hoy en investigador, tanedor y constructor de rabeles. En el ano 1998 nos hizo una demostracion de su fabricacion en Reinosa (Cantabria).</desc>
-  </programme>
-  <programme start="20260615171947 +0000" stop="20260615173602 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Caseta de adobe hecha a mano. Construccion tradicional de piezas de adobe con tierra, paja y agua</title>
-    <desc lang="es">Tanto la fabricacion de los adobes como la edificacion con estos materiales tuvo un gran auge durante los ultimos siglos. En el ano 1993, Hilario Artigas, del pueblo de Agüero (Huesca), construyo los muros de una caseta con los adobes que el mismo se fabrico con tierra, paja y agua.</desc>
-  </programme>
-  <programme start="20260615173602 +0000" stop="20260615174754 +0000" channel="Oficios_Perdidos">
-    <title lang="es">El bollo "humano" mas sorprendente. Elaboracion artesanal con plumas y dulces para una boda maragata</title>
-    <desc lang="es">Las costumbres de La Maragateria marcaron un caracter hospitalario, sin lisonjas, cuya alegria se desbordaba en los grandes acontecimientos como las fiestas y las bodas. Uno de los elementos caracteristicos de la celebracion era el bollo maragato, del que Rogelio me mostro en el ano 2000 su elaboracion tradicional en Santa Colomba de Somoza (Leon).</desc>
-  </programme>
-  <programme start="20260615174754 +0000" stop="20260615180945 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Los capones. Pollos castrados y su cria tradicional</title>
-    <desc lang="es">En la llanura de la Hoya de Huesca la localidad de Lupinen se beneficia de una excelente climatologia apropiada para la cria de los #capones. Alli, en el ano 2007, Eduardo Sobrevia y su familia criaban estas gallinaceas por el sistema tradicional. Los capones no son mas que los pollos castrados y cebados en un momento determinado de su vida. Y este exquisito manjar se lo debemos a los romanos, que conocian bien los cambios que sufrian los eunucos y decidieron castrar a los pollos con unos estupendos resultados.</desc>
-  </programme>
-  <programme start="20260615180945 +0000" stop="20260615182517 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Los rebozados de Pilarin: petardos de bacalao, gambas gabardina y pimientos rellenos</title>
-    <desc lang="es">Pilar Lera nos preparo en 2010 3 recetas deliciosas que durante anos preparaba para el Bar Rico Cu de Huesca: petardos de bacalao, gambas gabardina y pimientos rellenos.</desc>
-  </programme>
-  <programme start="20260615182517 +0000" stop="20260615183715 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Calderos y olletas de cobre moldeados a mano por un experto calderero artesanal</title>
-    <desc lang="es">Joaquin Sirvent aprendio el oficio de calderero de su padre y de su abuelo cuando apenas tenia 8 anos. Desde entonces siguio modelando a mano las ollas que mas tarde vendia a sus vecinos y a los mercados de las localidades de su entorno. En el ano 1994 pudimos documentar paso a paso la elaboracion de las olletas de cobre.</desc>
-  </programme>
-  <programme start="20260615183715 +0000" stop="20260615190803 +0000" channel="Oficios_Perdidos">
-    <title lang="es">La trufa negra. Busqueda con perros adiestrados, cultivo y su uso en la gastronomia</title>
-    <desc lang="es">La trufa negra o tubermelanosporum es una de las especies mas codiciadas por su calidad y versatilidad culinaria, y el pueblo turolense de Sarrion se ha convertido en uno de los importantes productores. En el ano 2007 pudimos participar de la recoleccion de este producto con Daniel Bertolin y Maria, quienes tambien nos mostraron como poderlo conservar y algunos sencillos guisos con trufas.</desc>
-  </programme>
-  <programme start="20260615190803 +0000" stop="20260615192635 +0000" channel="Oficios_Perdidos">
-    <title lang="es">La piedra de yeso. Calcinacion y molienda artesanal para su uso en la construccion</title>
-    <desc lang="es">La piedra de yeso ha sido uno de los materiales mas antiguos empleados para la construccion, tras ser sometido a un proceso de calcinacion. En la localidad de Albarracin (Teruel), Antonio Meda es el continuador de una saga de fabricantes de yeso artesano. En el ano 2013 nos mostro todo el proceso de transformacion de esta piedra que ya se utilizaba en el Neolitico.</desc>
-  </programme>
-  <programme start="20260615192635 +0000" stop="20260615200137 +0000" channel="Oficios_Perdidos">
-    <title lang="es">El carbonero. Transformacion tradicional de 10.000 kg de lena en carbon vegetal en plena naturaleza</title>
-    <desc lang="es">Hilario Artigas, vecino de Agüero (Huesca), fue un gran sabio rural. Uno de los muchos oficios que pudimos recuperar con el fue el de carbonero. En el ano 1999 nos mostro como era este oficio de transformar la lena de carrasca en carbon vegetal.</desc>
-  </programme>
-  <programme start="20260615200137 +0000" stop="20260615202106 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Gafas de sol artesanales. 40 anos de experiencia en la fabricacion manual de estas gafas de pasta</title>
-    <desc lang="es">En el ano 1997, Jose Grao, en su pequeno taller de Zaragoza, llevaba mas de 40 anos disenando y fabricando a mano gafas de pasta de diferentes modelos, adaptandose a todas las modas. Hoy, sus herederos siguen fabricando a mano estas originales gafas de diferentes estilos bajo la marca Grao-Gayoso.</desc>
-  </programme>
-  <programme start="20260615202106 +0000" stop="20260615202721 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Rosarios, cruces y otras piezas religiosas elaboradas en un taller con 60 anos de experiencia</title>
-    <desc lang="es">Uno de los talleres de fabricacion de rosarios mas importantes de Europa se encuentra en Monzon (Huesca). Jose Luis Escutia, uno de los herederos del taller, nos mostro en el ano 2010 la actividad diaria de la fabricacion de rosarios y de los diversos articulos religiosos que ofrecian en aquellos anos.</desc>
-  </programme>
-  <programme start="20260615202721 +0000" stop="20260615203628 +0000" channel="Oficios_Perdidos">
-    <title lang="es">La cochinilla y su uso tradicional como tinte natural rojo en alimentos, cosmeticos y tejidos</title>
-    <desc lang="es">Para dar color a las lanas, sedas y otras fibras, normalmente se han utilizado plantas tintoreas de diferentes procedencias, pero cuando se trataba de conseguir la gama de colores rojos en todas sus variantes, el tinte a utilizar procedia del reino animal: la cochinilla. En el ano 1998, en la isla canaria de Fuerteventura, Concha seguia cultivando la cochinilla en las tuneras para venderla despues en seco.</desc>
-  </programme>
-  <programme start="20260615203628 +0000" stop="20260615205717 +0000" channel="Oficios_Perdidos">
-    <title lang="es">La hierba en el Pirineo. Corte, transporte y almacenamiento tradicional para el invierno</title>
-    <desc lang="es">Hasta hace algunos anos, casi todos los prados que rodean los pueblos del Pirineo estaban sembrados de centeno. Hoy dia la hierba ha sustituido a los cultivos de cereal, pero las formas tradicionales de corte, transporte y almacenamiento de este alimento para los animales esta en trance de desaparicion. En el ano 1994 pudimos recuperar algunas de las actividades relacionadas con la hierba.</desc>
-  </programme>
-  <programme start="20260615205717 +0000" stop="20260615210800 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Abejas y colmenas. Tecnica tradicional para pasar la abeja reina de una colmena a otra</title>
-    <desc lang="es">En el trabajo del cultivo de las abejas el mes de marzo ha sido por tradicion el mas apropiado para partir las colmenas. En el ano 1995, en el pueblo de Lecinena (Zaragoza), Miguel Seral y su hijo Jose todavia practicaban la tecnica tradicional de despoblar los vasos o colmenas para partirlos y hacer otros nuevos, pasando la reina a otro contenedor con la mayor parte de las abejas.</desc>
   </programme>
   <programme start="20260615210800 +0000" stop="20260615212313 +0000" channel="Oficios_Perdidos">
     <title lang="es">"Chichoneras" o gorras de paja para proteger la cabeza de los bebes. Asi es su confeccion artesanal</title>
@@ -6594,38 +6343,6 @@
     <title lang="es">McLaren 720 S</title>
     <desc lang="es">El McLaren 720S es el sucesor oficial del 650S y sigue unos pasos bastante importantes. Analizamos de cerca lo convincente que es en comparacion con su predecesor.</desc>
   </programme>
-  <programme start="20260615143709 +0000" stop="20260615152327 +0000" channel="Ingles_Total">
-    <title lang="es">Las formas del presente</title>
-    <desc lang="es">Practicaremos todas las formas del presente ademas de aprender a ordenar adjetivos y la importancia de lo contable y lo incontable.</desc>
-  </programme>
-  <programme start="20260615152327 +0000" stop="20260615161033 +0000" channel="Ingles_Total">
-    <title lang="es">Adjetivos, Adverbios y Verbos: diferencias y usos:</title>
-    <desc lang="es">En esta oportunidad exploraremos los usos de diferentes adjetivos, adverbios y verbos.</desc>
-  </programme>
-  <programme start="20260615161033 +0000" stop="20260615165555 +0000" channel="Ingles_Total">
-    <title lang="es">La importancia del orden</title>
-    <desc lang="es">Te explicamos a responder a preguntas y la importancia del orden al usar adjetivos o adverbios.</desc>
-  </programme>
-  <programme start="20260615165555 +0000" stop="20260615174311 +0000" channel="Ingles_Total">
-    <title lang="es">Cualquier tiempo pasado</title>
-    <desc lang="es">Repasamos de verbos, el pasado perfecto, phrasal verbs y would. Tambien los adverbios de lugar.</desc>
-  </programme>
-  <programme start="20260615174311 +0000" stop="20260615182842 +0000" channel="Ingles_Total">
-    <title lang="es">Amistades peligrosas</title>
-    <desc lang="es">Puedes pensar que los conoces, ¡pero cuidado con estas expresiones y vocabulario! No te confies.</desc>
-  </programme>
-  <programme start="20260615182842 +0000" stop="20260615191136 +0000" channel="Ingles_Total">
-    <title lang="es">¿Que expresion usar en cada momento?</title>
-    <desc lang="es">Aprendemos mas sobre la voz pasiva y las diferencias entre "on time" y "in time", ademas de aprender nueva gramatica.</desc>
-  </programme>
-  <programme start="20260615191136 +0000" stop="20260615195732 +0000" channel="Ingles_Total">
-    <title lang="es">Primeras conversaciones</title>
-    <desc lang="es">Vamos a aprender como tener nuestras primeras conversaciones en ingles con algunos temas de small talk.</desc>
-  </programme>
-  <programme start="20260615195732 +0000" stop="20260615204220 +0000" channel="Ingles_Total">
-    <title lang="es">Posesion, obligacion y permiso</title>
-    <desc lang="es">En este capitulo se explica como expresar posesion, expresar obligacion y pedir permiso.</desc>
-  </programme>
   <programme start="20260615204220 +0000" stop="20260615212838 +0000" channel="Ingles_Total">
     <title lang="es">Aprende mas sobre las formas verbales</title>
     <desc lang="es">Descubre como conjugar y combinar los distintos presentes, pasados y futuros.</desc>
@@ -6858,38 +6575,6 @@
     <title lang="es">You Cant Win Em All</title>
     <desc lang="es">As the Ottoman Empire collapses throughout Turkey in 1922, a number of adventurers from all over the world sign on to protect the locals from thieves and marauders--for a hefty price. Two such mercenaries are Adam and Josh, who are hired by provincial Turkish governor Osman. Adam and Josh are expected to protect their boss' gold shipment, and to provide safe conduct for Osman Bey's three daughters. Along the way, our 'heroes' decide to forget their mission and abscond with the gold, but their plans are foiled by their own inherent ineptitude--and by the bothersome interference of duplicitous Colonel Elci.</desc>
   </programme>
-  <programme start="20260615143752 +0000" stop="20260615152347 +0000" channel="ita_principiante">
-    <title lang="es">Primeras conversaciones</title>
-    <desc lang="es">Vamos a aprender como tener nuestras primeras conversaciones en ingles con algunos temas de small talk.</desc>
-  </programme>
-  <programme start="20260615152347 +0000" stop="20260615163757 +0000" channel="ita_principiante">
-    <title lang="es">Nacionalidades y verbos "to be..." y otros que empiezan por "to ..."</title>
-    <desc lang="es">Aprender el vocabulario de nacionalidades y los verbos to be, to be born, to fall, to buy y to get es clave para comunicarte con confianza en ingles. Estos contenidos te ayudaran a hablar sobre quien eres, de donde vienes y lo que haces, ampliando tu capacidad para expresarte de forma natural y fluida en cualquier situacion.</desc>
-  </programme>
-  <programme start="20260615163757 +0000" stop="20260615172240 +0000" channel="ita_principiante">
-    <title lang="es">Preposiciones, adverbios y adjetivos</title>
-    <desc lang="es">Las preposiciones, adverbios y adjetivos son partes esenciales del discurso en ingles. Juntos, estos elementos enriquecen las oraciones, aportando precision, detalle y claridad al lenguaje.</desc>
-  </programme>
-  <programme start="20260615172240 +0000" stop="20260615181033 +0000" channel="ita_principiante">
-    <title lang="es">Diferencias entre tener, haber y el verbo "to have"</title>
-    <desc lang="es">Aprendemos a usar "to be" cuando significa tener o haber y el verbo "to have". Tambien aprenderemos como usar las preposiciones.</desc>
-  </programme>
-  <programme start="20260615181033 +0000" stop="20260615185855 +0000" channel="ita_principiante">
-    <title lang="es">Utiliza correctamente adjetivos y haz comparaciones</title>
-    <desc lang="es">Los adjetivos y las descripciones y comparaciones ademas de aprender a decir fechas y horas.</desc>
-  </programme>
-  <programme start="20260615185855 +0000" stop="20260615195916 +0000" channel="ita_principiante">
-    <title lang="es">El Futuro</title>
-    <desc lang="es">Descubre el tiempo futuro para poder explicar las cosas que pasaran.</desc>
-  </programme>
-  <programme start="20260615195916 +0000" stop="20260615202827 +0000" channel="ita_principiante">
-    <title lang="es">Refresh del tiempo presente</title>
-    <desc lang="es">Conocer los tiempos del presente en ingles, te ayuda a comunicar lo que haces, piensas y sientes en tu vida diaria. Estos tiempos te permiten describir rutinas, expresar emociones y hablar de hechos reales con claridad y confianza. ¡Usa el presente para conectar con el mundo que te rodea!</desc>
-  </programme>
-  <programme start="20260615202827 +0000" stop="20260615211316 +0000" channel="ita_principiante">
-    <title lang="es">Posesion, obligacion y permiso</title>
-    <desc lang="es">En este capitulo se explica como expresar posesion, expresar obligacion y pedir permiso.</desc>
-  </programme>
   <programme start="20260615211316 +0000" stop="20260615221342 +0000" channel="ita_principiante">
     <title lang="es">Refresh del tiempo futuro</title>
     <desc lang="es">Para poder expresar las cosas que van a pasar en ingles, aprende a contar los planes y experiencias con emocion y seguridad. ¡Habla de lo que va a pasar con la confianza como un verdadero hablante de ingles!</desc>
@@ -7021,38 +6706,6 @@
   <programme start="20260616222627 +0000" stop="20260616234037 +0000" channel="ita_principiante">
     <title lang="es">Nacionalidades y verbos "to be..." y otros que empiezan por "to ..."</title>
     <desc lang="es">Aprender el vocabulario de nacionalidades y los verbos to be, to be born, to fall, to buy y to get es clave para comunicarte con confianza en ingles. Estos contenidos te ayudaran a hablar sobre quien eres, de donde vienes y lo que haces, ampliando tu capacidad para expresarte de forma natural y fluida en cualquier situacion.</desc>
-  </programme>
-  <programme start="20260615145020 +0000" stop="20260615153522 +0000" channel="ita_intermedio">
-    <title lang="es">Desear, tener, deber y otras expresiones</title>
-    <desc lang="es">Enriquece tu forma de hablar ingles utilizando estas formas verbales y aprende a usar correctamente la terminacion "ing".</desc>
-  </programme>
-  <programme start="20260615153522 +0000" stop="20260615161854 +0000" channel="ita_intermedio">
-    <title lang="es">Verbos que se prestan a la confusion</title>
-    <desc lang="es">Te explicamos la diferencia entre algunos verbos y expresiones verbales que suelen confundirse y mejoraremos la expresion oral de algunos sonidos.</desc>
-  </programme>
-  <programme start="20260615161854 +0000" stop="20260615170205 +0000" channel="ita_intermedio">
-    <title lang="es">Saliendo con amigos</title>
-    <desc lang="es">Desde hablar por telefono a despedirse, pasando por bailar y cantar, todo lo que necesitas para una tarde de diversion.</desc>
-  </programme>
-  <programme start="20260615170205 +0000" stop="20260615174358 +0000" channel="ita_intermedio">
-    <title lang="es">Expresate cada dia mejor</title>
-    <desc lang="es">Usa la voz pasiva y mejora tu gramatica para hacer preguntas indirectas y expresar de forma correcta los matices.</desc>
-  </programme>
-  <programme start="20260615174358 +0000" stop="20260615182800 +0000" channel="ita_intermedio">
-    <title lang="es">Terminos y condiciones</title>
-    <desc lang="es">Hoy trabajaremos los condicionales y ampliaremos nuestro vocabulario para diferentes situaciones.</desc>
-  </programme>
-  <programme start="20260615182800 +0000" stop="20260615191134 +0000" channel="ita_intermedio">
-    <title lang="es">Tu dia a dia en ingles</title>
-    <desc lang="es">Descubre como hablar por telefono, despedirse o expresar tus opiniones en ingles. Aprende tambien como son las medidas.</desc>
-  </programme>
-  <programme start="20260615191134 +0000" stop="20260615195533 +0000" channel="ita_intermedio">
-    <title lang="es">Expresiones cotidianas que debes conocer</title>
-    <desc lang="es">Aumenta tu expresion oral aprendiendo a dar opiniones, formas de despedida y expresiones con get, bring o take.</desc>
-  </programme>
-  <programme start="20260615195533 +0000" stop="20260615203738 +0000" channel="ita_intermedio">
-    <title lang="es">Ingles cotidiano</title>
-    <desc lang="es">Hoy en ITA aprenderemos como usar el ingles en nuestro dia a dia puede ser divertido, con vocabulario directo y claro, ideal para temas practicos.</desc>
   </programme>
   <programme start="20260615203738 +0000" stop="20260615212209 +0000" channel="ita_intermedio">
     <title lang="es">Verbos que no significan lo mismo</title>
@@ -7202,46 +6855,6 @@
     <title lang="es">¿Que harias si te tocara la loteria?</title>
     <desc lang="es">Aprendemos los condicionales, asi como la voz pasiva y la diferencia entre "get used to" y "be used to".</desc>
   </programme>
-  <programme start="20260615141245 +0000" stop="20260615145729 +0000" channel="ita_avanzado">
-    <title lang="es">Adverbios y expresiones</title>
-    <desc lang="es">Repasa los adverbios y aprende a distinguir expresiones que parecen iguales, pero no significan lo mismo.</desc>
-  </programme>
-  <programme start="20260615145729 +0000" stop="20260615150441 +0000" channel="ita_avanzado">
-    <title lang="es">Present perfect simple and present perfect continuous</title>
-    <desc lang="es">Hoy vamos a dar un repaso al presente perfecto simple y presente perfecto continuo.</desc>
-  </programme>
-  <programme start="20260615150441 +0000" stop="20260615154910 +0000" channel="ita_avanzado">
-    <title lang="es">Enriquece tu vocabulario</title>
-    <desc lang="es">Enriquece tu forma de hablar con el uso de expresiones como might, had better, should, out to, would y aprende vocabulario nuevo.</desc>
-  </programme>
-  <programme start="20260615154910 +0000" stop="20260615163254 +0000" channel="ita_avanzado">
-    <title lang="es">Vocabulario y expresiones comunes</title>
-    <desc lang="es">En este capitulo veremos un vocabulario especifico y expresiones comunes que se utilizan en varios contextos de tu dia a dia. Tambien aprenderemos un conjunto de terminos especificos relacionados con distintos lugares o profesiones. Expresiones comunes para expresar deseos o momentos que podrian suceder.</desc>
-  </programme>
-  <programme start="20260615163254 +0000" stop="20260615171737 +0000" channel="ita_avanzado">
-    <title lang="es">Verbos modales</title>
-    <desc lang="es">Veremos los verbos modales.</desc>
-  </programme>
-  <programme start="20260615171737 +0000" stop="20260615180147 +0000" channel="ita_avanzado">
-    <title lang="es">Expresiones que debes conocer</title>
-    <desc lang="es">Aprende diferentes expresiones para hablar como un verdadero anglosajon.</desc>
-  </programme>
-  <programme start="20260615180147 +0000" stop="20260615184609 +0000" channel="ita_avanzado">
-    <title lang="es">Repaso del futuro</title>
-    <desc lang="es">Si quieres saber como expresarte mejor al hablar del futuro, echa un vistazo a este contenido.</desc>
-  </programme>
-  <programme start="20260615184609 +0000" stop="20260615193453 +0000" channel="ita_avanzado">
-    <title lang="es">No te confundas con los false friends</title>
-    <desc lang="es">Te explicamos como no cometer errores con expresiones que parecen similares pero quieren decir cosas muy distintas y enriquecer el vocabulario.</desc>
-  </programme>
-  <programme start="20260615193453 +0000" stop="20260615201732 +0000" channel="ita_avanzado">
-    <title lang="es">Adverbios y expresiones</title>
-    <desc lang="es">Repasa los adverbios y aprende a distinguir expresiones que parecen iguales, pero no significan lo mismo.</desc>
-  </programme>
-  <programme start="20260615201732 +0000" stop="20260615210405 +0000" channel="ita_avanzado">
-    <title lang="es">Practica y mejora la gramatica y el vocabulario</title>
-    <desc lang="es">Sigue practicando con los phrasal verbs para mejorar tu nivel ademas de practicar expresiones y ampliar tu vocabulario.</desc>
-  </programme>
   <programme start="20260615210405 +0000" stop="20260615214931 +0000" channel="ita_avanzado">
     <title lang="es">¿Cuanto tienes?</title>
     <desc lang="es">Hoy trabajamos con porcentajes, cantidades y fracciones.</desc>
@@ -7381,68 +6994,6 @@
   <programme start="20260616223436 +0000" stop="20260616232142 +0000" channel="ita_avanzado">
     <title lang="es">Para hacer la compra</title>
     <desc lang="es">¿Te haces un lio con las cantidades y los alimentos? Aqui tienes las lecciones mas importantes que vas a usar a la hora de hacer la compra.</desc>
-  </programme>
-  <programme start="20260615143548 +0000" stop="20260615150515 +0000" channel="vaughan">
-    <title lang="es">Express Yourself</title>
-    <sub-title lang="es">Express Yourself Episode 31</sub-title>
-    <desc lang="es">En Express Yourself, el aprendizaje del ingles se convierte en una experiencia interactiva y divertida. Guiado por la dinamica Ximena Holliday, te sumergiras en lecciones que te ensenaran los verbos mas importantes, el vocabulario esencial y la gramatica clave a traves de actividades que hacen que el aprendizaje sea mas accesible y entretenido. ¡Expresate en ingles de una manera completamente nueva!</desc>
-  </programme>
-  <programme start="20260615150515 +0000" stop="20260615153454 +0000" channel="vaughan">
-    <title lang="es">Richard Vaughan Live Episode 156 - 160</title>
-    <desc lang="es">¿Sabes como es tener una clase con Richard Vaughan? ¿Has vivido la experiencia de recibir una clase con el gran guru del ingles? Con este programa, en tan solo 5 minutos, descubriras el secreto del metodo Vaughan y alucinaras con como mejoras con el idioma.</desc>
-  </programme>
-  <programme start="20260615153454 +0000" stop="20260615160453 +0000" channel="vaughan">
-    <title lang="es">The Show With No Name</title>
-    <sub-title lang="es">The Show With No Name Episode 32</sub-title>
-    <desc lang="es">Alberto Alonso lidera un programa que rompe con los metodos tradicionales de ensenanza. Aqui, el ingles se aprende de forma divertida y relevante, gracias a un contenido basado en cultura popular y noticias del momento.</desc>
-  </programme>
-  <programme start="20260615160453 +0000" stop="20260615163407 +0000" channel="vaughan">
-    <title lang="es">The Kyle Millar Show</title>
-    <sub-title lang="es">The Kyle Millar Show Episode 32</sub-title>
-    <desc lang="es">Con The Kyle Millar Show, aprender ingles nunca fue tan accesible y entretenido. Kyle te guiara a traves de un recorrido didactico lleno de traducciones y practicas de pronunciacion, todo mientras te ayuda a superar los errores comunes. ¡Una experiencia educativa que no querras dejar pasar!</desc>
-  </programme>
-  <programme start="20260615163407 +0000" stop="20260615170408 +0000" channel="vaughan">
-    <title lang="es">English on the DOT</title>
-    <sub-title lang="es">English On The Dot Episode 32</sub-title>
-    <desc lang="es">English on the Dot, con Marta Martinez y Micky Lennard al mando, te ensena ingles para que puedas enfrentar con confianza situaciones reales como ir de compras, reservar en un hotel, ¡o incluso tener una cena con tus suegros! Cada episodio ofrece minilecciones sobre vocabulario, gramatica, pronunciacion y expresiones, junto con ejercicios de practica oral. Al final, podras demostrar lo que has aprendido con un entretenido quiz. ¡Sigue aprendiendo con English on the Dot!</desc>
-  </programme>
-  <programme start="20260615170408 +0000" stop="20260615173334 +0000" channel="vaughan">
-    <title lang="es">Express Yourself</title>
-    <sub-title lang="es">Express Yourself Episode 32</sub-title>
-    <desc lang="es">Express Yourself es un programa especificamente pensado para estudiantes que estan comenzando su camino hacia el dominio del ingles y tambien para estudiantes experimentados que siguen cometiendo errores basicos. Con la increible Ximena Holliday como coach, aprenderas los verbos que mas usamos en ingles, el vocabulario clave y los puntos de gramaticales que haran que tu ingles vaya de nivel cero a nivel heroe mucho antes de lo que crees. It’s time to Express Yourself!</desc>
-  </programme>
-  <programme start="20260615173334 +0000" stop="20260615180309 +0000" channel="vaughan">
-    <title lang="es">Richard Vaughan Live Episode 161 - 165</title>
-    <desc lang="es">¿Sabes como es tener una clase con Richard Vaughan? ¿Has vivido la experiencia de recibir una clase con el gran guru del ingles? Con este programa, en tan solo 5 minutos, descubriras el secreto del metodo Vaughan y alucinaras con como mejoras con el idioma.</desc>
-  </programme>
-  <programme start="20260615180309 +0000" stop="20260615183313 +0000" channel="vaughan">
-    <title lang="es">The Show With No Name</title>
-    <sub-title lang="es">The Show With No Name Episode 33</sub-title>
-    <desc lang="es">Preparate para aprender ingles de una manera totalmente distinta con Alberto Alonso. Este show lleno de energia utiliza las ultimas noticias y tendencias culturales para ofrecerte lecciones practicas y entretenidas.</desc>
-  </programme>
-  <programme start="20260615183313 +0000" stop="20260615190326 +0000" channel="vaughan">
-    <title lang="es">The Kyle Millar Show</title>
-    <sub-title lang="es">The Kyle Millar Show Episode 33</sub-title>
-    <desc lang="es">Descubre la magia de aprender ingles con The Kyle Millar Show, donde cada leccion esta disenada para ser intensiva y altamente interactiva. Aqui, te sumergiras en la pronunciacion correcta y aprenderas a evitar errores comunes, todo en un formato que te mantendra enganchado.</desc>
-  </programme>
-  <programme start="20260615190326 +0000" stop="20260615193326 +0000" channel="vaughan">
-    <title lang="es">English on the DOT</title>
-    <sub-title lang="es">English On The Dot Episode 33</sub-title>
-    <desc lang="es">Con Marta Martinez y Micky Lennard a la cabeza, English on the Dot es el programa perfecto para perfeccionar tu ingles en situaciones cotidianas: desde hacer la compra hasta reservar una habitacion en un hotel, ¡o incluso para cenas familiares! Cada episodio te ofrece lecciones cortas de vocabulario, gramatica, y pronunciacion, ademas de expresiones clave y practica oral. Y como siempre, terminamos con un quiz para comprobar cuanto has aprendido. ¡Unete a nosotros en English on the Dot!</desc>
-  </programme>
-  <programme start="20260615193326 +0000" stop="20260615200244 +0000" channel="vaughan">
-    <title lang="es">Express Yourself</title>
-    <sub-title lang="es">Express Yourself Episode 33</sub-title>
-    <desc lang="es">Express Yourself es un programa disenado para estudiantes de ingles que desean mejorar su habilidad para comunicarse en situaciones cotidianas. Con la experta Ximena Holliday como tu guia, aprenderas a usar los verbos mas comunes y el vocabulario esencial que necesitas para expresar tus ideas con confianza. ¡Es hora de que el ingles deje de ser un obstaculo y se convierta en tu herramienta diaria!".</desc>
-  </programme>
-  <programme start="20260615200244 +0000" stop="20260615203215 +0000" channel="vaughan">
-    <title lang="es">Richard Vaughan Live Episode 166 - 170</title>
-    <desc lang="es">¿Sabes como es tener una clase con Richard Vaughan? ¿Has vivido la experiencia de recibir una clase con el gran guru del ingles? Con este programa, en tan solo 5 minutos, descubriras el secreto del metodo Vaughan y alucinaras con como mejoras con el idioma.</desc>
-  </programme>
-  <programme start="20260615203215 +0000" stop="20260615210213 +0000" channel="vaughan">
-    <title lang="es">The Show With No Name</title>
-    <sub-title lang="es">The Show With No Name Episode 34</sub-title>
-    <desc lang="es">Con su carisma unico, Alberto Alonso convierte el aprendizaje del ingles en una experiencia divertida y actualizada. A traves de noticias recientes y referencias culturales, este programa te ayuda a mejorar tu ingles de forma practica.</desc>
   </programme>
   <programme start="20260615210213 +0000" stop="20260615212943 +0000" channel="vaughan">
     <title lang="es">The Kyle Millar Show</title>
@@ -7919,26 +7470,6 @@
     <title lang="es">El tren de la muerte</title>
     <desc lang="es">Un tren con rehenes es robado en Bremen, Alemania. Se dirige al sur de Europa con una bomba nuclear. Un grupo especial de lucha contra el crimen de la ONU se encarga de detenerlo en cooperacion con militares y policias locales.</desc>
   </programme>
-  <programme start="20260615141526 +0000" stop="20260615152526 +0000" channel="Film_Co">
-    <title lang="es">Seccion Oficial 1x18a</title>
-    <desc lang="es">"Seccion Oficial” charla esta semana con Pedro Cenjor, director de "La Boda". Ademas, se va de "La lucha", recorre los ultimos rodajes y repasa los proximos estrenos de cine.</desc>
-  </programme>
-  <programme start="20260615152526 +0000" stop="20260615164443 +0000" channel="Film_Co">
-    <title lang="es">Las Corrientes Paralelas (VOSE)</title>
-    <desc lang="es">Del rio y la memoria En su impactante nueva pelicula, el realizador frances Pablo Chabanel entrelaza dos historias unidas por la lucha y la memoria. En el majestuoso rio Mekong, Samnang, lider de una comunidad indigena, desafia la expansion imparable de las represas hidroelectricas que amenazan con destruir su mundo. A kilometros de distancia, en Phnom Penh, Sothy, pintor y superviviente del genocidio de los Jemeres Rojos, vuelca en su arte el eco del dolor y la resistencia. A traves de imagenes de una belleza hipnotica, Chabanel crea un dialogo entre pasado y presente, entre la fuerza del agua y la fragilidad humana, recordandonos que la historia —como el rio— nunca deja de fluir.</desc>
-  </programme>
-  <programme start="20260615164443 +0000" stop="20260615175345 +0000" channel="Film_Co">
-    <title lang="es">El nino gato</title>
-    <desc lang="es">En los anos 50, en un pequeno pueblo de Galicia, aparece un ser con apariencia extrana. Suceden acontecimientos extraordinarios con muertes asociadas, se forja la leyenda del Nino Gato. 50 anos despues, uno de los que entonces era amigo del Nino y de la pandilla que se juntaban con el, se dispone a hacer un documental contando de primera mano lo sucedido. Por algun extrano motivo, no logra culminarlo. En el ano 2021, Alba, que siempre ha coleccionado material audiovisual recogiendolo de rastros y mercadillos, encuentra la cinta del documental inconcluso, y realiza el documental definitivo, que tenemos entre manos.</desc>
-  </programme>
-  <programme start="20260615175345 +0000" stop="20260615191759 +0000" channel="Film_Co">
-    <title lang="es">Al Oleo</title>
-    <desc lang="es">Maria, una joven estudiante de Bellas Artes, decide pasar un fin de semana con Julio, su pareja, en la casa del pueblo de sus padres. Una vez alli, la joven tendra que enfrentarse a una realidad ya olvidada. La solida mentalidad de su familia, hace que, practicamente, nada haya cambiado en la vida de su hermano Hugo y de su padre, Arturo.</desc>
-  </programme>
-  <programme start="20260615191759 +0000" stop="20260615205228 +0000" channel="Film_Co">
-    <title lang="es">La pasion de Kierkegaard</title>
-    <desc lang="es">El estudio que ha hecho el director de la obra de Soren Kierkegaard lo lleva a realizar esta conversacion con el, uno de los filosofos daneses mas relevantes de la historia. Una reflexion sobre la condicion del ser humano contemporaneo, absorbido por redes y tecnologias. Hoy el individuo carece de autonomia propia. Somos celulas parasitas de un cerebro cibernetico, formado por las redes sociales como Facebook, Instagram, Twitter, Tik Tok etc. No decidimos por nosotros mismos, dependemos en realidad, de una conciencia colectiva. Alfredo (Victor Rivas) debate su ansia de vida con Soren Kierkegaard, el filosofo de la realidad humana. Escucharlos debatir es una necesidad tan util como pensar. Ver a Kierkegaard llorar nos hace lamentar la razon, de que urbanitas como nosotros, no comprendemos el sentido ultimo de la existencia. La Pasion de Kierkegaard nos situa en una encrucijada. Alfredo, se mira en el espejo del fundador del existencialismo, mas necesario que nunca.</desc>
-  </programme>
   <programme start="20260615205228 +0000" stop="20260615220123 +0000" channel="Film_Co">
     <title lang="es">La Rusa</title>
     <desc lang="es">Tito es un hombre cerca de los 50. En plena crisis personal, decide volver a su pueblo, del que se fue hace mas de 15 anos, con la intencion de poner en orden lo poco que le queda, su casa. Cuando llega se encuentra un pueblo sombrio sometido al abuso de Los Crespo. Con ellos vive La Rusa, quien cambiara sus planes.</desc>
@@ -8011,22 +7542,6 @@
     <title lang="es">Dos a la carta</title>
     <desc lang="es">Oscar, un calculador broker urbano casado con una ambiciosa pija, y Dani, un torpe aldeano sin oficio ni beneficio, descubren que son hermanos y se ven obligados a compartir un restaurante perdido en un idilico paraje rural.</desc>
   </programme>
-  <programme start="20260615125721 +0000" stop="20260615154401 +0000" channel="Planeta_de_Cine">
-    <title lang="es">Hijos de la medianoche</title>
-    <desc lang="es">En la medianoche del 15 de agosto de 1947, el mismo dia en que la India consiguio la independencia, Saleem y Shiva nacieron en el mismo hospital de Bombay y formaron parte de la primera generacion libre del pais. La historia de Saleem y Shiva, intercambiados en sus cunas al nacer, tiene como transfondo la convulsa historia de la India moderna, desde su independencia hasta los anos ochenta: poderes sobrenaturales, amores prohibidos y secretos de familia se entremezclan con guerras y golpes de estado.</desc>
-  </programme>
-  <programme start="20260615154401 +0000" stop="20260615172525 +0000" channel="Planeta_de_Cine">
-    <title lang="es">3 generaciones</title>
-    <desc lang="es">Regan (Elle Fanning) es una adolescente de Nueva York que decide operarse para cambiar de sexo. Junto a su madre, Maggie (Naomi Watts), viven en casa de su abuela, Dolly (Susan Sarandon), una manager de musica que comparte piso con su novia. Maggie tiene que enfrentarse al padre de Regan para que firme tambien los permisos de la operacion y debera asumir que tiene que criar a su unica hija como un hijo.</desc>
-  </programme>
-  <programme start="20260615172525 +0000" stop="20260615190602 +0000" channel="Planeta_de_Cine">
-    <title lang="es">Madame</title>
-    <desc lang="es">Anne y Bob, una pareja americana que vive en Paris, organizan una cena e invitan a diez amigos. El hijo de Bob llega por sorpresa y el numero total de invitados es ahora de 13. La supersticiosa Anne le pide a su criada, Maria, que pretenda ser un rico amigo espanol y se unan a la mesa. Maria conoce a David, un aristocrata britanico. Ambos se gustan y continuaran su relacion.</desc>
-  </programme>
-  <programme start="20260615190602 +0000" stop="20260615205251 +0000" channel="Planeta_de_Cine">
-    <title lang="es">El regreso de Aladino</title>
-    <desc lang="es">Despues de liberar a Bagdad de las garras de su terrible visir, Aladin esta aburrido en palacio. Todavia no ha decidido pedir matrimonio a la princesa. Pero un terrible dictador, Shah Zaman, se invita al Palacio y anuncia que ha venido a tomar la ciudad y casarse con la Princesa. Aladin no tiene mas remedio que huir del Palacio. Intentara recuperar a su antiguo Genio y asi, volver para liberar a la ciudad y salvar a su novia.</desc>
-  </programme>
   <programme start="20260615205251 +0000" stop="20260615223008 +0000" channel="Planeta_de_Cine">
     <title lang="es">Zeros and Ones</title>
     <desc lang="es">JJ (Ethan Hawke), un soldado norteamericano destinado en Roma, ve saltar por los aires la ciudad del Vaticano a plena noche. Asi se embarcara en un heroico viaje para descubrir y enfrentarse a un enemigo desconocido que esta amenazando al mundo entero. Pero ¿que papel jugara en todo esto su hermano, un radical revolucionario que se encuentra en busqueda y captura?</desc>
@@ -8086,50 +7601,6 @@
   <programme start="20260616212728 +0000" stop="20260616231239 +0000" channel="Planeta_de_Cine">
     <title lang="es">Persecucion</title>
     <desc lang="es">El detective Breslin se cruza con Calloway, un hacker despiadado desesperado por encontrar a su esposa que ha sido secuestrada por un cartel de la droga. Cuando Calloway escapa de la custodia policial, Breslin une fuerzas con una policia sensata para recuperar a su prisionera. Pero, sospecha que el padre de Calloway y jefe del crimen esta involucrado de alguna manera.</desc>
-  </programme>
-  <programme start="20260615144507 +0000" stop="20260615151745 +0000" channel="Pocoyoymas">
-    <title lang="es">Mision Espacial</title>
-    <desc lang="es">Mision Espacial El Viaje de Pato Hora de Jugar Tenis Para Todos.</desc>
-  </programme>
-  <programme start="20260615151745 +0000" stop="20260615155014 +0000" channel="Pocoyoymas">
-    <title lang="es">Puntazo</title>
-    <desc lang="es">Puntazo Regreso Al Pasado Palabras Magicas Atrapados Por Los Turistas.</desc>
-  </programme>
-  <programme start="20260615155014 +0000" stop="20260615162326 +0000" channel="Pocoyoymas">
-    <title lang="es">Sigueme El Ritmo</title>
-    <desc lang="es">Sigueme El Ritmo El Guardian Del Sueno Acampada de Verano La Banda De Rock.</desc>
-  </programme>
-  <programme start="20260615162326 +0000" stop="20260615165556 +0000" channel="Pocoyoymas">
-    <title lang="es">Historias De Halloween</title>
-    <desc lang="es">Historias De Halloween El Pequeno Parque De Atracciones El Cartero Espacial Un Cuento de Navidad Marciano.</desc>
-  </programme>
-  <programme start="20260615165556 +0000" stop="20260615172903 +0000" channel="Pocoyoymas">
-    <title lang="es">El Gran Tobogan</title>
-    <desc lang="es">El Gran Tobogan Los zapatos de Elly Las Mil Puertas Ruidos Misteriosos.</desc>
-  </programme>
-  <programme start="20260615172903 +0000" stop="20260615180135 +0000" channel="Pocoyoymas">
-    <title lang="es">Una Solucion Perfecta</title>
-    <desc lang="es">Una Solucion Perfecta Fuera de control Detective Pocoyo Locos del Patin.</desc>
-  </programme>
-  <programme start="20260615180135 +0000" stop="20260615183435 +0000" channel="Pocoyoymas">
-    <title lang="es">Perdidos</title>
-    <desc lang="es">Perdidos ¡Que Susto! El Aguafiestas Pato es Mio.</desc>
-  </programme>
-  <programme start="20260615183435 +0000" stop="20260615190712 +0000" channel="Pocoyoymas">
-    <title lang="es">Jugando al Escondite</title>
-    <desc lang="es">Jugando al Escondite La Fiesta de Cumpleanos Sobre Ruedas El Bano de Elly.</desc>
-  </programme>
-  <programme start="20260615190712 +0000" stop="20260615194050 +0000" channel="Pocoyoymas">
-    <title lang="es">La Gran Torre</title>
-    <desc lang="es">La Gran Torre Los Nuevos Juguetes de Pocoyo Banando a Loula Pocoyo Mago.</desc>
-  </programme>
-  <programme start="20260615194050 +0000" stop="20260615201331 +0000" channel="Pocoyoymas">
-    <title lang="es">Cocinando con Elly</title>
-    <desc lang="es">Cocinando con Elly El Mercado Hora de Dormir Hoyo en Uno.</desc>
-  </programme>
-  <programme start="20260615201331 +0000" stop="20260615204650 +0000" channel="Pocoyoymas">
-    <title lang="es">¿Cuando llegamos?</title>
-    <desc lang="es">¿Cuando Llegamos? Que Empiece La Partida La Gran Final Pato Aceitoso.</desc>
   </programme>
   <programme start="20260615204650 +0000" stop="20260615212033 +0000" channel="Pocoyoymas">
     <title lang="es">Dinosaurios</title>
