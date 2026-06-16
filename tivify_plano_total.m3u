@@ -456,9 +456,6 @@ https://planetajunior-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="RTPi3" tvg-name="RTPi3" tvg-logo="http://192.168.1.98:8080/logos/RTPi3.png" group-title="Cajón de Sastre",RTPi3
 https://live-tcsand.c511.transparentedge.io/rtpi3/rtpi3.mpd
 
-#EXTINF:-1 tvg-id="Cine_Feel_Good_Verdi_TV" tvg-name="Cine Feel Good Verdi TV" tvg-logo="http://192.168.1.98:8080/logos/Cine%20Feel%20Good%20Verdi%20TV.png" group-title="Cine",Cine Feel Good Verdi TV
-https://cinesfeelgood-tivify.ssai.tcscdn.net/master.m3u8
-
 #EXTINF:-1 tvg-id="Love_The_Planet" tvg-name="Love The Planet" tvg-logo="http://192.168.1.98:8080/logos/Love%20The%20Planet.png" group-title="Documentales",Love The Planet
 https://amg01821-lovetv-amg01821c9-tivify-international-2006.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-tivifyinternational/playlist.m3u8
 
@@ -563,6 +560,9 @@ https://zuttv-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Cines_Verdi_TV" tvg-name="Cines Verdi TV" tvg-logo="http://192.168.1.98:8080/logos/Cines%20Verdi%20TV.png" group-title="Cine",Cines Verdi TV
 https://cinesverdi-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Cine_Feel_Good_Verdi_TV" tvg-name="Cine Feel Good Verdi TV" tvg-logo="http://192.168.1.98:8080/logos/Cine%20Feel%20Good%20Verdi%20TV.png" group-title="Cine",Cine Feel Good Verdi TV
+https://cinesfeelgood-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Cine_Western" tvg-name="Cine Western" tvg-logo="http://192.168.1.98:8080/logos/Cine%20Western.png" group-title="Cine",Cine Western
 https://cinewestern-tivify.ssai.tcscdn.net/master.m3u8
