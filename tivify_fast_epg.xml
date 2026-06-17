@@ -175,7 +175,7 @@
     <url>http://www.tivify.tv</url>
   </channel>
   <channel id="Film_Co">
-    <display-name lang="es">Film&amp;Co</display-name>
+    <display-name lang="es">FilmandCo</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_628cdee165774400228d971f.png" />
     <url>http://www.tivify.tv</url>
   </channel>
@@ -3378,14 +3378,6 @@
     <title lang="es">Igelak</title>
     <desc lang="es">Pello es un empleado de banca que es acusado por fraude. De repente decide huir y cambiar de identidad para sobrevivir, pero acaba viviendo en un edificio okupa y conoce la otra cara del trabajo que ha estado realizando en el banco.</desc>
   </programme>
-  <programme start="20260617044608 +0000" stop="20260617064046 +0000" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Sobre ruedas</title>
-    <desc lang="es">Jocelyn es un mujeriego que tiene la arriesgada idea de hacerse pasar por paraplejico para seducir a la bella cuidadora de personas discapacitadas que le gusta. Pero no puede imaginar que su plan se torcera: Jocelyn se enamora de la hermana de la cuidadora, una mujer que va en silla de ruedas. El seductor se ve atrapado en su propia trampa y debera continuar con la farsa.</desc>
-  </programme>
-  <programme start="20260617064046 +0000" stop="20260617082533 +0000" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Vatel</title>
-    <desc lang="es">François Vatel es el leal y devoto sirviente del arruinado Príncipe de Condé. El Príncipe necesita recuperar el favor del rey Luis XIV, y espera que éste le otorgue el mando de las tropas de una nueva campaña contra los holandeses. Para ello encarga a Vatel que organice, sin escatimar en gastos, una recepción a la totalidad de la Corte de Versalles en su castillo de Chantilly. Las fiestas durarán tres días y tres noches...</desc>
-  </programme>
   <programme start="20260617082533 +0000" stop="20260617095316 +0000" channel="Cine_Feel_Good_Verdi_TV">
     <title lang="es">Yo acuso</title>
     <desc lang="es">Viviendo en la comunidad agricola de Rickerby, Kimberly Jantzen, de 24 anos, es una madre soltera que trabaja en la gasolinera mientras estudia en la escuela de enfermeria para buscar una vida mejor para ella y su hija. Una noche, en el pub local, se pelea con Billy, su ex novio. Con un corte en la mano, es tratada por el Dr. Richard Darian, una de las personas mas ricas y respetadas de la ciudad. Sin embargo, bajo fuerte sedacion, Kimberly esta segura de que el medico abuso de ella.</desc>
@@ -3474,14 +3466,6 @@
     <title lang="es">Howl (Aullido)</title>
     <desc lang="es">Joe es el revisor del ultimo tren que sale de Londres durante una tormentosa noche. Subitamente el vehiculo frena de golpe y se detiene en lo mas profundo del bosque. El conductor sale de la cabina para averiguar que ha causado el incidente pero nunca vuelve. El panico cunde entre los pasajeros cuando Joe encuentra al conductor horriblemente mutilado. Algo brutal y peligroso acecha en la oscuridad.</desc>
   </programme>
-  <programme start="20260617050627 +0000" stop="20260617064514 +0000" channel="Cines_Verdi_TV">
-    <title lang="es">La infancia de Ivan</title>
-    <desc lang="es">Durante la Segunda Guerra Mundial, Ivan, de 12 anos, se queda huerfano despues de que su familia sea asesinada por las SS. Mas tarde se une a un grupo de partisanos que utilizan su diminuta estatura y agilidad para reunir informacion. Preocupados por su seguridad, sus comandantes alejan a Ivan del frente, pero el chico, empenado en vengarse del asesinato de sus padres, insiste en que le asignen misiones mas peligrosas, con tragicas consecuencias.</desc>
-  </programme>
-  <programme start="20260617064514 +0000" stop="20260617083350 +0000" channel="Cines_Verdi_TV">
-    <title lang="es">Escuela primaria</title>
-    <desc lang="es">En 1945, poco despues del final de la Segunda Guerra Mundial, un grupo de escolares asiste a un colegio del extrarradio de Praga. El mal comportamiento de los ninos de esta escuela obliga a incorporar un maestro con experiencia militar, un heroe de la resistencia durante la guerra.</desc>
-  </programme>
   <programme start="20260617083350 +0000" stop="20260617095900 +0000" channel="Cines_Verdi_TV">
     <title lang="es">El marido de la peluquera</title>
     <desc lang="es">Antonine (Jean Rochefort) ha crecido con una secreta pasion: casarse con una peluquera. Ya en la madurez su deseo se hace realidad: se une en matrimonio a una bellisima peluquera (Anna Galiena). La pareja comparte una felicidad perfecta, y su vida es un idilio permanente tan solo comparable a un sueno.</desc>
@@ -3561,56 +3545,6 @@
   <programme start="20260618214300 +0000" stop="20260618233658 +0000" channel="Cines_Verdi_TV">
     <title lang="es">Culpable sin rostro</title>
     <desc lang="es">India, 1880. Honor, deber, respeto. La eterna moral, el codigo etico militar. Todos estos valores corren peligro en un regimiento donde una hermosa viuda de un insigne heroe de guerra es atacada por uno de los nuevos oficiales. En un intento por detener el escandalo publico, los oficiales de mayor graduacion ponen en marcha un juicio militar.</desc>
-  </programme>
-  <programme start="20260617052355 +0000" stop="20260617054838 +0000" channel="Anime_Vision">
-    <title lang="es">Toradora!</title>
-    <sub-title lang="es">Mercurio Retrógrado En Navidad</sub-title>
-    <desc lang="es">Taiga, a quien le encanta la Navidad, ha decidido comportarse como una nina buena durante las fiestas y se propone actuar como cupido para Ryuji. Sin embargo, Minori no parece estar de buen humor y por alguna razon evita a Ryuji….</desc>
-  </programme>
-  <programme start="20260617054838 +0000" stop="20260617061324 +0000" channel="Anime_Vision">
-    <title lang="es">Toradora!</title>
-    <sub-title lang="es">Debajo Del Abeto</sub-title>
-    <desc lang="es">Minori no participa en los preparativos de la fiesta de Navidad y se enfoca por completo en las actividades de su club. Esto preocupa a Taiga, pero Ryuji la anima diciendole que, cuando llegue la fiesta, Minori volvera a ser la de siempre.</desc>
-  </programme>
-  <programme start="20260617061324 +0000" stop="20260617063806 +0000" channel="Anime_Vision">
-    <title lang="es">Toradora!</title>
-    <sub-title lang="es">Fiesta De Navidad</sub-title>
-    <desc lang="es">Taiga convence a Minori para que asista a la fiesta y, sintiendo que ya ha cumplido con su mision, se marcha a casa antes de que acabe la fiesta. Preocupado por Taiga, Ryuji decide aparecer ante ella disfrazado de Santa Claus.</desc>
-  </programme>
-  <programme start="20260617063806 +0000" stop="20260617070249 +0000" channel="Anime_Vision">
-    <title lang="es">Toradora!</title>
-    <sub-title lang="es">Siempre Así</sub-title>
-    <desc lang="es">Con la ayuda de Taiga, Ryuji consigue volver a acercarse poco a poco a Minori. Decidido a no dejar las cosas asi, Ryuji toma la decision de aprovechar el viaje escolar para confesarle sus sentimientos, algo que no pudo hacer en Navidad.</desc>
-  </programme>
-  <programme start="20260617070249 +0000" stop="20260617072943 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Espada Sagrada</sub-title>
-    <desc lang="es">Sasha logra entrar en el sueno de Sisifo y alli descubre que el Caballero de Oro se siente culpable por alejarla de Alone y Tenma y esta convencido de que por su culpa se desencadeno la Guerra Santa. Atenea arriesga su vida intentando convencerle de que abra su corazon y salga de la oscuridad. Mientras, El Cid cae finalmente exhausto en su enfrentamiento contra Oneiros.</desc>
-  </programme>
-  <programme start="20260617072943 +0000" stop="20260617075638 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Tiempo De Batallas Sangrientas</sub-title>
-    <desc lang="es">Con los cuatro dioses del sueno derrotados y la barrera de Hypnos derribada, las fuerzas de Atenea finalmente pueden irrumpir en el Castillo de Hades. Tras pronunciar un discurso en nombre del Patriarca, Hakurei entra solo en el Castillo con el proposito de sellar a Hypnos. Sin embargo, en ese mismo momento, el dios del sueno provoca el autentico despertar de Hades.</desc>
-  </programme>
-  <programme start="20260617075638 +0000" stop="20260617082333 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Cuantos Meses Y Años</sub-title>
-    <desc lang="es">Hakurei se aventura en el Castillo de Hades en solitario, protegido por una espada bendecida por la anterior encarnacion de Atenea. Pero justo cuando se dispone a destruir la barrera que se extiende por el castillo, aparece Hypnos y le revela que ha capturado a sus discipulos. ¿Sera Hakurei capaz de derrotar a quien se convirtio en su mas odiado enemigo durante la ultima Guerra Santa?</desc>
-  </programme>
-  <programme start="20260617082333 +0000" stop="20260617084957 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Sé Tu Mismo</sub-title>
-    <desc lang="es">Hakurei consigue derrotar a Hypnos con la ayuda de sus camaradas de armas caidos en la ultima Guerra Santa. Pero justo cuando se dispone a destruir la barrera oscura, aparece Hades en persona y acaba con el. Tenma y un enfurecido Shion se enfrentan a Hades, pero no pueden hacer nada contra el poder del dios. Pero justo cuando todo parece perdido, interviene Dohko….</desc>
-  </programme>
-  <programme start="20260617084957 +0000" stop="20260617091611 +0000" channel="Anime_Vision">
-    <title lang="es">No game no life</title>
-    <sub-title lang="es">Experto</sub-title>
-    <desc lang="es">En plena coronacion, Chlammy acepta el desafio que le lanzan Shiro y Sora tras acusarla de asegurarse su posicion en el trono con la ayuda de los elfos.</desc>
-  </programme>
-  <programme start="20260617091611 +0000" stop="20260617094231 +0000" channel="Anime_Vision">
-    <title lang="es">No game no life</title>
-    <sub-title lang="es">Gran Maestro</sub-title>
-    <desc lang="es">Tras derrotar a Chlammy, los hermanos no se ponen de acuerdo sobre cual de los dos debe coronarse Rey y comienzan a jugar entre ellos para decidirlo.</desc>
   </programme>
   <programme start="20260617094231 +0000" stop="20260617100845 +0000" channel="Anime_Vision">
     <title lang="es">No game no life</title>
@@ -4002,56 +3936,6 @@
     <title lang="es">No game no life</title>
     <sub-title lang="es">Regla Número 10</sub-title>
     <desc lang="es">Sora y Shiro caen derrotados frente al abrumador poder de Izuna, pero los hermanos aun se guardan un as en la manga en la forma de Steph.</desc>
-  </programme>
-  <programme start="20260617050105 +0000" stop="20260617052752 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Paranoia Agent</title>
-    <sub-title lang="es">Double Lips</sub-title>
-    <desc lang="es">Harumi Chono tiene una doble vida debido a su trastorno de identidad disociativo, su alter ego es una prostituta llamada Maria. La vida de Harumi/Maria da un vuelco cuando Harumi se compromete con un companero de la universidad, haciendo que crezcan las tensiones entre ellas.</desc>
-  </programme>
-  <programme start="20260617052752 +0000" stop="20260617055907 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Conan, el nino del futuro</title>
-    <sub-title lang="es">Fuga</sub-title>
-    <desc lang="es">El equipo de Monsley busca al Profesor Lao despues de que este evite a Telit. Lao conduce a Conan y a Lana hasta un aparato volador oculto. Los tres deciden llevar la nave averiada hasta Industria, donde pueden conseguir piezas de repuesto y liberar a Jimsy de la carcel. En el desierto, encuentran y liberan al condenado Capitan Dyce, quien les acompana para salvar a su tripulacion. Monsley les persigue, pero Conan obliga al Falco a hacer un aterrizaje forzoso. En Industria, el Consejo discute acerca de la reconstruccion despues del terremoto y Lepka, frustrado, decide capturar el mismo a Lao. El grupo llega a Industria y se separa. Conan y Dyce roban un robonoide y sacan a sus amigos de prision, mientras que Lana y el Profesor Lao usan los tuneles subterraneos para infiltrarse en la Torre Triangulo sin saber que Lepka sigue todos sus movimientos.</desc>
-  </programme>
-  <programme start="20260617055907 +0000" stop="20260617063021 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Conan, el nino del futuro</title>
-    <sub-title lang="es">Core Block</sub-title>
-    <desc lang="es">Atrapados por Lepka bajo la Torre Triangulo, Lana y el Profesor Lao buscan un circuito de recambio para el aparato volador en Core Block, una ciudad subterranea que la gente de Industria utilizo para sobrevivir al Gran Desastre. Conan se encuentra con un rebelde llamado Luke y los libera a el y a sus camaradas para que le guien bajo tierra, con Jimsy a su lado. En Core Block, Lana y Lao encuentran un circuito que funciona, pero los hombres de Lepka les acorralan. El Profesor se deja capturar para que Lana pueda escapar con el circuito. Conan y Jimsy se reunen con Lana y la ayudan a arreglar el aparato volador. Entre los tres rescatan al Profesor Lao y luego escapan de Industria con la ayuda de los rebeldes de Luke. Tras dejar atras a un Lepka furioso, nuestros heroes se reunen con el Barracuda y ponen rumbo a High Harbor.</desc>
-  </programme>
-  <programme start="20260617063021 +0000" stop="20260617065640 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Inuyasha</title>
-    <sub-title lang="es">Una Sonrisa Maléfica. El Alma Errante De Kikyo</sub-title>
-    <desc lang="es">Inuyasha y sus amigos descubren que Kikyo sobrevivio a la caida del precipicio y ha estado robando almas de fallecidos para permanecer con vida.</desc>
-  </programme>
-  <programme start="20260617065640 +0000" stop="20260617072259 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Inuyasha</title>
-    <sub-title lang="es">La Voz De Kagome Y El Beso De Kikyo</sub-title>
-    <desc lang="es">Kikyo atrapa a Kagome en un arbol y despues intenta atraer a Inuyasha al infierno con ella. La voz de Kagome consigue devolver a la realidad a Inuyasha.</desc>
-  </programme>
-  <programme start="20260617072259 +0000" stop="20260617074917 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Inuyasha</title>
-    <sub-title lang="es">¡aparece Sango, La Exterminadora De Demonios!</sub-title>
-    <desc lang="es">Sango es una exterminadora de demonios que ha sido enganada por Naraku para que crea que el culpable de la muerte de su familia es Inuyasha.</desc>
-  </programme>
-  <programme start="20260617074917 +0000" stop="20260617081536 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Inuyasha</title>
-    <sub-title lang="es">La Conspiración De Naraku Se Viene Abajo</sub-title>
-    <desc lang="es">Sango combate contra Inuyasha y sus amigos para vengar la muerte de sus padres, pero finalmente descubre que el verdadero culpable es Naraku.</desc>
-  </programme>
-  <programme start="20260617081536 +0000" stop="20260617084210 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Last Exile</title>
-    <sub-title lang="es">Zugzwang</sub-title>
-    <desc lang="es">Los dos pilotos dudan sobre su mision de entregar a Alvis a la nave Silvana. Antes de que se decidan, son atacados por sorpresa por fuerzas enemigas.</desc>
-  </programme>
-  <programme start="20260617084210 +0000" stop="20260617090844 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Last Exile</title>
-    <sub-title lang="es">Juego Posicional</sub-title>
-    <desc lang="es">Alex salva la vida a Claus y a continuacion se lleva a Alvis en la Silvana. Claus y su companera inician la persecucion de la legendaria nave de combate.</desc>
-  </programme>
-  <programme start="20260617090844 +0000" stop="20260617093517 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Last Exile</title>
-    <sub-title lang="es">Ataque Arbitrario</sub-title>
-    <desc lang="es">Ya a bordo de la Silvana, Claus se ofrece a efectuar una salida con uno de los cazas de combate para defender la nave de un ataque de las fuerzas de Guild.</desc>
   </programme>
   <programme start="20260617093517 +0000" stop="20260617100155 +0000" channel="Anime_Vision_Classics">
     <title lang="es">Last Exile</title>
@@ -5643,58 +5527,6 @@
     <sub-title lang="es">El Mejor Amigo, El Mejor Duelista: Parte 1</sub-title>
     <desc lang="es">Orgulloso de su fuerza como duelista en el juego, Joey desafia a Yugi para tener derecho a enfrentarse a Pegasus.</desc>
   </programme>
-  <programme start="20260617051821 +0000" stop="20260617054118 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Chocolate casero “a brazo”. Tueste y molienda del cacao sobre ìedra y sin uso de maquinaria moderna</title>
-    <desc lang="es">Los hermanos Fernandez de Castrocontrigo (Leon) todavia continuaban en el ano 1998 con la tradicion heredada de su abuelo, un emigrante en Argentina que regreso a su tierra con la idea de fabricar chocolate "a brazo". Chocolates "Santocildes", en honor del que fuera defensor de la ciudad de Astorga contra los franceses, ha mantenido la tradicion durante mas de ochenta anos.</desc>
-  </programme>
-  <programme start="20260617054118 +0000" stop="20260617055303 +0000" channel="Oficios_Perdidos">
-    <title lang="es">El yugo de madera artesanal. Elaboracion manual de este elemento para unir dos animales de tiro</title>
-    <desc lang="es">Hasta la mecanizacion del campo en general, el yugo era uno de los aperos mas importantes para la agricultura y su fabricacion corria a cargo de los hombres que se dedicaban a la extraccion de madera en el bosque. En el ano 1994 pudimos recoger la fabricacion de un yugo en el pueblo leridano de Baen, a partir de un tronco de arbol.</desc>
-  </programme>
-  <programme start="20260617055303 +0000" stop="20260617062031 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Panes y tortas de "arras" en el Pirineo. Elaboracion 100% artesanal de estos alimentos y dulces</title>
-    <desc lang="es">Las "tortas de arras" son unos dulces que se hacian para ofrecerlos a los invitados en la fiesta del pueblo de San Juan de Plan y con motivo de la celebracion de una boda. En el ano 1995, gracias a un grupo de vecinas, pudimos recoger la elaboracion de este tipo de tortas y panes tradicionales.</desc>
-  </programme>
-  <programme start="20260617062031 +0000" stop="20260617062934 +0000" channel="Oficios_Perdidos">
-    <title lang="es">El hilado de la lana. Expertas veteranas del oficio nos muestran este proceso 100% tradicional</title>
-    <desc lang="es">En Pobladura de la Sierra (Leon) todavia era posible encontrar en el ano 1998 algun grupo de mujeres mayores que se reunian por las tardes para hacer sus labores con la lana obtenida de las ovejas mientras recordaban tiempos pasados. Con un grupo de mujeres, Adoracion, Remedios, Natividad, Anunciacion y Cesarea, compartimos la tarea de hilar la lana.</desc>
-  </programme>
-  <programme start="20260617062934 +0000" stop="20260617064059 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Paraguas de pastor. Fabricacion artesanal de este complemento en un taller tradicional</title>
-    <desc lang="es">El paraguas es un companero inseparable del pastor. En el ano 1998, en la ciudad francesa de Pau, la familia Pando trabajaba en su pequeno taller, del que salian casi todos los paraguas tradicionales que cobijaban a los pastores del Pirineo, tanto de las lluvias y tormentas como del fuerte calor estival.</desc>
-  </programme>
-  <programme start="20260617064059 +0000" stop="20260617071321 +0000" channel="Oficios_Perdidos">
-    <title lang="es">El palmeral. Peligrosa recogida de datiles y palmas secas para su tradicional artesania</title>
-    <desc lang="es">Por su excelente calidad, la palma blanca de Elche es un producto unico en el mundo que, cada ano, los palmereros ponen en manos de los fieles que participan en la procesion del Domingo de Ramos. La elaboracion de estas palmas es muy costosa y arriesgada para que presenten ese brillante color del marfil. En el ano 1999 pudimos conocer como se confeccionaban las singulares y esbeltas palmas de Elche (Alicante).</desc>
-  </programme>
-  <programme start="20260617071321 +0000" stop="20260617073151 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Tallista de madera a golpe de cincel. Rosetones artesanales y escultura creativa</title>
-    <desc lang="es">En Motilla del Palancar (Cuenca) trabajaba en el ano 2005 el ebanista Luis Guerrero. Su obra abarcaba el mueble artesano, la talla y la carpinteria general. Muchas obras habian sido expuestas en diversas localidades de Espana y contaba con una amplia difusion internacional gracias a exposiciones realizadas, entre otras ciudades, en Paris, Nueva York o Tokio.</desc>
-  </programme>
-  <programme start="20260617073151 +0000" stop="20260617075721 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Colada en un lavadero tradicional con jabon casero, azulete y ceniza para blanquear la ropa</title>
-    <desc lang="es">Las mujeres de Ardisa (Zaragoza) no han perdido la costumbre de acudir al lavadero de vez en cuando a hacer su colada. En 2010, varias vecinas se juntaron para hacer jabon casero y lavar la ropa todas juntas en un lavadero. Estos encuentros tambien servian para contar historias, refranes y aconteceres del pueblo.</desc>
-  </programme>
-  <programme start="20260617075721 +0000" stop="20260617081052 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Casas cueva habitadas. Emocionante historia de Justo en la construccion manual de su casa cueva</title>
-    <desc lang="es">En Juslibol (Zaragoza) se han contabilizado 264 cuevas, de las cuales la mayoria se encuentran habitadas permanentemente o son utilizadas para pasar los fines de semana. Solo un escaso numero de ellas tienen como funcion servir de almacen, trastero o pena. En el ano 1996 varios de los vecinos de Juslibol nos permitieron conocer las entranas de este tipo de viviendas.</desc>
-  </programme>
-  <programme start="20260617081052 +0000" stop="20260617084316 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Vida de un pastor con 50 anos de experiencia. Guardian de mas de 500 cabras y ovejas en el monte</title>
-    <desc lang="es">Los montes y las dehesas que rodean al pueblo de Monasterio de la Sierra (Burgos) han proporcionado a sus vecinos ricos pastos para desarrollar una intensa actividad ganadera. En el ano 2014, la cabana de ganado estaba en declive, y solo quedaban dos pastores en activo: Luciano y Felix.</desc>
-  </programme>
-  <programme start="20260617084316 +0000" stop="20260617085406 +0000" channel="Oficios_Perdidos">
-    <title lang="es">El oficio de campanero. Diferentes toques de campanas en la iglesia</title>
-    <desc lang="es">Como todos los templos parroquiales, el de la localidad zaragozana de Moros tambien esta rematado por una torre campanario. Pero, a diferencia de otros pueblos de Espana, la iglesia de Moros podia presumir en el ano 1999, ademas de conservar sus campanas, de disponer de un campanero que las pusiera en movimiento con su peculiar lenguaje.</desc>
-  </programme>
-  <programme start="20260617085406 +0000" stop="20260617091011 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Hilo artesanal. Preparacion de la urdimbre y los ovillos para su uso en un telar tradicional</title>
-    <desc lang="es">Benita Salcedo dedico sus labores a tejer en uno de los tradicionales telares de tiro, como los que la industrializacion ha arrinconado en casas y museos. En el ano 2001 tuvimos la oportunidad de conocer su trabajo de tejedora en La Sierra de Agudo, Ciudad Real.</desc>
-  </programme>
-  <programme start="20260617091011 +0000" stop="20260617092503 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Los ajos. Siembra, cultivo, aventado y trenzado tradicional de este alimento</title>
-    <desc lang="es">Algunas zonas de nuestro pais son conocidas por la calidad de sus ajos. Una de ellas esta en la provincia de Zaragoza y alli los ajos han tomado nombre propio. Con algunos vecinos de Arandiga pudimos conocer en el ano 1997 todos esos cuidados que el cultivo del ajo necesita antes de llegar al mercado.</desc>
-  </programme>
   <programme start="20260617092503 +0000" stop="20260617095153 +0000" channel="Oficios_Perdidos">
     <title lang="es">Botas de vino tradicionales. Confeccion artesanal de estos recipientes con piel de cabra</title>
     <desc lang="es">No llegan a una decena las boterias que siguen en activo en Espana. Una de ellas es la boteria de Sarinena, fundada en 1879, donde Ismael Perez continua con la tradicion familiar de confeccion de botas para vino. En el ano 2010 pudimos recoger el proceso de fabricacion de este tipo de recipientes para contener el vino.</desc>
@@ -7197,26 +7029,6 @@
     <title lang="es">Mercedes 190E 16V</title>
     <desc lang="es">¿Mantener la cabeza fria con este clasico? A muchos les resulta dificil. Un lobo con piel de taxi para el ganador y plusmarquista de la serie DTM: el motor de 16 valvulas del Mercedes 190 tiene una historia llena de acontecimientos.</desc>
   </programme>
-  <programme start="20260617053802 +0000" stop="20260617062551 +0000" channel="Ingles_Total">
-    <title lang="es">Formas avanzadas de los verbos</title>
-    <desc lang="es">Te explicamos formas avanzadas del pasado y el futuro para formar frases mucho mas precisas.</desc>
-  </programme>
-  <programme start="20260617062551 +0000" stop="20260617071116 +0000" channel="Ingles_Total">
-    <title lang="es">Entre tiempo presente y cantidades</title>
-    <desc lang="es">Contenido en Ingles acerca de los tiempos verbales en presente y la expresion de diferentes cantidades.</desc>
-  </programme>
-  <programme start="20260617071116 +0000" stop="20260617075708 +0000" channel="Ingles_Total">
-    <title lang="es">¡Vamonos de vacaciones!</title>
-    <desc lang="es">¿Preparando tus proximas vacaciones? ¡Llevanos contigo con estos consejos!</desc>
-  </programme>
-  <programme start="20260617075708 +0000" stop="20260617084401 +0000" channel="Ingles_Total">
-    <title lang="es">¿Cuanto tienes?</title>
-    <desc lang="es">Hoy trabajamos con porcentajes, cantidades y fracciones.</desc>
-  </programme>
-  <programme start="20260617084401 +0000" stop="20260617092915 +0000" channel="Ingles_Total">
-    <title lang="es">Saliendo con amigos</title>
-    <desc lang="es">Desde hablar por telefono a despedirse, pasando por bailar y cantar, todo lo que necesitas para una tarde de diversion.</desc>
-  </programme>
   <programme start="20260617092915 +0000" stop="20260617101541 +0000" channel="Ingles_Total">
     <title lang="es">To be or not to be</title>
     <desc lang="es">To be, el verbo que tienes que saber utilizar y expresiones y vocabulario para que te vayas lanzando a hablar en ingles.</desc>
@@ -7505,30 +7317,6 @@
     <title lang="es">If You Meet Sartana... Pray for Your Death</title>
     <desc lang="es">After a stagecoach is robbed and the passengers murdered, a long and tangled series of surprise attacks a murderous double-crosses leaves the coach’s strongbox in the hands of the killer Lasky. It is up to the legendary hero Sartana to track down the missing money and determine just who is ultimately behind the grisly robberies and killings.</desc>
   </programme>
-  <programme start="20260617051828 +0000" stop="20260617054739 +0000" channel="ita_principiante">
-    <title lang="es">Refresh del tiempo presente</title>
-    <desc lang="es">Conocer los tiempos del presente en ingles, te ayuda a comunicar lo que haces, piensas y sientes en tu vida diaria. Estos tiempos te permiten describir rutinas, expresar emociones y hablar de hechos reales con claridad y confianza. ¡Usa el presente para conectar con el mundo que te rodea!</desc>
-  </programme>
-  <programme start="20260617054739 +0000" stop="20260617063228 +0000" channel="ita_principiante">
-    <title lang="es">Posesion, obligacion y permiso</title>
-    <desc lang="es">En este capitulo se explica como expresar posesion, expresar obligacion y pedir permiso.</desc>
-  </programme>
-  <programme start="20260617063228 +0000" stop="20260617071808 +0000" channel="ita_principiante">
-    <title lang="es">Viajando al pasado</title>
-    <desc lang="es">Viaja al pasado con los principales tipos de conjugaciones pasadas y empieza a pisar el presente estudiando el presente perfecto.</desc>
-  </programme>
-  <programme start="20260617071808 +0000" stop="20260617080403 +0000" channel="ita_principiante">
-    <title lang="es">Primeras conversaciones</title>
-    <desc lang="es">Vamos a aprender como tener nuestras primeras conversaciones en ingles con algunos temas de small talk.</desc>
-  </programme>
-  <programme start="20260617080403 +0000" stop="20260617085055 +0000" channel="ita_principiante">
-    <title lang="es">Dar y pedir en ingles</title>
-    <desc lang="es">Aprende a dar ordenes y hacer peticiones mientras mejoras tu nivel de ingles describiendo y hablando de la familia.</desc>
-  </programme>
-  <programme start="20260617085055 +0000" stop="20260617093722 +0000" channel="ita_principiante">
-    <title lang="es">To be or not to be</title>
-    <desc lang="es">To be, el verbo que tienes que saber utilizar y expresiones y vocabulario para que te vayas lanzando a hablar en ingles.</desc>
-  </programme>
   <programme start="20260617093722 +0000" stop="20260617102515 +0000" channel="ita_principiante">
     <title lang="es">Diferencias entre tener, haber y el verbo "to have"</title>
     <desc lang="es">Aprendemos a usar "to be" cuando significa tener o haber y el verbo "to have". Tambien aprenderemos como usar las preposiciones.</desc>
@@ -7720,26 +7508,6 @@
   <programme start="20260618224624 +0000" stop="20260618233251 +0000" channel="ita_principiante">
     <title lang="es">To be or not to be</title>
     <desc lang="es">To be, el verbo que tienes que saber utilizar y expresiones y vocabulario para que te vayas lanzando a hablar en ingles.</desc>
-  </programme>
-  <programme start="20260617052759 +0000" stop="20260617061310 +0000" channel="ita_intermedio">
-    <title lang="es">Hazte preguntas</title>
-    <desc lang="es">Las preguntas que empiezan por wh-, algunos verbos que dan mucho juego y matices de expresiones que hay que conocer.</desc>
-  </programme>
-  <programme start="20260617061310 +0000" stop="20260617065503 +0000" channel="ita_intermedio">
-    <title lang="es">Expresate cada dia mejor</title>
-    <desc lang="es">Usa la voz pasiva y mejora tu gramatica para hacer preguntas indirectas y expresar de forma correcta los matices.</desc>
-  </programme>
-  <programme start="20260617065503 +0000" stop="20260617073814 +0000" channel="ita_intermedio">
-    <title lang="es">Mejora tu expresion oral</title>
-    <desc lang="es">Aprenderemos la diferencia entre little y few, ademas de enriquecer la expresion oral por telefono, en el sastre o formulando preguntas.</desc>
-  </programme>
-  <programme start="20260617073814 +0000" stop="20260617082236 +0000" channel="ita_intermedio">
-    <title lang="es">Repasamos las formas verbales</title>
-    <desc lang="es">Repasa y pon a prueba tus conocimientos sobre los distintos tiempos verbales de pasado, presente y futuro. ¡Descubre y aprende mas sobre lo que ya sabes!</desc>
-  </programme>
-  <programme start="20260617082236 +0000" stop="20260617090316 +0000" channel="ita_intermedio">
-    <title lang="es">Tiempos pasados</title>
-    <desc lang="es">¿Te lias con los tiempos pasados? Repasa con estas lecciones.</desc>
   </programme>
   <programme start="20260617090316 +0000" stop="20260617101657 +0000" channel="ita_intermedio">
     <title lang="es">Verbos que acompanan al "to"</title>
@@ -7949,30 +7717,6 @@
     <title lang="es">Saliendo con amigos</title>
     <desc lang="es">Desde hablar por telefono a despedirse, pasando por bailar y cantar, todo lo que necesitas para una tarde de diversion.</desc>
   </programme>
-  <programme start="20260617052659 +0000" stop="20260617061105 +0000" channel="ita_avanzado">
-    <title lang="es">Expresiones para el dia a dia</title>
-    <desc lang="es">Adquiere un nivel avanzado de conversacion a traves de las expresiones que vas a aprender en este modulo.</desc>
-  </programme>
-  <programme start="20260617061105 +0000" stop="20260617065500 +0000" channel="ita_avanzado">
-    <title lang="es">La importancia del orden</title>
-    <desc lang="es">Te explicamos a responder a preguntas y la importancia del orden al usar adjetivos o adverbios.</desc>
-  </programme>
-  <programme start="20260617065500 +0000" stop="20260617073947 +0000" channel="ita_avanzado">
-    <title lang="es">Expresate como un experto</title>
-    <desc lang="es">Aprende nuevas expresiones y vocabulario para mejorar tu habla inglesa.</desc>
-  </programme>
-  <programme start="20260617073947 +0000" stop="20260617080932 +0000" channel="ita_avanzado">
-    <title lang="es">Tomando decisiones y mirando al futuro</title>
-    <desc lang="es">En esta seccion agruparemos expresiones junto con diferentes tiempos verbales que nos ayudan a expresar consejos, preferencias, y situaciones que han pasado ya o futuras con precision.</desc>
-  </programme>
-  <programme start="20260617080932 +0000" stop="20260617085211 +0000" channel="ita_avanzado">
-    <title lang="es">Para hacer turismo</title>
-    <desc lang="es">Lecciones esenciales para poder defenderte en paises de habla inglesa.</desc>
-  </programme>
-  <programme start="20260617085211 +0000" stop="20260617094216 +0000" channel="ita_avanzado">
-    <title lang="es">Aprende nuevas palabras</title>
-    <desc lang="es">Descubre en este capitulo nuevas palabras, aprenderas frases utiles y faciles de aplicar en conversaciones reales, mejorando tu fluidez y confianza al hablar.</desc>
-  </programme>
   <programme start="20260617094216 +0000" stop="20260617102844 +0000" channel="ita_avanzado">
     <title lang="es">¿Que pasaria si…?</title>
     <desc lang="es">¿Recuerdas todas las formas de condicional y futuro perfecto? Recordamos lo aprendido y introducimos nuevo temario sobre tu vocabulario.</desc>
@@ -8180,49 +7924,6 @@
   <programme start="20260618225819 +0000" stop="20260618234728 +0000" channel="ita_avanzado">
     <title lang="es">Repasa y mejora la gramatica</title>
     <desc lang="es">Repaso de los tiempos continuos y phrasal verbs y mejora de la gramatica con "some / any", comparativos y superlativos.</desc>
-  </programme>
-  <programme start="20260617053242 +0000" stop="20260617060240 +0000" channel="vaughan">
-    <title lang="es">English on the DOT</title>
-    <sub-title lang="es">English On The Dot Episode 27</sub-title>
-    <desc lang="es">Marta Martinez y Micky Lennard se unen al equipo de English on the Dot para ofrecerte clases de ingles practicas y utiles. Aprenderas a desenvolverte en situaciones cotidianas como hacer la compra, reservar en un hotel, o hasta cenar con la familia politica. Cada episodio incluye lecciones cortas sobre vocabulario, gramatica, pronunciacion, y expresiones utiles, ademas de ejercicios de practica oral. Y para poner a prueba tus conocimientos, siempre terminamos con un divertido quiz. ¡Preparate para mejorar tu ingles con English on the Dot!</desc>
-  </programme>
-  <programme start="20260617060240 +0000" stop="20260617063203 +0000" channel="vaughan">
-    <title lang="es">Express Yourself</title>
-    <sub-title lang="es">Express Yourself Episode 27</sub-title>
-    <desc lang="es">¿Quieres mejorar tu ingles rapidamente? Express Yourself, con la experta Ximena Holliday, te ofrece un enfoque intensivo y efectivo para llevar tu ingles al siguiente nivel en tiempo record. Aprende los verbos esenciales, el vocabulario mas util y los puntos de gramatica clave que haran que tu progreso sea visible en poco tiempo. ¡Es el momento de expresar todo lo que tienes dentro!</desc>
-  </programme>
-  <programme start="20260617063203 +0000" stop="20260617070139 +0000" channel="vaughan">
-    <title lang="es">Richard Vaughan Live Episode 136 - 140</title>
-    <desc lang="es">¿Sabes como es tener una clase con Richard Vaughan? ¿Has vivido la experiencia de recibir una clase con el gran guru del ingles? Con este programa, en tan solo 5 minutos, descubriras el secreto del metodo Vaughan y alucinaras con como mejoras con el idioma.</desc>
-  </programme>
-  <programme start="20260617070139 +0000" stop="20260617073130 +0000" channel="vaughan">
-    <title lang="es">The Show With No Name</title>
-    <sub-title lang="es">The Show With No Name Episode 28</sub-title>
-    <desc lang="es">En este show dinamico, Alberto Alonso combina entretenimiento y educacion, ensenando ingles con una mezcla de humor, noticias recientes, y referencias a la cultura popular, para que aprender sea un placer.</desc>
-  </programme>
-  <programme start="20260617073130 +0000" stop="20260617080105 +0000" channel="vaughan">
-    <title lang="es">The Kyle Millar Show</title>
-    <sub-title lang="es">The Kyle Millar Show Episode 28</sub-title>
-    <desc lang="es">Kyle Millar presenta un programa revolucionario y envolvente, donde la ensenanza del ingles se convierte en una aventura. Con lecciones sobre gramatica, expresiones cotidianas y pronunciacion, aprenderas de forma eficaz y emocionante. Preparate para dominar el ingles en una clase que no olvidaras.</desc>
-  </programme>
-  <programme start="20260617080105 +0000" stop="20260617083114 +0000" channel="vaughan">
-    <title lang="es">English on the DOT</title>
-    <sub-title lang="es">English On The Dot Episode 28</sub-title>
-    <desc lang="es">Marta Martinez y Micky Lennard, junto con el equipo de teachers de English on the Dot, te ayudaran a perfeccionar tu ingles para que te sientas seguro en cualquier situacion de la vida diaria: desde hacer la compra hasta reservar una habitacion de hotel, ¡o incluso cenar con la familia de tu pareja! En cada episodio, recibiras miniclases de vocabulario, gramatica, y pronunciacion, ademas de expresiones utiles y practica de conversacion. Al final, pondras a prueba lo aprendido con un entretenido quiz. ¡No te lo pierdas, es hora de English on the Dot!</desc>
-  </programme>
-  <programme start="20260617083114 +0000" stop="20260617090032 +0000" channel="vaughan">
-    <title lang="es">Express Yourself</title>
-    <sub-title lang="es">Express Yourself Episode 28</sub-title>
-    <desc lang="es">Express Yourself es la plataforma ideal para aquellos que suenan con hablar ingles con fluidez. Bajo la direccion de Ximena Holliday, aprenderas los verbos mas comunes y el vocabulario imprescindible que te acercara a la fluidez que deseas. Ademas, perfeccionaras tu gramatica para evitar errores tipicos. ¡Es tu oportunidad de transformar tu ingles de manera significativa!</desc>
-  </programme>
-  <programme start="20260617090032 +0000" stop="20260617093007 +0000" channel="vaughan">
-    <title lang="es">Richard Vaughan Live Episode 141 - 145</title>
-    <desc lang="es">¿Sabes como es tener una clase con Richard Vaughan? ¿Has vivido la experiencia de recibir una clase con el gran guru del ingles? Con este programa, en tan solo 5 minutos, descubriras el secreto del metodo Vaughan y alucinaras con como mejoras con el idioma.</desc>
-  </programme>
-  <programme start="20260617093007 +0000" stop="20260617100003 +0000" channel="vaughan">
-    <title lang="es">The Show With No Name</title>
-    <sub-title lang="es">The Show With No Name Episode 29</sub-title>
-    <desc lang="es">Disfruta de un programa vibrante con Alberto Alonso, donde el ingles se aprende de manera amena y practica. A traves de noticias frescas y elementos de la cultura pop, el aprendizaje se convierte en una experiencia divertida.</desc>
   </programme>
   <programme start="20260617100003 +0000" stop="20260617102909 +0000" channel="vaughan">
     <title lang="es">The Kyle Millar Show</title>
@@ -8814,14 +8515,6 @@
     <title lang="es">Planet Dune V2</title>
     <desc lang="es">Una tripulacion en mision para salvar una base abandonada en un planeta desertico se convierte en mortal cuando son acechados y atacados por los principales depredadores del planeta: gusanos de arena gigantes.</desc>
   </programme>
-  <programme start="20260617050030 +0000" stop="20260617072645 +0000" channel="Film_Co">
-    <title lang="es">You go to my head VOS</title>
-    <desc lang="es">Tras sufrir un inesperado accidente de coche en el desierto, Dafne sufre de amnesia post-traumatica. Jake, la primera persona que encuentra cuando recupera la conciencia, le dice que es su marido.</desc>
-  </programme>
-  <programme start="20260617072645 +0000" stop="20260617092928 +0000" channel="Film_Co">
-    <title lang="es">Mis funciones secretas</title>
-    <desc lang="es">Otono de 1989: mientras el muro esta a punto de caer en Berlin, la policia secreta vigila a cientos de miles de personas en Suiza. Viktor, un policia de buen comportamiento, se infiltra en un grupo de teatro de Zurich para recabar informacion sobre la gente de izquierdas del teatro y posibles elementos subversivos que al parecer estan colaborando con Moscu.</desc>
-  </programme>
   <programme start="20260617092928 +0000" stop="20260617103728 +0000" channel="Film_Co">
     <title lang="es">Seccion Oficial 1x23</title>
     <desc lang="es">"Seccion Oficial" asiste esta semana a la premiere de "Day One", y regresa al Festival de Malaga. Ademas, se va de rodajes por Espana, y repasa los proximo estrenos en salas y en streaming.</desc>
@@ -8914,18 +8607,6 @@
     <title lang="es">You go to my head</title>
     <desc lang="es">Tras sufrir un inesperado accidente de coche en el desierto, Dafne sufre de amnesia post-traumatica. Jake, la primera persona que encuentra cuando recupera la conciencia, le dice que es su marido.</desc>
   </programme>
-  <programme start="20260617041248 +0000" stop="20260617060028 +0000" channel="Planeta_de_Cine">
-    <title lang="es">La casa del rio</title>
-    <desc lang="es">Una enfermera de un pequeno pueblo lidera a sus vecinos de clase obrera en su lucha por salvar sus hogares frente a los intereses politicos y corporativos que quieren dar la tierra a la Pfizer Corporation.</desc>
-  </programme>
-  <programme start="20260617060028 +0000" stop="20260617075945 +0000" channel="Planeta_de_Cine">
-    <title lang="es">Amor de ida y vuelta</title>
-    <desc lang="es">Stillman es un joven genio despistado enamorado de Debbie. Cuando la joven decide poner fin a la relacion, Stillman construira una maquina del tiempo que le lleve de vuelta al pasado para arreglar las cosas... pero la reconciliacion no sale a la primera... ni a la segunda... y como ya pasaba en “El dia de la marmota”, Stillman se vera abocado a repetir una y otra vez el mismo dia intentando ser una persona mejor y que Debbie no le deje. Para ello contara con la ayuda de su amigo Evan.</desc>
-  </programme>
-  <programme start="20260617075945 +0000" stop="20260617095534 +0000" channel="Planeta_de_Cine">
-    <title lang="es">Una pequena mentira</title>
-    <desc lang="es">En UNA PEQUENA MENTIRA Laurent (François Damiens) es un pobre hombre al que la vida no le ha ido como esperaba y que atraviesa un momento delicado. Su reciente separacion y la perdida de su trabajo le han conducido a un callejon sin salida. Su hijo Theo, apodado "Hormiga" debido a su baja estatura, intenta animarlo diciendole que ha sido seleccionado para jugar en un famoso equipo ingles. Esta pequena mentira desencadenara una serie de cambios en sus vidas, que demostraran una vez mas que el amor entre un padre y un hijo puede superar cualquier obstaculo.</desc>
-  </programme>
   <programme start="20260617095534 +0000" stop="20260617113154 +0000" channel="Planeta_de_Cine">
     <title lang="es">Jake</title>
     <desc lang="es">Una pareja casada, Alex y Greg, tiene que afrontar un conflicto cuando descubre que su hijo prefiere a la Cenicienta en lugar de los G.I. Joe.</desc>
@@ -9005,38 +8686,6 @@
   <programme start="20260618202026 +0000" stop="20260618221108 +0000" channel="Planeta_de_Cine">
     <title lang="es">Dark Water</title>
     <desc lang="es">Yoshimi Matsubara, una mujer recien divorciada, lucha para obtener la custodia legal de su hija de cinco anos. Su exmarido no esta dispuesto a facilitarle las cosas y saca a relucir su pasado de alucinaciones y tratamiento psiquiatrico. Madre e hija se mudan juntas a un pequeno apartamento, oscuro, triste y mohoso. La pequena Ikuko comienza a ir a su nueva escuela y Yoshimi ha encontrado un nuevo trabajo. Pero la persistente presencia de agua sucia en el nuevo edificio parece el heraldo de los peores presagios. Agua sucia en el ascensor, en el techo del apartamento, bajo la puerta de uno de los pisos.... Ademas de la misteriosa presencia de una mochila roja que habia pertenecido a una nina que desaparecio dos anos antes. Aunque Yoshimi lucha desesperadamente para encontrar en su interior fuerzas pensando en Ikuko, su terror va en aumento a medida que se acerca al descubrimiento de la conexion entre todos estos sucesos; y no esta nada preparada para la verdad que le depara el futuro.</desc>
-  </programme>
-  <programme start="20260617053015 +0000" stop="20260617060358 +0000" channel="Pocoyoymas">
-    <title lang="es">Inventions</title>
-    <desc lang="es">Inventions Mi Heroe El Rescate El Amigo de Pocoyo.</desc>
-  </programme>
-  <programme start="20260617060358 +0000" stop="20260617063721 +0000" channel="Pocoyoymas">
-    <title lang="es">El Picnic De Elly</title>
-    <desc lang="es">El Picnic De Elly Nina Descubre El Mundo El Mando La Raqueta.</desc>
-  </programme>
-  <programme start="20260617063721 +0000" stop="20260617071019 +0000" channel="Pocoyoymas">
-    <title lang="es">La Pista de Baile</title>
-    <desc lang="es">La Pista de Baile ¡Pierdete Loula! Zapatillas con Truco Pato Fotografo.</desc>
-  </programme>
-  <programme start="20260617071019 +0000" stop="20260617074247 +0000" channel="Pocoyoymas">
-    <title lang="es">El Marciano Malhumorado</title>
-    <desc lang="es">El Marciano Malhumorado Bajo el Mar La Gran Exposicion El Misterio del Monstruo.</desc>
-  </programme>
-  <programme start="20260617074247 +0000" stop="20260617081533 +0000" channel="Pocoyoymas">
-    <title lang="es">Poczilla</title>
-    <desc lang="es">Poczilla Elly Sobre Hielo ¡Adios, Amigos Doble Juego.</desc>
-  </programme>
-  <programme start="20260617081533 +0000" stop="20260617084832 +0000" channel="Pocoyoymas">
-    <title lang="es">La Casita de Elly</title>
-    <desc lang="es">La Casita de Elly Teatro de Marionetas Arriba y Abajo El Desayuno de Pocoyo.</desc>
-  </programme>
-  <programme start="20260617084832 +0000" stop="20260617092155 +0000" channel="Pocoyoymas">
-    <title lang="es">Trafico</title>
-    <desc lang="es">Trafico El Salon de Casa de Pato En el Cine La Muneca Nueva de Elly.</desc>
-  </programme>
-  <programme start="20260617092155 +0000" stop="20260617095523 +0000" channel="Pocoyoymas">
-    <title lang="es">Circo</title>
-    <desc lang="es">Circo El Dormitorio Perfecto Pocoyo Va al Colegio Arte.</desc>
   </programme>
   <programme start="20260617095523 +0000" stop="20260617110325 +0000" channel="Pocoyoymas">
     <title lang="es">Juegos de pelota</title>
