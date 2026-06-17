@@ -3378,14 +3378,6 @@
     <title lang="es">Igelak</title>
     <desc lang="es">Pello es un empleado de banca que es acusado por fraude. De repente decide huir y cambiar de identidad para sobrevivir, pero acaba viviendo en un edificio okupa y conoce la otra cara del trabajo que ha estado realizando en el banco.</desc>
   </programme>
-  <programme start="20260617174006 +0000" stop="20260617191925 +0000" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Funerarias, S.A.</title>
-    <desc lang="es">Comedia de humor negro ambientada en un pueblo gales. Cuando era un timido joven, Boris Plotz (Alfred Molina) sonaba con el baile y con Betty (Brenda Blethyn). Betty tambien lo amaba, pero, incapaz de contradecir los deseos de sus padres, se caso con el cazafortunas Hugh Rhys Jones (Robert Pugh). Boris se hizo cargo entonces del negocio familiar de pompas funebres. Desde entonces el tedio y la rutina presidio la vida de ambos. Pero, cuando se reunieron para organizar el funeral de la suegra de ella, se reavivo la pasion de su juventud. Mientras tanto, la ceremonia funebre despierta los celos del director de la funeraria rival (Christopher Walken), un excentrico americano, decidido a revolucionar el negocio con la novedad de los funerales "tematicos".</desc>
-  </programme>
-  <programme start="20260617191925 +0000" stop="20260617205403 +0000" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Elvira Madigan</title>
-    <desc lang="es">Un aristocrata, teniente de la caballeria sueca, decide abandonar el ejercito y a su familia para marcharse con una emancipada y bella artista de circo.</desc>
-  </programme>
   <programme start="20260617205403 +0000" stop="20260617224621 +0000" channel="Cine_Feel_Good_Verdi_TV">
     <title lang="es">El desayuno de los campeones</title>
     <desc lang="es">Un rico y respetado hombre de negocios sufre una crisis de personalidad que lo esta llevando al borde la locura. Un escritor pobre e incomprendido acude al Festival de las Artes de Midland City como invitado de honor. El encuentro entre ambos personajes provoca una especie de colision entre dos mundos, que desencadena diversos acontecimientos que no solo alteran sus vidas, sino que afectan al conjunto de la ciudad.</desc>
@@ -3446,10 +3438,6 @@
     <title lang="es">Howl (Aullido)</title>
     <desc lang="es">Joe es el revisor del ultimo tren que sale de Londres durante una tormentosa noche. Subitamente el vehiculo frena de golpe y se detiene en lo mas profundo del bosque. El conductor sale de la cabina para averiguar que ha causado el incidente pero nunca vuelve. El panico cunde entre los pasajeros cuando Joe encuentra al conductor horriblemente mutilado. Algo brutal y peligroso acecha en la oscuridad.</desc>
   </programme>
-  <programme start="20260617173049 +0000" stop="20260617194519 +0000" channel="Cines_Verdi_TV">
-    <title lang="es">Diarios de Motocicleta</title>
-    <desc lang="es">En 1952, dos jovenes argentinos, Ernesto Guevara y Alberto Granado, emprenden un viaje por carretera para descubrir la verdadera America Latina. Los dos amigos dejan Buenos Aires en una desvencijada motocicleta Norton de 500cc del ano 1939, llevados por un romantico espiritu aventurero. Sus experiencias haran despertar en ellos a los hombres en que se convertiran en el futuro y que definiran sus vidas.</desc>
-  </programme>
   <programme start="20260617194519 +0000" stop="20260617220630 +0000" channel="Cines_Verdi_TV">
     <title lang="es">Indefenso</title>
     <desc lang="es">Despues de un encuentro sexual con una mujer casada en un callejon en Manchester que se convierte en violacion, Johnny Fletcher roba un coche y huye de su ciudad natal a Londres para buscar refugio en la casa de su exnovia, Louise. Johnny es un hombre inteligente, educado y elocuente, pero con una profunda amargura y un pesimismo vital que siempre le mantiene al limite de una conducta sadica.</desc>
@@ -3505,36 +3493,6 @@
   <programme start="20260618214300 +0000" stop="20260618233658 +0000" channel="Cines_Verdi_TV">
     <title lang="es">Culpable sin rostro</title>
     <desc lang="es">India, 1880. Honor, deber, respeto. La eterna moral, el codigo etico militar. Todos estos valores corren peligro en un regimiento donde una hermosa viuda de un insigne heroe de guerra es atacada por uno de los nuevos oficiales. En un intento por detener el escandalo publico, los oficiales de mayor graduacion ponen en marcha un juicio militar.</desc>
-  </programme>
-  <programme start="20260617180802 +0000" stop="20260617183416 +0000" channel="Anime_Vision">
-    <title lang="es">No game no life</title>
-    <sub-title lang="es">Sacrificio</sub-title>
-    <desc lang="es">Los hermanos se enfrentan al desafio de los Hombre Bestia, una raza que lleva invicta decadas y borra los recuerdos de todos aquellos que derrotan.</desc>
-  </programme>
-  <programme start="20260617183416 +0000" stop="20260617190037 +0000" channel="Anime_Vision">
-    <title lang="es">No game no life</title>
-    <sub-title lang="es">Falso Final</sub-title>
-    <desc lang="es">Shiro, Sora, Steph y Jibril entran en la embajada de la nacion de los Hombres Bestia para lanzar un desafio formal con el destino de la humanidad en juego.</desc>
-  </programme>
-  <programme start="20260617190037 +0000" stop="20260617192650 +0000" channel="Anime_Vision">
-    <title lang="es">No game no life</title>
-    <sub-title lang="es">Paseo Por El Cielo</sub-title>
-    <desc lang="es">Al comprender que es la unica que recuerda a su hermano, Shiro descubre que Sora ha sido practicamente borrado de la existencia tras jugarse su identidad.</desc>
-  </programme>
-  <programme start="20260617192650 +0000" stop="20260617195311 +0000" channel="Anime_Vision">
-    <title lang="es">No game no life</title>
-    <sub-title lang="es">Rosa Azul</sub-title>
-    <desc lang="es">Cuando comienza el juego contra los Hombres Bestia, los hermanos se quedan paralizados al descubrir que el campo de batalla se asemeja mucho a Tokyo.</desc>
-  </programme>
-  <programme start="20260617195311 +0000" stop="20260617202024 +0000" channel="Anime_Vision">
-    <title lang="es">Kingdom</title>
-    <sub-title lang="es">Comité</sub-title>
-    <desc lang="es">Una crisis sin precedentes se cierne sobre Kanyou cuando el ejercito del Reino de Sho invade el Reino de Chin. A lo que se enfrentan es al odio del Reino de Sho, cuyos 400.000 soldados fueron enterrados vivos en la Batalla de Chouhei.</desc>
-  </programme>
-  <programme start="20260617202024 +0000" stop="20260617204737 +0000" channel="Anime_Vision">
-    <title lang="es">Kingdom</title>
-    <sub-title lang="es">Hou Ken, El Dios De La Guerra</sub-title>
-    <desc lang="es">Tras la caida de Bayou, Ou Ki es nombrado comandante general del ejercito de Chin y marcha a la batalla. Al mismo tiempo, a la Corte Real llega la noticia de que el comandante general del ejercito de Sho es el legendario Hou Ken.</desc>
   </programme>
   <programme start="20260617204737 +0000" stop="20260617223156 +0000" channel="Anime_Vision">
     <title lang="es">Ghost in the shell 2: Innocence</title>
@@ -3796,36 +3754,6 @@
     <title lang="es">No game no life</title>
     <sub-title lang="es">Regla Número 10</sub-title>
     <desc lang="es">Sora y Shiro caen derrotados frente al abrumador poder de Izuna, pero los hermanos aun se guardan un as en la manga en la forma de Steph.</desc>
-  </programme>
-  <programme start="20260617175633 +0000" stop="20260617182226 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Mazinger: Edicion Z Impacto</title>
-    <sub-title lang="es">Ataca, Ejército Del Barón Ashura!</sub-title>
-    <desc lang="es">¡Mazinger Z ha conseguido hacer pedazos a Talos disparando su puno! Por otro lado, el Baron Ashura abandona su fortaleza submarina Bhudo para ir al encuentro de Juzo y Mazinger. Asi, la amenazadora figura del Doctor Infierno hace acto de presencia para declarar la guerra a la humanidad.</desc>
-  </programme>
-  <programme start="20260617182226 +0000" stop="20260617184819 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Mazinger: Edicion Z Impacto</title>
-    <sub-title lang="es">¡duelo! ¡las Bestias Mecánicas Contra Mazinger Z!</sub-title>
-    <desc lang="es">Las Bestias Mecanicas Garada K7 y Doublas M2 hacen acto de aparicion. Koji intenta hacer frente a esos monstruos mecanicos sin saber muy bien como pilotar a Mazinger. Decidido a luchar, Koji consigue controlar a Mazinger y logra arrinconar a sus dos oponentes.</desc>
-  </programme>
-  <programme start="20260617184819 +0000" stop="20260617191413 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Mazinger: Edicion Z Impacto</title>
-    <sub-title lang="es">¡el Asalto Del Conde Brocken!</sub-title>
-    <desc lang="es">El contraataque de Koji deja al Baron Ashura en una situacion desesperada. Pero no esta dispuesto a que se acabe asi y con el ataque de Doublas M2 caen muchos de los aliados de Mazinger. A esa situacion se le suma la aparicion de un nuevo enemigo, el Conde Brocken, que sale de su fortaleza aerea Ghoul.</desc>
-  </programme>
-  <programme start="20260617191413 +0000" stop="20260617194058 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Paranoia Agent</title>
-    <sub-title lang="es">El Camino De Un Hombre</sub-title>
-    <desc lang="es">Masami Hirukawa es un oficial de policia que, a pesar de definirse como un hombre de familia, acepta sobornos de todo tipo por parte de la yakuza, hasta que un dia la organizacion reclama venganza y conduce a Masami a la delincuencia. En sus horas mas bajas, el policia tendra que hacer frente al chico del bate.</desc>
-  </programme>
-  <programme start="20260617194058 +0000" stop="20260617200744 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Paranoia Agent</title>
-    <sub-title lang="es">El Guerrero Sagrado</sub-title>
-    <desc lang="es">Los detectives Ikari y Maniwa proceden a interrogar al chico del bate, que resulta ser un estudiante llamado Makoto Kozuka. Pero su testimonio esconde una nueva interpretacion de la realidad….</desc>
-  </programme>
-  <programme start="20260617200744 +0000" stop="20260617203430 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Paranoia Agent</title>
-    <sub-title lang="es">Intranquilidad Por El Golpe Directo</sub-title>
-    <desc lang="es">Ikari y Maniwa descubren la verdad sobre la noche del ataque a Tsukiko, que se desvanece al descubrir la verdad. Paralelamente, una adolescente llamada Taeko vagabundea por la ciudad en una noche tormentosa, abrumada por sus problemas.</desc>
   </programme>
   <programme start="20260617203430 +0000" stop="20260617210117 +0000" channel="Anime_Vision_Classics">
     <title lang="es">Paranoia Agent</title>
@@ -5292,34 +5220,6 @@
     <sub-title lang="es">El Mejor Amigo, El Mejor Duelista: Parte 1</sub-title>
     <desc lang="es">Orgulloso de su fuerza como duelista en el juego, Joey desafia a Yugi para tener derecho a enfrentarse a Pegasus.</desc>
   </programme>
-  <programme start="20260617181422 +0000" stop="20260617182443 +0000" channel="Oficios_Perdidos">
-    <title lang="es">La colchonera  del pueblo. Colchones con lana pura de oveja. Asi se "para un colchon" como antano</title>
-    <desc lang="es">Uno de los aprovechamientos que se ha hecho tradicionalmente de la lana de las ovejas ha sido la confeccion de colchones para el descanso. En la localidad de Magallon (Zaragoza), Leonor Marquina y su marido fueron durante 50 anos los colchoneros de la localidad y de los pueblos del entorno. Aunque hace varios anos que Leonor dejo el oficio de colchonera, en el ano 2006 decidio parar un colchon como en otros tiempos lo hacia.</desc>
-  </programme>
-  <programme start="20260617182443 +0000" stop="20260617184710 +0000" channel="Oficios_Perdidos">
-    <title lang="es">El rabel. Pelos de caballo, madera y hojalata para fabricar este instrumento musical pastoril</title>
-    <desc lang="es">Aleccionado por su madre, que cantaba los romances transmitidos generacion tras generacion, aumento en Tomas Macho su interes por este instrumento tradicional pastoril, hasta convertirse hoy en investigador, tanedor y constructor de rabeles. En el ano 1998 nos hizo una demostracion de su fabricacion en Reinosa (Cantabria).</desc>
-  </programme>
-  <programme start="20260617184710 +0000" stop="20260617190102 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Santiago, el fotografo y retratista ambulante. Testimonio e historia de sus 94 anos</title>
-    <desc lang="es">Santiago Fumaz fue un retratista que, desde su localidad natal de Fonz (Huesca), se desplazo por mas de un centenar de pueblos del Alto Aragon con una atractiva camara de fotos de las llamadas “del minuto” dejando impresa en unos 60.000 negativos la historia de la vida social de medio siglo. En el ano 2007 tuvimos la oportunidad de recoger los testimonios de su trabajo.</desc>
-  </programme>
-  <programme start="20260617190102 +0000" stop="20260617192310 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Locomotoras historicas. Demostracion del funcionamiento de estas maquinas</title>
-    <desc lang="es">En la estacion de ferrocarril de Lleida desarrollan su actividad los miembros de la Asociacion para la Recuperacion de Material Ferroviario. Sus principales tareas consisten en rescatar del olvido algunas de las locomotoras que estan fuera de servicio, desmontandolas pieza a pieza, y utilizarlas para preparar articulaciones historicas. En el ano 2008 pudimos participar con ellos en una demostracion del funcionamiento de esas maquinas.</desc>
-  </programme>
-  <programme start="20260617192310 +0000" stop="20260617195200 +0000" channel="Oficios_Perdidos">
-    <title lang="es">La colada de la ropa en el rio del Pirineo y el uso de ceniza para su limpieza profunda</title>
-    <desc lang="es">En 1996, en San Juan de Plan (Huesca), un grupo de mujeres ha decidido hacer la colada en el rio, como en otros tiempos, para dejar limpias algunas sabanas, camisas, colchas, toallas o maseros que todavia conservan en su ajuar.</desc>
-  </programme>
-  <programme start="20260617195200 +0000" stop="20260617202249 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Trajes y prendas tradicionales de la isla canaria de La Palma. Conocemos su indumentaria popular</title>
-    <desc lang="es">La indumentaria popular de La Palma, que tiene cerca de 30 trajes diferentes, ocupa un lugar privilegiado entre todos esos atractivos que ofrece al visitante esta pequena isla, a la que con justicia se le llama Isla Bonita. En el ano 1998, los miembros del Centro Etnografico “Casa El Maestro”, en Tijarafe, nos mostraron las prendas componentes de esa rica indumentaria.</desc>
-  </programme>
-  <programme start="20260617202249 +0000" stop="20260617204704 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Saneamiento de 200 vacas en alta montana. Busqueda y control veterinario una a una en el Pirineo</title>
-    <desc lang="es">Cuando las primeras nieves tenian las cumbres de Sobrepuerto, al pie del Pirineo, los ganaderos tenian que recoger todos los animales del rebano, que habian estado pastando diseminados por el monte. El ganado vacuno de la familia de Adolfo Sanz, de Sarvise (Huesca), era en el ano 2010 el que aprovechaba los pastos de la montana y con el participamos en esa actividad ganadera.</desc>
-  </programme>
   <programme start="20260617204704 +0000" stop="20260617210742 +0000" channel="Oficios_Perdidos">
     <title lang="es">Los resineros y la resinacion. Obtencion tradicional de la resina de los pinos</title>
     <desc lang="es">Tras dos milenios de aprovechamiento de su riqueza en nuestro pais, en el ano 1995 eran pocas las zonas boscosas de Pinnus Pinaster que se seguian explotando. Una de ellas esta en la provincia de Segovia, en la llamada Tierra de Pinares. Alli, entre toda su masa forestal, la chimenea de la fabrica de Zarzuela del Pinar delataba una actividad que todavia estaba viva entre sus gentes: la resinacion.</desc>
@@ -6698,22 +6598,6 @@
     <title lang="es">Mercedes 190E 16V</title>
     <desc lang="es">¿Mantener la cabeza fria con este clasico? A muchos les resulta dificil. Un lobo con piel de taxi para el ganador y plusmarquista de la serie DTM: el motor de 16 valvulas del Mercedes 190 tiene una historia llena de acontecimientos.</desc>
   </programme>
-  <programme start="20260617175538 +0000" stop="20260617184037 +0000" channel="Ingles_Total">
-    <title lang="es">You shall not pass</title>
-    <desc lang="es">Estudia las ordenes y los lugares en esta variada seleccion de lecciones.</desc>
-  </programme>
-  <programme start="20260617184037 +0000" stop="20260617192415 +0000" channel="Ingles_Total">
-    <title lang="es">No te confundas con los false friends</title>
-    <desc lang="es">Te explicamos como no cometer errores con expresiones que parecen similares pero quieren decir cosas muy distintas y enriqueceros el vocabulario.</desc>
-  </programme>
-  <programme start="20260617192415 +0000" stop="20260617201034 +0000" channel="Ingles_Total">
-    <title lang="es">Las formas del presente</title>
-    <desc lang="es">Practicaremos todas las formas del presente ademas de aprender a ordenar adjetivos y la importancia de lo contable y lo incontable.</desc>
-  </programme>
-  <programme start="20260617201034 +0000" stop="20260617205741 +0000" channel="Ingles_Total">
-    <title lang="es">Amplia tu vocabulario</title>
-    <desc lang="es">En este capitulo ampliamos tu vocabulario, te ensenamos nuevos adjetivos y te daremos pistas para que no te equivoques con los false friends.</desc>
-  </programme>
   <programme start="20260617205741 +0000" stop="20260617214533 +0000" channel="Ingles_Total">
     <title lang="es">Diferencias entre tener, haber y el verbo "to have"</title>
     <desc lang="es">Aprendemos a usar "to be" cuando significa tener o haber y el verbo "to have". Tambien aprenderemos como usar las preposiciones.</desc>
@@ -6942,22 +6826,6 @@
     <title lang="es">If You Meet Sartana... Pray for Your Death</title>
     <desc lang="es">After a stagecoach is robbed and the passengers murdered, a long and tangled series of surprise attacks a murderous double-crosses leaves the coach’s strongbox in the hands of the killer Lasky. It is up to the legendary hero Sartana to track down the missing money and determine just who is ultimately behind the grisly robberies and killings.</desc>
   </programme>
-  <programme start="20260617180928 +0000" stop="20260617185524 +0000" channel="ita_principiante">
-    <title lang="es">Primeras conversaciones</title>
-    <desc lang="es">Vamos a aprender como tener nuestras primeras conversaciones en ingles con algunos temas de small talk.</desc>
-  </programme>
-  <programme start="20260617185524 +0000" stop="20260617194103 +0000" channel="ita_principiante">
-    <title lang="es">Viajando al pasado</title>
-    <desc lang="es">Viaja al pasado con los principales tipos de conjugaciones pasadas y empieza a pisar el presente estudiando el presente perfecto.</desc>
-  </programme>
-  <programme start="20260617194103 +0000" stop="20260617202730 +0000" channel="ita_principiante">
-    <title lang="es">To be or not to be</title>
-    <desc lang="es">To be, el verbo que tienes que saber utilizar y expresiones y vocabulario para que te vayas lanzando a hablar en ingles.</desc>
-  </programme>
-  <programme start="20260617202730 +0000" stop="20260617211423 +0000" channel="ita_principiante">
-    <title lang="es">Dar y pedir en ingles</title>
-    <desc lang="es">Aprende a dar ordenes y hacer peticiones mientras mejoras tu nivel de ingles describiendo y hablando de la familia.</desc>
-  </programme>
   <programme start="20260617211423 +0000" stop="20260617220002 +0000" channel="ita_principiante">
     <title lang="es">Como usar el pasado</title>
     <desc lang="es">Te ensenamos a conjugar los distintos pasados y como usar el presente perfecto.</desc>
@@ -7089,22 +6957,6 @@
   <programme start="20260618224624 +0000" stop="20260618233251 +0000" channel="ita_principiante">
     <title lang="es">To be or not to be</title>
     <desc lang="es">To be, el verbo que tienes que saber utilizar y expresiones y vocabulario para que te vayas lanzando a hablar en ingles.</desc>
-  </programme>
-  <programme start="20260617182110 +0000" stop="20260617190628 +0000" channel="ita_intermedio">
-    <title lang="es">Ingles para tu dia a dia</title>
-    <desc lang="es">En ITA hoy juntos aprenderemos palabras que abarcan vocabulario y estructuras comunes.</desc>
-  </programme>
-  <programme start="20260617190628 +0000" stop="20260617194954 +0000" channel="ita_intermedio">
-    <title lang="es">La pasiva y mucho mas</title>
-    <desc lang="es">Practica los fundamentos de la voz pasiva y las diferencias entre verbos que parece que significan lo mismo.</desc>
-  </programme>
-  <programme start="20260617194954 +0000" stop="20260617203425 +0000" channel="ita_intermedio">
-    <title lang="es">Verbos que no significan lo mismo</title>
-    <desc lang="es">Vamos a aprender sobre la terminacion 'ing' ademas de practicar verbos que se traducen igual pero tienen un significado muy diferente.</desc>
-  </programme>
-  <programme start="20260617203425 +0000" stop="20260617211759 +0000" channel="ita_intermedio">
-    <title lang="es">Tu dia a dia en ingles</title>
-    <desc lang="es">Descubre como hablar por telefono, despedirse o expresar tus opiniones en ingles. Aprende tambien como son las medidas.</desc>
   </programme>
   <programme start="20260617211759 +0000" stop="20260617215953 +0000" channel="ita_intermedio">
     <title lang="es">Expresate cada dia mejor</title>
@@ -7249,22 +7101,6 @@
   <programme start="20260618225912 +0000" stop="20260618234223 +0000" channel="ita_intermedio">
     <title lang="es">Saliendo con amigos</title>
     <desc lang="es">Desde hablar por telefono a despedirse, pasando por bailar y cantar, todo lo que necesitas para una tarde de diversion.</desc>
-  </programme>
-  <programme start="20260617180240 +0000" stop="20260617185010 +0000" channel="ita_avanzado">
-    <title lang="es">Formas avanzadas de los verbos</title>
-    <desc lang="es">Te explicamos formas avanzadas del pasado y el futuro para formar frases mucho mas precisas.</desc>
-  </programme>
-  <programme start="20260617185010 +0000" stop="20260617193453 +0000" channel="ita_avanzado">
-    <title lang="es">Verbos modales</title>
-    <desc lang="es">Veremos los verbos modales.</desc>
-  </programme>
-  <programme start="20260617193453 +0000" stop="20260617201924 +0000" channel="ita_avanzado">
-    <title lang="es">Modal verbs para elegir en ingles</title>
-    <desc lang="es">Aprende a elegir en ingles sabiendo usar expresiones con would / would rather / may / might, ademas de enriquecer tu vocabulario.</desc>
-  </programme>
-  <programme start="20260617201924 +0000" stop="20260617210308 +0000" channel="ita_avanzado">
-    <title lang="es">Vocabulario y expresiones comunes</title>
-    <desc lang="es">En este capitulo veremos un vocabulario especifico y expresiones comunes que se utilizan en varios contextos de tu dia a dia. Tambien aprenderemos un conjunto de terminos especificos relacionados con distintos lugares o profesiones. Expresiones comunes para expresar deseos o momentos que podrian suceder.</desc>
   </programme>
   <programme start="20260617210308 +0000" stop="20260617214713 +0000" channel="ita_avanzado">
     <title lang="es">Expresiones para el dia a dia</title>
@@ -7413,30 +7249,6 @@
   <programme start="20260618225819 +0000" stop="20260618234728 +0000" channel="ita_avanzado">
     <title lang="es">Repasa y mejora la gramatica</title>
     <desc lang="es">Repaso de los tiempos continuos y phrasal verbs y mejora de la gramatica con "some / any", comparativos y superlativos.</desc>
-  </programme>
-  <programme start="20260617182306 +0000" stop="20260617185232 +0000" channel="vaughan">
-    <title lang="es">Express Yourself</title>
-    <sub-title lang="es">Express Yourself Episode 32</sub-title>
-    <desc lang="es">Express Yourself es un programa especificamente pensado para estudiantes que estan comenzando su camino hacia el dominio del ingles y tambien para estudiantes experimentados que siguen cometiendo errores basicos. Con la increible Ximena Holliday como coach, aprenderas los verbos que mas usamos en ingles, el vocabulario clave y los puntos de gramaticales que haran que tu ingles vaya de nivel cero a nivel heroe mucho antes de lo que crees. It’s time to Express Yourself!</desc>
-  </programme>
-  <programme start="20260617185232 +0000" stop="20260617192207 +0000" channel="vaughan">
-    <title lang="es">Richard Vaughan Live Episode 161 - 165</title>
-    <desc lang="es">¿Sabes como es tener una clase con Richard Vaughan? ¿Has vivido la experiencia de recibir una clase con el gran guru del ingles? Con este programa, en tan solo 5 minutos, descubriras el secreto del metodo Vaughan y alucinaras con como mejoras con el idioma.</desc>
-  </programme>
-  <programme start="20260617192207 +0000" stop="20260617195210 +0000" channel="vaughan">
-    <title lang="es">The Show With No Name</title>
-    <sub-title lang="es">The Show With No Name Episode 33</sub-title>
-    <desc lang="es">Preparate para aprender ingles de una manera totalmente distinta con Alberto Alonso. Este show lleno de energia utiliza las ultimas noticias y tendencias culturales para ofrecerte lecciones practicas y entretenidas.</desc>
-  </programme>
-  <programme start="20260617195210 +0000" stop="20260617202224 +0000" channel="vaughan">
-    <title lang="es">The Kyle Millar Show</title>
-    <sub-title lang="es">The Kyle Millar Show Episode 33</sub-title>
-    <desc lang="es">Descubre la magia de aprender ingles con The Kyle Millar Show, donde cada leccion esta disenada para ser intensiva y altamente interactiva. Aqui, te sumergiras en la pronunciacion correcta y aprenderas a evitar errores comunes, todo en un formato que te mantendra enganchado.</desc>
-  </programme>
-  <programme start="20260617202224 +0000" stop="20260617205224 +0000" channel="vaughan">
-    <title lang="es">English on the DOT</title>
-    <sub-title lang="es">English On The Dot Episode 33</sub-title>
-    <desc lang="es">Con Marta Martinez y Micky Lennard a la cabeza, English on the Dot es el programa perfecto para perfeccionar tu ingles en situaciones cotidianas: desde hacer la compra hasta reservar una habitacion en un hotel, ¡o incluso para cenas familiares! Cada episodio te ofrece lecciones cortas de vocabulario, gramatica, y pronunciacion, ademas de expresiones clave y practica oral. Y como siempre, terminamos con un quiz para comprobar cuanto has aprendido. ¡Unete a nosotros en English on the Dot!</desc>
   </programme>
   <programme start="20260617205224 +0000" stop="20260617212141 +0000" channel="vaughan">
     <title lang="es">Express Yourself</title>
@@ -7922,14 +7734,6 @@
     <title lang="es">Planet Dune V2</title>
     <desc lang="es">Una tripulacion en mision para salvar una base abandonada en un planeta desertico se convierte en mortal cuando son acechados y atacados por los principales depredadores del planeta: gusanos de arena gigantes.</desc>
   </programme>
-  <programme start="20260617165158 +0000" stop="20260617184035 +0000" channel="Film_Co">
-    <title lang="es">BARATOmetrajes 2.0 – El futuro del cine hecho en Espana</title>
-    <desc lang="es">Documental sobre las peliculas de bajo presupuesto producidas en Espana, sumergiendose en las entranas del cine mas independiente, en sus peculiaridades y sus razones de ser. El planteamiento es claro: quizas estemos asistiendo al nacimiento de un nuevo movimiento cultural, de una revolucion cinematografica en la que la escasez presupuestaria y la necesidad de expresarse con una camara a pesar del dificil entorno existente, son el punto de partida. Con mas de 40 entrevistas que configuran un amplio mosaico de visiones, BARATOmetrajes 2.0 pretende ser el documental y plataforma sobre las peliculas e iniciativas que (casi) nadie conoce y de las que esperemos comience a hablarse cada vez mas.</desc>
-  </programme>
-  <programme start="20260617184035 +0000" stop="20260617194821 +0000" channel="Film_Co">
-    <title lang="es">Seccion Oficial 1x11 by Mundoplus.tv</title>
-    <desc lang="es">“Seccion Oficial” charla esta semana con Arturo Montenegro, director de “Papeles”. Ademas, nos asomamos a los festivales de cine de diciembre y repasamos los estrenos mas destacados.</desc>
-  </programme>
   <programme start="20260617194821 +0000" stop="20260617213647 +0000" channel="Film_Co">
     <title lang="es">Storm</title>
     <desc lang="es">A finales de los sesenta en el sevillano barrio de San Jeronimo, cuando tocar rock y llevar melenas era aun objeto de agresion o detencion, los Storm electrizaban al personal cual unos Deep Purple andaluces. Del rechazo y la transgresion a recibir una oferta de Freddy Mercury para una gira internacional, un contrato con una multinacional y aparecer en Musical Express, en esta pelicula conoceremos a esta banda invencible que merece un lugar privilegiado en la historia de la musica y que formo parte (y en algunos casos se adelanto) al rock andaluz de Triana, Smash, Alameda, Gualberto y Gong. En 2020, a 50 anos de la formacion, se lanzan a grabar un nuevo LP.</desc>
@@ -7998,14 +7802,6 @@
     <title lang="es">You go to my head</title>
     <desc lang="es">Tras sufrir un inesperado accidente de coche en el desierto, Dafne sufre de amnesia post-traumatica. Jake, la primera persona que encuentra cuando recupera la conciencia, le dice que es su marido.</desc>
   </programme>
-  <programme start="20260617170303 +0000" stop="20260617192249 +0000" channel="Planeta_de_Cine">
-    <title lang="es">Fahrenheit 11/9</title>
-    <desc lang="es">Michael Moore, documentalista ganador de un Oscar por Bowling for Columbine y de la Palma de Oro por Fahrenheit 9/11, retrata de nuevo con su mirada corrosiva la realidad sociocultural de EE.UU y el convulso momento politico que vive el pais en estos momentos. El titulo de la pelicula FAHRENHEIT 11/9 hace referencia al 9 de noviembre de 2016, fecha en la que ocurrio algo que hasta hacia unos anos era inimaginable: el magnate Donald Trump consiguio ganar las elecciones y convertirse en presidente Estados Unidos.</desc>
-  </programme>
-  <programme start="20260617192249 +0000" stop="20260617210801 +0000" channel="Planeta_de_Cine">
-    <title lang="es">Red Dog</title>
-    <desc lang="es">Adaptacion de la novela Louis De Bernieres basada en un hecho real, narra como un perro kelpie australiano se une a una comunidad minera durante los anos setenta.</desc>
-  </programme>
   <programme start="20260617210801 +0000" stop="20260617225550 +0000" channel="Planeta_de_Cine">
     <title lang="es">La doble</title>
     <desc lang="es">Una estrella de cine, que no paga los impuestos, decide contratar a una doble para que haga todos los trabajos comunitarios por ella.</desc>
@@ -8061,26 +7857,6 @@
   <programme start="20260618202026 +0000" stop="20260618221108 +0000" channel="Planeta_de_Cine">
     <title lang="es">Dark Water</title>
     <desc lang="es">Yoshimi Matsubara, una mujer recien divorciada, lucha para obtener la custodia legal de su hija de cinco anos. Su exmarido no esta dispuesto a facilitarle las cosas y saca a relucir su pasado de alucinaciones y tratamiento psiquiatrico. Madre e hija se mudan juntas a un pequeno apartamento, oscuro, triste y mohoso. La pequena Ikuko comienza a ir a su nueva escuela y Yoshimi ha encontrado un nuevo trabajo. Pero la persistente presencia de agua sucia en el nuevo edificio parece el heraldo de los peores presagios. Agua sucia en el ascensor, en el techo del apartamento, bajo la puerta de uno de los pisos.... Ademas de la misteriosa presencia de una mochila roja que habia pertenecido a una nina que desaparecio dos anos antes. Aunque Yoshimi lucha desesperadamente para encontrar en su interior fuerzas pensando en Ikuko, su terror va en aumento a medida que se acerca al descubrimiento de la conexion entre todos estos sucesos; y no esta nada preparada para la verdad que le depara el futuro.</desc>
-  </programme>
-  <programme start="20260617182053 +0000" stop="20260617185436 +0000" channel="Pocoyoymas">
-    <title lang="es">Inventions</title>
-    <desc lang="es">Inventions Mi Heroe El Rescate El Amigo de Pocoyo.</desc>
-  </programme>
-  <programme start="20260617185436 +0000" stop="20260617192800 +0000" channel="Pocoyoymas">
-    <title lang="es">El Picnic De Elly</title>
-    <desc lang="es">El Picnic De Elly Nina Descubre El Mundo El Mando La Raqueta.</desc>
-  </programme>
-  <programme start="20260617192800 +0000" stop="20260617200057 +0000" channel="Pocoyoymas">
-    <title lang="es">La Pista de Baile</title>
-    <desc lang="es">La Pista de Baile ¡Pierdete Loula! Zapatillas con Truco Pato Fotografo.</desc>
-  </programme>
-  <programme start="20260617200057 +0000" stop="20260617203325 +0000" channel="Pocoyoymas">
-    <title lang="es">El Marciano Malhumorado</title>
-    <desc lang="es">El Marciano Malhumorado Bajo el Mar La Gran Exposicion El Misterio del Monstruo.</desc>
-  </programme>
-  <programme start="20260617203325 +0000" stop="20260617210611 +0000" channel="Pocoyoymas">
-    <title lang="es">Poczilla</title>
-    <desc lang="es">Poczilla Elly Sobre Hielo ¡Adios, Amigos Doble Juego.</desc>
   </programme>
   <programme start="20260617210611 +0000" stop="20260617213911 +0000" channel="Pocoyoymas">
     <title lang="es">La Casita de Elly</title>
