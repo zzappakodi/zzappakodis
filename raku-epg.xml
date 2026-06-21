@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="rakuten-epg" generator-info-url="https://github.com/dp247/">
   <channel id="el-pais">
     <display-name lang="es">El País</display-name>
@@ -183,42 +184,6 @@
     <display-name lang="es">MyTime Movie Network</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/d3b1e728-ef8e-4dc6-b2ee-dd668a44bae4-mytime-movie-network-1643366410.png"></icon>
   </channel>
-  <programme channel="el-pais" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">El País</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="el-pais" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">El País</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="el-pais" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">El País</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="el-pais" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">El País</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="el-pais" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">El País</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="el-pais" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">El País</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
   <programme channel="el-pais" start="20260622000000 +0200" stop="20260622005959 +0200">
     <title lang="es">El País</title>
     <sub-title lang="es"></sub-title>
@@ -515,42 +480,6 @@
   </programme>
   <programme channel="el-pais" start="20260624010000 +0200" stop="20260624015959 +0200">
     <title lang="es">El País</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="newsworld-spa" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">NewsWorld</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="newsworld-spa" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">NewsWorld</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="newsworld-spa" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">NewsWorld</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="newsworld-spa" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">NewsWorld</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="newsworld-spa" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">NewsWorld</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="newsworld-spa" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">NewsWorld</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es"></desc>
     <category lang="es">Noticias</category>
@@ -855,66 +784,6 @@
     <desc lang="es"></desc>
     <category lang="es">Noticias</category>
   </programme>
-  <programme channel="actualidad-360" start="20260621173001 +0200" stop="20260621180000 +0200">
-    <title lang="es">Modo Mundial</title>
-    <desc lang="es">El programa diario para seguir toda la actualidad del Mundial de Fútbol 2026.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621180001 +0200" stop="20260621183000 +0200">
-    <title lang="es">Noticias en 30 minutos</title>
-    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621183001 +0200" stop="20260621190000 +0200">
-    <title lang="es">Noticias en 30 minutos</title>
-    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621190001 +0200" stop="20260621193000 +0200">
-    <title lang="es">Modo Mundial</title>
-    <desc lang="es">El programa diario para seguir toda la actualidad del Mundial de Fútbol 2026.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621193001 +0200" stop="20260621200000 +0200">
-    <title lang="es">Noticias en 30 minutos</title>
-    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621200001 +0200" stop="20260621203000 +0200">
-    <title lang="es">Noticias en 30 minutos</title>
-    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621203001 +0200" stop="20260621210000 +0200">
-    <title lang="es">Modo Mundial</title>
-    <desc lang="es">El programa diario para seguir toda la actualidad del Mundial de Fútbol 2026.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621210001 +0200" stop="20260621213000 +0200">
-    <title lang="es">Noticias en 30 minutos</title>
-    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621213001 +0200" stop="20260621220000 +0200">
-    <title lang="es">Noticias en 30 minutos</title>
-    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621220001 +0200" stop="20260621223000 +0200">
-    <title lang="es">Modo Mundial</title>
-    <desc lang="es">El programa diario para seguir toda la actualidad del Mundial de Fútbol 2026.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621223001 +0200" stop="20260621230000 +0200">
-    <title lang="es">Noticias en 30 minutos</title>
-    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="actualidad-360" start="20260621230001 +0200" stop="20260621233000 +0200">
-    <title lang="es">Noticias en 30 minutos</title>
-    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
   <programme channel="actualidad-360" start="20260621233001 +0200" stop="20260622000000 +0200">
     <title lang="es">Noticias en 30 minutos</title>
     <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
@@ -926,8 +795,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622003001 +0200" stop="20260622010000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622010001 +0200" stop="20260622013000 +0200">
@@ -936,8 +805,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622013001 +0200" stop="20260622020000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622020001 +0200" stop="20260622023000 +0200">
@@ -946,8 +815,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622023001 +0200" stop="20260622030000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día y lo último del Mundial de Fútbol.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622030001 +0200" stop="20260622033000 +0200">
@@ -956,8 +825,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622033001 +0200" stop="20260622040000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622040001 +0200" stop="20260622043000 +0200">
@@ -966,8 +835,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622043001 +0200" stop="20260622050000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622050001 +0200" stop="20260622053000 +0200">
@@ -976,8 +845,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622053001 +0200" stop="20260622060000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día y lo último del Mundial de Fútbol.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622060001 +0200" stop="20260622063000 +0200">
@@ -986,8 +855,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622063001 +0200" stop="20260622070000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622070001 +0200" stop="20260622073000 +0200">
@@ -996,8 +865,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622073001 +0200" stop="20260622080000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622080001 +0200" stop="20260622083000 +0200">
@@ -1006,8 +875,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622083001 +0200" stop="20260622090000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día y lo último del Mundial de Fútbol.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622090001 +0200" stop="20260622093000 +0200">
@@ -1016,8 +885,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622093001 +0200" stop="20260622100000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622100001 +0200" stop="20260622103000 +0200">
@@ -1026,8 +895,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622103001 +0200" stop="20260622110000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622110001 +0200" stop="20260622113000 +0200">
@@ -1036,8 +905,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622113001 +0200" stop="20260622120000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día y lo último del Mundial de Fútbol.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622120001 +0200" stop="20260622123000 +0200">
@@ -1046,8 +915,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622123001 +0200" stop="20260622130000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622130001 +0200" stop="20260622133000 +0200">
@@ -1056,8 +925,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622133001 +0200" stop="20260622140000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622140001 +0200" stop="20260622143000 +0200">
@@ -1066,8 +935,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622143001 +0200" stop="20260622150000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día y lo último del Mundial de Fútbol.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622150001 +0200" stop="20260622153000 +0200">
@@ -1076,8 +945,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622153001 +0200" stop="20260622160000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260622160001 +0200" stop="20260622163000 +0200">
@@ -1166,8 +1035,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623003001 +0200" stop="20260623010000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623010001 +0200" stop="20260623013000 +0200">
@@ -1176,8 +1045,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623013001 +0200" stop="20260623020000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623020001 +0200" stop="20260623023000 +0200">
@@ -1186,8 +1055,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623023001 +0200" stop="20260623030000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623030001 +0200" stop="20260623033000 +0200">
@@ -1196,8 +1065,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623033001 +0200" stop="20260623040000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623040001 +0200" stop="20260623043000 +0200">
@@ -1206,8 +1075,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623043001 +0200" stop="20260623050000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623050001 +0200" stop="20260623053000 +0200">
@@ -1216,8 +1085,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623053001 +0200" stop="20260623060000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623060001 +0200" stop="20260623063000 +0200">
@@ -1226,8 +1095,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623063001 +0200" stop="20260623070000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623070001 +0200" stop="20260623073000 +0200">
@@ -1236,8 +1105,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623073001 +0200" stop="20260623080000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623080001 +0200" stop="20260623083000 +0200">
@@ -1246,8 +1115,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623083001 +0200" stop="20260623090000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623090001 +0200" stop="20260623093000 +0200">
@@ -1256,8 +1125,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623093001 +0200" stop="20260623100000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623100001 +0200" stop="20260623103000 +0200">
@@ -1266,8 +1135,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623103001 +0200" stop="20260623110000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623110001 +0200" stop="20260623113000 +0200">
@@ -1276,8 +1145,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623113001 +0200" stop="20260623120000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623120001 +0200" stop="20260623123000 +0200">
@@ -1286,8 +1155,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623123001 +0200" stop="20260623130000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623130001 +0200" stop="20260623133000 +0200">
@@ -1296,8 +1165,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623133001 +0200" stop="20260623140000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623140001 +0200" stop="20260623143000 +0200">
@@ -1306,8 +1175,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623143001 +0200" stop="20260623150000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623150001 +0200" stop="20260623153000 +0200">
@@ -1316,18 +1185,18 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623153001 +0200" stop="20260623160000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623160001 +0200" stop="20260623163000 +0200">
     <title lang="es">Modo Mundial</title>
-    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
+    <desc lang="es">El programa diario para seguir toda la actualidad del Mundial de Fútbol 2026.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623163001 +0200" stop="20260623170000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623170001 +0200" stop="20260623173000 +0200">
@@ -1346,8 +1215,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623183001 +0200" stop="20260623190000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623190001 +0200" stop="20260623193000 +0200">
@@ -1361,13 +1230,13 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623200001 +0200" stop="20260623203000 +0200">
-    <title lang="es">Modo Mundial</title>
-    <desc lang="es">El programa diario para seguir toda la actualidad del Mundial de Fútbol 2026.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623203001 +0200" stop="20260623210000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Modo Mundial</title>
+    <desc lang="es">El programa diario para seguir toda la actualidad del Mundial de Fútbol 2026.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623210001 +0200" stop="20260623213000 +0200">
@@ -1376,8 +1245,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623213001 +0200" stop="20260623220000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623220001 +0200" stop="20260623223000 +0200">
@@ -1386,8 +1255,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623223001 +0200" stop="20260623230000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623230001 +0200" stop="20260623233000 +0200">
@@ -1396,8 +1265,8 @@
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260623233001 +0200" stop="20260624000000 +0200">
-    <title lang="es">Claves del día</title>
-    <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
+    <title lang="es">Noticias en 30 minutos</title>
+    <desc lang="es">La última hora de todo lo que sucede en España y el mundo con toda la actualidad del Mundial de Fútbol.</desc>
     <category lang="es">Noticias</category>
   </programme>
   <programme channel="actualidad-360" start="20260624000001 +0200" stop="20260624003000 +0200">
@@ -1419,48 +1288,6 @@
     <title lang="es">Claves del día</title>
     <desc lang="es">Las claves informativas para entender la actualidad del día.</desc>
     <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="historia-y-vida" start="20260621170201 +0200" stop="20260621180600 +0200">
-    <title lang="es">Construcciones Extremas</title>
-    <sub-title lang="es">S01 : E05 Construcciones Extremas - Meraviglia, el Gigante de los Mares</sub-title>
-    <desc lang="es">Conoce la construcción en St. Nazaire del Meraviglia, el crucero por excelencia. 315m de eslora y 65 de altura</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="historia-y-vida" start="20260621180601 +0200" stop="20260621190900 +0200">
-    <title lang="es">Construcciones Extremas</title>
-    <sub-title lang="es">S01 : E01 Construcciones Extremas - El Tonnerre</sub-title>
-    <desc lang="es">Thunder Boat es el 2º buque más grande de la Marine Nationale, con tecnología avanzada y funciones múltiples.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="historia-y-vida" start="20260621190901 +0200" stop="20260621200100 +0200">
-    <title lang="es">Los Nazis más Buscados</title>
-    <sub-title lang="es">S01 : E09 Los Nazis más Buscados: Wilhelm Canaris</sub-title>
-    <desc lang="es">James descubre cómo Wilhelm Canaris, jefe de espías de Hitler, fue nazi convencido y agente doble.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="historia-y-vida" start="20260621200101 +0200" stop="20260621205300 +0200">
-    <title lang="es">Los Nazis más Buscados</title>
-    <sub-title lang="es">S01 : E10 Los Nazis más Buscados: Benito Mussolini</sub-title>
-    <desc lang="es">James está en Italia investigando a Benito Mussolini, el dictador brutal.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="historia-y-vida" start="20260621205301 +0200" stop="20260621214500 +0200">
-    <title lang="es">Los Nazis más Buscados</title>
-    <sub-title lang="es">S01 : E07 Los Nazis más Buscados: Karl Donitz</sub-title>
-    <desc lang="es">James está decidido a probar que Karl Donitz mereció su sangriento rol como sucesor de Hitler.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="historia-y-vida" start="20260621214501 +0200" stop="20260621223700 +0200">
-    <title lang="es">Los Nazis más Buscados</title>
-    <sub-title lang="es">S01 : E08 Los Nazis más Buscados: Hans Frank</sub-title>
-    <desc lang="es">Conocido como el Carnicero de Polonia, Hans Frank pervirtió la ley para fomentar esclavitud y genocidio.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="historia-y-vida" start="20260621223701 +0200" stop="20260621232900 +0200">
-    <title lang="es">Los Nazis más Buscados</title>
-    <sub-title lang="es">S01 : E06 Los Nazis más Buscados: Josef Mengele</sub-title>
-    <desc lang="es">Rastreando los orígenes de su pseudociencia sádica, James investiga a Josef Mengele.</desc>
-    <category lang="es">Documental</category>
   </programme>
   <programme channel="historia-y-vida" start="20260621232901 +0200" stop="20260622002900 +0200">
     <title lang="es">Los Horrores de los Médicos Nazis</title>
@@ -1774,42 +1601,6 @@
     <desc lang="es">Descubre la historia y la innovadora tecnología del metro de París: 100 años, 220 km de vías, 302 estaciones.</desc>
     <category lang="es">Documental</category>
   </programme>
-  <programme channel="oficios-perdidos" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">Oficios Perdidos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="oficios-perdidos" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">Oficios Perdidos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="oficios-perdidos" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">Oficios Perdidos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="oficios-perdidos" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">Oficios Perdidos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="oficios-perdidos" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">Oficios Perdidos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="oficios-perdidos" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">Oficios Perdidos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Documental</category>
-  </programme>
   <programme channel="oficios-perdidos" start="20260622000000 +0200" stop="20260622005959 +0200">
     <title lang="es">Oficios Perdidos</title>
     <sub-title lang="es"></sub-title>
@@ -2108,48 +1899,6 @@
     <title lang="es">Oficios Perdidos</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es"></desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="nature-time-es" start="20260621172945 +0200" stop="20260621182427 +0200">
-    <title lang="es">Volcanic Odysseys</title>
-    <sub-title lang="es">S02 : E03 A Place Like Hell</sub-title>
-    <desc lang="es">Embark on an adventure to otherworldly landscapes reminiscent of hell.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="nature-time-es" start="20260621182428 +0200" stop="20260621191912 +0200">
-    <title lang="es">Australia's Hidden Islands</title>
-    <sub-title lang="es">S01 : E01 Lady Elliot Island</sub-title>
-    <desc lang="es">This crown jewel of the Great Barrier Reef boasts a dizzying diversity of life.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="nature-time-es" start="20260621191913 +0200" stop="20260621194730 +0200">
-    <title lang="es">Attack And Defend</title>
-    <sub-title lang="es">S01 : E06 Water Warriors</sub-title>
-    <desc lang="es">The dance between predator and prey takes on a new dynamic underwater.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="nature-time-es" start="20260621194731 +0200" stop="20260621204213 +0200">
-    <title lang="es">Australia's Hidden Islands</title>
-    <sub-title lang="es">S01 : E02 Kangaroo Island</sub-title>
-    <desc lang="es">An island fortress in the Southern Ocean protects rare and threatened wildlife.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="nature-time-es" start="20260621204214 +0200" stop="20260621213526 +0200">
-    <title lang="es">Wildlife Icons</title>
-    <sub-title lang="es">S01 : E01 Africa's Big Cats</sub-title>
-    <desc lang="es">Africaâ€™s big cats have evolved specialized strategies that let them coexist.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="nature-time-es" start="20260621213527 +0200" stop="20260621222838 +0200">
-    <title lang="es">Wildlife Icons</title>
-    <sub-title lang="es">S01 : E02 The Big 5</sub-title>
-    <desc lang="es">Life isnâ€™t easy for Africaâ€™s lions, leopards, buffalo, rhinos, and elephants.</desc>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme channel="nature-time-es" start="20260621222839 +0200" stop="20260621232314 +0200">
-    <title lang="es">Queen of the Hunt</title>
-    <sub-title lang="es">S01 : E01 Queen of the Hunt</sub-title>
-    <desc lang="es">See how cheetah mothers teach their fragile cubs the dangerous art of survival.</desc>
     <category lang="es">Documental</category>
   </programme>
   <programme channel="nature-time-es" start="20260621232315 +0200" stop="20260622001750 +0200">
@@ -2499,78 +2248,6 @@
     <sub-title lang="es">S01 : E04 Snows of Kilimanjaro</sub-title>
     <desc lang="es">Climb Mt. Kilimanjaro to investigate the potential impacts of climate change.</desc>
     <category lang="es">Documental</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621174829 +0200" stop="20260621181923 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S01 : E01 Angry Planet | Tornadoes</sub-title>
-    <desc lang="es">For George Kourounis‚ ground zero for stormchasing is Oklahoma City, the capital of´Tornado Alley´.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621181929 +0200" stop="20260621185023 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S01 : E03 Angry Planet | African Hellhole</sub-title>
-    <desc lang="es">The Angry Planet team heads to Africa to climb the steep and very active Nyiragongo Volcano in the Congo that erupted in 2002, sending 125,000 people fleeing for their lives. Host/adventurer George Kourounis explores the bubbling lake of molten lava and investigates the risk the dangerous volcano poses to both the people of city of Goma and the Mountain Gorillas who live on the nearby jungle slopes.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621185029 +0200" stop="20260621192123 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S01 : E05 Angry Planet | The Winds of Autumn</sub-title>
-    <desc lang="es">The autumn of 2006 brings hurricanes to the North Atlantic and hot dry winds fan forest fires across Northern Ontario. Host/adventurer George Kourounis has traveled to some awesome hurricanes, including Rita and Katrina, with his pal Mark Robinson. This year they stormchase in Newfoundland, site of the hurricane that pulled Mark out of a life-threatening depression.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621192129 +0200" stop="20260621195153 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S01 : E07 Angry Planet | Volcanic Wedding</sub-title>
-    <desc lang="es">Host George Kourounis has braved many terrifying phenomena – but none as frightening as the one he takes on in this episode: marriage! To make sure his new bride is on the same adventurous page with him, he proposes to get married on the lip of an exploding volcano, on the South Pacific island of Tanna, in Vanuatu. Before the native preacher, dressed in grass skirt and kustom garb, gets to perform the smoky vows, George descends into the erupting volcano to bring out red hot samples of the lava it is producing.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621195159 +0200" stop="20260621202253 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S01 : E09 Angry Planet | Avalanche</sub-title>
-    <desc lang="es">Avalanche danger is very high in the Rogers Pass area of the Trans Canada Highway in British Columbia. Host of Angry Planet George Kourounis travels with a variety of experts to bring down huge avalanches in the Rocky Mountains. Ski Patrollers throw hand charges to clear the slopes, the British Columbia Department of Highways uses helicopter bombing and mountaintop mortars to keep the roads safe, and the Canadian Armed Forces fire 105mm howitzers at the mountains to bring down the dangerous snow. Still, there are accidents and fatalities in the mountains. We meet Francois Desroisers, an avalanche burial victim who tells a terrible and tragic tale of a mountain disaster.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621202259 +0200" stop="20260621205353 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S01 : E11 Angry Planet | Fin del Mundo</sub-title>
-    <desc lang="es">Some of the fiercest weather can be experienced at the area the South Americans call the “Fin del Mundo”.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621205359 +0200" stop="20260621212453 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S01 : E13 Angry Planet | Midwest Stormfest</sub-title>
-    <desc lang="es">George returns to “Tornado Alley” with 3 fellow stormchasers to see what the 2007 Storm Season will bring.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621212459 +0200" stop="20260621215453 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S02 : E02 Angry Planet | Hottest &amp; Coldest</sub-title>
-    <desc lang="es">George experiences the most extreme climates in North America. First he visits the hottest place on the continent – Death Valley, then the coldest – Snag, Yukon.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621215459 +0200" stop="20260621222453 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S02 : E04 Angry Planet | B.C. Caving</sub-title>
-    <desc lang="es">In the porous limestone of Canada’s West Coast, great forces are at work under the ground, building and eroding the underground into fantastic shapes. In this episode we’ll witness George’s explorations of these massive underground cave systems.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621222459 +0200" stop="20260621225453 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S02 : E06 Angry Planet | Thunder Down Under</sub-title>
-    <desc lang="es">Stormchasing developed in Australia in the same period – the 1990s – as it developed in the American Midwest. In the first week of December – the height of storm season in Australia, we plan to travel with Jimmy Deguara, the most experienced of Australian stormchasers.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621225459 +0200" stop="20260621232453 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S02 : E08 Angry Planet | Italia Wild</sub-title>
-    <desc lang="es">Italy is one of the very few nations in the world that regularly gets three major extreme natural phenomena – volcanos, flooding, and avalanches. Eastern flanks of the volcano to slip by up to two metres, and many houses on the flanks of the volcano experienced structural damage. The eruption also completely destroyed the Rifugio Sapienza, on the southern flank of the volcano. The Rifugio was the site of a cable car station which had previously been destroyed in the 1983 eruption; both have now been rebuilt. The most recent eruption was in November 2006.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="weather-spy-new" start="20260621232459 +0200" stop="20260621235453 +0200">
-    <title lang="es">Angry Planet</title>
-    <sub-title lang="es">S02 : E10 Angry Planet | By Camel to Timbuktu</sub-title>
-    <desc lang="es">It is time for “Angry Planet” to do a serious desert episode. What better place to do it than this fabled city in the middle of the mighty Sahara Desert.This almost mythical place really does exist. And it really is still possible to travel there by camel caravan, riding the infamous “Ships of the Desert”.  Extreme heat, dehydration, possible sand storms, frigid night temperatures and desert predators are our potential companions for the trip.</desc>
-    <category lang="es">Slow TV</category>
   </programme>
   <programme channel="weather-spy-new" start="20260621235459 +0200" stop="20260622002453 +0200">
     <title lang="es">Angry Planet</title>
@@ -3171,96 +2848,6 @@
     <sub-title lang="es">S01 : E30 Storm Hunters | Ferocity in Florida</sub-title>
     <desc lang="es">Following an intense hurricane season, Hurricane Michael is poised to hit Florida.</desc>
     <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621175212 +0200" stop="20260621181416 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E3 Episodio 3</sub-title>
-    <desc lang="es">Pingu fa il pieno di energia | Via di qui! | Pingu l'eroe!</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621181417 +0200" stop="20260621183621 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E4 Episodio 4</sub-title>
-    <desc lang="es">Il potere dei fiori | Costruiamo un igloo! | Consegna speciale per Pingu</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621183622 +0200" stop="20260621185826 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E5 Episodio 5</sub-title>
-    <desc lang="es">Il potere dei fiori | Costruiamo un igloo! | Consegna speciale per Pingu</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621185827 +0200" stop="20260621192031 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E6 Episodio 6</sub-title>
-    <desc lang="es">La sorpresa di compleanno della mamma | Pingu prende il volo | Pingu scivola verso la fama</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621192032 +0200" stop="20260621194919 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E7 Episodio 7</sub-title>
-    <desc lang="es">Pingu ripara una perdita | Pingu e Pinga fashionisti | Continua così, Pingu! | Il pescato del giorno di Pingu</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621194920 +0200" stop="20260621201807 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E8 Episodio 8</sub-title>
-    <desc lang="es">Fermate quella posta! | Incollati insieme | Tutti sono vincitori! | Dolori di crescita</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621201808 +0200" stop="20260621204111 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E9 Episodio 9</sub-title>
-    <desc lang="es">L'addestramento da pompiere è duro! | Un aiutante misterioso | Il nonno è qui!</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621204112 +0200" stop="20260621210415 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E10 Episodio 10</sub-title>
-    <desc lang="es">Il passeggero dispettoso del tram | Appare una creatura misteriosa! | La jam session di Pingu</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621210416 +0200" stop="20260621212719 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E11 Episodio 11</sub-title>
-    <desc lang="es">Sorridi! | Cosa c'è dentro? | Il grande inseguimento blu</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621212720 +0200" stop="20260621215023 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E12 Episodio 12</sub-title>
-    <desc lang="es">Le avventure spaziali di Pingu | Aiutare un nuovo amico | Pingu e l'uovo</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621215024 +0200" stop="20260621221327 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E13 Episodio 13</sub-title>
-    <desc lang="es">Pingu gira un film! | Pingu è una rock star! | Aiutanti in casa</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621221328 +0200" stop="20260621223631 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E14 Episodio 14</sub-title>
-    <desc lang="es">Pingu il parruccaio! | Pingu in pattuglia! | La scoperta ghiacciata di Pingu</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621223632 +0200" stop="20260621230636 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E15 Episodio 15</sub-title>
-    <desc lang="es">La caccia al tesoro di Pingu | Viaggio sulla luna | Il ballo del traffico di Pingu | Voglio andare in TV!</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621230637 +0200" stop="20260621233641 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S3:E16 Episodio 16</sub-title>
-    <desc lang="es">Mercatino dell'usato | Pingu la statua vivente | L'attacco di fame di Pingu | Pingu il direttore d'orchestra</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pingu-rakuten-tv" start="20260621233642 +0200" stop="20260621235458 +0200">
-    <title lang="es">Pingu</title>
-    <sub-title lang="es">S1:E1 Episodio 1</sub-title>
-    <desc lang="es">La presentazione di Pingu | Pingu aiuta a covare | La nascita di Pinga</desc>
-    <category lang="es">Infantil</category>
   </programme>
   <programme channel="pingu-rakuten-tv" start="20260621235459 +0200" stop="20260622001314 +0200">
     <title lang="es">Pingu</title>
@@ -4204,42 +3791,6 @@
     <desc lang="es">Pingu e il vaso rotto | Pingu e l'aeroplanino di carta | Pingu cerca vendetta</desc>
     <category lang="es">Infantil</category>
   </programme>
-  <programme channel="planeta-junior-spa" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">La abeja Maya</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="planeta-junior-spa" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">La abeja Maya</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="planeta-junior-spa" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">La abeja Maya</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="planeta-junior-spa" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">La abeja Maya</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="planeta-junior-spa" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">La abeja Maya</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="planeta-junior-spa" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">La abeja Maya</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
   <programme channel="planeta-junior-spa" start="20260622000000 +0200" stop="20260622005959 +0200">
     <title lang="es">La abeja Maya</title>
     <sub-title lang="es"></sub-title>
@@ -4536,42 +4087,6 @@
   </programme>
   <programme channel="planeta-junior-spa" start="20260624010000 +0200" stop="20260624015959 +0200">
     <title lang="es">La abeja Maya</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pocoyo" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">Pocoyó</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pocoyo" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">Pocoyó</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pocoyo" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">Pocoyó</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pocoyo" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">Pocoyó</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pocoyo" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">Pocoyó</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="pocoyo" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">Pocoyó</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es"></desc>
     <category lang="es">Infantil</category>
@@ -4876,30 +4391,6 @@
     <desc lang="es"></desc>
     <category lang="es">Infantil</category>
   </programme>
-  <programme channel="that-s-90s00s" start="20260621160001 +0200" stop="20260621180000 +0200">
-    <title lang="es">Feel the Flava of the Old Skool!</title>
-    <sub-title lang="es">S00 : E00 Feel the Flava of the Old Skool!</sub-title>
-    <desc lang="es">A huge collection of throwback R&amp;B Party vibes</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-90s00s" start="20260621180001 +0200" stop="20260621200000 +0200">
-    <title lang="es">Who Runs The World? Girls!</title>
-    <sub-title lang="es">S00 : E00 Who Runs The World? Girls!</sub-title>
-    <desc lang="es">These are the girls that ruled the world in the 90s and 00s!</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-90s00s" start="20260621200001 +0200" stop="20260621220000 +0200">
-    <title lang="es">Crazy 4 90s Love Songs!</title>
-    <sub-title lang="es">S00 : E00 Crazy 4 90s Love Songs!</sub-title>
-    <desc lang="es">It's time to get emosh right now as we go crazy for 90s love songs</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-90s00s" start="20260621220001 +0200" stop="20260621230000 +0200">
-    <title lang="es">Mega Movie Soundtracks!</title>
-    <sub-title lang="es">S00 : E00 Mega Movie Soundtracks!</sub-title>
-    <desc lang="es">Grab the popcorn cos it's time to play the blockbuster movie hits from the 90s and 00s</desc>
-    <category lang="es">Música</category>
-  </programme>
   <programme channel="that-s-90s00s" start="20260621230001 +0200" stop="20260622000000 +0200">
     <title lang="es">On Point: Style Icons!</title>
     <sub-title lang="es">S00 : E00 On Point: Style Icons!</sub-title>
@@ -5090,30 +4581,6 @@
     <title lang="es">Rock N Roll Stars Of The 90s &amp; 00s!</title>
     <sub-title lang="es">S00 : E00 Rock N Roll Stars Of The 90s &amp; 00s!</sub-title>
     <desc lang="es">Riffs and swagger from the Rock n Roll stars that owned the 90s and 00s</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-rock" start="20260621140001 +0200" stop="20260621180000 +0200">
-    <title lang="es">Greatest Classic Rock Bands- Ever!</title>
-    <sub-title lang="es">S01 : E01 Greatest Classic Rock Bands- Ever!</sub-title>
-    <desc lang="es">30 years &amp; 4 hours of classic rock bands, in order from 1965-1995! Expect to see The Stones, The Who, Joan Jett, Aerosmith, AC/DC, Queen, Genesis &amp; The Beatles. </desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-rock" start="20260621180001 +0200" stop="20260621205000 +0200">
-    <title lang="es">Nicky Horne's 30 Greatest Albums</title>
-    <sub-title lang="es">S01 : E01 Nicky Horne's 30 Greatest Albums</sub-title>
-    <desc lang="es">Nicky Horne presents his favourite songs behind 30 of the greatest rock album covers ever! Featuring The Beatles &amp; Queen, The Stones &amp; Pink Floyd. </desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-rock" start="20260621205001 +0200" stop="20260621210000 +0200">
-    <title lang="es">Sunday Rock Classics</title>
-    <sub-title lang="es">S01 : E01 Sunday Rock Classics</sub-title>
-    <desc lang="es">Rounding off the week with rock classics and anthems! We guarantee AC/DC, Nirvana, Queen, Meat Loaf, Bon Jovi &amp; much more!</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-rock" start="20260621210001 +0200" stop="20260621220000 +0200">
-    <title lang="es">Guns N' Roses: Rock Icons</title>
-    <sub-title lang="es">S01 : E01 Guns N' Roses: Rock Icons</sub-title>
-    <desc lang="es">An hour of Anthems and the biggest rock songs from rock legends Guns N' Roses!</desc>
     <category lang="es">Música</category>
   </programme>
   <programme channel="that-s-rock" start="20260621220001 +0200" stop="20260622001500 +0200">
@@ -5308,42 +4775,6 @@
     <desc lang="es">Mark Goodier with a countdown of bands &amp; artists who've had one rock song that has been viewed over a billion times since the 00s. </desc>
     <category lang="es">Música</category>
   </programme>
-  <programme channel="that-s-80s" start="20260621150001 +0200" stop="20260621181500 +0200">
-    <title lang="es">Jenny Powell's 80s Summer!</title>
-    <sub-title lang="es">S01 : E01 Jenny Powell's 80s Summer!</sub-title>
-    <desc lang="es">We're feeling hot hot hot, and packing the sunshine over 40 feelgood songs. But don't worry about the sunscreen, and there's enough big 80s hair to block out the UV completely!</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-80s" start="20260621181501 +0200" stop="20260621190000 +0200">
-    <title lang="es">Long Hot Summer!</title>
-    <sub-title lang="es">S01 : E01 Long Hot Summer!</sub-title>
-    <desc lang="es">All 80s - 24/7 - the feelgood pop decade where the Brits invaded the world! </desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-80s" start="20260621190001 +0200" stop="20260621213000 +0200">
-    <title lang="es">Every Song From NOW 10 - 1987</title>
-    <sub-title lang="es">S01 : E01 Every Song From NOW 10 - 1987</sub-title>
-    <desc lang="es">The first NOW released as a double CD with the 30 biggest tracks of the moment. This is the milestone 10th release in the NOW series, and here are all the videos in order!</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-80s" start="20260621213001 +0200" stop="20260621220000 +0200">
-    <title lang="es">It's 1987 Night!</title>
-    <sub-title lang="es">S01 : E01 It's 1987 Night!</sub-title>
-    <desc lang="es">A year in which Stock, Aitken &amp; Waterman cranked out an endless stream of massive, catchy hits - these are the classic music videos that made 1987!</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-80s" start="20260621220001 +0200" stop="20260621230000 +0200">
-    <title lang="es">Simon Bates Golden Hour: 1987</title>
-    <sub-title lang="es">S01 : E01 Simon Bates Golden Hour: 1987</sub-title>
-    <desc lang="es">Hits &amp; headlines from the year of Black Monday, Dirty Dancing, the beginning of the Channel Tunnel, and the end of music TV show 'The Tube'.</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-80s" start="20260621230001 +0200" stop="20260621234500 +0200">
-    <title lang="es">1987's One-Hit-Wonders! Top 10</title>
-    <sub-title lang="es">S01 : E01 1987's One-Hit-Wonders! Top 10</sub-title>
-    <desc lang="es">10 artists that had a single big song in 1987 - then never darkened the UK Top 20 ever again! Remember Taffy, Westworld, Karel Fialka or Morris Minor &amp; The Majors?</desc>
-    <category lang="es">Música</category>
-  </programme>
   <programme channel="that-s-80s" start="20260621234501 +0200" stop="20260622010000 +0200">
     <title lang="es">It's 1987 Night!</title>
     <sub-title lang="es">S01 : E01 It's 1987 Night!</sub-title>
@@ -5480,24 +4911,6 @@
     <title lang="es">Pat Sharp's 40 Guilty Pleasures!</title>
     <sub-title lang="es">S01 : E01 Pat Sharp's 40 Guilty Pleasures!</sub-title>
     <desc lang="es">Songs you really like but are a bit too embarrassed to admit. Don't worry, we're all in the same boat here &amp; Pat urges you to try to have a little less shame in your musical game!</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-70s" start="20260621170001 +0200" stop="20260621190000 +0200">
-    <title lang="es">Come On Feel The Noise: 70s Rock Hits!</title>
-    <sub-title lang="es">S00 : E00 Come On Feel The Noise: 70s Rock Hits!</sub-title>
-    <desc lang="es">Crank up the volume and grab your air guitar and jam to the biggest 70s Rock Hits!</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-70s" start="20260621190001 +0200" stop="20260621210000 +0200">
-    <title lang="es">Sing Along Seventies</title>
-    <sub-title lang="es">S00 : E00 Sing Along Seventies</sub-title>
-    <desc lang="es">The ultimate 70s sing a long playlist packed with pop hits, rock riffs and party faves</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="that-s-70s" start="20260621210001 +0200" stop="20260621230000 +0200">
-    <title lang="es">1970 - 1979: The Anthems!</title>
-    <sub-title lang="es">S00 : E00 1970 - 1979: The Anthems!</sub-title>
-    <desc lang="es">Nothing but anthems are playing right now, as we bring you the biggest hits of the decade</desc>
     <category lang="es">Música</category>
   </programme>
   <programme channel="that-s-70s" start="20260621230001 +0200" stop="20260622010000 +0200">
@@ -5668,11 +5081,6 @@
     <desc lang="es">Soft tunes and soulful melodies to take you on a trip down memory lane</desc>
     <category lang="es">Música</category>
   </programme>
-  <programme channel="stingray-remember-the-80-s" start="20260621160001 +0200" stop="20260621200000 +0200">
-    <title lang="es">Stingray Remember the '80s</title>
-    <desc lang="es">Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston is bound to remind you of all your greatest '80s memories!</desc>
-    <category lang="es">Música</category>
-  </programme>
   <programme channel="stingray-remember-the-80-s" start="20260621200001 +0200" stop="20260622000000 +0200">
     <title lang="es">Stingray Remember the '80s</title>
     <desc lang="es">Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston is bound to remind you of all your greatest '80s memories!</desc>
@@ -5741,11 +5149,6 @@
   <programme channel="stingray-remember-the-80-s" start="20260624000001 +0200" stop="20260624040000 +0200">
     <title lang="es">Stingray Remember the '80s</title>
     <desc lang="es">Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston is bound to remind you of all your greatest '80s memories!</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260621160001 +0200" stop="20260621200000 +0200">
-    <title lang="es">Stingray Hit List</title>
-    <desc lang="es">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
     <category lang="es">Música</category>
   </programme>
   <programme channel="stingray-hit-list" start="20260621200001 +0200" stop="20260622000000 +0200">
@@ -5818,11 +5221,6 @@
     <desc lang="es">Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
     <category lang="es">Música</category>
   </programme>
-  <programme channel="stingray-greatest-hits" start="20260621160001 +0200" stop="20260621200000 +0200">
-    <title lang="es">Stingray Greatest Hits</title>
-    <desc lang="es">Dive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.</desc>
-    <category lang="es">Música</category>
-  </programme>
   <programme channel="stingray-greatest-hits" start="20260621200001 +0200" stop="20260622000000 +0200">
     <title lang="es">Stingray Greatest Hits</title>
     <desc lang="es">Dive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.</desc>
@@ -5891,42 +5289,6 @@
   <programme channel="stingray-greatest-hits" start="20260624000001 +0200" stop="20260624040000 +0200">
     <title lang="es">Stingray Greatest Hits</title>
     <desc lang="es">Dive into an eclectic mix of the most iconic tracks from the '70s to today, and discover the hits that defined generations.</desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="qwest-tv" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">Qwest TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="qwest-tv" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">Qwest TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="qwest-tv" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">Qwest TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="qwest-tv" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">Qwest TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="qwest-tv" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">Qwest TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Música</category>
-  </programme>
-  <programme channel="qwest-tv" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">Qwest TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
     <category lang="es">Música</category>
   </programme>
   <programme channel="qwest-tv" start="20260622000000 +0200" stop="20260622005959 +0200">
@@ -6228,61 +5590,6 @@
     <sub-title lang="es"></sub-title>
     <desc lang="es"></desc>
     <category lang="es">Música</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621173001 +0200" stop="20260621180000 +0200">
-    <title lang="es">Manna-fest with Perry Stone</title>
-    <desc lang="es">Perry Stone provides a program dealing with the predictive and sensible studies of God's Word, helping to get a better understanding of biblical prophecy.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621180001 +0200" stop="20260621183000 +0200">
-    <title lang="es">Dr. David Jeremiah</title>
-    <desc lang="es">Dr. David Jeremiah, senior pastor of Shadow Mountain Community Church in El Cajon, Calif., delivers the unchanging Word of God to an ever-changing world.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621183001 +0200" stop="20260621190000 +0200">
-    <title lang="es">John Ankerberg</title>
-    <desc lang="es">Dr. Lutzer discusses some of the dangers of creating a god for yourself.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621190001 +0200" stop="20260621193000 +0200">
-    <title lang="es">Bridging the Gap</title>
-    <desc lang="es">Gospel music and preaching with Pastor Tommy Bates.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621193001 +0200" stop="20260621200000 +0200">
-    <title lang="es">Faith Is the Victory</title>
-    <desc lang="es">Mark and Trina Hankins bring the spirit of faith and the work of the Holy Spirit to every generation and to every nation.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621200001 +0200" stop="20260621203000 +0200">
-    <title lang="es">The Potter's Touch with Bishop T.D. Jakes</title>
-    <desc lang="es">International speaker, best-selling author and The Potter's House Bishop T.D. Jakes delivers powerful, biblical messages to his congregation in Dallas, Texas.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621203001 +0200" stop="20260621210000 +0200">
-    <title lang="es">Bishop Dale C. Bronner</title>
-    <desc lang="es">From the Word of Faith Family Worship Cathedral in Austell, Ga., Bishop Dale C. Bronner delivers powerful and inspirational biblical teachings.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621210001 +0200" stop="20260621220000 +0200">
-    <title lang="es">Rejoice in the Lord</title>
-    <desc lang="es">Viewers are invited to join the pastoral leaders and praise-and-worship team for the Word of God from the Campus Church of Pensacola Christian College.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621220001 +0200" stop="20260621223000 +0200">
-    <title lang="es">John Ankerberg</title>
-    <desc lang="es">Dr. Lutzer discusses some of the dangers of creating a god for yourself.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621223001 +0200" stop="20260621230000 +0200">
-    <title lang="es">Michael A. Youssef</title>
-    <desc lang="es">Dr. Michael Youssef passionately proclaims uncompromising truth from God's Word to people around the world through the ministries of Leading The Way. </desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-eng" start="20260621230001 +0200" stop="20260621233000 +0200">
-    <title lang="es">The Jewish Jesus</title>
-    <desc lang="es">How to become more aware of God's presence, hear Him more clearly, and walk in deeper freedom, peace, power, and intimacy with the Lord every day of your life.</desc>
-    <category lang="es">Religion</category>
   </programme>
   <programme channel="daystar-eng" start="20260621233001 +0200" stop="20260622000000 +0200">
     <title lang="es">Dr. David Jeremiah</title>
@@ -6754,61 +6061,6 @@
     <desc lang="es">Dr. Chris Cormier joins to reveal how the body was designed to restore itself and why simple daily habits could be the turning point to finally feeling better.</desc>
     <category lang="es">Religion</category>
   </programme>
-  <programme channel="daystar-spa" start="20260621163001 +0200" stop="20260621180000 +0200">
-    <title lang="es">Joni Lamb: A Life Surrendered</title>
-    <desc lang="es">Únase a nosotros para celebrar la vida, la fe y el legado de Joni Lamb, cofundadora de Daystar, cuyo impacto transformó vidas en todo el mundo.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621180001 +0200" stop="20260621183000 +0200">
-    <title lang="es">En Familia con Luis y Kristen</title>
-    <desc lang="es">Todo padre ha sido llamado a ser el protector de su hogar y cuando él falta en la casa hay un hueco enorme que solo Dios puede llenar.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621183001 +0200" stop="20260621190000 +0200">
-    <title lang="es">Dios de Milagros</title>
-    <desc lang="es">Experimenta el poder sanador de Dios, con las palabras ungidas del pastor Hernán Castaño en "Dios de Milagros". ¡Desata el mover de Dios en tu familia!</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621190001 +0200" stop="20260621193000 +0200">
-    <title lang="es">Jason Lozano</title>
-    <desc lang="es">La misión es llevar el mensaje de libertad a las naciones. A través de ganar almas y hacer discípulos podemos ayudar a las naciones a hacer una vida de libertad</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621193001 +0200" stop="20260621200000 +0200">
-    <title lang="es">Descubriendo al Jesús Judío</title>
-    <desc lang="es">El Rabino Schneider, un judío creyente en Jesús, enseña pasionalmente las verdades sinérgicas entre la Biblia Hebrea (el Viejo Testamento) y el Nuevo Testament.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621200001 +0200" stop="20260621203000 +0200">
-    <title lang="es">The Potter's Touch with Bishop T.D. Jakes</title>
-    <desc lang="es">Programa de entrevistas diario que aborda temas de actualidad relacionados con la sanidad. Presentado por el obispo TD Jakes.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621203001 +0200" stop="20260621213000 +0200">
-    <title lang="es">El cielo en la Tierra</title>
-    <desc lang="es">Predicación de la Iglesia Cristiana "El Lugar de Su Presencia" en Bogotá, Colombia, Latinoamérica con temas  aplicables a la vida diaria y consejos bíblicos.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621213001 +0200" stop="20260621220000 +0200">
-    <title lang="es">Aqua viva con Sergio Hornung</title>
-    <desc lang="es">Aqua Viva presenta al Pastor Sergio Hornung cada semana compartiendo un mensaje cargado de fe, vision y herramientas practicas.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621220001 +0200" stop="20260621223000 +0200">
-    <title lang="es">El Programa de John Ankerberg</title>
-    <desc lang="es">Un ministerio de televisión y medios de comunicación comprometido con la defensa de la fe cristiana, que anima al creyente y desafía al escéptico.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621223001 +0200" stop="20260621230000 +0200">
-    <title lang="es">Michael A. Youssef</title>
-    <desc lang="es">Dr. Michael Youssef, fundador de la Iglesia de los Apósteles en Atlanta, Georgia, entrega un mensaje poderoso e inspirador sobre la palabra de Dios.</desc>
-    <category lang="es">Religion</category>
-  </programme>
-  <programme channel="daystar-spa" start="20260621230001 +0200" stop="20260621233000 +0200">
-    <title lang="es">Descubriendo al Jesús Judío</title>
-    <desc lang="es">El Rabino Schneider, un judío creyente en Jesús, enseña pasionalmente las verdades sinérgicas entre la Biblia Hebrea (el Viejo Testamento) y el Nuevo Testament.</desc>
-    <category lang="es">Religion</category>
-  </programme>
   <programme channel="daystar-spa" start="20260621233001 +0200" stop="20260622000000 +0200">
     <title lang="es">Dr. David Jeremiah</title>
     <desc lang="es">El Dr. David Jeremiah, pastor principal de Shadow Mountain Community Church en El Cajon, California, entrega la Palabra de Dios a un mundo en constante cambio.</desc>
@@ -7243,90 +6495,6 @@
     <title lang="es">A Todo Gol</title>
     <desc lang="es">A Todo Gol une fútbol, fe y liderazgo. En el Mundial, invitados comparten análisis y reflexiones sobre valores de Dios fe y Cristo.</desc>
     <category lang="es">Religion</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621174956 +0200" stop="20260621182022 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E283 Decoraciones asombrosas para el hogar</sub-title>
-    <desc lang="es">¡Creaciones de bajo presupuesto para que tu hogar se vea más caro!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621182023 +0200" stop="20260621184223 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E263 Trucos y consejos para una masa fácil</sub-title>
-    <desc lang="es">El panadero que llevas dentro te agradecerá estas increíbles ideas para la masa.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621184224 +0200" stop="20260621190515 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E285 Manualidades fascinantes de cemento y arcilla</sub-title>
-    <desc lang="es">¡Ideas geniales para crear productos fantásticos de cerámica!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621190516 +0200" stop="20260621193040 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E287 Técnicas de masaje que nunca habías visto</sub-title>
-    <desc lang="es">Técnicas de masaje y relajación que te harán levitar.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621193041 +0200" stop="20260621195650 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E286 Trucos asombrosos de cocina para hacer tu vida más fácil</sub-title>
-    <desc lang="es">¡Encuentra a tu chef interior con estos asombrosos trucos para pasta!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621195651 +0200" stop="20260621202324 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E294 ¡muebles caseros que decorarán tu hogar!</sub-title>
-    <desc lang="es">Aprende a hacer muebles originales y elegantes con tus propias manos.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621202325 +0200" stop="20260621205036 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E295 El proceso de creación de productos de cuero excelentes</sub-title>
-    <desc lang="es">Crea una manualidad de cuero hecha a mano como un profesional</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621205037 +0200" stop="20260621211808 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E296 Transformaciones originales e inolvidables</sub-title>
-    <desc lang="es">¡Descubre cómo puedes vivir una transformación increíble con trucos de belleza útiles!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621211809 +0200" stop="20260621214055 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E293 ¡trucos que te ayudarán a verte elegante!</sub-title>
-    <desc lang="es">¡dale un giro elegante a tu ropa de siempre con estas ideas fáciles!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621214056 +0200" stop="20260621221036 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E291 Joyas inusuales hecha por los maestros</sub-title>
-    <desc lang="es">¡Joyas asombrosas hechas por verdaderos profesionales!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621221037 +0200" stop="20260621223532 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E289 Trucos sorprendentes de cocina</sub-title>
-    <desc lang="es">¡Te sorprenderá cuán fácil puede ser cocinar!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621223533 +0200" stop="20260621230443 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E290 Trucos creativos e ideas útiles</sub-title>
-    <desc lang="es">¡Trucos que deberías conocer para resolver cualquier problema!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621230444 +0200" stop="20260621232659 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E288 Trucos de cocina extrainusuales</sub-title>
-    <desc lang="es">¡Trucos simples y eficientes para que tu cocina sea más productiva!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="5-minutes-craft-es" start="20260621232700 +0200" stop="20260621235031 +0200">
-    <title lang="es">Ideas En 5 minutos</title>
-    <sub-title lang="es">S01 : E282 Los mejores tips para organizar espacio</sub-title>
-    <desc lang="es">¡Todos los tips que necesitas para una vida prolija y organizada!</desc>
-    <category lang="es">Entretenimiento</category>
   </programme>
   <programme channel="5-minutes-craft-es" start="20260621235032 +0200" stop="20260622001846 +0200">
     <title lang="es">Ideas En 5 minutos</title>
@@ -8036,36 +7204,6 @@
     <desc lang="es">Fundir y colar metal para hacer manualidades chulas.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme channel="stingray-naturescape" start="20260621175901 +0200" stop="20260621185900 +0200">
-    <title lang="es">White Sand, Blue Water &amp; Waves</title>
-    <desc lang="es">An idyllic tropical island nature scene.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="stingray-naturescape" start="20260621185901 +0200" stop="20260621195900 +0200">
-    <title lang="es">Hawaii Beaches: Oahu 2</title>
-    <desc lang="es">Escaping to the sandy solitudes of Hawaii's tropical beaches.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="stingray-naturescape" start="20260621195901 +0200" stop="20260621205900 +0200">
-    <title lang="es">Dolphin Voyage Relaxation</title>
-    <desc lang="es">Underwater cinematography, a synergistic blend of audio including underwater nature sounds, and calming ambient music combine to induce relaxation in the deep blue calming ocean with a pod of friendly dolphins.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="stingray-naturescape" start="20260621205901 +0200" stop="20260621215900 +0200">
-    <title lang="es">Turtle Paradise</title>
-    <desc lang="es">Dive into an undersea world inhabited by the sea turtles; featuring real-time video scenes captured from around the Caribbean, paired with gentle underwater sounds and calming music for relaxation.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="stingray-naturescape" start="20260621215901 +0200" stop="20260621225900 +0200">
-    <title lang="es">Fly Over Earth</title>
-    <desc lang="es">Footage of scenic destinations.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="stingray-naturescape" start="20260621225901 +0200" stop="20260621235900 +0200">
-    <title lang="es">Flying Over Bermuda</title>
-    <desc lang="es">Soar over Bermuda, a voyage that explores lush land and turquoise waters.</desc>
-    <category lang="es">Slow TV</category>
-  </programme>
   <programme channel="stingray-naturescape" start="20260621235901 +0200" stop="20260622005900 +0200">
     <title lang="es">SereneScapes</title>
     <desc lang="es">Feeling the wondrous expanse of a spectacular desert surrounded by towering mountain peaks.</desc>
@@ -8321,42 +7459,6 @@
     <title lang="es">Kabut Pelangi Waterfall: Indonesia</title>
     <desc lang="es">Traveling to East Java and experiencing a waterfall tucked deep in the lush forest.</desc>
     <category lang="es">Slow TV</category>
-  </programme>
-  <programme channel="vivir-con-perros" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">Vivir con perros</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="vivir-con-perros" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">Vivir con perros</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="vivir-con-perros" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">Vivir con perros</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="vivir-con-perros" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">Vivir con perros</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="vivir-con-perros" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">Vivir con perros</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="vivir-con-perros" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">Vivir con perros</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
   </programme>
   <programme channel="vivir-con-perros" start="20260622000000 +0200" stop="20260622005959 +0200">
     <title lang="es">Vivir con perros</title>
@@ -8658,36 +7760,6 @@
     <desc lang="es"></desc>
     <category lang="es">Estilo de vida</category>
   </programme>
-  <programme channel="vivir-con-gatos" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">Vivir con gatos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-  </programme>
-  <programme channel="vivir-con-gatos" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">Vivir con gatos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-  </programme>
-  <programme channel="vivir-con-gatos" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">Vivir con gatos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-  </programme>
-  <programme channel="vivir-con-gatos" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">Vivir con gatos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-  </programme>
-  <programme channel="vivir-con-gatos" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">Vivir con gatos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-  </programme>
-  <programme channel="vivir-con-gatos" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">Vivir con gatos</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-  </programme>
   <programme channel="vivir-con-gatos" start="20260622000000 +0200" stop="20260622005959 +0200">
     <title lang="es">Vivir con gatos</title>
     <sub-title lang="es"></sub-title>
@@ -8937,42 +8009,6 @@
     <title lang="es">Vivir con gatos</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es"></desc>
-  </programme>
-  <programme channel="1-1-travel" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">1+1 Travel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="1-1-travel" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">1+1 Travel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="1-1-travel" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">1+1 Travel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="1-1-travel" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">1+1 Travel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="1-1-travel" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">1+1 Travel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="1-1-travel" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">1+1 Travel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
   </programme>
   <programme channel="1-1-travel" start="20260622000000 +0200" stop="20260622005959 +0200">
     <title lang="es">1+1 Travel</title>
@@ -9272,78 +8308,6 @@
     <title lang="es">1+1 Travel</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es"></desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621173001 +0200" stop="20260621180000 +0200">
-    <title lang="es">The Yacht Life</title>
-    <sub-title lang="es">S01 : E06 The Arnold's "A-Sea"</sub-title>
-    <desc lang="es">In Knoxville, Tennessee, Captain Boomies joins the Arnold family for a very special maiden voyage.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621180001 +0200" stop="20260621183000 +0200">
-    <title lang="es">The Yacht Life</title>
-    <sub-title lang="es">S01 : E05 Tom's "Team Monarch"</sub-title>
-    <desc lang="es">Captain Boomies meets Tom Biddix—a yachtsman who helped design the demo yacht they take for a spin.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621183001 +0200" stop="20260621190000 +0200">
-    <title lang="es">The Yacht Life</title>
-    <sub-title lang="es">S01 : E04 Captain Gill's "Wharf Rat"</sub-title>
-    <desc lang="es">Captain Boomies tours Wharf Rat, a Bahamian-blue beauty built for fun, travel, and serious sport.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621190001 +0200" stop="20260621193000 +0200">
-    <title lang="es">Apartment Therapy</title>
-    <sub-title lang="es">S01 : E04 Erin + Jesse: An Attic Transformed</sub-title>
-    <desc lang="es">Armed with fresh ideas, Charli and Kylie turn a forgotten attic into a welcoming flex room.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621193001 +0200" stop="20260621200000 +0200">
-    <title lang="es">Apartment Therapy</title>
-    <sub-title lang="es">S01 : E05 Miya + Edgar: A Living Room Reimagined</sub-title>
-    <desc lang="es">Kylie and Charli bring smart solutions, bold materials, and thoughtful styling to a first home.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621200001 +0200" stop="20260621203000 +0200">
-    <title lang="es">Apartment Therapy</title>
-    <sub-title lang="es">S01 : E06 Shalese + Irene: A Bedroom That Is Just Right</sub-title>
-    <desc lang="es">Charli and Kylie transform Irene’s closet and turn her bedroom into a beautiful retreat.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621203001 +0200" stop="20260621210000 +0200">
-    <title lang="es">Living to DIY with Rachel Metz</title>
-    <sub-title lang="es">S01 : E01 Desert Beginnings</sub-title>
-    <desc lang="es">DIYer Rachel Metz tours her Joshua Tree ranch and begins transforming it into a dream homestead.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621210001 +0200" stop="20260621213000 +0200">
-    <title lang="es">Sort It Out</title>
-    <sub-title lang="es">S01 : E01 Cleaned Up Kitchen Chaos &amp; Clutter Busted Closet</sub-title>
-    <desc lang="es">The Home Sort sisters transform spaces from chaos to clutter-free.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621213001 +0200" stop="20260621220000 +0200">
-    <title lang="es">Sort It Out</title>
-    <sub-title lang="es">S01 : E03 Bathroom Revamp &amp; Laundry Room Hack</sub-title>
-    <desc lang="es">The Home Sort sisters transform spaces from chaos to clutter-free.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621220001 +0200" stop="20260621223000 +0200">
-    <title lang="es">Hometown Heroes</title>
-    <sub-title lang="es">S01 : E03 The Imagination Library's Magical Makeover</sub-title>
-    <desc lang="es">Danica McKellar and Julie Couch give Dolly Parton's Imagination Library a magical makeover.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621223001 +0200" stop="20260621230000 +0200">
-    <title lang="es">Hometown Heroes</title>
-    <sub-title lang="es">S01 : E04 A Tribute to The Brett Boyer Foundation</sub-title>
-    <desc lang="es">Julie Couch transforms the Brett Boyer Foundation headquarters into a space that radiates joy and hope.</desc>
-    <category lang="es">Estilo de vida</category>
-  </programme>
-  <programme channel="the-design-network-new" start="20260621230001 +0200" stop="20260621233000 +0200">
-    <title lang="es">The Reveal</title>
-    <sub-title lang="es">S06 : E01 It’s a Mood: Cara Woodhouse’s Noyack Cottage</sub-title>
-    <desc lang="es">Step inside Noyack Cottage, a stunning Sag Harbor vacation home transformed by Cara Woodhouse.</desc>
     <category lang="es">Estilo de vida</category>
   </programme>
   <programme channel="the-design-network-new" start="20260621233001 +0200" stop="20260622000000 +0200">
@@ -9927,21 +8891,6 @@
     <desc lang="es">Charli and Kylie transform Irene’s closet and turn her bedroom into a beautiful retreat.</desc>
     <category lang="es">Estilo de vida</category>
   </programme>
-  <programme channel="tennis-plus" start="20260621144819 +0200" stop="20260621182446 +0200">
-    <title lang="es">Australian Open Full Match</title>
-    <sub-title lang="es">S2022 : E09 AO22 Men's Quarterfinal - Nadal v Shapovalov</sub-title>
-    <desc lang="es">Full Match of Australian Open 2022 Men's Quarterfinal - Rafael Nadal v Denis Shapovalov</desc>
-  </programme>
-  <programme channel="tennis-plus" start="20260621182447 +0200" stop="20260621202748 +0200">
-    <title lang="es">Australian Open Full Match</title>
-    <sub-title lang="es">S2024 : E27 AO24 Women's Quarterfinal - Kalinskaya v Zheng</sub-title>
-    <desc lang="es">Full Match of Australian Open 2024 Women's Quarterfinal - Anna Kalinskaya v Qinwen Zheng</desc>
-  </programme>
-  <programme channel="tennis-plus" start="20260621202749 +0200" stop="20260621234131 +0200">
-    <title lang="es">Australian Open Full Match</title>
-    <sub-title lang="es">S2016 : E06 AO16 Men's Quarterfinal - Ferrer v Murray</sub-title>
-    <desc lang="es">Full Match of Australian Open 2016 Men's Quarterfinal - David Ferrer v Andy Murray</desc>
-  </programme>
   <programme channel="tennis-plus" start="20260621234132 +0200" stop="20260622011634 +0200">
     <title lang="es">Australian Open Full Match</title>
     <sub-title lang="es">S2023 : E25 AO23 Women's Second Round - Gauff v Raducanu</sub-title>
@@ -10045,42 +8994,6 @@
     <title lang="es">Australian Open Full Match</title>
     <sub-title lang="es">S2024 : E21 AO24 Men's Third Round - Hurkacz v Humbert</sub-title>
     <desc lang="es">Full Match of Australian Open 2024 Men's Third Round - Hubert Hurkacz v Ugo Humbert</desc>
-  </programme>
-  <programme channel="sports-illustrated-tv" start="20260621170006 +0200" stop="20260621180000 +0200">
-    <title lang="es">The MMQB - Who Are NFL's Knicks?</title>
-    <desc lang="es">Conor Orr and Albert Breer debate whether the Dolphins, Bears, Jets or another team are the NFL's Knicks.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="sports-illustrated-tv" start="20260621180006 +0200" stop="20260621191500 +0200">
-    <title lang="es">Others Receiving Votes</title>
-    <sub-title lang="es">S01 : E42 Others Receiving Votes - Sorsby</sub-title>
-    <desc lang="es">Sports Illustrated’s Pat Forde, Bryan Fischer and Kevin Sweeney break down Brendan Sorsby's decision.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="sports-illustrated-tv" start="20260621191506 +0200" stop="20260621201500 +0200">
-    <title lang="es">Dan Evans Show - US Open Live Rd 1</title>
-    <desc lang="es">Live reaction and analysis from Round 1 of the U.S. Open with Dan Evans.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="sports-illustrated-tv" start="20260621201506 +0200" stop="20260621210000 +0200">
-    <title lang="es">SI FC - Faces of Football Features</title>
-    <desc lang="es">Faces of Football episodes featuring: RB Leipzig, Dortmund, and Bayer Leverkusen.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="sports-illustrated-tv" start="20260621210006 +0200" stop="20260621214500 +0200">
-    <title lang="es">SI FC - Lampard, Diaz, Guirassy</title>
-    <desc lang="es">Frank Lampard sits down with Sports Illustrated's Jacob Culshaw for an exclusive interview,</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="sports-illustrated-tv" start="20260621214506 +0200" stop="20260621221500 +0200">
-    <title lang="es">SI Covers - Mendoza, Travis Hunter</title>
-    <desc lang="es">Fresh off a Heisman-winning, national championship season, Fernando Mendoza is on the SI Cover.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="sports-illustrated-tv" start="20260621221506 +0200" stop="20260621231500 +0200">
-    <title lang="es">The MMQB - Who Are NFL's Knicks?</title>
-    <desc lang="es">Conor Orr and Albert Breer debate whether the Dolphins, Bears, Jets or another team are the NFL's Knicks.</desc>
-    <category lang="es">Deportes</category>
   </programme>
   <programme channel="sports-illustrated-tv" start="20260621231506 +0200" stop="20260622000000 +0200">
     <title lang="es">SI FC - Lampard, Diaz, Guirassy</title>
@@ -10376,46 +9289,6 @@
   <programme channel="sports-illustrated-tv" start="20260624013006 +0200" stop="20260624030000 +0200">
     <title lang="es">SI Vault - Underdogs (HS Football)</title>
     <desc lang="es">Teams covered in this episode: Wendell Phillips, Samoa, Friendship, Prepa Tec, Joplin, Fort Campbell.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="world-surf-league" start="20260621170006 +0200" stop="20260621180000 +0200">
-    <title lang="es">'25 MEO Rip Curl Pro Portugal</title>
-    <desc lang="es">Relive Supertubos action as elite surfers battle Portugal’s hollow waves for key world title momentum.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="world-surf-league" start="20260621180006 +0200" stop="20260621190000 +0200">
-    <title lang="es">UNBOXING THINGS with Koa Smith</title>
-    <sub-title lang="es">S01 : E02 Unboxing Things</sub-title>
-    <desc lang="es">Koa Smith takes a look at all the latest surfing gear.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="world-surf-league" start="20260621190006 +0200" stop="20260621193000 +0200">
-    <title lang="es">WSL Competition Highlights</title>
-    <sub-title lang="es">S01 : E01 WSL Competition Highlights</sub-title>
-    <desc lang="es">See all the best scores from the WSL surfing season.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="world-surf-league" start="20260621193006 +0200" stop="20260621203000 +0200">
-    <title lang="es">Qualified 2026 Championship Tour</title>
-    <sub-title lang="es">S01 : E01 Qualified 2026 Championship Tour</sub-title>
-    <desc lang="es">An in-depth look at the surfers who qualified for the Championship Tour in 2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="world-surf-league" start="20260621203006 +0200" stop="20260621210000 +0200">
-    <title lang="es">WSL Competition Highlights</title>
-    <sub-title lang="es">S01 : E01 WSL Competition Highlights</sub-title>
-    <desc lang="es">See all the best scores from the WSL surfing season.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="world-surf-league" start="20260621210006 +0200" stop="20260621220000 +0200">
-    <title lang="es">#TourNotes</title>
-    <sub-title lang="es">S01 : E01 #TourNotes</sub-title>
-    <desc lang="es">Take an inside look at the day-to-day of the World Surf League tour.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="world-surf-league" start="20260621220006 +0200" stop="20260621230000 +0200">
-    <title lang="es">'25 MEO Rip Curl Pro Portugal</title>
-    <desc lang="es">Relive Supertubos action as elite surfers battle Portugal’s hollow waves for key world title momentum.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme channel="world-surf-league" start="20260621230006 +0200" stop="20260622000000 +0200">
@@ -10772,42 +9645,6 @@
     <desc lang="es">See all the best scores from the WSL surfing season.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="surf-channel" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">Surf Channel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="surf-channel" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">Surf Channel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="surf-channel" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">Surf Channel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="surf-channel" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">Surf Channel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="surf-channel" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">Surf Channel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="surf-channel" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">Surf Channel</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
   <programme channel="surf-channel" start="20260622000000 +0200" stop="20260622005959 +0200">
     <title lang="es">Surf Channel</title>
     <sub-title lang="es"></sub-title>
@@ -11107,66 +9944,6 @@
     <sub-title lang="es"></sub-title>
     <desc lang="es"></desc>
     <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621174005 +0200" stop="20260621181237 +0200">
-    <title lang="es">Off The Pitch | Monty Ioane</title>
-    <desc lang="es">Monty Ioane shares his story in the third episode of Off The Pitch</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621181238 +0200" stop="20260621185352 +0200">
-    <title lang="es">Every Goal | Serie A | 2025/2026</title>
-    <desc lang="es">The Nerazzurri wrapped up their campaign with 89 goals scored across 38 matches, finishing the season with the tournament's most prolific attack.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621185353 +0200" stop="20260621190000 +0200">
-    <title lang="es">Inter Club | An International Story | Ep.01</title>
-    <desc lang="es">From Bulgaria to the rest of the world, always following the nerazzurri Ivan shares his story.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621190001 +0200" stop="20260621190546 +0200">
-    <title lang="es">Born Internazionale | The Story Of Inter</title>
-    <desc lang="es">Inter was born with a different idea. Open to the world. Open to ambition. From its foundation in 1908 to the modern era, Inter has built an identity that goes beyond trophies.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621190547 +0200" stop="20260621193253 +0200">
-    <title lang="es">Thuram Never Stops | Thuram'S First 50 Goals In An Inter Shirt</title>
-    <desc lang="es">From Fiorentina to Torino, Thuram has left his mark on the Nerazzurri with crucial goals, devastating bursts of pace, and iconic celebrations.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621193254 +0200" stop="20260621201624 +0200">
-    <title lang="es">Scudetto Celebrations: From San Siro To The Duomo, Nerazzurri Pandemonium!</title>
-    <desc lang="es">The story of an unforgettable Sunday painted in Nerazzurri colors: relive the best images from the celebrations.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621201625 +0200" stop="20260621202233 +0200">
-    <title lang="es">Nerazzurri Tide: The Parade Through The Streets Of Milan</title>
-    <desc lang="es">Four hours to navigate the city streets from the stadium to Piazza del Duomo: a sea of fans escorted the Nerazzurri bus all the way to Piazza Duomo.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621202234 +0200" stop="20260621203539 +0200">
-    <title lang="es">Scudetto Celebrations: From San Siro To The Duomo, Nerazzurri Pandemonium!</title>
-    <desc lang="es">The story of an unforgettable Sunday painted in Nerazzurri colors: relive the best images from the celebrations.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621203540 +0200" stop="20260621204500 +0200">
-    <title lang="es">Lights On: Federico Dimarco| Mvp Della Stagione | Serie A 2025/26</title>
-    <desc lang="es">7 goals, 18 assists and a magical left foot.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621204501 +0200" stop="20260621214500 +0200">
-    <title lang="es">Inter Weekly - All The Insights Ahead Of Torino - Inter</title>
-    <desc lang="es">Inside the black and blue week: the weekend matchday of the first team, the UCL midweek encounter, the Inter Women fixture as well as the Under 23 and the Youth League, plus exclusive interviews.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621214501 +0200" stop="20260621225346 +0200">
-    <title lang="es">Serie A | Inter - Hellas Verona | 2025/2026 - 1St Half</title>
-    <desc lang="es">The lads are champions once again. Inside a festive San Siro, Inter signs off in front of their home crowd with a draw.</desc>
-    <category lang="es">Noticias</category>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260621225347 +0200" stop="20260621235606 +0200">
-    <title lang="es">Serie A | Inter - Hellas Verona | 2025/2026 - 2Nd Half</title>
-    <desc lang="es">The lads are champions once again. Inside a festive San Siro, Inter signs off in front of their home crowd with a draw.</desc>
-    <category lang="es">Noticias</category>
   </programme>
   <programme channel="inter-24-7-eng" start="20260621235607 +0200" stop="20260622003220 +0200">
     <title lang="es">Serie A | Inter - Hellas Verona | 2025/2026 - Trophy Presentation</title>
@@ -11793,42 +10570,6 @@
     <desc lang="es">Inter's night, the night of the Scudetto. Like a perfect storybook ending, the final page is written in the most beautiful place in the world: our stadium, alongside our fans.</desc>
     <category lang="es">Noticias</category>
   </programme>
-  <programme channel="laliga-inside" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">LaLiga Inside</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="laliga-inside" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">LaLiga Inside</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="laliga-inside" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">LaLiga Inside</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="laliga-inside" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">LaLiga Inside</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="laliga-inside" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">LaLiga Inside</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="laliga-inside" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">LaLiga Inside</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
   <programme channel="laliga-inside" start="20260622000000 +0200" stop="20260622005959 +0200">
     <title lang="es">LaLiga Inside</title>
     <sub-title lang="es"></sub-title>
@@ -12125,42 +10866,6 @@
   </programme>
   <programme channel="laliga-inside" start="20260624010000 +0200" stop="20260624015959 +0200">
     <title lang="es">LaLiga Inside</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="mypadel-tv" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">MyPadel TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="mypadel-tv" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">MyPadel TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="mypadel-tv" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">MyPadel TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="mypadel-tv" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">MyPadel TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="mypadel-tv" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">MyPadel TV</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="mypadel-tv" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">MyPadel TV</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es"></desc>
     <category lang="es">Deportes</category>
@@ -12465,31 +11170,6 @@
     <desc lang="es"></desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme channel="fifa-plus-es-new" start="20260621162945 +0200" stop="20260621181821 +0200">
-    <title lang="es">Argentina vs República Federal de Alemania | Final | Copa Mundial de la FIFA México 1986™ | Partido completo</title>
-    <desc lang="es">Vídeo del partido completo entre Argentina y República Federal de Alemania jugado en el Estadio Azteca, Ciudad de México, el domingo 29 de junio de 1986.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="fifa-plus-es-new" start="20260621181827 +0200" stop="20260621183632 +0200">
-    <title lang="es">Copa Mundial Sub-20 de la FIFA Chile 2025™: Resúmenes</title>
-    <desc lang="es">Mira los últimos resúmenes de la Copa Mundial Sub-20 de la FIFA Chile 2025™.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="fifa-plus-es-new" start="20260621183639 +0200" stop="20260621191611 +0200">
-    <title lang="es">FACTS: Inglaterra vs República Federal de Alemania | Inglaterra 1966</title>
-    <desc lang="es">Inglaterra se impone a República Federal de Alemania en una final emocionante en Wembley.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="fifa-plus-es-new" start="20260621191618 +0200" stop="20260621212525 +0200">
-    <title lang="es">Argentina vs Arabia Saudí | Grupo C | Copa Mundial de la FIFA Catar 2022™ | Partido Completo</title>
-    <desc lang="es">Vídeo del partido completo entre Argentina y Arabia Saudí jugado en Lusail Stadium, Al Daayen el martes, 22 de noviembre de 2022 a las 13:00 (hora local).</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="fifa-plus-es-new" start="20260621212531 +0200" stop="20260621222803 +0200">
-    <title lang="es">Trauma y redención | The Long Walk</title>
-    <desc lang="es">El tercer y último episodio de The Long Walk traslada la serie de penales a un nuevo milenio. La maldición de Inglaterra seguía viva en 2006, pero los Tres Leones encontrarían finalmente la redención 12 años después</desc>
-    <category lang="es">Deportes</category>
-  </programme>
   <programme channel="fifa-plus-es-new" start="20260621222810 +0200" stop="20260622002501 +0200">
     <title lang="es">Argentina vs Australia | Octavos de final | Copa Mundial de la FIFA Catar 2022™ | Partido Completo</title>
     <desc lang="es">Vídeo del partido completo entre Argentina y Australia jugado en Ahmad Bin Ali Stadium, Ar-Rayyan el sábado, 3 de diciembre de 2022 a las 22:00 (hora local).</desc>
@@ -12668,47 +11348,6 @@
   <programme channel="fifa-plus-es-new" start="20260624003614 +0200" stop="20260624022352 +0200">
     <title lang="es">México vs Paraguay | Grupo B | Copa Mundial de la FIFA México 1986™ | Partido Completo</title>
     <desc lang="es">Vídeo del partido completo entre México y Paraguay jugado en el Estadio Azteca, Ciudad de México el sábado, 7 de junio de 1986 a las 12:00 (hora local).</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="top-barca-es" start="20260621175215 +0200" stop="20260621200623 +0200">
-    <title lang="es">PARTIDO COMPLETO | Barça - Arsenal | Champions League 2005/2006</title>
-    <desc lang="es">Revive la final de la Liga de Campeones 2005/2006 entre el FC Barcelona y el Arsenal</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="top-barca-es" start="20260621200624 +0200" stop="20260621202823 +0200">
-    <title lang="es">Todos los goles</title>
-    <sub-title lang="es">S202526 : E15 TODOS LOS GOLES | Dani Olmo</sub-title>
-    <desc lang="es">Todos los goles de Dani Olmo como jugador blaugrana</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="top-barca-es" start="20260621202824 +0200" stop="20260621205653 +0200">
-    <title lang="es">Inside</title>
-    <sub-title lang="es">S202526 : E12 INSIDE VIEW | Final UWCL 2026</sub-title>
-    <desc lang="es">Las mejores imagenes de la final de la UWCL 202526</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="top-barca-es" start="20260621205654 +0200" stop="20260621211808 +0200">
-    <title lang="es">Inside</title>
-    <sub-title lang="es">S202526 : E02 INSIDE VIEW | El clásico y la celebración del campeonato de liga 202526</sub-title>
-    <desc lang="es">Las mejores imagenes de la celebración del campeonato de liga 202526 al Spotify Camp Nou</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="top-barca-es" start="20260621211809 +0200" stop="20260621214817 +0200">
-    <title lang="es">Goles</title>
-    <sub-title lang="es">S202526 : E08 TODOS LOS GOLES | Ronaldo</sub-title>
-    <desc lang="es">Todos los goles de Ronaldo con el FC Barcelona</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="top-barca-es" start="20260621214818 +0200" stop="20260621220718 +0200">
-    <title lang="es">Inside</title>
-    <sub-title lang="es">S202526 : E09 INSIDE VIEW | La emocionante despedida a Lewandowski</sub-title>
-    <desc lang="es">Las mejores imagenes del acto de despedida de Lewandowski en un emocionado Spotify Camp Nou</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="top-barca-es" start="20260621220719 +0200" stop="20260621223341 +0200">
-    <title lang="es">Inside</title>
-    <sub-title lang="es">S202526 : E05 INSIDE VIEW | Supercopa de España 202526</sub-title>
-    <desc lang="es">Las mejores imagenes de la Supercopa de España 202526</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme channel="top-barca-es" start="20260621223342 +0200" stop="20260622002246 +0200">
@@ -13121,78 +11760,6 @@
     <sub-title lang="es">S202526 : E08 TODOS LOS GOLES | Ronaldo</sub-title>
     <desc lang="es">Todos los goles de Ronaldo con el FC Barcelona</desc>
     <category lang="es">Deportes</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621173547 +0200" stop="20260621180641 +0200">
-    <title lang="es">FailArmy Top 100 of 2024</title>
-    <sub-title lang="es">S01 : E01 FailArmy Top 100 of 2024</sub-title>
-    <desc lang="es">Get ready to wince, giggle, and revisit 2024's biggest 100 blunders in this epic Fail Army feature!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621180647 +0200" stop="20260621183741 +0200">
-    <title lang="es">Dad Disaster</title>
-    <sub-title lang="es">S01 : E01 Dad Disaster</sub-title>
-    <desc lang="es">This Father's Day, FailArmy honors dads who failed spectacularly. The ultimate "don't tell mom" collection.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621183747 +0200" stop="20260621190941 +0200">
-    <title lang="es">FailArmy Our Fail Fathers</title>
-    <sub-title lang="es">S01 : E01 FailArmy Our Fail Fathers</sub-title>
-    <desc lang="es">FailArmy celebrates Father's Day with the best dad fails from around the world.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621190947 +0200" stop="20260621194041 +0200">
-    <title lang="es">FailArmy Power Pranking</title>
-    <sub-title lang="es">S01 : E01 FailArmy Power Pranking</sub-title>
-    <desc lang="es">Clever setups collide with priceless reactions in this nonstop free-for-all prank special</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621194047 +0200" stop="20260621201241 +0200">
-    <title lang="es">FailArmy Party Animals</title>
-    <sub-title lang="es">S01 : E01 FailArmy Party Animals</sub-title>
-    <desc lang="es">A special dedicated to wild animals who know how to party it up.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621201247 +0200" stop="20260621204341 +0200">
-    <title lang="es">The FailArmy Awards</title>
-    <sub-title lang="es">S01 : E01 The FailArmy Awards</sub-title>
-    <desc lang="es">Roll out the red carpet for a straight-faced salute to the world’s most spectacular all-time fails.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621204347 +0200" stop="20260621211541 +0200">
-    <title lang="es">FailArmy Presents: Get Ripped</title>
-    <sub-title lang="es">S01 : E01 FailArmy Presents: Get Ripped</sub-title>
-    <desc lang="es">In this special it's all pain and no gain.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621211547 +0200" stop="20260621214741 +0200">
-    <title lang="es">FailArmy Office Champs</title>
-    <sub-title lang="es">S01 : E01 FailArmy Office Champs</sub-title>
-    <desc lang="es">FailArmy celebrates the ultimate workplace fails.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621214747 +0200" stop="20260621221841 +0200">
-    <title lang="es">FailArmy Hoop Fails</title>
-    <sub-title lang="es">S01 : E01 FailArmy Hoop Fails</sub-title>
-    <desc lang="es">Prepare to dribble, dunk, and drop the ball in this epic Basketball Fails showdown in time for March Madness!</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621221847 +0200" stop="20260621224941 +0200">
-    <title lang="es">Dad Disaster</title>
-    <sub-title lang="es">S01 : E01 Dad Disaster</sub-title>
-    <desc lang="es">This Father's Day, FailArmy honors dads who failed spectacularly. The ultimate "don't tell mom" collection.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621224947 +0200" stop="20260621232142 +0200">
-    <title lang="es">FailArmy Red, White, Black &amp; Blue</title>
-    <sub-title lang="es">S01 : E01 FailArmy Red, White, Black &amp; Blue</sub-title>
-    <desc lang="es">Get jacked up on America with these patriotic fails in celebration of the 4th of July.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="jukin-fail-army-new" start="20260621232148 +0200" stop="20260621235242 +0200">
-    <title lang="es">FailArmy Freedumb Special</title>
-    <sub-title lang="es">S01 : E01 FailArmy Freedumb Special</sub-title>
-    <desc lang="es">America, land of the free…home of the fail! Celebrate FREEDUMB with the biggest fails from coast to coast.</desc>
-    <category lang="es">Entretenimiento</category>
   </programme>
   <programme channel="jukin-fail-army-new" start="20260621235248 +0200" stop="20260622002442 +0200">
     <title lang="es">FailArmy FailHarD</title>
@@ -13770,26 +12337,6 @@
     <desc lang="es">The best of the worst for April '25.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme channel="revry" start="20260621170006 +0200" stop="20260621183000 +0200">
-    <title lang="es">Acrylic</title>
-    <desc lang="es">A colorful neighborhood salon is threatened by a new addition.</desc>
-    <category lang="es">LGBTQ+</category>
-  </programme>
-  <programme channel="revry" start="20260621183006 +0200" stop="20260621201500 +0200">
-    <title lang="es">Mother's Little Helpers</title>
-    <desc lang="es">The children of a groovy 70s burnout come home to do right by a mom who did them wrong.</desc>
-    <category lang="es">LGBTQ+</category>
-  </programme>
-  <programme channel="revry" start="20260621201506 +0200" stop="20260621215500 +0200">
-    <title lang="es">The Happys</title>
-    <desc lang="es">As Tracy's relationship deteriorates, she finds unexpected solace in her quirky neighbors.</desc>
-    <category lang="es">LGBTQ+</category>
-  </programme>
-  <programme channel="revry" start="20260621215506 +0200" stop="20260621234000 +0200">
-    <title lang="es">Love Is A Map</title>
-    <desc lang="es">Two college friends spend a romantic weekend in the mountains exploring what might have been.</desc>
-    <category lang="es">LGBTQ+</category>
-  </programme>
   <programme channel="revry" start="20260621234006 +0200" stop="20260622020000 +0200">
     <title lang="es">Lockdown Lovers</title>
     <desc lang="es">After sharing a one night stand, Kristal and Lisette are forced into COVID lockdown together.</desc>
@@ -14040,72 +12587,6 @@
     <title lang="es">World Pride Ball</title>
     <desc lang="es">The World Pride Ball is a fierce voguing competition showcasing athleticism and artistry!</desc>
     <category lang="es">LGBTQ+</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621175639 +0200" stop="20260621182833 +0200">
-    <title lang="es">Exhibition Awesome</title>
-    <sub-title lang="es">S03 : E04 Exhibition Awesome | Winter World</sub-title>
-    <desc lang="es">Whatever the weather, these athletes shine.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621182839 +0200" stop="20260621190033 +0200">
-    <title lang="es">Exhibition Awesome</title>
-    <sub-title lang="es">S03 : E05 Exhibition Awesome | The Great Outdoors, Vol. 2</sub-title>
-    <desc lang="es">From the tallest towers to the deepest oceans, adventure is everywhere.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621190039 +0200" stop="20260621193233 +0200">
-    <title lang="es">Exhibition Awesome</title>
-    <sub-title lang="es">S03 : E06 Exhibition Awesome | Extreme Skill</sub-title>
-    <desc lang="es">These athletes take their crafts to the next level.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621193239 +0200" stop="20260621200433 +0200">
-    <title lang="es">People Are Awesome Presents: Power Couples</title>
-    <sub-title lang="es">S01 : E01 People Are Awesome Presents: Power Couples</sub-title>
-    <desc lang="es">This special pays tribute to couples and their awesome talents.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621200439 +0200" stop="20260621203633 +0200">
-    <title lang="es">People Are Awesome Presents: Power Couples 2</title>
-    <sub-title lang="es">S01 : E01 People Are Awesome Presents: Power Couples 2</sub-title>
-    <desc lang="es">This special pays tribute to couples and their other worldly talents.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621203639 +0200" stop="20260621210833 +0200">
-    <title lang="es">People Are Awesome Presents: Power Couples 3</title>
-    <sub-title lang="es">S01 : E01 People Are Awesome Presents: Power Couples 3</sub-title>
-    <desc lang="es">This special pays tribute to couples and their awesome talents.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621210839 +0200" stop="20260621213933 +0200">
-    <title lang="es">People Are Awesome Presents: Power Couples 4</title>
-    <sub-title lang="es">S01 : E01 People Are Awesome Presents: Power Couples 4</sub-title>
-    <desc lang="es">This special pays tribute to couples and their awesome talents.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621213939 +0200" stop="20260621221133 +0200">
-    <title lang="es">People are Awesome: Spotlight</title>
-    <sub-title lang="es">S01 : E13 Spotlight | Ep. 1.13</sub-title>
-    <desc lang="es">When life gives you paint, you make a masterpiece.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621221139 +0200" stop="20260621224333 +0200">
-    <title lang="es">People are Awesome: Spotlight</title>
-    <sub-title lang="es">S02 : E01 Spotlight | Ep. 2.1</sub-title>
-    <desc lang="es">A microscopic guitar, an insane maze, sushi with personality, and more.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621224339 +0200" stop="20260621231533 +0200">
-    <title lang="es">People Are Awesome: Showcase</title>
-    <sub-title lang="es">S01 : E13 Showcase | Above and Beyond</sub-title>
-    <desc lang="es">The sky's the limit for these athletes and performers.</desc>
-    <category lang="es">Entretenimiento</category>
-  </programme>
-  <programme channel="people-are-awesome-new" start="20260621231539 +0200" stop="20260621234733 +0200">
-    <title lang="es">People Are Awesome: Showcase</title>
-    <sub-title lang="es">S02 : E01 Showcase | Precision</sub-title>
-    <desc lang="es">A shift in balance could be the difference between something great and something amazing.</desc>
-    <category lang="es">Entretenimiento</category>
   </programme>
   <programme channel="people-are-awesome-new" start="20260621234739 +0200" stop="20260622001933 +0200">
     <title lang="es">Exhibition Awesome</title>
@@ -14677,36 +13158,6 @@
     <desc lang="es">They're incredibly talented and the big-city is their playground.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme channel="k-drama-plus" start="20260621171952 +0200" stop="20260621183549 +0200">
-    <title lang="es">Descendientes del sol</title>
-    <sub-title lang="es">S01 : E15 Descendientes del sol</sub-title>
-    <desc lang="es">Las relaciones se tensan y una misión peligrosa separa nuevamente a Sijin y Moyeon.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="k-drama-plus" start="20260621183555 +0200" stop="20260621195112 +0200">
-    <title lang="es">Descendientes del sol</title>
-    <sub-title lang="es">S01 : E16 Descendientes del sol</sub-title>
-    <desc lang="es">Tras una larga separación, todos se reencuentran. Pero queda la duda: ¿podrán vivir en paz?</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="k-drama-plus" start="20260621195118 +0200" stop="20260621210421 +0200">
-    <title lang="es">Descubrimiento del Amor</title>
-    <sub-title lang="es">S01 : E01 Descubrimiento del Amor</sub-title>
-    <desc lang="es">A los 32 años Han Yeo-reum está con Nam Ha-jin un hombre decente. Mientras lo sigue a una cita a ciegas aparece su ex Kang Tae-ha el chico malo con quien rompió hace 5 años.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="k-drama-plus" start="20260621210427 +0200" stop="20260621222136 +0200">
-    <title lang="es">Descubrimiento del Amor</title>
-    <sub-title lang="es">S01 : E02 Descubrimiento del Amor</sub-title>
-    <desc lang="es">Yeo-reum pasa la noche accidentalmente con Tae-ha y miente a Ha-jin al recibir su llamada. Después de un cumpleaños arruinado y una gran pelea con Ha-jin Yeo-reum se quita el anillo de pareja.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="k-drama-plus" start="20260621222142 +0200" stop="20260621233745 +0200">
-    <title lang="es">Descubrimiento del Amor</title>
-    <sub-title lang="es">S01 : E03 Descubrimiento del Amor</sub-title>
-    <desc lang="es">Yeo-reum recibe una propuesta sorpresa de Ha-jin pero sin anillo ya que él descarta el matrimonio. Mientras Ha-jin se preocupa por A-rim y Tae-ha busca trabajar con Yeo-reum en un bar de vinos.</desc>
-    <category lang="es">Series</category>
-  </programme>
   <programme channel="k-drama-plus" start="20260621233751 +0200" stop="20260622005409 +0200">
     <title lang="es">Descubrimiento del Amor</title>
     <sub-title lang="es">S01 : E04 Descubrimiento del Amor</sub-title>
@@ -14945,42 +13396,6 @@
     <title lang="es">Descubrimiento del Amor</title>
     <sub-title lang="es">S01 : E11 Descubrimiento del Amor</sub-title>
     <desc lang="es">Yeo-reum se confunde por la disculpa de Tae-ha quien intenta dejar sus sentimientos de lado y concentrarse en su trabajo. Yeo-reum viaja con Ha-jin y conoce a personas de la empresa de Tae-ha.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision-classics" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">AnimeVisión Classics</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision-classics" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">AnimeVisión Classics</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision-classics" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">AnimeVisión Classics</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision-classics" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">AnimeVisión Classics</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision-classics" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">AnimeVisión Classics</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision-classics" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">AnimeVisión Classics</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
     <category lang="es">Series</category>
   </programme>
   <programme channel="animevision-classics" start="20260622000000 +0200" stop="20260622005959 +0200">
@@ -15283,42 +13698,6 @@
     <desc lang="es"></desc>
     <category lang="es">Series</category>
   </programme>
-  <programme channel="animevision" start="20260621180000 +0200" stop="20260621185959 +0200">
-    <title lang="es">AnimeVisión</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision" start="20260621190000 +0200" stop="20260621195959 +0200">
-    <title lang="es">AnimeVisión</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision" start="20260621200000 +0200" stop="20260621205959 +0200">
-    <title lang="es">AnimeVisión</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision" start="20260621210000 +0200" stop="20260621215959 +0200">
-    <title lang="es">AnimeVisión</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision" start="20260621220000 +0200" stop="20260621225959 +0200">
-    <title lang="es">AnimeVisión</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="animevision" start="20260621230000 +0200" stop="20260621235959 +0200">
-    <title lang="es">AnimeVisión</title>
-    <sub-title lang="es"></sub-title>
-    <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
   <programme channel="animevision" start="20260622000000 +0200" stop="20260622005959 +0200">
     <title lang="es">AnimeVisión</title>
     <sub-title lang="es"></sub-title>
@@ -15617,78 +13996,6 @@
     <title lang="es">AnimeVisión</title>
     <sub-title lang="es"></sub-title>
     <desc lang="es"></desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621174858 +0200" stop="20260621181721 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E09 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean goes to the funfair.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621181722 +0200" stop="20260621184825 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E10 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean hosts a New Year's Eve party.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621184826 +0200" stop="20260621191657 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E11 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean goes back to school.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621191658 +0200" stop="20260621194757 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E12 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621194758 +0200" stop="20260621201805 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E13 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean has a hard time waiting his turn at the hospital.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621201806 +0200" stop="20260621205021 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E14 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean has a grand day at the hairdresser's.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621205022 +0200" stop="20260621211938 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E01 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean rushes to his exam only to find out he's studied the wrong subject.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621211939 +0200" stop="20260621215051 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E02 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621215052 +0200" stop="20260621221938 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E03 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621221939 +0200" stop="20260621224745 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E04 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean buys a portable television but can't get it to work properly.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621224746 +0200" stop="20260621231829 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E05 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean rushes to the dentist's office after oversleeping.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-live-action" start="20260621231830 +0200" stop="20260621234818 +0200">
-    <title lang="es">Mr Bean</title>
-    <sub-title lang="es">S01 : E06 Mr Bean Live Action</sub-title>
-    <desc lang="es">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
     <category lang="es">Series</category>
   </programme>
   <programme channel="mr-bean-live-action" start="20260621234819 +0200" stop="20260622001946 +0200">
@@ -16308,144 +14615,6 @@
     <sub-title lang="es">S01 : E09 Mr Bean Live Action</sub-title>
     <desc lang="es">Mr Bean goes to the funfair.</desc>
     <category lang="es">Series</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621162826 +0200" stop="20260621180040 +0200">
-    <title lang="es">Mr Bean Animated Season 02</title>
-    <sub-title lang="es">S02 : E50 La Fotografía</sub-title>
-    <desc lang="es">A Mr. Bean le hace falta una fotografía nueva para el pasaporte y hará lo que sea necesario para conseguirla.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621180041 +0200" stop="20260621182617 +0200">
-    <title lang="es">Mr Bean Animated Season 04</title>
-    <sub-title lang="es">S04 : E03 Grounded / Un-suitable</sub-title>
-    <desc lang="es">Mr Bean wants to watch his favourite TV show with Billy, but Mrs Wicket has other plans.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621182618 +0200" stop="20260621185354 +0200">
-    <title lang="es">Mr Bean Animated Season 04</title>
-    <sub-title lang="es">S04 : E04 Fitness Instructor / Trampoline Trouble</sub-title>
-    <desc lang="es">Mr Bean becomes Mr Paliwal’s personal trainer for the day</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621185355 +0200" stop="20260621191931 +0200">
-    <title lang="es">Mr Bean Animated Season 04</title>
-    <sub-title lang="es">S04 : E05 Sheepish Bean / Page Turner</sub-title>
-    <desc lang="es">Mr Bean is asked to wear a sheep costume to help advertise Irma’s knitwear stall.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621191932 +0200" stop="20260621194507 +0200">
-    <title lang="es">Mr Bean Animated Season 04</title>
-    <sub-title lang="es">S04 : E06 Arcade Trouble / Alarm Bean</sub-title>
-    <desc lang="es">At an amusement arcade, Teddy accidentally gets put in a claw machine as a prize!</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621194508 +0200" stop="20260621195809 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E15 Café Bean</sub-title>
-    <desc lang="es">El señor Bean está de compras cuando empieza a llover.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621195810 +0200" stop="20260621201112 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E16 La Gran Congelación</sub-title>
-    <desc lang="es">Bean se despierta en una gélida mañana de invierno y descubre que la caldera está rota.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621201113 +0200" stop="20260621202415 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E17 Scrapper Limpia</sub-title>
-    <desc lang="es">Irma quiere una escapada romántica; Bean no. Es muy caro.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621202416 +0200" stop="20260621203722 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E18 Viaje en autobús</sub-title>
-    <desc lang="es">Bean quiere evitar a toda costa almorzar con la mamá de Irma.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621203723 +0200" stop="20260621205028 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E19 Salvar ese árbol</sub-title>
-    <desc lang="es">Bean le muestra a Irma su árbol favorito</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621205029 +0200" stop="20260621210335 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E20 En venta</sub-title>
-    <desc lang="es">Un alegre agente inmobiliario convence a la Sra. Wicket para que ponga su casa en venta.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621210336 +0200" stop="20260621211638 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E21 Bean Saltarin</sub-title>
-    <desc lang="es">Bean quiere aprender a andar en patineta, pero se lastima en el primer intento.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621211639 +0200" stop="20260621212941 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E22 Caos de gatos</sub-title>
-    <desc lang="es">La señora Wicket se vuelve irritantemente inconsolable cuando Scrapper desaparece.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621212942 +0200" stop="20260621214242 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E23 Pégalo</sub-title>
-    <desc lang="es">Bean descubre al sobrino de la señora Wicket y a Bruiser Jnr intercambiando pegatinas de fútbol.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621214243 +0200" stop="20260621215543 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E24 Bean En el museo</sub-title>
-    <desc lang="es">Bean cree que acaba de desenterrar una moneda valiosa en el jardín trasero.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621215544 +0200" stop="20260621220846 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E25 Un coche para Irma</sub-title>
-    <desc lang="es">Bean descubre a Declan llevando a Irma en su elegante y nuevo SUV.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621220847 +0200" stop="20260621222152 +0200">
-    <title lang="es">Mr Bean Animated Season 03</title>
-    <sub-title lang="es">S03 : E26 Trofeo Bean</sub-title>
-    <desc lang="es">El sobrino de la señora Wicket se queda con ella cuando gana dos entradas para un curso Outward Bound.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621222153 +0200" stop="20260621223452 +0200">
-    <title lang="es">Mr Bean Animated Season 02</title>
-    <sub-title lang="es">S02 : E51 Bean bailarín</sub-title>
-    <desc lang="es">Mr. Bean debe aprender a bailar para poder impresionar a su novia Irma.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621223453 +0200" stop="20260621224753 +0200">
-    <title lang="es">Mr Bean Animated Season 02</title>
-    <sub-title lang="es">S02 : E52 Las Compras de Bean</sub-title>
-    <desc lang="es">Mr. Bean se queda encerrado en el centro comercial durante la noche y se lo pasa de maravilla.</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621224754 +0200" stop="20260621230052 +0200">
-    <title lang="es">Mr Bean Animated Season 02</title>
-    <sub-title lang="es">S02 : E201 Home Movie</sub-title>
-    <desc lang="es">Info not available</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621230053 +0200" stop="20260621231352 +0200">
-    <title lang="es">Mr Bean Animated Season 02</title>
-    <sub-title lang="es">S02 : E202 Fish Sitting</sub-title>
-    <desc lang="es">Info not available</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621231353 +0200" stop="20260621232651 +0200">
-    <title lang="es">Mr Bean Animated Season 02</title>
-    <sub-title lang="es">S02 : E203 The Cruise</sub-title>
-    <desc lang="es">Info not available</desc>
-    <category lang="es">Infantil</category>
-  </programme>
-  <programme channel="mr-bean-es" start="20260621232652 +0200" stop="20260621235303 +0200">
-    <title lang="es">Mr Bean Animated Season 02</title>
-    <sub-title lang="es">S02 : E204 Coconut Shy</sub-title>
-    <desc lang="es">Info not available</desc>
-    <category lang="es">Infantil</category>
   </programme>
   <programme channel="mr-bean-es" start="20260621235304 +0200" stop="20260622001840 +0200">
     <title lang="es">Mr Bean Animated Season 04</title>
@@ -17119,36 +15288,6 @@
     <desc lang="es">At an amusement arcade, Teddy accidentally gets put in a claw machine as a prize!</desc>
     <category lang="es">Infantil</category>
   </programme>
-  <programme channel="rakuten-viki-es" start="20260621172534 +0200" stop="20260621184108 +0200">
-    <title lang="es">The Legend of the Blue Sea</title>
-    <sub-title lang="es">S01 : E12 The Legend of the Blue Sea episode 12</sub-title>
-    <desc lang="es">Joon Jae intenta encontrar a Sim Cheong preocupado porque ha estado fuera de contacto durante días.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="rakuten-viki-es" start="20260621184114 +0200" stop="20260621195648 +0200">
-    <title lang="es">The Legend of the Blue Sea</title>
-    <sub-title lang="es">S01 : E13 The Legend of the Blue Sea episode 13</sub-title>
-    <desc lang="es">Joon Jae encuentra algo sospechoso mientras busca las pistas del secuestro de Sim Cheong por parte de Ma Dae Young.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="rakuten-viki-es" start="20260621195654 +0200" stop="20260621211306 +0200">
-    <title lang="es">The Legend of the Blue Sea</title>
-    <sub-title lang="es">S01 : E14 The Legend of the Blue Sea episode 14</sub-title>
-    <desc lang="es">Joon Jae descubre que está siguiendo el mismo camino que en su vida anterior y decide proteger a Sim Cheong.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="rakuten-viki-es" start="20260621211312 +0200" stop="20260621222923 +0200">
-    <title lang="es">The Legend of the Blue Sea</title>
-    <sub-title lang="es">S01 : E15 The Legend of the Blue Sea episode 15</sub-title>
-    <desc lang="es">Joon Jae intenta contarle a Sim Cheong sobre sus sueños con Dam Ryeong. Sim Cheong invita a sus amigos a la fiesta.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="rakuten-viki-es" start="20260621222929 +0200" stop="20260621234643 +0200">
-    <title lang="es">The Legend of the Blue Sea</title>
-    <sub-title lang="es">S01 : E16 The Legend of the Blue Sea episode 16</sub-title>
-    <desc lang="es">Joon Jae finalmente se reúne con Yu Ran su madre biológica. Chi Hyeon comienza a buscar a su verdadero padre.</desc>
-    <category lang="es">Series</category>
-  </programme>
   <programme channel="rakuten-viki-es" start="20260621234649 +0200" stop="20260622010339 +0200">
     <title lang="es">The Legend of the Blue Sea</title>
     <sub-title lang="es">S01 : E17 The Legend of the Blue Sea episode 17</sub-title>
@@ -17387,96 +15526,6 @@
     <title lang="es">The Legend of the Blue Sea</title>
     <sub-title lang="es">S01 : E16 The Legend of the Blue Sea episode 16</sub-title>
     <desc lang="es">Joon Jae finalmente se reúne con Yu Ran su madre biológica. Chi Hyeon comienza a buscar a su verdadero padre.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621173601 +0200" stop="20260621180105 +0200">
-    <title lang="es">Beyblade Metal Fury</title>
-    <sub-title lang="es">S03 : E134 ?¡Uníos, bladers legendarios</sub-title>
-    <desc lang="es">Gingka derrota a Chris en el combate pero lo convence de que es un blader legendario y que forma parte del equipo y no está solo. Aguma es derrotado por Tithi y Dynamis convence a Aguma de que lo acompañe para seguir a Gingka y los demás. Gingka llega al templo de Nemesis, donde se encuentra con Pluto, Rago y, para su sorpresa, Doji.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621180106 +0200" stop="20260621182611 +0200">
-    <title lang="es">Beyblade Metal Fury</title>
-    <sub-title lang="es">S03 : E135 Diablo Nemesis</sub-title>
-    <desc lang="es">En un templo de Méjico, Rago se enfrenta a todos los que le retan, incluido Gingka y sus amigos y Ryuga. Ninguno de sus beys tiene efecto sobre el Diablo Nemesis de Rago, pues los lanza a todos por los aires. Antes de que Gingka y los demás puedan decidir qué hacer, Rago utiliza el poder de Diablo Nemesis para destruir el templo. Gingka y sus amigos son rescatados por Tsubasa, que los lleva de vuelta al cuartel general de la AMCB.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621182612 +0200" stop="20260621185116 +0200">
-    <title lang="es">Beyblade Metal Fury</title>
-    <sub-title lang="es">S03 : E136 Hacia el combate final</sub-title>
-    <desc lang="es">Mientras la AMCB y todos sus miembros están peinando el mundo en busca de Rago y Nemesis, Gingka y sus amigos se entrenan para el combate que les espera. Mientras, Rago, Doji y Pluto están en un barco en medio del océano, e intentan sacar a la superficie el reino hundido del rey Hades. Cuando Gingka y los demás localizan a los malvados en el océano Pacífico, corren al helicóptero de la</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621185117 +0200" stop="20260621191621 +0200">
-    <title lang="es">Beyblade Metal Fury</title>
-    <sub-title lang="es">S03 : E137 El reino perdido</sub-title>
-    <desc lang="es">Gingka y sus amigos se dirigen hacia Nemesis en el océano Pacífico, pero el helicóptero en el que vuelan atraviesa una peligrosa tormenta. Se ven obligados a aterrizar en una isla desierta y utilizan barcas para llegar al reino perdido del rey Hades, donde creen que se encuentra Nemesis. Entre tanto, Ryuga ya ha llegado al reino perdido y ha retado a Rago y su Nemesis a un combate contra él y su bey L-Drago.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621191622 +0200" stop="20260621194126 +0200">
-    <title lang="es">Beyblade Metal Fury</title>
-    <sub-title lang="es">S03 : E138 La estrella restante de las cuatro estaciones</sub-title>
-    <desc lang="es">Gingka y sus amigos intentan ayudar a Ryuga, que ha sido gravemente herido en el combate contra Rago, pero parece que es demasiado tarde para salvarlo. Sin Ryuga, Dynamis les dice que la barrera de Zeus no puede ser completada y ya no pueden obtener la ayuda de la madre naturaleza. Están solos. Los bladers legendarios y sus amigos atacan a Rago y su bey Nemesis, pero son repelidos.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621194127 +0200" stop="20260621200631 +0200">
-    <title lang="es">Beyblade Metal Fury</title>
-    <sub-title lang="es">S03 : E139 Flash Sagittario</sub-title>
-    <desc lang="es">Kenta y su nuevo bey, Flash Sagittario, se enfrentan a Rago y su bey, Diablo Nemesis. Gingka está convencido de que Kenta ahora tiene los poderes del blader legendario de la constelación estival, Ryuga. Los demás están de acuerdo e intentan levantar una vez más la barrera de Zeus para intentar enterrar al dios de la destrucción. Primero, el Sagittario de Kenta derrota al Darkhelm de Pluto y después todos los bladers se</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621200632 +0200" stop="20260621203137 +0200">
-    <title lang="es">Beyblade Metal Fury</title>
-    <sub-title lang="es">S03 : E140 La perseverancia de Hades</sub-title>
-    <desc lang="es">Gingka y el resto de los bladers legendarios de las cuatro estaciones aparecen para completar la barrera de Zeus y enterrar a Nemesis para siempre, junto con Rago y Pluto, que se hunden también con la destrucción del reino perdido de Hades. La celebración dura poco, pues una pequeña fisura en la barrera de Zeus permite al dios de la destrucción reaparecer para destruir la Tierra.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621203138 +0200" stop="20260621205642 +0200">
-    <title lang="es">Beyblade Metal Fury</title>
-    <sub-title lang="es">S03 : E141 Un rayo de esperanza</sub-title>
-    <desc lang="es">Gingka ha reunido el poder de todos los beys de sus amigos y él y Pegasus se enfrentan a Nemesis. Gingka lucha con todas sus fuerzas pero pronto se da cuenta de que el poder de Pegasus es equivalente al poder de Nemesis. Rago le provoca diciéndole que el sol negro destruirá la tierra mucho antes de que Gingka pueda derrotarlo. Las tornas cambian cuando todos los bladers del mundo envían su poder a Gingka y Pegasus y su nueva fuerza lanzan varias</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621205643 +0200" stop="20260621212124 +0200">
-    <title lang="es">Beyblade Metal Fusion</title>
-    <sub-title lang="es">S01 : E01 ¡Pegasus ha aterrizado!</sub-title>
-    <desc lang="es">Cuando Kenta se enfrenta a los Cazadores de Caras en una batalla de cuatro contra uno y pierde, Gingka entra para darle una lección a la pandilla. Él rápidamente derrota a los matones y sus beyblades. Al día siguiente, los Cazadores de caras están de vuelta con refuerzos y su líder Kyoya. Rodean a Gingka y lo obligan a una batalla de cien a uno. Gingka se mantiene enfocado y derrota a los cien oponentes. Kyoya está impresionado y desafía a Gingka a un duelo ...</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621212125 +0200" stop="20260621214606 +0200">
-    <title lang="es">Beyblade Metal Fusion</title>
-    <sub-title lang="es">S01 : E02 El rugido de León</sub-title>
-    <desc lang="es">El nuevo amigo de Gingka, Madoka, es un experto técnico de Beyblade y trabaja en el Pegaso roto. Mientras tanto, los Cazadores de caras toman la hoja de beyblade de Kenta y se niegan a devolverla a menos que Gingka pelee con Kyoya en una batalla. Gingka acepta el desafío a pesar de las súplicas de Madoka de que Pegaso no está listo. Durante la batalla, el beyblade de Kyoya parece impenetrable, pero Pegasus puede sobrevivir y ganar.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621214607 +0200" stop="20260621221048 +0200">
-    <title lang="es">Beyblade Metal Fusion</title>
-    <sub-title lang="es">S01 : E03 La ambición del lobo</sub-title>
-    <desc lang="es">Kenta teme que Gingka salga de la ciudad para encontrar oponentes más valiosos, por lo que desafía a Gingka a un hombre contra otro en batalla. Mientras tanto, Kyoya y sus Cazadores de caras son llevados a un área rocosa aislada por una misteriosa figura, Doji. Doji desafía a Kyoya a una batalla; acuerdan que si Kyoya pierde, tendrá que trabajar para que Doji derrote a Gingka. La pelea está en marcha y Rock Leone de Kyoya resulta no ser rival para el Lobo Oscuro de Doji.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621221049 +0200" stop="20260621223530 +0200">
-    <title lang="es">Beyblade Metal Fusion</title>
-    <sub-title lang="es">S01 : E04 La fuerza del toro</sub-title>
-    <desc lang="es">Benkei está devastado por la pérdida de su mentor Kyoya, quien se unió a Doji como una forma de pagar una deuda. Así que Benkei se sorprende al recibir una visita del mismo Doji que le presenta un poderoso Beyblade, Dark Bull. A cambio, Doji quiere que Benkei lo use para derrotar a Gingka. Benkei acepta y entrena duro. Gingka y Benkei luchan y el Pegaso de Gingka prevalece al final. Por un momento parece que los dos enemigos se harán amigos, pero no es para ser ...</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621223531 +0200" stop="20260621230012 +0200">
-    <title lang="es">Beyblade Metal Fusion</title>
-    <sub-title lang="es">S01 : E05 ¡La venganza del cangrejo!</sub-title>
-    <desc lang="es">Gingka se niega a luchar contra un villano obsesionado con los cangrejos llamado Tetsuya Watarigani, pero cuando Watarigani revela que se ha llevado a Madoka y no la liberará hasta que Gingka acepte luchar, Gingka no tiene otra opción. Se produce una batalla acalorada, con mucho juego encubierto por parte de Watarigani. Justo cuando Gingka está contra la pared, Madoka regresa. Ella fue salvada por nada menos que ... Benkei.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621230013 +0200" stop="20260621232454 +0200">
-    <title lang="es">Beyblade Metal Fusion</title>
-    <sub-title lang="es">S01 : E06 El reto de Acuario</sub-title>
-    <desc lang="es">Los Cazadores de caras se encuentran con Hikaru Hasama, quien hizo un voto a su madre hace años de que se convertiría en la mejor beyblader del mundo. Ella sabe que debe vencer a Gingka, así que lo desafía a través de Benkei. Gingka se ha resfriado y Madoka insiste en que descanse un poco antes de volver a luchar.</desc>
-    <category lang="es">Series</category>
-  </programme>
-  <programme channel="beyblade-es" start="20260621232455 +0200" stop="20260621234936 +0200">
-    <title lang="es">Beyblade Metal Fusion</title>
-    <sub-title lang="es">S01 : E07 ¡Es nuestra jugada estrella, Sagitario!</sub-title>
-    <desc lang="es">Benkei es mentor de Kenta para que el joven espadachín pueda enfrentar a Hikaru nuevamente y derrotarla. Madoka le da a Kenta una cara de metal para agregar a su bey de Sagitario y le dice que podría ayudarlo a crear un movimiento especial. Mientras tanto, Hikaru descubre que no derrotó a Gingka, fue Kenta haciéndose pasar por Gingka.</desc>
     <category lang="es">Series</category>
   </programme>
   <programme channel="beyblade-es" start="20260621234937 +0200" stop="20260622001418 +0200">
@@ -18204,21 +16253,6 @@
     <sub-title lang="es">S03 : E128 El paradero de Orion</sub-title>
     <desc lang="es">Gingka le pide a Chris, el último blader legendario, que se una a él en su lucha contra el mal, pero Chris le responde que sólo se unirá al mejor postor. Esto y las burlas de Chris hacia Masamune enfurecen a Rey, que lo reta a un combate. Los bladers de ambos equipos se unen en un colosal combate. Ryuga aparece repentinamente y exige que Chris le entregue su bey y su poder.</desc>
     <category lang="es">Series</category>
-  </programme>
-  <programme channel="mytime-movie-network-spanish" start="20260621170007 +0200" stop="20260621184506 +0200">
-    <title lang="es">Juego del Amor, El</title>
-    <desc lang="es">Frances, la ex-esposa de Jake, conspira con sus hijos, para obligarlo a vender su amado equipo de baloncesto de Seattle. ¿Será que el juego sale de la cancha para encender chispas románticas?</desc>
-    <category lang="es">Películas</category>
-  </programme>
-  <programme channel="mytime-movie-network-spanish" start="20260621184507 +0200" stop="20260621203014 +0200">
-    <title lang="es">Oscuro deseo</title>
-    <desc lang="es">Un joven desesperado por conectarse con las personas cercanas a él recurre a medidas extremas para lograrlo.</desc>
-    <category lang="es">Películas</category>
-  </programme>
-  <programme channel="mytime-movie-network-spanish" start="20260621203015 +0200" stop="20260621221547 +0200">
-    <title lang="es">Matar por un Sueño</title>
-    <desc lang="es">Mia es una adolescente que logra sorprender al productor musical FASA durante un concurso de talentos en su instituto y así consigue un contrato para grabar un disco, mientras que su amiga y rival Lindsay, pierde su oportunidad. Lindsay y su madre y mánager, Ellen, están convencidas de que debería haber sido Lindsay quien ganara el concurso y ahora se proponen destruirlas.</desc>
-    <category lang="es">Películas</category>
   </programme>
   <programme channel="mytime-movie-network-spanish" start="20260621221548 +0200" stop="20260622000000 +0200">
     <title lang="es">BlindObsession-feature-eng-spa</title>
