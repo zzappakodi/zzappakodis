@@ -1,240 +1,240 @@
 #EXTM3U x-tvg-url="http://192.168.1.98:8080/raku-epg.xml"
 
 #EXTINF:-1 tvg-chno=910 tvg-id="france-24-en" tvg-name="France 24 FAST English" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" group-title="Rakuten Noticias",France 24 FAST English
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=france-24-en&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=france-24-en
 #EXTINF:-1 tvg-chno=907 tvg-id="el-pais" tvg-name="El País" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg" group-title="Rakuten Noticias",El País
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=el-pais&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=el-pais
 #EXTINF:-1 tvg-chno=894 tvg-id="newsworld-spa" tvg-name="NewsWorld" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4939210a-0bec-4dd9-9ea4-40ed09db1dbc.jpeg" group-title="Rakuten Noticias",NewsWorld
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=newsworld-spa&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=newsworld-spa
 #EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="Rakuten Asian",CGTN
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=cgtn&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=cgtn
 #EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5d1a76e1-5c26-4cf1-aed8-7101a5206922.jpeg" group-title="Rakuten Noticias",Africanews
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=africanews-eng&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=africanews-eng
 #EXTINF:-1 tvg-chno=891 tvg-id="cgtn-es" tvg-name="CGTN" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg" group-title="Rakuten Asian",CGTN
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=cgtn-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=cgtn-es
 #EXTINF:-1 tvg-chno=888 tvg-id="bloomberg-tv-plus" tvg-name="Bloomberg TV+" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80bb6ac5-9dbf-44fb-8716-dd84aec360f8.jpeg" group-title="Rakuten TV",Bloomberg TV+
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=bloomberg-tv-plus&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=bloomberg-tv-plus
 #EXTINF:-1 tvg-chno=887 tvg-id="bloomberg-originals-new" tvg-name="Bloomberg Originals" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d6c3cf95-3570-44fa-a3db-ca215ded6396.jpeg" group-title="Rakuten Documental",Bloomberg Originals
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=bloomberg-originals-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=bloomberg-originals-new
 #EXTINF:-1 tvg-chno=881 tvg-id="the-reuters-60" tvg-name="The Reuters 60" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg" group-title="Rakuten Noticias",The Reuters 60
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=the-reuters-60&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=the-reuters-60
 #EXTINF:-1 tvg-chno=879 tvg-id="actualidad-360" tvg-name="Actualidad 360" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg" group-title="Rakuten Noticias",Actualidad 360
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=actualidad-360&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=actualidad-360
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-spa" tvg-name="Euronews EN DIRECTO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0c9f38a6-5df7-4480-a994-a3a63ae695e6.jpeg" group-title="Rakuten Noticias",Euronews EN DIRECTO
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=euronews-live-spa&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=euronews-live-spa
 #EXTINF:-1 tvg-chno=841 tvg-id="historia-y-vida" tvg-name="Historia y Vida" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/112ebdc0-159a-422f-9659-e9e6aa967df7.jpeg" group-title="Rakuten Documental",Historia y Vida
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=historia-y-vida&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=historia-y-vida
 #EXTINF:-1 tvg-chno=839 tvg-id="oficios-perdidos" tvg-name="Oficios Perdidos" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9464f310-33c3-4e0f-b258-eeaf24d3fa51.png" group-title="Rakuten Documental",Oficios Perdidos
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=oficios-perdidos&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=oficios-perdidos
 #EXTINF:-1 tvg-chno=831 tvg-id="cgtn-documentary" tvg-name="CGTN Documentary" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ca4d6759-647b-4519-99f6-e76de3963de5.jpeg" group-title="Rakuten Asian",CGTN Documentary
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=cgtn-documentary&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=cgtn-documentary
 #EXTINF:-1 tvg-chno=822 tvg-id="nature-time-es" tvg-name="Nature Time" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140fe96a-bda7-4ea2-b1ba-798224c28f46.jpeg" group-title="Rakuten Documental",Nature Time
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=nature-time-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=nature-time-es
 #EXTINF:-1 tvg-chno=820 tvg-id="weather-spy-new" tvg-name="Weather Spy" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg" group-title="Rakuten Estilo de vida",Weather Spy
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=weather-spy-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=weather-spy-new
 #EXTINF:-1 tvg-chno=813 tvg-id="planeta-salvaje" tvg-name="Planeta Salvaje" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/42315941-22ff-4580-aca9-98260d001ad2.jpeg" group-title="Rakuten Documental",Planeta Salvaje
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=planeta-salvaje&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=planeta-salvaje
 #EXTINF:-1 tvg-chno=810 tvg-id="royalworld-es" tvg-name="Royalworld - Nobleza y dinastías" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/706db597-244a-4939-9453-ea7b0c543d70.jpeg" group-title="Rakuten Documental",Royalworld - Nobleza y dinastías
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=royalworld-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=royalworld-es
 #EXTINF:-1 tvg-chno=804 tvg-id="aftershock-meo-lc" tvg-name="Aftershock Mi Extraña Obsesión/Loca Compulsión" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a39db06d-1e23-476a-8eda-ee9460c31ef7.jpeg" group-title="Rakuten Entretenimiento",Aftershock Mi Extraña Obsesión/Loca Compulsión
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=aftershock-meo-lc&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=aftershock-meo-lc
 #EXTINF:-1 tvg-chno=790 tvg-id="crimenes-reales" tvg-name="Crímenes Reales" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ff4a2f43-f916-4e28-b349-632744ad68f2.jpeg" group-title="Rakuten Crime",Crímenes Reales
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=crimenes-reales&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=crimenes-reales
 #EXTINF:-1 tvg-chno=778 tvg-id="todo-crimen" tvg-name="Todo Crimen" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg" group-title="Rakuten Crime",Todo Crimen
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=todo-crimen&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=todo-crimen
 #EXTINF:-1 tvg-chno=773 tvg-id="filmrise-unsolved-mysteries-es" tvg-name="Misterios sin resolver" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2fc7195d-be0a-4c4c-bb7c-6b57202535b7.jpeg" group-title="Rakuten Crime",Misterios sin resolver
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=filmrise-unsolved-mysteries-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=filmrise-unsolved-mysteries-es
 #EXTINF:-1 tvg-chno=758 tvg-id="filmrise-forensic-files-spa" tvg-name="Archivos Forenses" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/33d033a2-326e-4f5b-b3dc-e8c8bf65e562-archivos-forenses-1642607532.jpeg" group-title="Rakuten Crime",Archivos Forenses
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=filmrise-forensic-files-spa&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=filmrise-forensic-files-spa
 #EXTINF:-1 tvg-chno=712 tvg-id="el-conquistador" tvg-name="El Conquistador" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/3779a116-fc8f-4720-8656-1a8eef566691.jpeg" group-title="Rakuten Reality Shows",El Conquistador
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=el-conquistador&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=el-conquistador
 #EXTINF:-1 tvg-chno=687 tvg-id="cops-en-espanol" tvg-name="Cops En Español" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ba80c0fa-a357-4a50-927b-12e34ad75737.jpeg" group-title="Rakuten Entretenimiento",Cops En Español
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=cops-en-espanol&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=cops-en-espanol
 #EXTINF:-1 tvg-chno=685 tvg-id="jade-fever-es" tvg-name="La fiebre del jade" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4223433c-d101-452c-aced-2453b33d3126.jpeg" group-title="Rakuten Entretenimiento",La fiebre del jade
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=jade-fever-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=jade-fever-es
 #EXTINF:-1 tvg-chno=684 tvg-id="ice-pilots-es" tvg-name="Pilotos del Ártico" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/47db66d1-8f73-451e-9244-34ce4b1c423c.jpeg" group-title="Rakuten Entretenimiento",Pilotos del Ártico
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=ice-pilots-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=ice-pilots-es
 #EXTINF:-1 tvg-chno=631 tvg-id="pingu-rakuten-tv" tvg-name="Pingu" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2f3db495-660f-48f8-805c-2bd5f35ee8c4.jpeg" group-title="Rakuten Infantil",Pingu
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=pingu-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=pingu-rakuten-tv
 #EXTINF:-1 tvg-chno=625 tvg-id="planeta-junior-spa" tvg-name="La abeja Maya" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/66532545-7c48-4163-8602-4c17c8bb12ac.jpeg" group-title="Rakuten Infantil",La abeja Maya
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=planeta-junior-spa&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=planeta-junior-spa
 #EXTINF:-1 tvg-chno=619 tvg-id="pocoyo" tvg-name="Pocoyó" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b427e296-f7e7-488a-b8ac-f9822584acff.jpeg" group-title="Rakuten Infantil",Pocoyó
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=pocoyo&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=pocoyo
 #EXTINF:-1 tvg-chno=611 tvg-id="las-tres-mellizas" tvg-name="Las tres mellizas" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5fca5e18-a011-44e0-a411-608be7e29a84.jpeg" group-title="Rakuten Infantil",Las tres mellizas
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=las-tres-mellizas&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=las-tres-mellizas
 #EXTINF:-1 tvg-chno=610 tvg-id="baby-shark-tv" tvg-name="Baby Shark TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a037e33c-a084-4a63-b433-b227d0bc2c59.jpeg" group-title="Rakuten Infantil",Baby Shark TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=baby-shark-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=baby-shark-tv
 #EXTINF:-1 tvg-chno=605 tvg-id="rantaro-ninja-boy-rakuten-tv" tvg-name="Rantaró, el ninja boy" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c03fa5a5-dd8d-4e53-ba59-352993c4e6fb.jpeg" group-title="Rakuten Anime",Rantaró, el ninja boy
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=rantaro-ninja-boy-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=rantaro-ninja-boy-rakuten-tv
 #EXTINF:-1 tvg-chno=604 tvg-id="family-rakuten-tv" tvg-name="En Familia - Rakuten TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116.jpeg" group-title="Rakuten Familia",En Familia - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=family-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=family-rakuten-tv
 #EXTINF:-1 tvg-chno=560 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts by Stingray" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg" group-title="Rakuten Música",Qello Concerts by Stingray
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=qello-concerts-by-stingray&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=qello-concerts-by-stingray
 #EXTINF:-1 tvg-chno=559 tvg-id="that-s-90s00s" tvg-name="That's 90s00s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/4f51ac5c-a9ee-43ef-b44e-4eba377df3b2.jpeg" group-title="Rakuten Música",That's 90s00s
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=that-s-90s00s&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=that-s-90s00s
 #EXTINF:-1 tvg-chno=557 tvg-id="vevo-pop-es" tvg-name="Vevo Pop" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f796c006-b189-4b90-b8ff-6a42cf6d4bd7.jpeg" group-title="Rakuten Música",Vevo Pop
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=vevo-pop-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=vevo-pop-es
 #EXTINF:-1 tvg-chno=555 tvg-id="vevo-latino-es" tvg-name="Vevo Latino" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/acffba3b-1779-48a8-bf69-de8f2cdf69c2.jpeg" group-title="Rakuten Música",Vevo Latino
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=vevo-latino-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=vevo-latino-es
 #EXTINF:-1 tvg-chno=552 tvg-id="that-s-rock" tvg-name="That's ROCK" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e8d66036-f48b-417d-961d-45b7bf5ca5c7.jpeg" group-title="Rakuten Música",That's ROCK
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=that-s-rock&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=that-s-rock
 #EXTINF:-1 tvg-chno=551 tvg-id="that-s-80s" tvg-name="That's 80s" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d1bd1f06-f3a0-47ec-abac-62342ff42fdb.jpeg" group-title="Rakuten Música",That's 80s
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=that-s-80s&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=that-s-80s
 #EXTINF:-1 tvg-chno=550 tvg-id="that-s-70s" tvg-name="That's 70s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/21ddd31b-ff64-4afe-aaca-0eb13b1a7cff.jpeg" group-title="Rakuten Música",That's 70s
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=that-s-70s&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=that-s-70s
 #EXTINF:-1 tvg-chno=543 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray: Remember the 80’s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/32a49d06-f203-4b4a-829c-4d1f66bf6a03.jpeg" group-title="Rakuten Música",Stingray: Remember the 80’s
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=stingray-remember-the-80-s&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=stingray-remember-the-80-s
 #EXTINF:-1 tvg-chno=542 tvg-id="stingray-hit-list" tvg-name="Stingray: Hitlist" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg" group-title="Rakuten Música",Stingray: Hitlist
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=stingray-hit-list&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=stingray-hit-list
 #EXTINF:-1 tvg-chno=541 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6d183d7f-50c9-40f6-825f-e3d70f97247d.jpeg" group-title="Rakuten Música",Stingray Greatest Hits
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=stingray-greatest-hits&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=stingray-greatest-hits
 #EXTINF:-1 tvg-chno=539 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge HD" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/864f2b27-4702-4308-850c-f7a1c73d4298.jpeg" group-title="Rakuten Música",Deluxe Lounge HD
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=deluxe-lounge-hd&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=deluxe-lounge-hd
 #EXTINF:-1 tvg-chno=538 tvg-id="qwest-tv" tvg-name="Qwest TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0.jpeg" group-title="Rakuten Música",Qwest TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=qwest-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=qwest-tv
 #EXTINF:-1 tvg-chno=537 tvg-id="metal-rocks" tvg-name="Metal.Rocks" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg" group-title="Rakuten Música",Metal.Rocks
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=metal-rocks&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=metal-rocks
 #EXTINF:-1 tvg-chno=475 tvg-id="a-bocados" tvg-name="A bocados" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bc94df36-c17c-4496-a6f1-39bd133ddc49.jpeg" group-title="Rakuten Cocina y comida",A bocados
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=a-bocados&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=a-bocados
 #EXTINF:-1 tvg-chno=470 tvg-id="gusto-tv-new" tvg-name="Gusto TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg" group-title="Rakuten Cocina y comida",Gusto TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=gusto-tv-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=gusto-tv-new
 #EXTINF:-1 tvg-chno=446 tvg-id="daystar-eng" tvg-name="Daystar TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/efe4aad6-6114-4535-adab-44ac9d552fcc.jpeg" group-title="Rakuten Religion",Daystar TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=daystar-eng&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=daystar-eng
 #EXTINF:-1 tvg-chno=445 tvg-id="daystar-spa" tvg-name="Daystar Español" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/129d0817-c05d-447f-85ba-acac21db4307.jpeg" group-title="Rakuten Religion",Daystar Español
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=daystar-spa&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=daystar-spa
 #EXTINF:-1 tvg-chno=431 tvg-id="hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1" tvg-name="¡HOLA! Play" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b7fa7e1a-c47f-4d90-98e7-7c64c77dbbdb.png" group-title="Rakuten Estilo de vida",¡HOLA! Play
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1
 #EXTINF:-1 tvg-chno=428 tvg-id="5-minutes-craft-es" tvg-name="Ideas en 5 minutos" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b5fc34b2-b51a-4418-a52d-bd479fd3d6e1.jpeg" group-title="Rakuten Entretenimiento",Ideas en 5 minutos
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=5-minutes-craft-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=5-minutes-craft-es
 #EXTINF:-1 tvg-chno=424 tvg-id="stingray-naturescape" tvg-name="Stingray Naturescape" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7791905f-9f8d-45ca-8ddd-a808cab7eb24.jpeg" group-title="Rakuten Estilo de vida",Stingray Naturescape
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=stingray-naturescape&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=stingray-naturescape
 #EXTINF:-1 tvg-chno=421 tvg-id="vivir-con-perros" tvg-name="Vivir con perros" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg" group-title="Rakuten Estilo de vida",Vivir con perros
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=vivir-con-perros&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=vivir-con-perros
 #EXTINF:-1 tvg-chno=420 tvg-id="vivir-con-gatos" tvg-name="Vivir con gatos" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg" group-title="Rakuten TV",Vivir con gatos
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=vivir-con-gatos&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=vivir-con-gatos
 #EXTINF:-1 tvg-chno=410 tvg-id="med-tv" tvg-name="Med.TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ab7a2d2a-67cc-4e80-848b-ec163019bae3.jpeg" group-title="Rakuten Estilo de vida",Med.TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=med-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=med-tv
 #EXTINF:-1 tvg-chno=409 tvg-id="travelxp-es" tvg-name="Travelxp" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg" group-title="Rakuten Estilo de vida",Travelxp
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=travelxp-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=travelxp-es
 #EXTINF:-1 tvg-chno=406 tvg-id="1-1-travel" tvg-name="1+1 Travel" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/67849c11-43a6-4ba2-b4e0-ba3d173a03cb.png" group-title="Rakuten Estilo de vida",1+1 Travel
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=1-1-travel&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=1-1-travel
 #EXTINF:-1 tvg-chno=399 tvg-id="the-design-network-new" tvg-name="The Design Network" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0d7ac09c-6941-41cd-9351-ff6f73a81ed6.jpeg" group-title="Rakuten Estilo de vida",The Design Network
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=the-design-network-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=the-design-network-new
 #EXTINF:-1 tvg-chno=397 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg" group-title="Rakuten Estilo de vida",Fashion TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=fashion-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=fashion-tv
 #EXTINF:-1 tvg-chno=396 tvg-id="gipsy-kings-rakuten-tv" tvg-name="Los Gipsy Kings - Rakuten TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cc63b2b-870e-46fd-889b-ae81f798c9d7.jpeg" group-title="Rakuten Estilo de vida",Los Gipsy Kings - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=gipsy-kings-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=gipsy-kings-rakuten-tv
 #EXTINF:-1 tvg-chno=394 tvg-id="lifestyle-rakuten-tv" tvg-name="Estilo y Vida - Rakuten TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/84e0b7b3-1612-470a-afdc-67a8c5b0fbbe.jpeg" group-title="Rakuten Estilo de vida",Estilo y Vida - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=lifestyle-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=lifestyle-rakuten-tv
 #EXTINF:-1 tvg-chno=372 tvg-id="tennis-plus" tvg-name="Tennis+" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0922c6a-1c35-4fe3-a0cd-688efa948a68.jpeg" group-title="Rakuten TV",Tennis+
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=tennis-plus&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=tennis-plus
 #EXTINF:-1 tvg-chno=369 tvg-id="red-bull-tv-es" tvg-name="Red Bull TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg" group-title="Rakuten Deportes",Red Bull TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=red-bull-tv-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=red-bull-tv-es
 #EXTINF:-1 tvg-chno=365 tvg-id="racer-international" tvg-name="RACER International" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e99fd425-48f6-4ced-b550-a9faca315a4d.jpeg" group-title="Rakuten Deportes",RACER International
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=racer-international&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=racer-international
 #EXTINF:-1 tvg-chno=360 tvg-id="pfl-mma" tvg-name="PFL MMA" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg" group-title="Rakuten Deportes",PFL MMA
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=pfl-mma&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=pfl-mma
 #EXTINF:-1 tvg-chno=355 tvg-id="sports-illustrated-tv" tvg-name="Sports Illustrated TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a05b6f57-bc84-4d9e-8296-6a69acc14f42.jpeg" group-title="Rakuten Deportes",Sports Illustrated TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=sports-illustrated-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=sports-illustrated-tv
 #EXTINF:-1 tvg-chno=353 tvg-id="world-surf-league" tvg-name="World Surf League 24/7" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cc6bb9fa-fbea-40a7-9f1d-ace3c25e9eea.jpeg" group-title="Rakuten Deportes",World Surf League 24/7
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=world-surf-league&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=world-surf-league
 #EXTINF:-1 tvg-chno=351 tvg-id="surf-channel" tvg-name="Surf Channel" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ee7406e0-5a2a-49dc-9722-f3888314566c-surf-channel-1631785285.jpeg" group-title="Rakuten Deportes",Surf Channel
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=surf-channel&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=surf-channel
 #EXTINF:-1 tvg-chno=341 tvg-id="glory-kickboxing" tvg-name="GLORY Kickboxing" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg" group-title="Rakuten Deportes",GLORY Kickboxing
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=glory-kickboxing&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=glory-kickboxing
 #EXTINF:-1 tvg-chno=339 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg" group-title="Rakuten Deportes",Hard Knocks Fighting Championship
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=hard-knocks-fighting-championship&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=hard-knocks-fighting-championship
 #EXTINF:-1 tvg-chno=338 tvg-id="billiards-tv" tvg-name="World Billiards TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png" group-title="Rakuten Deportes",World Billiards TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=billiards-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=billiards-tv
 #EXTINF:-1 tvg-chno=336 tvg-id="fuel-tv-new" tvg-name="FUEL TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/d7755b9a-5d95-4d1c-8615-d061c709ea2d.jpeg" group-title="Rakuten Deportes",FUEL TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=fuel-tv-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=fuel-tv-new
 #EXTINF:-1 tvg-chno=335 tvg-id="rally-tv-fast" tvg-name="Rally.TV FAST+" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ae3344c-16ea-4c6d-8c5d-37aceec4b8f7.jpeg" group-title="Rakuten Deportes",Rally.TV FAST+
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=rally-tv-fast&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=rally-tv-fast
 #EXTINF:-1 tvg-chno=333 tvg-id="inter-24-7-eng" tvg-name="INTER 24/7" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3519342e-d891-46ef-923e-27b698550a13.jpeg" group-title="Rakuten Deportes",INTER 24/7
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=inter-24-7-eng&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=inter-24-7-eng
 #EXTINF:-1 tvg-chno=330 tvg-id="laliga-inside" tvg-name="LaLiga Inside" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg" group-title="Rakuten Deportes",LaLiga Inside
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=laliga-inside&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=laliga-inside
 #EXTINF:-1 tvg-chno=329 tvg-id="mypadel-tv" tvg-name="MyPadel TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1de5d983-6666-4d47-8f02-b7a898f2ebc3.png" group-title="Rakuten Deportes",MyPadel TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=mypadel-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=mypadel-tv
 #EXTINF:-1 tvg-chno=328 tvg-id="fifa-plus-es-new" tvg-name="FIFA+" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/381e0e02-e3e4-4bf8-af7d-0751ec0cd395.png" group-title="Rakuten Deportes",FIFA+
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=fifa-plus-es-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=fifa-plus-es-new
 #EXTINF:-1 tvg-chno=327 tvg-id="top-barca-es" tvg-name="TOP Barça" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="Rakuten Deportes",TOP Barça
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=top-barca-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=top-barca-es
 #EXTINF:-1 tvg-chno=209 tvg-id="jukin-fail-army-new" tvg-name="Fail Army" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg" group-title="Rakuten Entretenimiento",Fail Army
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=jukin-fail-army-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=jukin-fail-army-new
 #EXTINF:-1 tvg-chno=206 tvg-id="revry" tvg-name="Revry" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/51021714-5a06-4be2-b0ff-6f5de75e742e.png" group-title="Rakuten Entretenimiento",Revry
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=revry&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=revry
 #EXTINF:-1 tvg-chno=197 tvg-id="people-are-awesome-new" tvg-name="People Are Awesome" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f.jpeg" group-title="Rakuten Entretenimiento",People Are Awesome
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=people-are-awesome-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=people-are-awesome-new
 #EXTINF:-1 tvg-chno=196 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b471d6b6-5694-46b3-8a33-6dbb0f76cf53.jpeg" group-title="Rakuten Entretenimiento",The Pet Collective
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=the-pet-collective-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=the-pet-collective-new
 #EXTINF:-1 tvg-chno=177 tvg-id="k-drama-plus" tvg-name="K-Drama+" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/18918110-1ab1-4aa8-9879-24473b095497.jpeg" group-title="Rakuten Coreano",K-Drama+
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=k-drama-plus&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=k-drama-plus
 #EXTINF:-1 tvg-chno=171 tvg-id="animevision-classics" tvg-name="AnimeVisión Classics" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/56e7f02c-0dbf-49cf-b8a2-c6b7e2d02c35.jpeg" group-title="Rakuten Anime",AnimeVisión Classics
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=animevision-classics&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=animevision-classics
 #EXTINF:-1 tvg-chno=170 tvg-id="animevision" tvg-name="AnimeVisión" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3ad26428-c55b-4645-8202-c349ccbb52cc.jpeg" group-title="Rakuten Anime",AnimeVisión
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=animevision&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=animevision
 #EXTINF:-1 tvg-chno=165 tvg-id="midsomer-murders-spa" tvg-name="Los asesinatos de Midsomer" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/358e266b-c9b4-4c44-b9d3-ea4f92c878f1.jpeg" group-title="Rakuten TV",Los asesinatos de Midsomer
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=midsomer-murders-spa&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=midsomer-murders-spa
 #EXTINF:-1 tvg-chno=158 tvg-id="wedotv-amor" tvg-name="wedotv Amor" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f2eabb04-9a91-4acb-97ff-8eab64c09446.jpeg" group-title="Rakuten Series",wedotv Amor
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=wedotv-amor&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=wedotv-amor
 #EXTINF:-1 tvg-chno=156 tvg-id="rookie-blue-spa" tvg-name="Rookie Blue" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4fd593d9-67b8-46a6-ad8a-b89a33bc4572.jpeg" group-title="Rakuten Series",Rookie Blue
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=rookie-blue-spa&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=rookie-blue-spa
 #EXTINF:-1 tvg-chno=149 tvg-id="todo-drama" tvg-name="Todo Drama" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fd26c4b5-868a-4520-8791-d016d0dd46b8.jpeg" group-title="Rakuten Series",Todo Drama
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=todo-drama&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=todo-drama
 #EXTINF:-1 tvg-chno=147 tvg-id="lol-espana" tvg-name="LOL España" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/927977ca-717e-449a-9499-d1364efd3bdb.jpeg" group-title="Rakuten Series",LOL España
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=lol-espana&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=lol-espana
 #EXTINF:-1 tvg-chno=144 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean - Live Action" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg" group-title="Rakuten Series",Mr. Bean - Live Action
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=mr-bean-live-action&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=mr-bean-live-action
 #EXTINF:-1 tvg-chno=143 tvg-id="mr-bean-es" tvg-name="Mr. Bean" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/7ff74f0d-63d9-44f5-99e3-d11bdbf81197.jpeg" group-title="Rakuten Infantil",Mr. Bean
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=mr-bean-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=mr-bean-es
 #EXTINF:-1 tvg-chno=142 tvg-id="yu-gi-oh-new-spa" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/f23b1f1a-4854-441c-8522-9bf991f0bf21.jpeg" group-title="Rakuten Anime",Yu-Gi-Oh!
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=yu-gi-oh-new-spa&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=yu-gi-oh-new-spa
 #EXTINF:-1 tvg-chno=138 tvg-id="bbc-top-gear-spa" tvg-name="Top Gear en español" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/36527b18-2a5c-4977-8c04-60dd6e57db24-top-gear-en-espanol-1651835741.jpeg" group-title="Rakuten Entretenimiento",Top Gear en español
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=bbc-top-gear-spa&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=bbc-top-gear-spa
 #EXTINF:-1 tvg-chno=136 tvg-id="todo-novelas" tvg-name="Todo Novelas" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg" group-title="Rakuten Series",Todo Novelas
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=todo-novelas&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=todo-novelas
 #EXTINF:-1 tvg-chno=131 tvg-id="rakuten-viki-es" tvg-name="Rakuten VIKI" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Rakuten Coreano",Rakuten VIKI
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=rakuten-viki-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=rakuten-viki-es
 #EXTINF:-1 tvg-chno=130 tvg-id="beyblade-es" tvg-name="Beyblade" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/dac38e6b-007a-4c8f-88e2-198b4cef2035.jpeg" group-title="Rakuten Anime",Beyblade
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=beyblade-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=beyblade-es
 #EXTINF:-1 tvg-chno=125 tvg-id="bbc-series-es" tvg-name="BBC Series" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ac6b11e-3ef5-48d7-a7b8-2639183af3ab.jpeg" group-title="Rakuten Series",BBC Series
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=bbc-series-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=bbc-series-es
 #EXTINF:-1 tvg-chno=106 tvg-id="filmrise-sci-fi-es" tvg-name="FilmRise Sci-Fi" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/277ead19-5335-42c8-8c64-31bda5696bb9.jpeg" group-title="Rakuten Series",FilmRise Sci-Fi
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=filmrise-sci-fi-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=filmrise-sci-fi-es
 #EXTINF:-1 tvg-chno=103 tvg-id="aguila-roja-rakuten-tv" tvg-name="Águila Roja" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0f724508-ed27-486a-849c-b3c6e9a05e00.jpeg" group-title="Rakuten Series",Águila Roja
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=aguila-roja-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=aguila-roja-rakuten-tv
 #EXTINF:-1 tvg-chno=101 tvg-id="alarm-for-cobra-rakuten-tv" tvg-name="Alerta Cobra - Brigada especial de carreteras" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/88e3e3ac-d820-4fc4-a62a-44896724aac4.jpeg" group-title="Rakuten Series",Alerta Cobra - Brigada especial de carreteras
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=alarm-for-cobra-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=alarm-for-cobra-rakuten-tv
 #EXTINF:-1 tvg-chno=100 tvg-id="crime-rakuten-tv" tvg-name="Crimen - Rakuten TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg" group-title="Rakuten Crime",Crimen - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=crime-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=crime-rakuten-tv
 #EXTINF:-1 tvg-chno=77 tvg-id="cine-western-es" tvg-name="Cine Western" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg" group-title="Rakuten Películas",Cine Western
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=cine-western-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=cine-western-es
 #EXTINF:-1 tvg-chno=64 tvg-id="grjngo-es" tvg-name="Grjngo" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg" group-title="Rakuten Películas",Grjngo
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=grjngo-es&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=grjngo-es
 #EXTINF:-1 tvg-chno=57 tvg-id="feel-good-tv" tvg-name="Feel Good TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/c7ff802e-6aa3-4231-8aaf-c8c64b511013.jpeg" group-title="Rakuten Películas",Feel Good TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=feel-good-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=feel-good-tv
 #EXTINF:-1 tvg-chno=56 tvg-id="verdi-tv" tvg-name="Verdi TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d5f81eaf-cdac-4537-b5db-5d927af79833.jpeg" group-title="Rakuten Películas",Verdi TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=verdi-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=verdi-tv
 #EXTINF:-1 tvg-chno=53 tvg-id="dark-matter-es-new" tvg-name="Dark Matter" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/cd1e98b4-2d26-486d-a615-bd556debbf20.jpeg" group-title="Rakuten Películas",Dark Matter
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=dark-matter-es-new&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=dark-matter-es-new
 #EXTINF:-1 tvg-chno=36 tvg-id="cine-friki" tvg-name="Cine Friki" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Rakuten Películas",Cine Friki
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=cine-friki&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=cine-friki
 #EXTINF:-1 tvg-chno=34 tvg-id="mytime-movie-network-spanish" tvg-name="MyTime Movie Network" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg" group-title="Rakuten Películas",MyTime Movie Network
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=mytime-movie-network-spanish&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=mytime-movie-network-spanish
 #EXTINF:-1 tvg-chno=7 tvg-id="thriller-rakuten-tv" tvg-name="Thrillers - Rakuten TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg" group-title="Rakuten Películas",Thrillers - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=thriller-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=thriller-rakuten-tv
 #EXTINF:-1 tvg-chno=6 tvg-id="sci-fi-rakuten-tv" tvg-name="Sci-Fi - Rakuten TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg" group-title="Rakuten Películas",Sci-Fi - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=sci-fi-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=sci-fi-rakuten-tv
 #EXTINF:-1 tvg-chno=5 tvg-id="spanish-cinema-rakuten-tv" tvg-name="Cine Español - Rakuten TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg" group-title="Rakuten Películas",Cine Español - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=spanish-cinema-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=spanish-cinema-rakuten-tv
 #EXTINF:-1 tvg-chno=4 tvg-id="romance-rakuten-tv" tvg-name="Películas Románticas - Rakuten TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Rakuten Películas",Películas Románticas - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=romance-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=romance-rakuten-tv
 #EXTINF:-1 tvg-chno=3 tvg-id="drama-rakuten-tv" tvg-name="Películas de Drama - Rakuten TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Rakuten Películas",Películas de Drama - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=drama-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=drama-rakuten-tv
 #EXTINF:-1 tvg-chno=2 tvg-id="comedy-rakuten-tv" tvg-name="Comedia - Rakuten TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" group-title="Rakuten Películas",Comedia - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=comedy-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=comedy-rakuten-tv
 #EXTINF:-1 tvg-chno=1 tvg-id="action-rakuten-tv" tvg-name="Películas de Acción - Rakuten TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Rakuten Películas",Películas de Acción - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=action-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=action-rakuten-tv
 #EXTINF:-1 tvg-chno=0 tvg-id="top-movies-rakuten-tv" tvg-name="Pelis Top - Rakuten TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten Películas",Pelis Top - Rakuten TV
-http://192.168.1.98:8080/streams/rakuten_stream.php?id=top-movies-rakuten-tv&url=aHR0cHM6Ly9kMzlnMXZ4ajJlZjZpbi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kLXJha3V0ZW4tc3RpdGNoZWQvbWFzdGVyLm0zdTg=
+http://192.168.1.98:8080/streams/rakuten_stream.php?id=top-movies-rakuten-tv
