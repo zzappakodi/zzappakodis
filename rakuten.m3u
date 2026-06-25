@@ -1,296 +1,294 @@
 #EXTM3U x-tvg-url="http://192.168.1.98:8080/raku-epg.xml"
 
-#EXTINF:-1 tvg-id="france-24-en" tvg-name="France 24 En" group-title="Entretenimiento",France 24 En
+#EXTINF:-1 tvg-id="france-24-en" tvg-name="France 24 En" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Entretenimiento",3
+#EXTINF:-1 tvg-id="3" tvg-name="3" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="46" group-title="Entretenimiento",46
+#EXTINF:-1 tvg-id="46" tvg-name="46" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="ENG" tvg-name="Eng" group-title="Entretenimiento",Eng
+#EXTINF:-1 tvg-id="ENG" tvg-name="Eng" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="el-pais" tvg-name="El Pais" group-title="Noticias",El Pais
+#EXTINF:-1 tvg-id="el-pais" tvg-name="El Pais" group-title="Noticias",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Entretenimiento",1
+#EXTINF:-1 tvg-id="1" tvg-name="1" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="SPA" tvg-name="Spa" group-title="Entretenimiento",Spa
+#EXTINF:-1 tvg-id="SPA" tvg-name="Spa" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="newsworld-spa" tvg-name="Newsworld Spa" group-title="Noticias",Newsworld Spa
+#EXTINF:-1 tvg-id="newsworld-spa" tvg-name="Newsworld Spa" group-title="Noticias",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="cgtn" tvg-name="Cgtn" group-title="Entretenimiento",Cgtn
+#EXTINF:-1 tvg-id="cgtn" tvg-name="Cgtn" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="82" group-title="Entretenimiento",82
+#EXTINF:-1 tvg-id="82" tvg-name="82" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="africanews-eng" tvg-name="Africanews Eng" group-title="Noticias",Africanews Eng
+#EXTINF:-1 tvg-id="africanews-eng" tvg-name="Africanews Eng" group-title="Noticias",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="7" group-title="Entretenimiento",7
+#EXTINF:-1 tvg-id="7" tvg-name="7" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="cgtn-es" tvg-name="Cgtn Es" group-title="Entretenimiento",Cgtn Es
+#EXTINF:-1 tvg-id="cgtn-es" tvg-name="Cgtn Es" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="bloomberg-tv-plus" tvg-name="Bloomberg Tv Plus" group-title="Entretenimiento",Bloomberg Tv Plus
+#EXTINF:-1 tvg-id="bloomberg-tv-plus" tvg-name="Bloomberg Tv Plus" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="bloomberg-originals-new" tvg-name="Bloomberg Originals New" group-title="Entretenimiento",Bloomberg Originals New
+#EXTINF:-1 tvg-id="bloomberg-originals-new" tvg-name="Bloomberg Originals New" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="77" group-title="Entretenimiento",77
+#EXTINF:-1 tvg-id="77" tvg-name="77" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="the-reuters-60" tvg-name="The Reuters 60" group-title="Noticias",The Reuters 60
+#EXTINF:-1 tvg-id="the-reuters-60" tvg-name="The Reuters 60" group-title="Noticias",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="DEU" tvg-name="Deu" group-title="Entretenimiento",Deu
+#EXTINF:-1 tvg-id="DEU" tvg-name="Deu" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="actualidad-360" tvg-name="Actualidad 360" group-title="Noticias",Actualidad 360
+#EXTINF:-1 tvg-id="actualidad-360" tvg-name="Actualidad 360" group-title="Noticias",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="euronews-live-spa" tvg-name="Euronews Live Spa" group-title="Noticias",Euronews Live Spa
+#EXTINF:-1 tvg-id="euronews-live-spa" tvg-name="Euronews Live Spa" group-title="Noticias",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="historia-y-vida" tvg-name="Historia Y Vida" group-title="Estilo de vida",Historia Y Vida
+#EXTINF:-1 tvg-id="historia-y-vida" tvg-name="Historia Y Vida" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="oficios-perdidos" tvg-name="Oficios Perdidos" group-title="Entretenimiento",Oficios Perdidos
+#EXTINF:-1 tvg-id="oficios-perdidos" tvg-name="Oficios Perdidos" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="cgtn-documentary" tvg-name="Cgtn Documentary" group-title="Entretenimiento",Cgtn Documentary
+#EXTINF:-1 tvg-id="cgtn-documentary" tvg-name="Cgtn Documentary" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="nature-time-es" tvg-name="Nature Time Es" group-title="Entretenimiento",Nature Time Es
+#EXTINF:-1 tvg-id="nature-time-es" tvg-name="Nature Time Es" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="weather-spy-new" tvg-name="Weather Spy New" group-title="Entretenimiento",Weather Spy New
+#EXTINF:-1 tvg-id="weather-spy-new" tvg-name="Weather Spy New" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="50" group-title="Entretenimiento",50
+#EXTINF:-1 tvg-id="50" tvg-name="50" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="53" group-title="Entretenimiento",53
+#EXTINF:-1 tvg-id="53" tvg-name="53" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="planeta-salvaje" tvg-name="Planeta Salvaje" group-title="Entretenimiento",Planeta Salvaje
+#EXTINF:-1 tvg-id="planeta-salvaje" tvg-name="Planeta Salvaje" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="royalworld-es" tvg-name="Royalworld Es" group-title="Entretenimiento",Royalworld Es
+#EXTINF:-1 tvg-id="royalworld-es" tvg-name="Royalworld Es" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="aftershock-meo-lc" tvg-name="Aftershock Meo Lc" group-title="Entretenimiento",Aftershock Meo Lc
+#EXTINF:-1 tvg-id="aftershock-meo-lc" tvg-name="Aftershock Meo Lc" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="52" group-title="Entretenimiento",52
+#EXTINF:-1 tvg-id="52" tvg-name="52" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="crimenes-reales" tvg-name="Crimenes Reales" group-title="Misterio",Crimenes Reales
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=drama&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=CrimenesRealesSpanish&ads.content_livestream=0&ads.csid=zeus_es_crimenes_reales_ssai&ads.gam_correlator=6257227166233820&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=72403be4-308a-40d2-8187a-6357adce9c94&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883016&ads.xumo_channel_id=88883016&ads.xumo_contentId=2701&ads.xumo_contentName=CrimenesReales&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=crimenes-reales-es&ads.xumo_streamId=88883016
-#EXTINF:-1 tvg-id="8" tvg-name="8" group-title="Entretenimiento",8
+#EXTINF:-1 tvg-id="crimenes-reales" tvg-name="Crimenes Reales" group-title="Misterio",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="98" tvg-name="98" group-title="Entretenimiento",98
+#EXTINF:-1 tvg-id="8" tvg-name="8" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="todo-crimen" tvg-name="Todo Crimen" group-title="Misterio",Todo Crimen
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=drama&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=RakutenTVCrimeSpanish&ads.content_livestream=0&ads.csid=zeus_es_todo_crimen_ssai&ads.gam_correlator=9688494595648060&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=b523bea4-1e2b-478d-8d6d-f190fb1c2c95&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883012&ads.xumo_channel_id=88883012&ads.xumo_contentId=2701&ads.xumo_contentName=RakutenTVCrime&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=rakutentv-crime-es&ads.xumo_streamId=88883012
-#EXTINF:-1 tvg-id="47" tvg-name="47" group-title="Entretenimiento",47
+#EXTINF:-1 tvg-id="98" tvg-name="98" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="filmrise-unsolved-mysteries-es" tvg-name="Filmrise Unsolved Mysteries Es" group-title="Misterio",Filmrise Unsolved Mysteries Es
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime%2Cmystery&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=FilmRise&ads.content_livestream=0&ads.csid=zeus_es_filmrise_unsolved_mysteries_es_ssai&ads.gam_correlator=8112280829887397&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=a27d0ef6-ec4b-4f7b-83e59-5a219c42a3e8&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883123&ads.xumo_channel_id=88883123&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=filmrise-unsolved-mysteries-spa-rakutentv&ads.xumo_streamId=88883123
-#EXTINF:-1 tvg-id="filmrise-forensic-files-spa" tvg-name="Filmrise Forensic Files Spa" group-title="Misterio",Filmrise Forensic Files Spa
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=ArchivosForenses&ads.content_livestream=0&ads.csid=zeus_es_filmrise_forensic_files_spa_ssai&ads.gam_correlator=5841292564136322&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=5cc20802-d0d6-4c75-8e25-0f89de868424&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883012&ads.xumo_channel_id=88883012&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=forensic-files-spa-rakutentv&ads.xumo_streamId=88883012
-#EXTINF:-1 tvg-id="48" tvg-name="48" group-title="Entretenimiento",48
+#EXTINF:-1 tvg-id="todo-crimen" tvg-name="Todo Crimen" group-title="Misterio",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="el-conquistador" tvg-name="El Conquistador" group-title="Entretenimiento",El Conquistador
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors%2Creality&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_el_conquistador_ssai&ads.gam_correlator=7376207067520794&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=31b775ce-743c-4d21-83459-b38596f365eb&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883130&ads.xumo_channel_id=88883130&ads.xumo_contentId=2701&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=el-conquistador-spa-rakutentv&ads.xumo_streamId=88883130
-#EXTINF:-1 tvg-id="55" tvg-name="55" group-title="Entretenimiento",55
+#EXTINF:-1 tvg-id="47" tvg-name="47" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="cops-en-espanol" tvg-name="Cops En Espanol" group-title="Entretenimiento",Cops En Espanol
+#EXTINF:-1 tvg-id="filmrise-unsolved-mysteries-es" tvg-name="Filmrise Unsolved Mysteries Es" group-title="Misterio",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="jade-fever-es" tvg-name="Jade Fever Es" group-title="Entretenimiento",Jade Fever Es
+#EXTINF:-1 tvg-id="filmrise-forensic-files-spa" tvg-name="Filmrise Forensic Files Spa" group-title="Misterio",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="ice-pilots-es" tvg-name="Ice Pilots Es" group-title="Entretenimiento",Ice Pilots Es
+#EXTINF:-1 tvg-id="48" tvg-name="48" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="pingu-rakuten-tv" tvg-name="Pingu Rakuten Tv" group-title="Infantil",Pingu Rakuten Tv
+#EXTINF:-1 tvg-id="el-conquistador" tvg-name="El Conquistador" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="20" group-title="Entretenimiento",20
+#EXTINF:-1 tvg-id="55" tvg-name="55" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="planeta-junior-spa" tvg-name="Planeta Junior Spa" group-title="Entretenimiento",Planeta Junior Spa
+#EXTINF:-1 tvg-id="cops-en-espanol" tvg-name="Cops En Espanol" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="pocoyo" tvg-name="Pocoyo" group-title="Infantil",Pocoyo
+#EXTINF:-1 tvg-id="jade-fever-es" tvg-name="Jade Fever Es" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="las-tres-mellizas" tvg-name="Las Tres Mellizas" group-title="Infantil",Las Tres Mellizas
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=animation%2Cchildren&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_las_tres_mellizas_ssai&ads.gam_correlator=2690941474473341&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=e869bbc7-24c6-4fb2-8570-e80b9de11594&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883128&ads.xumo_channel_id=88883128&ads.xumo_contentId=2701&ads.xumo_contentName=IndigeniusKids&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=las-tres-mellizas-spa-rakutentv&ads.xumo_streamId=88883128
-#EXTINF:-1 tvg-id="baby-shark-tv" tvg-name="Baby Shark Tv" group-title="Entretenimiento",Baby Shark Tv
+#EXTINF:-1 tvg-id="ice-pilots-es" tvg-name="Ice Pilots Es" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="rantaro-ninja-boy-rakuten-tv" tvg-name="Rantaro Ninja Boy Rakuten Tv" group-title="Entretenimiento",Rantaro Ninja Boy Rakuten Tv
+#EXTINF:-1 tvg-id="pingu-rakuten-tv" tvg-name="Pingu Rakuten Tv" group-title="Infantil",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="39" group-title="Entretenimiento",39
+#EXTINF:-1 tvg-id="20" tvg-name="20" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-name="Family Rakuten Tv" group-title="Entretenimiento",Family Rakuten Tv
+#EXTINF:-1 tvg-id="planeta-junior-spa" tvg-name="Planeta Junior Spa" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="13" group-title="Entretenimiento",13
+#EXTINF:-1 tvg-id="pocoyo" tvg-name="Pocoyo" group-title="Infantil",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts By Stingray" group-title="Música",Qello Concerts By Stingray
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=QelloConcertsbyStingray&ads.content_livestream=0&ads.csid=zeus_eu_qelloconcertsbystingray_ssai&ads.gam_correlator=3046530982258999&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=6116c454-0805-4817-8524-355f32fac701&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883052&ads.xumo_channel_id=88883052&ads.xumo_contentId=2701&ads.xumo_contentName=QelloConcertsByStingray&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=stingray-qello-concerts-eng-rakutentv&ads.xumo_streamId=88883052
-#EXTINF:-1 tvg-id="54" tvg-name="54" group-title="Entretenimiento",54
+#EXTINF:-1 tvg-id="las-tres-mellizas" tvg-name="Las Tres Mellizas" group-title="Infantil",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="that-s-90s00s" tvg-name="That S 90S00S" group-title="Música",That S 90S00S
+#EXTINF:-1 tvg-id="baby-shark-tv" tvg-name="Baby Shark Tv" group-title="Infantil",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="vevo-pop-es" tvg-name="Vevo Pop Es" group-title="Música",Vevo Pop Es
+#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-name="Family Rakuten Tv" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="vevo-latino-es" tvg-name="Vevo Latino Es" group-title="Música",Vevo Latino Es
+#EXTINF:-1 tvg-id="13" tvg-name="13" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="that-s-rock" tvg-name="That S Rock" group-title="Música",That S Rock
+#EXTINF:-1 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts By Stingray" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="that-s-80s" tvg-name="That S 80S" group-title="Música",That S 80S
+#EXTINF:-1 tvg-id="54" tvg-name="54" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="that-s-70s" tvg-name="That S 70S" group-title="Música",That S 70S
+#EXTINF:-1 tvg-id="that-s-90s00s" tvg-name="That S 90S00S" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray Remember The 80 S" group-title="Música",Stingray Remember The 80 S
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=RememberThe80sUK&ads.content_livestream=0&ads.csid=zeus_uk_stingrayrememberthe80s_ssai&ads.gam_correlator=2512975734877607&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=7ded3a71-3261-4ce1-8ca4-1cfd308d0fec&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883071&ads.xumo_channel_id=88883071&ads.xumo_contentId=2701&ads.xumo_contentName=StingrayEverything80s&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=stingray-remember-the-80s-eng-rakutentv&ads.xumo_streamId=88883071
-#EXTINF:-1 tvg-id="ZXX" tvg-name="Zxx" group-title="Entretenimiento",Zxx
+#EXTINF:-1 tvg-id="vevo-pop-es" tvg-name="Vevo Pop Es" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="stingray-hit-list" tvg-name="Stingray Hit List" group-title="Música",Stingray Hit List
+#EXTINF:-1 tvg-id="vevo-latino-es" tvg-name="Vevo Latino Es" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" group-title="Música",Stingray Greatest Hits
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=StingrayGreatestHits&ads.content_livestream=0&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads.gam_correlator=1023803392867682&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=ad601cca-83d0-4ab7-8319e-147a8e4ace2b&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883053&ads.xumo_channel_id=88883053&ads.xumo_contentId=2701&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=stingray-greatest-hits-eng&ads.xumo_streamId=88883053
-#EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge Hd" group-title="Música",Deluxe Lounge Hd
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=music&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=DeluxeLoungeHD&ads.content_livestream=0&ads.csid=zeus_eu_deluxelounge_ssai&ads.gam_correlator=2980740805808072&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=3dee3b1d-6263-4439-8e67-1230f7e63108&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883058&ads.xumo_channel_id=88883058&ads.xumo_contentId=2701&ads.xumo_contentName=DeluxeLounge&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=deluxe-lounge-es&ads.xumo_streamId=88883058
-#EXTINF:-1 tvg-id="qwest-tv" tvg-name="Qwest Tv" group-title="Entretenimiento",Qwest Tv
+#EXTINF:-1 tvg-id="that-s-rock" tvg-name="That S Rock" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="metal-rocks" tvg-name="Metal Rocks" group-title="Música",Metal Rocks
+#EXTINF:-1 tvg-id="that-s-80s" tvg-name="That S 80S" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="a-bocados" tvg-name="A Bocados" group-title="Cocina",A Bocados
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=cooking&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_a_bocados_ssai&ads.gam_correlator=7165605025302637&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=b3f19b17-506d-43c7-81b9b-13f1394994e0&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883131&ads.xumo_channel_id=88883131&ads.xumo_contentId=2701&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=a-bocados-spa-rakutentv&ads.xumo_streamId=88883131
-#EXTINF:-1 tvg-id="78" tvg-name="78" group-title="Entretenimiento",78
+#EXTINF:-1 tvg-id="that-s-70s" tvg-name="That S 70S" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="gusto-tv-new" tvg-name="Gusto Tv New" group-title="Cocina",Gusto Tv New
+#EXTINF:-1 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray Remember The 80 S" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="daystar-eng" tvg-name="Daystar Eng" group-title="Entretenimiento",Daystar Eng
+#EXTINF:-1 tvg-id="ZXX" tvg-name="Zxx" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="99" group-title="Entretenimiento",99
+#EXTINF:-1 tvg-id="stingray-hit-list" tvg-name="Stingray Hit List" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="daystar-spa" tvg-name="Daystar Spa" group-title="Entretenimiento",Daystar Spa
+#EXTINF:-1 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1" tvg-name="Hola Play 2108Fd06 86D4 44E8 9867 C35B4895A1C1" group-title="Estilo de vida",Hola Play 2108Fd06 86D4 44E8 9867 C35B4895A1C1
+#EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge Hd" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Entretenimiento",4
+#EXTINF:-1 tvg-id="qwest-tv" tvg-name="Qwest Tv" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="5-minutes-craft-es" tvg-name="5 Minutes Craft Es" group-title="Entretenimiento",5 Minutes Craft Es
+#EXTINF:-1 tvg-id="metal-rocks" tvg-name="Metal Rocks" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="stingray-naturescape" tvg-name="Stingray Naturescape" group-title="Música",Stingray Naturescape
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=StingrayNaturescape&ads.content_livestream=0&ads.csid=zeus_eu_stingrayambiance_ssai&ads.gam_correlator=4810894783305214&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=f5bab8af-05a2-4c64-816f-7bf133b06930&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883056&ads.xumo_channel_id=88883056&ads.xumo_contentId=2701&ads.xumo_contentName=StingrayAmbiance&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=stingray-naturescape-eng-rakutentv&ads.xumo_streamId=88883056
-#EXTINF:-1 tvg-id="vivir-con-perros" tvg-name="Vivir Con Perros" group-title="Estilo de vida",Vivir Con Perros
+#EXTINF:-1 tvg-id="a-bocados" tvg-name="A Bocados" group-title="Cocina",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="vivir-con-gatos" tvg-name="Vivir Con Gatos" group-title="Estilo de vida",Vivir Con Gatos
+#EXTINF:-1 tvg-id="78" tvg-name="78" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="med-tv" tvg-name="Med Tv" group-title="Entretenimiento",Med Tv
+#EXTINF:-1 tvg-id="gusto-tv-new" tvg-name="Gusto Tv New" group-title="Cocina",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="travelxp-es" tvg-name="Travelxp Es" group-title="Estilo de vida",Travelxp Es
+#EXTINF:-1 tvg-id="daystar-eng" tvg-name="Daystar Eng" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="1-1-travel" tvg-name="1 1 Travel" group-title="Estilo de vida",1 1 Travel
+#EXTINF:-1 tvg-id="99" tvg-name="99" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="the-design-network-new" tvg-name="The Design Network New" group-title="Estilo de vida",The Design Network New
+#EXTINF:-1 tvg-id="daystar-spa" tvg-name="Daystar Spa" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion Tv" group-title="Estilo de vida",Fashion Tv
+#EXTINF:-1 tvg-id="hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1" tvg-name="Hola Play 2108Fd06 86D4 44E8 9867 C35B4895A1C1" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="gipsy-kings-rakuten-tv" tvg-name="Gipsy Kings Rakuten Tv" group-title="Estilo de vida",Gipsy Kings Rakuten Tv
+#EXTINF:-1 tvg-id="4" tvg-name="4" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="lifestyle-rakuten-tv" tvg-name="Lifestyle Rakuten Tv" group-title="Entretenimiento",Lifestyle Rakuten Tv
+#EXTINF:-1 tvg-id="5-minutes-craft-es" tvg-name="5 Minutes Craft Es" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="tennis-plus" tvg-name="Tennis Plus" group-title="Deportes",Tennis Plus
+#EXTINF:-1 tvg-id="stingray-naturescape" tvg-name="Stingray Naturescape" group-title="Música",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="red-bull-tv-es" tvg-name="Red Bull Tv Es" group-title="Entretenimiento",Red Bull Tv Es
+#EXTINF:-1 tvg-id="vivir-con-perros" tvg-name="Vivir Con Perros" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="51" group-title="Entretenimiento",51
+#EXTINF:-1 tvg-id="vivir-con-gatos" tvg-name="Vivir Con Gatos" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="racer-international" tvg-name="Racer International" group-title="Deportes",Racer International
+#EXTINF:-1 tvg-id="med-tv" tvg-name="Med Tv" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="pfl-mma" tvg-name="Pfl Mma" group-title="Entretenimiento",Pfl Mma
+#EXTINF:-1 tvg-id="travelxp-es" tvg-name="Travelxp Es" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="sports-illustrated-tv" tvg-name="Sports Illustrated Tv" group-title="Deportes",Sports Illustrated Tv
+#EXTINF:-1 tvg-id="1-1-travel" tvg-name="1 1 Travel" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="world-surf-league" tvg-name="World Surf League" group-title="Deportes",World Surf League
+#EXTINF:-1 tvg-id="the-design-network-new" tvg-name="The Design Network New" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="surf-channel" tvg-name="Surf Channel" group-title="Deportes",Surf Channel
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion Tv" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="glory-kickboxing" tvg-name="Glory Kickboxing" group-title="Deportes",Glory Kickboxing
+#EXTINF:-1 tvg-id="gipsy-kings-rakuten-tv" tvg-name="Gipsy Kings Rakuten Tv" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" group-title="Entretenimiento",Hard Knocks Fighting Championship
+#EXTINF:-1 tvg-id="lifestyle-rakuten-tv" tvg-name="Lifestyle Rakuten Tv" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="billiards-tv" tvg-name="Billiards Tv" group-title="Deportes",Billiards Tv
+#EXTINF:-1 tvg-id="tennis-plus" tvg-name="Tennis Plus" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="fuel-tv-new" tvg-name="Fuel Tv New" group-title="Deportes",Fuel Tv New
+#EXTINF:-1 tvg-id="red-bull-tv-es" tvg-name="Red Bull Tv Es" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="rally-tv-fast" tvg-name="Rally Tv Fast" group-title="Deportes",Rally Tv Fast
+#EXTINF:-1 tvg-id="51" tvg-name="51" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="inter-24-7-eng" tvg-name="Inter 24 7 Eng" group-title="Entretenimiento",Inter 24 7 Eng
+#EXTINF:-1 tvg-id="racer-international" tvg-name="Racer International" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="laliga-inside" tvg-name="Laliga Inside" group-title="Entretenimiento",Laliga Inside
+#EXTINF:-1 tvg-id="pfl-mma" tvg-name="Pfl Mma" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="mypadel-tv" tvg-name="Mypadel Tv" group-title="Entretenimiento",Mypadel Tv
+#EXTINF:-1 tvg-id="sports-illustrated-tv" tvg-name="Sports Illustrated Tv" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="fifa-plus-es-new" tvg-name="Fifa Plus Es New" group-title="Entretenimiento",Fifa Plus Es New
+#EXTINF:-1 tvg-id="world-surf-league" tvg-name="World Surf League" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="top-barca-es" tvg-name="Top Barca Es" group-title="Deportes",Top Barca Es
+#EXTINF:-1 tvg-id="surf-channel" tvg-name="Surf Channel" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="jukin-fail-army-new" tvg-name="Jukin Fail Army New" group-title="Entretenimiento",Jukin Fail Army New
+#EXTINF:-1 tvg-id="glory-kickboxing" tvg-name="Glory Kickboxing" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="revry" tvg-name="Revry" group-title="Entretenimiento",Revry
+#EXTINF:-1 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="56" group-title="Entretenimiento",56
+#EXTINF:-1 tvg-id="billiards-tv" tvg-name="Billiards Tv" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="people-are-awesome-new" tvg-name="People Are Awesome New" group-title="Entretenimiento",People Are Awesome New
+#EXTINF:-1 tvg-id="fuel-tv-new" tvg-name="Fuel Tv New" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective New" group-title="Entretenimiento",The Pet Collective New
+#EXTINF:-1 tvg-id="rally-tv-fast" tvg-name="Rally Tv Fast" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="k-drama-plus" tvg-name="K Drama Plus" group-title="Series",K Drama Plus
+#EXTINF:-1 tvg-id="inter-24-7-eng" tvg-name="Inter 24 7 Eng" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="87" tvg-name="87" group-title="Entretenimiento",87
+#EXTINF:-1 tvg-id="laliga-inside" tvg-name="Laliga Inside" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="animevision-classics" tvg-name="Animevision Classics" group-title="Entretenimiento",Animevision Classics
+#EXTINF:-1 tvg-id="mypadel-tv" tvg-name="Mypadel Tv" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="animevision" tvg-name="Animevision" group-title="Entretenimiento",Animevision
+#EXTINF:-1 tvg-id="fifa-plus-es-new" tvg-name="Fifa Plus Es New" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="midsomer-murders-spa" tvg-name="Midsomer Murders Spa" group-title="Entretenimiento",Midsomer Murders Spa
+#EXTINF:-1 tvg-id="top-barca-es" tvg-name="Top Barca Es" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="wedotv-amor" tvg-name="Wedotv Amor" group-title="Entretenimiento",Wedotv Amor
+#EXTINF:-1 tvg-id="jukin-fail-army-new" tvg-name="Jukin Fail Army New" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="rookie-blue-spa" tvg-name="Rookie Blue Spa" group-title="Series",Rookie Blue Spa
+#EXTINF:-1 tvg-id="revry" tvg-name="Revry" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="todo-drama" tvg-name="Todo Drama" group-title="Series",Todo Drama
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=drama&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=RakutenTVDramaSpanish&ads.content_livestream=0&ads.csid=zeus_es_todo_drama_ssai&ads.gam_correlator=8079808730338633&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=863d5c60-78ec-45d0-82986-62b572add75d&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883014&ads.xumo_channel_id=88883014&ads.xumo_contentId=2701&ads.xumo_contentName=RakutenTVDrama&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=rakutentv-drama-es&ads.xumo_streamId=88883014
-#EXTINF:-1 tvg-id="lol-espana" tvg-name="Lol Espana" group-title="Series",Lol Espana
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=comedy&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_lol_espana_ssai&ads.gam_correlator=2968402398252937&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=fb494068-4248-46d5-832e0-70d3b8f0c460&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883129&ads.xumo_channel_id=88883129&ads.xumo_contentId=2701&ads.xumo_contentName=Indigenius&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=todo-comedia-spa-rakutentv&ads.xumo_streamId=88883129
-#EXTINF:-1 tvg-id="mr-bean-live-action" tvg-name="Mr Bean Live Action" group-title="Deportes",Mr Bean Live Action
+#EXTINF:-1 tvg-id="56" tvg-name="56" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="mr-bean-es" tvg-name="Mr Bean Es" group-title="Series",Mr Bean Es
+#EXTINF:-1 tvg-id="people-are-awesome-new" tvg-name="People Are Awesome New" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="yu-gi-oh-new-spa" tvg-name="Yu Gi Oh New Spa" group-title="Entretenimiento",Yu Gi Oh New Spa
+#EXTINF:-1 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective New" group-title="Estilo de vida",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="bbc-top-gear-spa" tvg-name="Bbc Top Gear Spa" group-title="Series",Bbc Top Gear Spa
+#EXTINF:-1 tvg-id="k-drama-plus" tvg-name="K Drama Plus" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="todo-novelas" tvg-name="Todo Novelas" group-title="Series",Todo Novelas
+#EXTINF:-1 tvg-id="87" tvg-name="87" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="rakuten-viki-es" tvg-name="Rakuten Viki Es" group-title="Series",Rakuten Viki Es
+#EXTINF:-1 tvg-id="animevision-classics" tvg-name="Animevision Classics" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="beyblade-es" tvg-name="Beyblade Es" group-title="Entretenimiento",Beyblade Es
+#EXTINF:-1 tvg-id="39" tvg-name="39" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="bbc-series-es" tvg-name="Bbc Series Es" group-title="Series",Bbc Series Es
+#EXTINF:-1 tvg-id="animevision" tvg-name="Animevision" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-name="Filmrise Sci Fi Es" group-title="Cine",Filmrise Sci Fi Es
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sci-fi&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=sessionid&ads.appName=RakutenTV&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.content_livestream=0&ads.csid=zeus_es_filmrise_sci_fi_es_ssai&ads.gam_correlator=1538855023971291&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=acb5531a-f84f-4d13-82ab4-717da1df32b9&ads.rakuten_user_type=visitor&ads.xumo_channelId=88883026&ads.xumo_channel_id=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRise&ads.xumo_ifa=2a8eb828-849f-4c53-aa56-f5e4c761a4be&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=filmrise-sci-fi-spa-rakutentv&ads.xumo_streamId=88883026
-#EXTINF:-1 tvg-id="aguila-roja-rakuten-tv" tvg-name="Aguila Roja Rakuten Tv" group-title="Entretenimiento",Aguila Roja Rakuten Tv
+#EXTINF:-1 tvg-id="midsomer-murders-spa" tvg-name="Midsomer Murders Spa" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="alarm-for-cobra-rakuten-tv" tvg-name="Alarm For Cobra Rakuten Tv" group-title="Entretenimiento",Alarm For Cobra Rakuten Tv
+#EXTINF:-1 tvg-id="wedotv-amor" tvg-name="Wedotv Amor" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Crime Rakuten Tv" group-title="Entretenimiento",Crime Rakuten Tv
+#EXTINF:-1 tvg-id="rookie-blue-spa" tvg-name="Rookie Blue Spa" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="cine-western-es" tvg-name="Cine Western Es" group-title="Cine",Cine Western Es
+#EXTINF:-1 tvg-id="todo-drama" tvg-name="Todo Drama" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="grjngo-es" tvg-name="Grjngo Es" group-title="Entretenimiento",Grjngo Es
+#EXTINF:-1 tvg-id="lol-espana" tvg-name="Lol Espana" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="feel-good-tv" tvg-name="Feel Good Tv" group-title="Cine",Feel Good Tv
+#EXTINF:-1 tvg-id="mr-bean-live-action" tvg-name="Mr Bean Live Action" group-title="Deportes",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="verdi-tv" tvg-name="Verdi Tv" group-title="Cine",Verdi Tv
+#EXTINF:-1 tvg-id="mr-bean-es" tvg-name="Mr Bean Es" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="dark-matter-es-new" tvg-name="Dark Matter Es New" group-title="Entretenimiento",Dark Matter Es New
+#EXTINF:-1 tvg-id="yu-gi-oh-new-spa" tvg-name="Yu Gi Oh New Spa" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="cine-friki" tvg-name="Cine Friki" group-title="Cine",Cine Friki
+#EXTINF:-1 tvg-id="bbc-top-gear-spa" tvg-name="Bbc Top Gear Spa" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="Mytime Movie Network Spanish" group-title="Entretenimiento",Mytime Movie Network Spanish
+#EXTINF:-1 tvg-id="todo-novelas" tvg-name="Todo Novelas" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-name="Thriller Rakuten Tv" group-title="Entretenimiento",Thriller Rakuten Tv
+#EXTINF:-1 tvg-id="rakuten-viki-es" tvg-name="Rakuten Viki Es" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Sci Fi Rakuten Tv" group-title="Cine",Sci Fi Rakuten Tv
+#EXTINF:-1 tvg-id="beyblade-es" tvg-name="Beyblade Es" group-title="Infantil",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="spanish-cinema-rakuten-tv" tvg-name="Spanish Cinema Rakuten Tv" group-title="Cine",Spanish Cinema Rakuten Tv
+#EXTINF:-1 tvg-id="bbc-series-es" tvg-name="Bbc Series Es" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-name="Romance Rakuten Tv" group-title="Entretenimiento",Romance Rakuten Tv
+#EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-name="Filmrise Sci Fi Es" group-title="Cine",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-name="Drama Rakuten Tv" group-title="Series",Drama Rakuten Tv
+#EXTINF:-1 tvg-id="aguila-roja-rakuten-tv" tvg-name="Aguila Roja Rakuten Tv" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-name="Comedy Rakuten Tv" group-title="Entretenimiento",Comedy Rakuten Tv
+#EXTINF:-1 tvg-id="alarm-for-cobra-rakuten-tv" tvg-name="Alarm For Cobra Rakuten Tv" group-title="Series",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-name="Action Rakuten Tv" group-title="Deportes",Action Rakuten Tv
+#EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Crime Rakuten Tv" group-title="Entretenimiento",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
-#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies Rakuten Tv" group-title="Cine",Top Movies Rakuten Tv
+#EXTINF:-1 tvg-id="cine-western-es" tvg-name="Cine Western Es" group-title="Cine",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="grjngo-es" tvg-name="Grjngo Es" group-title="Cine",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="feel-good-tv" tvg-name="Feel Good Tv" group-title="Cine",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="verdi-tv" tvg-name="Verdi Tv" group-title="Cine",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="dark-matter-es-new" tvg-name="Dark Matter Es New" group-title="Cine",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="cine-friki" tvg-name="Cine Friki" group-title="Cine",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="Mytime Movie Network Spanish" group-title="Cine",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-name="Thriller Rakuten Tv" group-title="Entretenimiento",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Sci Fi Rakuten Tv" group-title="Cine",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="spanish-cinema-rakuten-tv" tvg-name="Spanish Cinema Rakuten Tv" group-title="Cine",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-name="Romance Rakuten Tv" group-title="Entretenimiento",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-name="Drama Rakuten Tv" group-title="Series",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-name="Comedy Rakuten Tv" group-title="Entretenimiento",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-name="Action Rakuten Tv" group-title="Deportes",|
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies Rakuten Tv" group-title="Cine",|
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
