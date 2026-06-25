@@ -1,2 +1,238 @@
 #EXTM3U x-tvg-url="http://192.168.1.98:8080/raku-epg.xml"
 
+#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-name="Pelis Top - Rakuten TV" group-title="Entretenimiento",Pelis Top - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-name="Películas de Acción - Rakuten TV" group-title="Entretenimiento",Películas de Acción - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-name="Comedia - Rakuten TV" group-title="Entretenimiento",Comedia - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-name="Películas de Drama - Rakuten TV" group-title="Entretenimiento",Películas de Drama - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-name="Películas Románticas - Rakuten TV" group-title="Entretenimiento",Películas Románticas - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="spanish-cinema-rakuten-tv" tvg-name="Cine Español - Rakuten TV" group-title="Entretenimiento",Cine Español - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Sci-Fi - Rakuten TV" group-title="Entretenimiento",Sci-Fi - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-name="Thrillers - Rakuten TV" group-title="Entretenimiento",Thrillers - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="MyTime Movie Network" group-title="Entretenimiento",MyTime Movie Network
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="cine-friki" tvg-name="Cine Friki" group-title="Entretenimiento",Cine Friki
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="dark-matter-es-new" tvg-name="Dark Matter" group-title="Entretenimiento",Dark Matter
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="verdi-tv" tvg-name="Verdi TV" group-title="Entretenimiento",Verdi TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="feel-good-tv" tvg-name="Feel Good TV" group-title="Entretenimiento",Feel Good TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="grjngo-es" tvg-name="Grjngo" group-title="Entretenimiento",Grjngo
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="cine-western-es" tvg-name="Cine Western" group-title="Entretenimiento",Cine Western
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Crimen - Rakuten TV" group-title="Entretenimiento",Crimen - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="alarm-for-cobra-rakuten-tv" tvg-name="Alerta Cobra - Brigada especial de carreteras" group-title="Entretenimiento",Alerta Cobra - Brigada especial de carreteras
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="aguila-roja-rakuten-tv" tvg-name="Águila Roja" group-title="Entretenimiento",Águila Roja
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-name="FilmRise Sci-Fi" group-title="Entretenimiento",FilmRise Sci-Fi
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="bbc-series-es" tvg-name="BBC Series" group-title="Entretenimiento",BBC Series
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="beyblade-es" tvg-name="Beyblade" group-title="Entretenimiento",Beyblade
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="rakuten-viki-es" tvg-name="Rakuten VIKI" group-title="Entretenimiento",Rakuten VIKI
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="todo-novelas" tvg-name="Todo Novelas" group-title="Entretenimiento",Todo Novelas
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="bbc-top-gear-spa" tvg-name="Top Gear en español" group-title="Entretenimiento",Top Gear en español
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="yu-gi-oh-new-spa" tvg-name="Yu-Gi-Oh!" group-title="Entretenimiento",Yu-Gi-Oh!
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="mr-bean-es" tvg-name="Mr. Bean" group-title="Entretenimiento",Mr. Bean
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean - Live Action" group-title="Entretenimiento",Mr. Bean - Live Action
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="lol-espana" tvg-name="LOL España" group-title="Entretenimiento",LOL España
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="todo-drama" tvg-name="Todo Drama" group-title="Entretenimiento",Todo Drama
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="rookie-blue-spa" tvg-name="Rookie Blue" group-title="Entretenimiento",Rookie Blue
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="wedotv-amor" tvg-name="wedotv Amor" group-title="Entretenimiento",wedotv Amor
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="midsomer-murders-spa" tvg-name="Los asesinatos de Midsomer" group-title="Entretenimiento",Los asesinatos de Midsomer
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="animevision" tvg-name="AnimeVisión" group-title="Entretenimiento",AnimeVisión
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="animevision-classics" tvg-name="AnimeVisión Classics" group-title="Entretenimiento",AnimeVisión Classics
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="k-drama-plus" tvg-name="K-Drama+" group-title="Entretenimiento",K-Drama+
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" group-title="Entretenimiento",The Pet Collective
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="people-are-awesome-new" tvg-name="People Are Awesome" group-title="Entretenimiento",People Are Awesome
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="revry" tvg-name="Revry" group-title="Entretenimiento",Revry
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="jukin-fail-army-new" tvg-name="Fail Army" group-title="Entretenimiento",Fail Army
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="top-barca-es" tvg-name="TOP Barça" group-title="Entretenimiento",TOP Barça
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="fifa-plus-es-new" tvg-name="FIFA+" group-title="Entretenimiento",FIFA+
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="mypadel-tv" tvg-name="MyPadel TV" group-title="Entretenimiento",MyPadel TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="laliga-inside" tvg-name="LaLiga Inside" group-title="Entretenimiento",LaLiga Inside
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="inter-24-7-eng" tvg-name="INTER 24/7" group-title="Entretenimiento",INTER 24/7
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="rally-tv-fast" tvg-name="Rally.TV FAST+" group-title="Entretenimiento",Rally.TV FAST+
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="fuel-tv-new" tvg-name="FUEL TV" group-title="Entretenimiento",FUEL TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="billiards-tv" tvg-name="World Billiards TV" group-title="Entretenimiento",World Billiards TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" group-title="Entretenimiento",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="glory-kickboxing" tvg-name="GLORY Kickboxing" group-title="Entretenimiento",GLORY Kickboxing
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="surf-channel" tvg-name="Surf Channel" group-title="Entretenimiento",Surf Channel
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="world-surf-league" tvg-name="World Surf League 24/7" group-title="Entretenimiento",World Surf League 24/7
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="sports-illustrated-tv" tvg-name="Sports Illustrated TV" group-title="Entretenimiento",Sports Illustrated TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="pfl-mma" tvg-name="PFL MMA" group-title="Entretenimiento",PFL MMA
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="racer-international" tvg-name="RACER International" group-title="Entretenimiento",RACER International
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="red-bull-tv-es" tvg-name="Red Bull TV" group-title="Entretenimiento",Red Bull TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="tennis-plus" tvg-name="Tennis+" group-title="Entretenimiento",Tennis+
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="lifestyle-rakuten-tv" tvg-name="Estilo y Vida - Rakuten TV" group-title="Entretenimiento",Estilo y Vida - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="gipsy-kings-rakuten-tv" tvg-name="Los Gipsy Kings - Rakuten TV" group-title="Entretenimiento",Los Gipsy Kings - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" group-title="Entretenimiento",Fashion TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="the-design-network-new" tvg-name="The Design Network" group-title="Entretenimiento",The Design Network
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="1-1-travel" tvg-name="1+1 Travel" group-title="Entretenimiento",1+1 Travel
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="travelxp-es" tvg-name="Travelxp" group-title="Entretenimiento",Travelxp
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="med-tv" tvg-name="Med.TV" group-title="Entretenimiento",Med.TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="vivir-con-gatos" tvg-name="Vivir con gatos" group-title="Entretenimiento",Vivir con gatos
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="vivir-con-perros" tvg-name="Vivir con perros" group-title="Entretenimiento",Vivir con perros
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="stingray-naturescape" tvg-name="Stingray Naturescape" group-title="Entretenimiento",Stingray Naturescape
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="5-minutes-craft-es" tvg-name="Ideas en 5 minutos" group-title="Entretenimiento",Ideas en 5 minutos
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1" tvg-name="¡HOLA! Play" group-title="Entretenimiento",¡HOLA! Play
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="daystar-spa" tvg-name="Daystar Español" group-title="Entretenimiento",Daystar Español
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="daystar-eng" tvg-name="Daystar TV" group-title="Entretenimiento",Daystar TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="gusto-tv-new" tvg-name="Gusto TV" group-title="Entretenimiento",Gusto TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="a-bocados" tvg-name="A bocados" group-title="Entretenimiento",A bocados
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="metal-rocks" tvg-name="Metal.Rocks" group-title="Entretenimiento",Metal.Rocks
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="qwest-tv" tvg-name="Qwest TV" group-title="Entretenimiento",Qwest TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge HD" group-title="Entretenimiento",Deluxe Lounge HD
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" group-title="Entretenimiento",Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="stingray-hit-list" tvg-name="Stingray: Hitlist" group-title="Entretenimiento",Stingray: Hitlist
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray: Remember the 80’s" group-title="Entretenimiento",Stingray: Remember the 80’s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="that-s-70s" tvg-name="That's 70s" group-title="Entretenimiento",That's 70s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="that-s-80s" tvg-name="That's 80s" group-title="Entretenimiento",That's 80s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="that-s-rock" tvg-name="That's ROCK" group-title="Entretenimiento",That's ROCK
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="vevo-latino-es" tvg-name="Vevo Latino" group-title="Entretenimiento",Vevo Latino
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="vevo-pop-es" tvg-name="Vevo Pop" group-title="Entretenimiento",Vevo Pop
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="that-s-90s00s" tvg-name="That's 90s00s" group-title="Entretenimiento",That's 90s00s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts by Stingray" group-title="Entretenimiento",Qello Concerts by Stingray
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-name="En Familia - Rakuten TV" group-title="Entretenimiento",En Familia - Rakuten TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="baby-shark-tv" tvg-name="Baby Shark TV" group-title="Entretenimiento",Baby Shark TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="las-tres-mellizas" tvg-name="Las tres mellizas" group-title="Entretenimiento",Las tres mellizas
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="pocoyo" tvg-name="Pocoyó" group-title="Entretenimiento",Pocoyó
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="planeta-junior-spa" tvg-name="La abeja Maya" group-title="Entretenimiento",La abeja Maya
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="pingu-rakuten-tv" tvg-name="Pingu" group-title="Entretenimiento",Pingu
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="ice-pilots-es" tvg-name="Pilotos del Ártico" group-title="Entretenimiento",Pilotos del Ártico
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="jade-fever-es" tvg-name="La fiebre del jade" group-title="Entretenimiento",La fiebre del jade
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="cops-en-espanol" tvg-name="Cops En Español" group-title="Entretenimiento",Cops En Español
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="el-conquistador" tvg-name="El Conquistador" group-title="Entretenimiento",El Conquistador
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="filmrise-forensic-files-spa" tvg-name="Archivos Forenses" group-title="Entretenimiento",Archivos Forenses
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="filmrise-unsolved-mysteries-es" tvg-name="Misterios sin resolver" group-title="Entretenimiento",Misterios sin resolver
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="todo-crimen" tvg-name="Todo Crimen" group-title="Entretenimiento",Todo Crimen
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="crimenes-reales" tvg-name="Crímenes Reales" group-title="Entretenimiento",Crímenes Reales
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="aftershock-meo-lc" tvg-name="Aftershock Mi Extraña Obsesión/Loca Compulsión" group-title="Entretenimiento",Aftershock Mi Extraña Obsesión/Loca Compulsión
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="royalworld-es" tvg-name="Royalworld - Nobleza y dinastías" group-title="Entretenimiento",Royalworld - Nobleza y dinastías
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="planeta-salvaje" tvg-name="Planeta Salvaje" group-title="Entretenimiento",Planeta Salvaje
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="weather-spy-new" tvg-name="Weather Spy" group-title="Entretenimiento",Weather Spy
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="nature-time-es" tvg-name="Nature Time" group-title="Entretenimiento",Nature Time
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="cgtn-documentary" tvg-name="CGTN Documentary" group-title="Entretenimiento",CGTN Documentary
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="oficios-perdidos" tvg-name="Oficios Perdidos" group-title="Entretenimiento",Oficios Perdidos
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="historia-y-vida" tvg-name="Historia y Vida" group-title="Entretenimiento",Historia y Vida
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="euronews-live-spa" tvg-name="Euronews EN DIRECTO" group-title="Entretenimiento",Euronews EN DIRECTO
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="actualidad-360" tvg-name="Actualidad 360" group-title="Entretenimiento",Actualidad 360
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="the-reuters-60" tvg-name="The Reuters 60" group-title="Entretenimiento",The Reuters 60
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="bloomberg-originals-new" tvg-name="Bloomberg Originals" group-title="Entretenimiento",Bloomberg Originals
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="bloomberg-tv-plus" tvg-name="Bloomberg TV+" group-title="Entretenimiento",Bloomberg TV+
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="cgtn-es" tvg-name="CGTN" group-title="Entretenimiento",CGTN
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="africanews-eng" tvg-name="Africanews" group-title="Entretenimiento",Africanews
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="Entretenimiento",CGTN
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="newsworld-spa" tvg-name="NewsWorld" group-title="Entretenimiento",NewsWorld
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="el-pais" tvg-name="El País" group-title="Entretenimiento",El País
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+#EXTINF:-1 tvg-id="france-24-en" tvg-name="France 24 FAST English" group-title="Entretenimiento",France 24 FAST English
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
