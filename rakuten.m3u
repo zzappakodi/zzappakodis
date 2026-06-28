@@ -88,7 +88,7 @@ https://daiconnect.com/live/hls/tvup/rk-1travel/.m3u8
 #EXTINF:-1 tvg-chno=409 tvg-id="travelxp-es" tvg-name="Travelxp" tvg-logo="" group-title="Estilo_de_vida",Travelxp
 https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8
 #EXTINF:-1 tvg-chno=410 tvg-id="med-tv" tvg-name="Med.TV" tvg-logo="" group-title="Estilo_de_vida",Med.TV
-https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiMmQ2MDYxNTQtNWZlZC00ZDI4LTkwMWQtMGEzZTA0MGJlYzQ2IiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
+https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNGMwMmFjMjQtYTNmNC00MzQ0LTlhNmYtNGY0MTlkOWQ4ZmM0IiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
 #EXTINF:-1 tvg-chno=420 tvg-id="vivir-con-gatos" tvg-name="Vivir con gatos" tvg-logo="" group-title="Estilo_de_vida",Vivir con gatos
 https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8
 #EXTINF:-1 tvg-chno=421 tvg-id="vivir-con-perros" tvg-name="Vivir con perros" tvg-logo="" group-title="Estilo_de_vida",Vivir con perros
@@ -178,7 +178,7 @@ https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8
 #EXTINF:-1 tvg-chno=841 tvg-id="historia-y-vida" tvg-name="Historia y Vida" tvg-logo="" group-title="Documentales",Historia y Vida
 https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-spa" tvg-name="Euronews EN DIRECTO" tvg-logo="" group-title="Noticias",Euronews EN DIRECTO
-https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiYTllMGMxMmQtOGJlNi00NTc0LTkyY2QtN2M2MWQxMWM4NTBhIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiYzk4MDgyY2EtZWM3Ni00OGIwLWI5ZTEtYmRjNWRhOTdkZmI5IiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-chno=879 tvg-id="actualidad-360" tvg-name="Actualidad 360" tvg-logo="" group-title="Noticias",Actualidad 360
 https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="the-reuters-60" tvg-name="Theeuters 60" tvg-logo="" group-title="Noticias",Theeuters 60
@@ -190,7 +190,7 @@ https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-chno=891 tvg-id="cgtn-es" tvg-name="CGTN" tvg-logo="" group-title="Noticias",CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" tvg-logo="" group-title="Noticias",Africanews
-https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiOGFmZTg0ZTUtM2Q2Yi00NGIzLWFlNTYtOGE1ODQ3NWQxNTFhIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNjE5OTk4MjMtNGUwZi00ODc0LWJmNDctZTQ3MWZiODdjNTIyIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="" group-title="Noticias",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno=894 tvg-id="newsworld-spa" tvg-name="NewsWorld" tvg-logo="" group-title="Noticias",NewsWorld
@@ -236,7 +236,7 @@ https://action-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies akuten Tv" tvg-logo="" group-title="Cine",Top Movies akuten Tv
 https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/2bf599b4-f1a3-4ed6-a267-c3c90987abf9/4.m3u8
 #EXTINF:-1 tvg-id="VOD" tvg-name="Transcendence" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/b41694bf-8123-4457-80ab-a6070c576e52-transcendence-1611321603.jpeg" group-title="Sci-Fi" description="El Dr. Will Caster (Johnny Depp) es el investigador más importante en el campo de la Inteligencia Artificial, trabajando en la creación de una máquina sensitiva que combine la inteligencia colectiva de todo lo conocido con el rango completo de emociones humanas.",Transcendence
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/143c7eff-eacc-4284-b3b3-3eafb8c809d4/4.m3u8
+https://prod-avod-pmd-cdn77.cdn.rakuten.tv/d/5/c/d5cae3097553b4eb53fcb1db1ce263cc-mc-0-141-0-0_DS2/manifest.m3u8?streaming_id=143c7eff-eacc-4284-b3b3-3eafb8c809d4&st_country=AD,ES,FR,PT&st_valid=1782661640&secure=7xFzRFV6uhDFKLFJ8SzqEg==,1782683240
 #EXTINF:-1 tvg-id="VOD" tvg-name="Next" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/bb15ef4b-8814-4c28-b175-273670776319-next-1611475354.jpeg" group-title="Sci-Fi" description="Johnson puede ver el futuro unos cuantos minutos más allá del momento presente, un talento extrasensorial que, sin duda, le viene muy bien para su trabajo como mago y mentalista en el sórdido club de Las Vegas donde actúa cada noche.",Next
 https://rakuten.tv/movies/next
 #EXTINF:-1 tvg-id="VOD" tvg-name="Código fuente" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/2992ca31-17cc-4d72-8c94-be55c03ba20e-codigo-fuente-1611319747.jpeg" group-title="Sci-Fi" description="¿Es posible viajar en el tiempo para evitar una catástrofe? El capitán Colter Stevens (Jake Gyllenhaal) tiene la difícil misión de conseguirlo en esta eficaz película de acción y ciencia-ficción considerada como una de las mejores películas del género de los últimos años.",Código fuente
