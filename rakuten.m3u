@@ -88,7 +88,7 @@ https://daiconnect.com/live/hls/tvup/rk-1travel/.m3u8
 #EXTINF:-1 tvg-chno=409 tvg-id="travelxp-es" tvg-name="Travelxp" tvg-logo="" group-title="Estilo_de_vida",Travelxp
 https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8
 #EXTINF:-1 tvg-chno=410 tvg-id="med-tv" tvg-name="Med.TV" tvg-logo="" group-title="Estilo_de_vida",Med.TV
-https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiOGQ3MjNlYzAtMTgyMS00ZGQ4LTk2ZGItNWVjMTQzNTg1ZGM5IiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
+https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiN2M4ZGI1ZWEtYzIyZC00ZWVlLWFmMzUtNTgwZGRhNzI0ZDAxIiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
 #EXTINF:-1 tvg-chno=420 tvg-id="vivir-con-gatos" tvg-name="Vivir con gatos" tvg-logo="" group-title="Estilo_de_vida",Vivir con gatos
 https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8
 #EXTINF:-1 tvg-chno=421 tvg-id="vivir-con-perros" tvg-name="Vivir con perros" tvg-logo="" group-title="Estilo_de_vida",Vivir con perros
@@ -178,7 +178,7 @@ https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8
 #EXTINF:-1 tvg-chno=841 tvg-id="historia-y-vida" tvg-name="Historia y Vida" tvg-logo="" group-title="Documentales",Historia y Vida
 https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=877 tvg-id="euronews-live-spa" tvg-name="Euronews EN DIRECTO" tvg-logo="" group-title="Noticias",Euronews EN DIRECTO
-https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiNWJkMjQ5MDktODFkZS00OTk1LWEzMzYtMWJiZTkzNDc5ZjFkIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiZDhlZWFlYWYtZGQzYy00MDIyLWIxMjAtY2UyOTM5YmJlY2RjIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-chno=879 tvg-id="actualidad-360" tvg-name="Actualidad 360" tvg-logo="" group-title="Noticias",Actualidad 360
 https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-chno=881 tvg-id="the-reuters-60" tvg-name="The Reuters 60" tvg-logo="" group-title="Noticias",The Reuters 60
@@ -190,7 +190,7 @@ https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-chno=891 tvg-id="cgtn-es" tvg-name="CGTN" tvg-logo="" group-title="Noticias",CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-chno=892 tvg-id="africanews-eng" tvg-name="Africanews" tvg-logo="" group-title="Noticias",Africanews
-https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNmY3M2FiYzMtNWYyOC00NWFmLTllZjMtNDRmYzg2MGIyOTIyIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMGI2MDA1ZTYtMTUwZS00YmEwLTg5MDUtZjk5NDBlZDM1MjYxIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-chno=893 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="" group-title="Noticias",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-chno=894 tvg-id="newsworld-spa" tvg-name="NewsWorld" tvg-logo="" group-title="Noticias",NewsWorld
@@ -361,6 +361,150 @@ https://rakuten.tv/movies/20th-century-boys-cap-2-la-ultima-esperanza
 https://rakuten.tv/movies/los-ultimos
 #EXTINF:-1 tvg-id="VOD" tvg-name="20th Century Boys. Cap.3: Redención" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/ffa95b47-cfca-46c2-9a9e-fb91c3b69205.jpeg" group-title="Videoclub / Sci-Fi",20th Century Boys. Cap.3: Redención
 https://rakuten.tv/movies/20th-century-boys-cap-3-redencion
+#EXTINF:-1 tvg-id="VOD" tvg-name="Escape Room: La película" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/06d8e706-14c2-42cf-95f5-ccafd99939b5-escape-room-la-pel-licula-1656315724.jpeg" group-title="Videoclub / Cine Español",Escape Room: La película
+https://rakuten.tv/movies/escape-room-la-pelicula
+#EXTINF:-1 tvg-id="VOD" tvg-name="Amar" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/0c9c225e-0472-4bb1-a02b-5006f05923c1.jpeg" group-title="Videoclub / Cine Español",Amar
+https://rakuten.tv/movies/amar
+#EXTINF:-1 tvg-id="VOD" tvg-name="La Inocencia" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/3dfaf875-18a1-4c65-aa99-4cc7e4584a9a.jpeg" group-title="Videoclub / Cine Español",La Inocencia
+https://rakuten.tv/movies/la-inocencia
+#EXTINF:-1 tvg-id="VOD" tvg-name="En temporada baja" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/7ba2d65d-9566-4b6b-bffd-1136db7d5a7a.jpeg" group-title="Videoclub / Cine Español",En temporada baja
+https://rakuten.tv/movies/en-temporada-baja
+#EXTINF:-1 tvg-id="VOD" tvg-name="Hijo de Caín" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/71121577-540c-4eba-916f-8f85d2e7e96d.jpeg" group-title="Videoclub / Cine Español",Hijo de Caín
+https://rakuten.tv/movies/hijo-de-cain
+#EXTINF:-1 tvg-id="VOD" tvg-name="El Lute II: mañana seré libre" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/feaa0179-271e-4f06-8ee0-5e2ac59d5a12-el-lute-ii-manana-sere-libre-1667377340.jpeg" group-title="Videoclub / Cine Español",El Lute II: mañana seré libre
+https://rakuten.tv/movies/el-lute-ii-manana-sere-libre
+#EXTINF:-1 tvg-id="VOD" tvg-name="Carmen" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/e60b7e93-ec12-40f0-ac81-6c494b131b4a-carmen-1664347571.jpeg" group-title="Videoclub / Cine Español",Carmen
+https://rakuten.tv/movies/carmen
+#EXTINF:-1 tvg-id="VOD" tvg-name="Summer Camp" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/b3d2cd6c-428d-4a99-bdb6-d50aa5ff11b1-summer-camp-1611322299.jpeg" group-title="Videoclub / Cine Español",Summer Camp
+https://rakuten.tv/movies/summer-camp
+#EXTINF:-1 tvg-id="VOD" tvg-name="El lute: Camina o revienta" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/23cbe399-93f1-42f8-b722-aacfaa24dd48-el-lute-camina-o-revienta-1664348313.jpeg" group-title="Videoclub / Cine Español",El lute: Camina o revienta
+https://rakuten.tv/movies/el-lute-camina-o-revienta
+#EXTINF:-1 tvg-id="VOD" tvg-name="El desentierro" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/9498b553-9ddc-4dde-8c45-2f63ee2928a0-el-desentierro-1611476771.jpeg" group-title="Videoclub / Cine Español",El desentierro
+https://rakuten.tv/movies/el-desentierro
+#EXTINF:-1 tvg-id="VOD" tvg-name="En la ciudad" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/c0420da3-7b5b-4cd8-894c-87c1de173ee6.jpeg" group-title="Videoclub / Cine Español",En la ciudad
+https://rakuten.tv/movies/en-la-ciudad
+#EXTINF:-1 tvg-id="VOD" tvg-name="El club de los incomprendidos" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/60432e81-4154-4e81-9cee-950ec1113b5d.jpeg" group-title="Videoclub / Cine Español",El club de los incomprendidos
+https://rakuten.tv/movies/el-club-de-los-incomprendidos
+#EXTINF:-1 tvg-id="VOD" tvg-name="Enciende mi pasión" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/c2e76dd5-ca39-4939-aba0-6481a06dddbd.jpeg" group-title="Videoclub / Cine Español",Enciende mi pasión
+https://rakuten.tv/movies/enciende-mi-pasion
+#EXTINF:-1 tvg-id="VOD" tvg-name="Sólo Mía" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/82e849e4-11fe-4139-ab5b-e7d04b7b0e55-solo-mia-1664348812.jpeg" group-title="Videoclub / Cine Español",Sólo Mía
+https://rakuten.tv/movies/solo-mia
+#EXTINF:-1 tvg-id="VOD" tvg-name="Musarañas" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/7d262b60-9e20-437a-a365-f3f8e41cae38.jpeg" group-title="Videoclub / Cine Español",Musarañas
+https://rakuten.tv/movies/musaranas-2014
+#EXTINF:-1 tvg-id="VOD" tvg-name="Alpha" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/7bfa8131-001a-4df7-a6e1-43369eeb6284.jpeg" group-title="Videoclub / Cine Español",Alpha
+https://rakuten.tv/movies/alpha-2013
+#EXTINF:-1 tvg-id="VOD" tvg-name="Viejos" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/fa925c7c-b114-4798-b509-9ad8d797ec40.jpeg" group-title="Videoclub / Cine Español",Viejos
+https://rakuten.tv/movies/viejos
+#EXTINF:-1 tvg-id="VOD" tvg-name="La vampira de Barcelona" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/ee548f7f-7106-4ca4-8ebc-ee3320d5159c-la-vampira-de-barcelona-1627373322.jpeg" group-title="Videoclub / Cine Español",La vampira de Barcelona
+https://rakuten.tv/movies/la-vampira-de-barcelona
+#EXTINF:-1 tvg-id="VOD" tvg-name="Creatura" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/eee3a2a3-77a4-49d0-b485-19bf9236dcc5.jpeg" group-title="Videoclub / Cine Español",Creatura
+https://rakuten.tv/movies/creatura
+#EXTINF:-1 tvg-id="VOD" tvg-name="La final" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/67df0141-9b45-40b5-b318-203f3348f152.jpeg" group-title="Videoclub / Cine Español",La final
+https://rakuten.tv/movies/la-final
+#EXTINF:-1 tvg-id="VOD" tvg-name="Animales Heridos" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/d3f217ca-deb8-40a6-bbde-04aaafdc0304.jpeg" group-title="Videoclub / Cine Español",Animales Heridos
+https://rakuten.tv/movies/animales-heridos
+#EXTINF:-1 tvg-id="VOD" tvg-name="El Olivo" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/15241a3b-67e5-48c8-a37c-29a0d7a8335f-el-olivo-1611322383.jpeg" group-title="Videoclub / Cine Español",El Olivo
+https://rakuten.tv/movies/el-olivo
+#EXTINF:-1 tvg-id="VOD" tvg-name="10.000 Km" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/36ad4f52-a370-46c9-9792-d6435b7176f8.jpeg" group-title="Videoclub / Cine Español",10.000 Km
+https://rakuten.tv/movies/10-000-km
+#EXTINF:-1 tvg-id="VOD" tvg-name="Re-emigrantes" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/72aaf6e0-bace-44ce-a29d-9b910359c26f.jpeg" group-title="Videoclub / Cine Español",Re-emigrantes
+https://rakuten.tv/movies/re-emigrantes
+#EXTINF:-1 tvg-id="VOD" tvg-name="Mi gran despedida" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/7fca199d-42bd-4971-97da-dbbc2d4b9401.jpeg" group-title="Videoclub / Cine Español",Mi gran despedida
+https://rakuten.tv/movies/mi-gran-despedida
+#EXTINF:-1 tvg-id="VOD" tvg-name="Noctem" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/ac6abe25-40f4-40d6-a2bd-75408aeb94fe-noctem-1667381092.jpeg" group-title="Videoclub / Cine Español",Noctem
+https://rakuten.tv/movies/noctem
+#EXTINF:-1 tvg-id="VOD" tvg-name="Amor idiota" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/577d4b35-ebf8-4e4f-bd0c-915fc2873ff0.jpeg" group-title="Videoclub / Cine Español",Amor idiota
+https://rakuten.tv/movies/amor-idiota
+#EXTINF:-1 tvg-id="VOD" tvg-name="Asier y yo" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/a15addca-b146-495d-8a61-0a6ced2f9250-asier-y-yo-1611323472.jpeg" group-title="Videoclub / Cine Español",Asier y yo
+https://rakuten.tv/movies/asier-y-yo
+#EXTINF:-1 tvg-id="VOD" tvg-name="Cosa de brujas" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/c9406267-ab75-4ec0-8700-c491e12b9280.jpeg" group-title="Videoclub / Cine Español",Cosa de brujas
+https://rakuten.tv/movies/cosa-de-brujas
+#EXTINF:-1 tvg-id="VOD" tvg-name="Matria" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/4b20f715-9788-407d-a718-03ef4c8b856e.jpeg" group-title="Videoclub / Cine Español",Matria
+https://rakuten.tv/movies/matria
+#EXTINF:-1 tvg-id="VOD" tvg-name="Tierra firme" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/afdb0bbf-e95f-4448-b26e-dc4f5d82dc04.jpeg" group-title="Videoclub / Cine Español",Tierra firme
+https://rakuten.tv/movies/tierra-firme
+#EXTINF:-1 tvg-id="VOD" tvg-name="Embrión" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/3e1ef06c-1ca4-414a-b433-fc65ee1feb12.jpeg" group-title="Videoclub / Cine Español",Embrión
+https://rakuten.tv/movies/embrion
+#EXTINF:-1 tvg-id="VOD" tvg-name="Oh! Mammy Blue" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/e766e78a-83e4-42e3-9cc3-0f06af51e545.jpeg" group-title="Videoclub / Cine Español",Oh! Mammy Blue
+https://rakuten.tv/movies/oh-mammy-blue
+#EXTINF:-1 tvg-id="VOD" tvg-name="La vergüenza" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/7071a560-0e44-4221-99ee-d2f6f9234bb2.jpeg" group-title="Videoclub / Cine Español",La vergüenza
+https://rakuten.tv/movies/la-verguenza
+#EXTINF:-1 tvg-id="VOD" tvg-name="Magical Girl" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/1309a410-536b-4ef6-b26d-c8807e6e1c42.jpeg" group-title="Videoclub / Cine Español",Magical Girl
+https://rakuten.tv/movies/magical-girl
+#EXTINF:-1 tvg-id="VOD" tvg-name="Donkeyote" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/115a19cc-9bf1-4073-a498-44a4aa4371c0.jpeg" group-title="Videoclub / Cine Español",Donkeyote
+https://rakuten.tv/movies/donkeyote
+#EXTINF:-1 tvg-id="VOD" tvg-name="Salto al vacío" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/c36e01df-13ea-422e-b5cb-eb54a78c13aa.jpeg" group-title="Videoclub / Cine Español",Salto al vacío
+https://rakuten.tv/movies/salto-al-vacio
+#EXTINF:-1 tvg-id="VOD" tvg-name="Quién eres" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/16a63cae-2356-4018-be13-4f38d1fed8b4.jpeg" group-title="Videoclub / Cine Español",Quién eres
+https://rakuten.tv/movies/quien-eres
+#EXTINF:-1 tvg-id="VOD" tvg-name="Negociador" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/625af20e-6c47-4b27-85b8-5610cf2bfee1.jpeg" group-title="Videoclub / Cine Español",Negociador
+https://rakuten.tv/movies/negociador
+#EXTINF:-1 tvg-id="VOD" tvg-name="María (y los demás)" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/60687c72-23b5-4229-bcab-6c8988eceb7b-maria-y-los-demas-1653563775.jpeg" group-title="Videoclub / Cine Español",María (y los demás)
+https://rakuten.tv/movies/maria-y-los-demas
+#EXTINF:-1 tvg-id="VOD" tvg-name="Todos están muertos" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/503fa975-8072-4666-b72f-9e4c1ad09f5c.jpeg" group-title="Videoclub / Cine Español",Todos están muertos
+https://rakuten.tv/movies/todos-estan-muertos
+#EXTINF:-1 tvg-id="VOD" tvg-name="Capitán Kóblic" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/35539b1f-5b26-4074-ad81-3013f8632808.jpeg" group-title="Videoclub / Cine Español",Capitán Kóblic
+https://rakuten.tv/movies/capitan-koblic
+#EXTINF:-1 tvg-id="VOD" tvg-name="ärtico" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/68595e74-dbd3-41f8-89c1-5345802acc16.jpeg" group-title="Videoclub / Cine Español",ärtico
+https://rakuten.tv/movies/artico-2014
+#EXTINF:-1 tvg-id="VOD" tvg-name="El pomo azul" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/10035219-1458-4836-8826-bac9a154b6b2.jpeg" group-title="Videoclub / Cine Español",El pomo azul
+https://rakuten.tv/movies/el-pomo-azul
+#EXTINF:-1 tvg-id="VOD" tvg-name="La Mujer sin Piano" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/270567f0-3c9f-42d1-9668-dde6e66f4d1c.jpeg" group-title="Videoclub / Cine Español",La Mujer sin Piano
+https://rakuten.tv/movies/la-mujer-sin-piano
+#EXTINF:-1 tvg-id="VOD" tvg-name="Ocaña, retrato intermitente" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/cf6752b7-dff5-4067-876f-eefd881f0818.jpeg" group-title="Videoclub / Cine Español",Ocaña, retrato intermitente
+https://rakuten.tv/movies/ocana-retrato-intermitente
+#EXTINF:-1 tvg-id="VOD" tvg-name="Pieles" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/2f870ca8-474b-443a-b5b2-da8dc5c94786.jpeg" group-title="Videoclub / Cine Español",Pieles
+https://rakuten.tv/movies/pieles
+#EXTINF:-1 tvg-id="VOD" tvg-name="¿Qué hicimos mal?" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/463ef83c-5361-41f8-baed-5de0a156769c-que-hicimos-mal-1645436629.jpeg" group-title="Videoclub / Cine Español",¿Qué hicimos mal?
+https://rakuten.tv/movies/que-hicimos-mal
+#EXTINF:-1 tvg-id="VOD" tvg-name="Pura Vida" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/cd67db9e-cf10-4694-b549-f8b2fb181bc7-pura-vida-1611476766.jpeg" group-title="Videoclub / Cine Español",Pura Vida
+https://rakuten.tv/movies/pura-vida
+#EXTINF:-1 tvg-id="VOD" tvg-name="Un largo viaje (2023)" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/9b9f0e5e-39b0-4e37-8520-1023e97aed2c.jpeg" group-title="Videoclub / Cine Español",Un largo viaje (2023)
+https://rakuten.tv/movies/un-largo-viaje-2023
+#EXTINF:-1 tvg-id="VOD" tvg-name="Amateurs" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/b8c6529f-438c-411b-8c3f-1ec0b94b9469.jpeg" group-title="Videoclub / Cine Español",Amateurs
+https://rakuten.tv/movies/amateurs
+#EXTINF:-1 tvg-id="VOD" tvg-name="Los días que vendrán" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/f4b7a868-5c7a-426a-860a-62490f9d4eea-los-dias-que-vendran-1655908324.jpeg" group-title="Videoclub / Cine Español",Los días que vendrán
+https://rakuten.tv/movies/los-dias-que-vendran
+#EXTINF:-1 tvg-id="VOD" tvg-name="Capa Caída" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/cd7abf5b-3a7b-41b3-bd0c-be8f7a10fdca.jpeg" group-title="Videoclub / Cine Español",Capa Caída
+https://rakuten.tv/movies/capa-caida
+#EXTINF:-1 tvg-id="VOD" tvg-name="Iceberg" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/363ca74d-4c54-41e6-921d-241567231002.jpeg" group-title="Videoclub / Cine Español",Iceberg
+https://rakuten.tv/movies/iceberg
+#EXTINF:-1 tvg-id="VOD" tvg-name="La maniobra de Heimlich" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/54fe3ad3-1340-425c-b708-b77c081e409f.jpeg" group-title="Videoclub / Cine Español",La maniobra de Heimlich
+https://rakuten.tv/movies/la-maniobra-de-heimlich
+#EXTINF:-1 tvg-id="VOD" tvg-name="Frontera" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/a5b54f31-06c8-4504-99db-c9f5bfbfbcb5.jpeg" group-title="Videoclub / Cine Español",Frontera
+https://rakuten.tv/movies/frontera-2013
+#EXTINF:-1 tvg-id="VOD" tvg-name="Anita no pierde el tren" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/856d65ee-126a-440e-8c0b-03a0d36ccbe8.jpeg" group-title="Videoclub / Cine Español",Anita no pierde el tren
+https://rakuten.tv/movies/anita-no-pierde-el-tren
+#EXTINF:-1 tvg-id="VOD" tvg-name="Barcelona (Un mapa)" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/e3275a90-b73e-412a-a18a-fb500f69998a.jpeg" group-title="Videoclub / Cine Español",Barcelona (Un mapa)
+https://rakuten.tv/movies/barcelona-un-mapa
+#EXTINF:-1 tvg-id="VOD" tvg-name="El Gran Gato" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/62c001a5-0ada-4ec0-a8ce-3ae69cb94529.jpeg" group-title="Videoclub / Cine Español",El Gran Gato
+https://rakuten.tv/movies/el-gran-gato
+#EXTINF:-1 tvg-id="VOD" tvg-name="El sistema solar" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/b1d9eed3-8497-4923-af8f-746a70d71f17-el-sistema-solar-1611476709.jpeg" group-title="Videoclub / Cine Español",El sistema solar
+https://rakuten.tv/movies/el-sistema-solar
+#EXTINF:-1 tvg-id="VOD" tvg-name="El apóstata" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/02039418-80ab-4895-801b-8365fa2e7874-el-apostata-1657627466.jpeg" group-title="Videoclub / Cine Español",El apóstata
+https://rakuten.tv/movies/el-apostata
+#EXTINF:-1 tvg-id="VOD" tvg-name="Las amigas de Àgata" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/020b3d7f-b14c-47a1-af66-38088b7c99b0-las-amigas-de-agata-1656495205.jpeg" group-title="Videoclub / Cine Español",Las amigas de Àgata
+https://rakuten.tv/movies/las-amigas-de-agata
+#EXTINF:-1 tvg-id="VOD" tvg-name="Gipuzkoa Surf Trip" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/00c04853-0386-472e-a0f0-32b998e639d8.jpeg" group-title="Videoclub / Cine Español",Gipuzkoa Surf Trip
+https://rakuten.tv/movies/gipuzkoa-surf-trip
+#EXTINF:-1 tvg-id="VOD" tvg-name="Quizás" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/4c013339-6281-4cf6-801d-c13db8728b84.jpeg" group-title="Videoclub / Cine Español",Quizás
+https://rakuten.tv/movies/quizas
+#EXTINF:-1 tvg-id="VOD" tvg-name="Tránsito y Felicidad" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/dc5ca79d-af84-41cc-9a03-678f6946ea39.jpeg" group-title="Videoclub / Cine Español",Tránsito y Felicidad
+https://rakuten.tv/movies/transito-y-felicidad
+#EXTINF:-1 tvg-id="VOD" tvg-name="Una película póstuma" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/08173335-36db-40d3-a0fd-3faa8637f0f1.jpeg" group-title="Videoclub / Cine Español",Una película póstuma
+https://rakuten.tv/movies/una-pelicula-postuma
+#EXTINF:-1 tvg-id="VOD" tvg-name="Cuanto más grande, mejor" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/83e29217-fa93-4e82-9a87-eaf38fb60370.jpeg" group-title="Videoclub / Cine Español",Cuanto más grande, mejor
+https://rakuten.tv/movies/cuanto-mas-grande-mejor
+#EXTINF:-1 tvg-id="VOD" tvg-name="Paradiso" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/37672d98-6eb8-4f77-a510-84e8fbad8c8d.jpeg" group-title="Videoclub / Cine Español",Paradiso
+https://rakuten.tv/movies/paradiso
+#EXTINF:-1 tvg-id="VOD" tvg-name="Everyone Wants To Be The Next Weismann" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/bc5ab78f-e2b9-4b58-a2ff-1e342e47c6ea.jpeg" group-title="Videoclub / Cine Español",Everyone Wants To Be The Next Weismann
+https://rakuten.tv/movies/everyone-wants-to-be-the-next-weismann
+#EXTINF:-1 tvg-id="VOD" tvg-name="Tsunami Covid" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/aaeb15db-a9e5-4920-b69e-37b27095fa59-tsunami-covid-1640852788.jpeg" group-title="Videoclub / Cine Español",Tsunami Covid
+https://rakuten.tv/movies/tsunami-covid
+#EXTINF:-1 tvg-id="VOD" tvg-name="Zaniki" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/6c9a33e8-0223-4c39-8e2b-17d25287af82.jpeg" group-title="Videoclub / Cine Español",Zaniki
+https://rakuten.tv/movies/zaniki
+#EXTINF:-1 tvg-id="VOD" tvg-name="Invencibles" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/536c6b04-e1e5-4936-918a-e56a9c5f7d61-invencibles-1631786900.jpeg" group-title="Videoclub / Cine Español",Invencibles
+https://rakuten.tv/movies/invencibles
 #EXTINF:-1 tvg-id="VOD" tvg-name="Infiel" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/0f288842-0cd1-4586-b88f-6b86ac57c5c8-infiel-1611321418.jpeg" group-title="Videoclub / Romance",Infiel
 https://rakuten.tv/movies/infiel--2
 #EXTINF:-1 tvg-id="VOD" tvg-name="Algún día nos lo contaremos todo" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/3b1c5f4b-1e1d-434f-bb25-b12d8e6bf71a.jpeg" group-title="Videoclub / Romance",Algún día nos lo contaremos todo
@@ -483,202 +627,6 @@ https://rakuten.tv/movies/me-quiere-no-me-quiere
 https://rakuten.tv/movies/mi-ex-mi-novia-y-yo
 #EXTINF:-1 tvg-id="VOD" tvg-name="Remember Me" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/1fe4843e-d80f-480a-be3c-8fceddcc4cd7.jpeg" group-title="Videoclub / Romance",Remember Me
 https://rakuten.tv/movies/remember-me
-#EXTINF:-1 tvg-id="VOD" tvg-name="El Buen Matrimonio" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/c9871150-5e02-4d89-ac28-2970b53f8cce.jpeg" group-title="Videoclub / Terror",El Buen Matrimonio
-https://rakuten.tv/movies/el-buen-matrimonio
-#EXTINF:-1 tvg-id="VOD" tvg-name="Los elegidos (Dark Skies)" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/1b713eae-543a-40eb-b5f3-0fc132570254-los-elegidos-dark-skies-1646662872.jpeg" group-title="Videoclub / Terror",Los elegidos (Dark Skies)
-https://rakuten.tv/movies/los-elegidos-dark-skies
-#EXTINF:-1 tvg-id="VOD" tvg-name="30 días de oscuridad" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/7a997335-7891-4cd8-9ada-0563251dd79c.jpeg" group-title="Videoclub / Terror",30 días de oscuridad
-https://rakuten.tv/movies/30-dias-de-oscuridad
-#EXTINF:-1 tvg-id="VOD" tvg-name="Insidious" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/20971432-9462-4805-abfd-05aef7110460-insidious-1611319930.jpeg" group-title="Videoclub / Terror",Insidious
-https://rakuten.tv/movies/insidious
-#EXTINF:-1 tvg-id="VOD" tvg-name="Insidious: Capítulo 2" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/87cb2621-a34b-459b-828e-28a437b6a2b1-insidious-capitulo-2-1611321325.jpeg" group-title="Videoclub / Terror",Insidious: Capítulo 2
-https://rakuten.tv/movies/insidious-capitulo-2
-#EXTINF:-1 tvg-id="VOD" tvg-name="Cazador de demonios" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/4d578777-9d36-44cb-9cc1-3ad83178c0e4-cazador-de-demonios-1611322478.jpeg" group-title="Videoclub / Terror",Cazador de demonios
-https://rakuten.tv/movies/cazador-de-demonios-bde68cc8-1bef-457f-a899-2a9879179020
-#EXTINF:-1 tvg-id="VOD" tvg-name="Insidious: Capítulo 3" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/ede6ef52-22cc-4477-a03a-e53ce93bbf97-insidious-capitulo-3-1611322131.jpeg" group-title="Videoclub / Terror",Insidious: Capítulo 3
-https://rakuten.tv/movies/insidious-capitulo-3
-#EXTINF:-1 tvg-id="VOD" tvg-name="Dark Was the Night" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/ecb02cf9-0961-4920-a19e-2082369634b5-dark-was-the-night-1642073912.jpeg" group-title="Videoclub / Terror",Dark Was the Night
-https://rakuten.tv/movies/dark-was-the-night
-#EXTINF:-1 tvg-id="VOD" tvg-name="Scream 4" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/772d0628-da1d-4d65-ab88-1bf213a1492e.jpeg" group-title="Videoclub / Terror",Scream 4
-https://rakuten.tv/movies/scream-4
-#EXTINF:-1 tvg-id="VOD" tvg-name="La cuarta fase" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/3effde2f-0719-4601-b6a5-63dcb2409672.jpeg" group-title="Videoclub / Terror",La cuarta fase
-https://rakuten.tv/movies/la-cuarta-fase
-#EXTINF:-1 tvg-id="VOD" tvg-name="La maldición de Rookford" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/e37d56e3-d1a6-47d8-a20e-ca8873944c9d.jpeg" group-title="Videoclub / Terror",La maldición de Rookford
-https://rakuten.tv/movies/la-maldicion-de-rookford
-#EXTINF:-1 tvg-id="VOD" tvg-name="Queen of Black Magic" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/2f8bbb44-2951-40e1-838e-e9c271c4e7b2.jpeg" group-title="Videoclub / Terror",Queen of Black Magic
-https://rakuten.tv/movies/queen-of-black-magic
-#EXTINF:-1 tvg-id="VOD" tvg-name="Beneath the Surface" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/c9e3e05c-65ea-47fd-a651-f869ce36178a.jpeg" group-title="Videoclub / Terror",Beneath the Surface
-https://rakuten.tv/movies/beneath-the-surface
-#EXTINF:-1 tvg-id="VOD" tvg-name="Los ojos del mal" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/b81afa66-df9a-479c-b030-9e8f2ad4190b.jpeg" group-title="Videoclub / Terror",Los ojos del mal
-https://rakuten.tv/movies/los-ojos-del-mal
-#EXTINF:-1 tvg-id="VOD" tvg-name="Pesadilla diabólica" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/526d5238-54c0-4fac-ad28-78af7cc452dd.jpeg" group-title="Videoclub / Terror",Pesadilla diabólica
-https://rakuten.tv/movies/pesadilla-diabolica
-#EXTINF:-1 tvg-id="VOD" tvg-name="La zona muerta" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/1fb4f2ee-46b9-47f9-aa7e-e1722a6173a4.jpeg" group-title="Videoclub / Terror",La zona muerta
-https://rakuten.tv/movies/la-zona-muerta
-#EXTINF:-1 tvg-id="VOD" tvg-name="1408" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/f97943b7-0674-4f0d-bb5d-c193c1cf564e.jpeg" group-title="Videoclub / Terror",1408
-https://rakuten.tv/movies/1408-1442560333
-#EXTINF:-1 tvg-id="VOD" tvg-name="Los mensajeros" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/f77da78d-0caf-43fc-80c2-96e1f799204d-los-mensajeros-1611323316.jpeg" group-title="Videoclub / Terror",Los mensajeros
-https://rakuten.tv/movies/los-mensajeros
-#EXTINF:-1 tvg-id="VOD" tvg-name="Hannibal: El origen del mal" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/e261fa03-aeba-48c9-8708-75098f04a0ef-hannibal-el-origen-del-mal-1611475348.jpeg" group-title="Videoclub / Terror",Hannibal: El origen del mal
-https://rakuten.tv/movies/hannibal-el-origen-del-mal
-#EXTINF:-1 tvg-id="VOD" tvg-name="Exorcismo en el Vaticano" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/58f0fbfd-52e9-4b40-a20c-a0ce0f249d11.jpeg" group-title="Videoclub / Terror",Exorcismo en el Vaticano
-https://rakuten.tv/movies/exorcismo-en-el-vaticano
-#EXTINF:-1 tvg-id="VOD" tvg-name="Demonic" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/127f1211-bcca-47c6-a485-424f270882b2.jpeg" group-title="Videoclub / Terror",Demonic
-https://rakuten.tv/movies/demonic-2015
-#EXTINF:-1 tvg-id="VOD" tvg-name="Reflejos" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/667b1efd-7f46-43a6-8c1a-67e43ebc0fe6-reflejos-1611321424.jpeg" group-title="Videoclub / Terror",Reflejos
-https://rakuten.tv/movies/reflejos
-#EXTINF:-1 tvg-id="VOD" tvg-name="The Lords of Salem" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/48cd92fe-760b-4a62-b582-8fb52d46175b.jpeg" group-title="Videoclub / Terror",The Lords of Salem
-https://rakuten.tv/movies/the-lords-of-salem
-#EXTINF:-1 tvg-id="VOD" tvg-name="Instinto maternal" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/82ca2730-7aae-4e14-9654-8514c47b6f0a.jpeg" group-title="Videoclub / Terror",Instinto maternal
-https://rakuten.tv/movies/instinto-maternal-2013
-#EXTINF:-1 tvg-id="VOD" tvg-name="El territorio de la bestia" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/a04c242d-2798-45c6-9c54-c3cd38457cdd.jpeg" group-title="Videoclub / Terror",El territorio de la bestia
-https://rakuten.tv/movies/el-territorio-de-la-bestia
-#EXTINF:-1 tvg-id="VOD" tvg-name="Summer Camp" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/b3d2cd6c-428d-4a99-bdb6-d50aa5ff11b1-summer-camp-1611322299.jpeg" group-title="Videoclub / Terror",Summer Camp
-https://rakuten.tv/movies/summer-camp
-#EXTINF:-1 tvg-id="VOD" tvg-name="La sombra de los otros" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/d08b891d-e0ab-49d1-9393-10370ded5ae0.jpeg" group-title="Videoclub / Terror",La sombra de los otros
-https://rakuten.tv/movies/la-sombra-de-los-otros
-#EXTINF:-1 tvg-id="VOD" tvg-name="Blackwood" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/7b2fc59f-625b-4828-90f7-19250bcecbd4-blackwood-1611323037.jpeg" group-title="Videoclub / Terror",Blackwood
-https://rakuten.tv/movies/blackwood
-#EXTINF:-1 tvg-id="VOD" tvg-name="Ginger Snaps" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/0986c6fb-fe14-4966-b95b-61663448c25a.jpeg" group-title="Videoclub / Terror",Ginger Snaps
-https://rakuten.tv/movies/ginger-snaps
-#EXTINF:-1 tvg-id="VOD" tvg-name="El efecto Lázaro" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/130a5e99-3304-4dac-a968-865b0080031d-el-efecto-lazaro-1611323868.jpeg" group-title="Videoclub / Terror",El efecto Lázaro
-https://rakuten.tv/movies/el-efecto-lazaro
-#EXTINF:-1 tvg-id="VOD" tvg-name="Jessabelle" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/dc4b262b-134d-47f7-bd1a-55468d0311ad-jessabelle-1611322735.jpeg" group-title="Videoclub / Terror",Jessabelle
-https://rakuten.tv/movies/jessabelle
-#EXTINF:-1 tvg-id="VOD" tvg-name="Resurrection" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/13a304ea-da94-42c4-8209-aa18507c7647-resurrection-1611323785.jpeg" group-title="Videoclub / Terror",Resurrection
-https://rakuten.tv/movies/resurrection
-#EXTINF:-1 tvg-id="VOD" tvg-name="Hellraiser: Judgment" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/d7f08269-7aac-434f-8a50-ca74183ed24f.jpeg" group-title="Videoclub / Terror",Hellraiser: Judgment
-https://rakuten.tv/movies/hellraiser-judgment
-#EXTINF:-1 tvg-id="VOD" tvg-name="Nurse" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/f2d25644-3743-4cda-b5b1-1b9e8e473e3f-nurse-1621328177.jpeg" group-title="Videoclub / Terror",Nurse
-https://rakuten.tv/movies/nurse
-#EXTINF:-1 tvg-id="VOD" tvg-name="La puerta del miedo (Boogeyman)" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/7b233ce6-9090-4d48-9810-7c0c38f58591.jpeg" group-title="Videoclub / Terror",La puerta del miedo (Boogeyman)
-https://rakuten.tv/movies/la-puerta-del-miedo-boogeyman
-#EXTINF:-1 tvg-id="VOD" tvg-name="Escape Room" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/6ff22136-1994-4120-9f95-9fa22ebb15ce-escape-room-1611322918.jpeg" group-title="Videoclub / Terror",Escape Room
-https://rakuten.tv/movies/escape-room
-#EXTINF:-1 tvg-id="VOD" tvg-name="Musarañas" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/7d262b60-9e20-437a-a365-f3f8e41cae38.jpeg" group-title="Videoclub / Terror",Musarañas
-https://rakuten.tv/movies/musaranas-2014
-#EXTINF:-1 tvg-id="VOD" tvg-name="Shutter" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/ed93b081-c002-4761-b72b-670954febc62.jpeg" group-title="Videoclub / Terror",Shutter
-https://rakuten.tv/movies/shutter
-#EXTINF:-1 tvg-id="VOD" tvg-name="Poseído" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/68e8272d-3b20-49a9-9ad6-7add48c3d234-poseido-1666881159.jpeg" group-title="Videoclub / Terror",Poseído
-https://rakuten.tv/movies/poseido-2000
-#EXTINF:-1 tvg-id="VOD" tvg-name="Jeruzalem" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/04f9f9b2-342b-4d90-baea-14b49e471c8a.jpeg" group-title="Videoclub / Terror",Jeruzalem
-https://rakuten.tv/movies/jeruzalem
-#EXTINF:-1 tvg-id="VOD" tvg-name="The Eye (Visiones)" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/2f583e5d-d991-4572-a863-14c17f52abca-the-eye-visiones-1611320089.jpeg" group-title="Videoclub / Terror",The Eye (Visiones)
-https://rakuten.tv/movies/the-eye-visiones
-#EXTINF:-1 tvg-id="VOD" tvg-name="Shocker, 100.000 voltios de terror" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/27d2e7c7-b8ab-4fbe-899e-33010a8a4b9c.jpeg" group-title="Videoclub / Terror",Shocker, 100.000 voltios de terror
-https://rakuten.tv/movies/shocker-100-000-voltios-de-terror
-#EXTINF:-1 tvg-id="VOD" tvg-name="7500" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/bda4ad96-8eae-4e5e-8912-29a4fe0c3055-7500-1611324066.jpeg" group-title="Videoclub / Terror",7500
-https://rakuten.tv/movies/7500
-#EXTINF:-1 tvg-id="VOD" tvg-name="Ya vienen" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/f42d2b66-753c-477c-af97-afd86f01e1cc-ya-vienen-1648212139.jpeg" group-title="Videoclub / Terror",Ya vienen
-https://rakuten.tv/movies/ya-vienen
-#EXTINF:-1 tvg-id="VOD" tvg-name="Viejos" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/fa925c7c-b114-4798-b509-9ad8d797ec40.jpeg" group-title="Videoclub / Terror",Viejos
-https://rakuten.tv/movies/viejos
-#EXTINF:-1 tvg-id="VOD" tvg-name="Hermandad de sangre" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/2b0207a3-faf1-488f-a62d-d33d1af660e5-hermandad-de-sangre-1611320982.jpeg" group-title="Videoclub / Terror",Hermandad de sangre
-https://rakuten.tv/movies/hermandad-de-sangre
-#EXTINF:-1 tvg-id="VOD" tvg-name="La vampira de Barcelona" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/ee548f7f-7106-4ca4-8ebc-ee3320d5159c-la-vampira-de-barcelona-1627373322.jpeg" group-title="Videoclub / Terror",La vampira de Barcelona
-https://rakuten.tv/movies/la-vampira-de-barcelona
-#EXTINF:-1 tvg-id="VOD" tvg-name="Z Zone" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/23161a30-e6c7-4e2c-ae74-fd5ca6d8a534.jpeg" group-title="Videoclub / Terror",Z Zone
-https://rakuten.tv/movies/z-zone
-#EXTINF:-1 tvg-id="VOD" tvg-name="Willy’s Wonderland" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/23706c4c-f1a4-4734-ab38-a901914f21d8-willy-s-wonderland-1620915810.jpeg" group-title="Videoclub / Terror",Willy’s Wonderland
-https://rakuten.tv/movies/willy-s-wonderland
-#EXTINF:-1 tvg-id="VOD" tvg-name="Mortal Zombie (El regreso de los muertos vivientes 3)" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/9b3c91d1-1489-41ce-ad05-a8fda5b9489b.jpeg" group-title="Videoclub / Terror",Mortal Zombie (El regreso de los muertos vivientes 3)
-https://rakuten.tv/movies/mortal-zombie-el-regreso-de-los-muertos-vivientes-3
-#EXTINF:-1 tvg-id="VOD" tvg-name="Kristy" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/626a190c-9541-470f-a398-6d4a4bd32c87.jpeg" group-title="Videoclub / Terror",Kristy
-https://rakuten.tv/movies/kristy
-#EXTINF:-1 tvg-id="VOD" tvg-name="Vermin: La Plaga" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/90f82dab-fab2-4d22-8c4d-fca267a4f2f9.jpeg" group-title="Videoclub / Terror",Vermin: La Plaga
-https://rakuten.tv/movies/vermin-la-plaga
-#EXTINF:-1 tvg-id="VOD" tvg-name="El proyecto de la bruja de Blair" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/673fe4e6-4130-4879-b7dd-a668479c7bcb-el-proyecto-de-la-bruja-de-blair-1611322694.jpeg" group-title="Videoclub / Terror",El proyecto de la bruja de Blair
-https://rakuten.tv/movies/el-proyecto-de-la-bruja-de-blair
-#EXTINF:-1 tvg-id="VOD" tvg-name="The Closet" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/56aa25f2-ed5d-43a9-9614-8e468df294e1.jpeg" group-title="Videoclub / Terror",The Closet
-https://rakuten.tv/movies/the-closet
-#EXTINF:-1 tvg-id="VOD" tvg-name="A Nun's Curse" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/7c8aeca9-488f-4f0e-b071-b861516da932-a-nun-s-curse-1655823647.jpeg" group-title="Videoclub / Terror",A Nun's Curse
-https://rakuten.tv/movies/a-nun-s-curse
-#EXTINF:-1 tvg-id="VOD" tvg-name="Presa" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/83890561-a640-4b86-8223-2df5856177ac.jpeg" group-title="Videoclub / Terror",Presa
-https://rakuten.tv/movies/presa
-#EXTINF:-1 tvg-id="VOD" tvg-name="Winnie the Pooh: Miel & Sangre" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/fa12e20c-667b-4e3b-b1e1-9b11ca7f1690.jpeg" group-title="Videoclub / Terror",Winnie the Pooh: Miel & Sangre
-https://rakuten.tv/movies/winnie-the-pooh-miel-sangre
-#EXTINF:-1 tvg-id="VOD" tvg-name="Monstrous" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/ab26b538-0238-479d-afff-e9e0e98c57d7.jpeg" group-title="Videoclub / Terror",Monstrous
-https://rakuten.tv/movies/monstrous
-#EXTINF:-1 tvg-id="VOD" tvg-name="Noctem" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/ac6abe25-40f4-40d6-a2bd-75408aeb94fe-noctem-1667381092.jpeg" group-title="Videoclub / Terror",Noctem
-https://rakuten.tv/movies/noctem
-#EXTINF:-1 tvg-id="VOD" tvg-name="Crímenes del futuro" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/27c01a57-a21c-4044-b93c-881268d7cecf-crimenes-del-futuro-1667839570.jpeg" group-title="Videoclub / Terror",Crímenes del futuro
-https://rakuten.tv/movies/crimenes-del-futuro
-#EXTINF:-1 tvg-id="VOD" tvg-name="Wicked Witches" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/62bf0732-45d6-4206-8a82-91bb6481ba31.jpeg" group-title="Videoclub / Terror",Wicked Witches
-https://rakuten.tv/movies/wicked-witches
-#EXTINF:-1 tvg-id="VOD" tvg-name="2025: La purga anual" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/de664a42-53d9-4de7-98b8-64df04a8e047.jpeg" group-title="Videoclub / Terror",2025: La purga anual
-https://rakuten.tv/movies/2025-la-purga-anual
-#EXTINF:-1 tvg-id="VOD" tvg-name="Manual de un asesinato" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/05bfaf0b-4f00-4f3e-82a5-f54731c9ca20.jpeg" group-title="Videoclub / Terror",Manual de un asesinato
-https://rakuten.tv/movies/manual-de-un-asesinato
-#EXTINF:-1 tvg-id="VOD" tvg-name="La criada" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/f83dcf6d-4606-499d-91ad-e1e30169891b-la-criada-1646926040.jpeg" group-title="Videoclub / Terror",La criada
-https://rakuten.tv/movies/la-criada
-#EXTINF:-1 tvg-id="VOD" tvg-name="The Alpha Test" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/34046b9c-7ec6-434c-a0ee-73ea5d2868ea.jpeg" group-title="Videoclub / Terror",The Alpha Test
-https://rakuten.tv/movies/the-alpha-test
-#EXTINF:-1 tvg-id="VOD" tvg-name="From the Depths" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/f0bf06a5-9198-4866-8929-39410109cf08.jpeg" group-title="Videoclub / Terror",From the Depths
-https://rakuten.tv/movies/from-the-depths
-#EXTINF:-1 tvg-id="VOD" tvg-name="Bloody Hell" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/fe80ecc5-ca16-4a52-8fdc-85b710604de2-bloody-hell-1645714070.jpeg" group-title="Videoclub / Terror",Bloody Hell
-https://rakuten.tv/movies/bloody-hell
-#EXTINF:-1 tvg-id="VOD" tvg-name="Leprechaun Returns" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/bed777c8-faf9-4af4-95ac-0ed080fda5b2.jpeg" group-title="Videoclub / Terror",Leprechaun Returns
-https://rakuten.tv/movies/leprechaun-returns
-#EXTINF:-1 tvg-id="VOD" tvg-name="Candy Corn" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/c3acf253-db62-4dc5-bb02-0df7f5b0501e-candy-corn-1640685913.jpeg" group-title="Videoclub / Terror",Candy Corn
-https://rakuten.tv/movies/candy-corn
-#EXTINF:-1 tvg-id="VOD" tvg-name="El dentista" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/85a2d5f6-cec6-4f12-843e-01f3e74ee8f2.jpeg" group-title="Videoclub / Terror",El dentista
-https://rakuten.tv/movies/el-dentista
-#EXTINF:-1 tvg-id="VOD" tvg-name="Prisioneros del Sol" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/28ff9b64-0732-4e00-965d-3101042afd74.jpeg" group-title="Videoclub / Terror",Prisioneros del Sol
-https://rakuten.tv/movies/prisioneros-del-sol
-#EXTINF:-1 tvg-id="VOD" tvg-name="Feast" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/cf2924c8-594d-45fe-ab2d-6d02b2bd33d5.jpeg" group-title="Videoclub / Terror",Feast
-https://rakuten.tv/movies/feast
-#EXTINF:-1 tvg-id="VOD" tvg-name="Halloween at Aunt Ethel's" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/84353c48-b204-4726-92a8-c9b8a55a7d45.jpeg" group-title="Videoclub / Terror",Halloween at Aunt Ethel's
-https://rakuten.tv/movies/halloween-at-aunt-ethel-s
-#EXTINF:-1 tvg-id="VOD" tvg-name="Mid-Century" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/c1989992-dd75-4534-b674-4d430ad77ebd.jpeg" group-title="Videoclub / Terror",Mid-Century
-https://rakuten.tv/movies/mid-century
-#EXTINF:-1 tvg-id="VOD" tvg-name="Las furias" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/b2c51e25-072e-45e0-98e8-f2d72def56bc.jpeg" group-title="Videoclub / Terror",Las furias
-https://rakuten.tv/movies/las-furias-2019
-#EXTINF:-1 tvg-id="VOD" tvg-name="Cangrejos asesinos" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/24a4b3c8-4666-4220-8729-a4415e59d7ea.jpeg" group-title="Videoclub / Terror",Cangrejos asesinos
-https://rakuten.tv/movies/cangrejos-asesinos
-#EXTINF:-1 tvg-id="VOD" tvg-name="Not Forgotten" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/e108f991-3532-4148-abe2-0a896945e904.jpeg" group-title="Videoclub / Terror",Not Forgotten
-https://rakuten.tv/movies/not-forgotten
-#EXTINF:-1 tvg-id="VOD" tvg-name="We Have Always Lived in the Castle" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/a651d7c2-ec76-46ee-b7db-e75fccb3bf2b.jpeg" group-title="Videoclub / Terror",We Have Always Lived in the Castle
-https://rakuten.tv/movies/we-have-always-lived-in-the-castle
-#EXTINF:-1 tvg-id="VOD" tvg-name="2 Hermanas" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/8924bee5-ef04-4941-90e2-876e4513df64.jpeg" group-title="Videoclub / Terror",2 Hermanas
-https://rakuten.tv/movies/2-hermanas
-#EXTINF:-1 tvg-id="VOD" tvg-name="Disculpa si te mato" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/55131337-117c-4ae4-a8aa-a73628aa0f28.jpeg" group-title="Videoclub / Terror",Disculpa si te mato
-https://rakuten.tv/movies/disculpa-si-te-mato
-#EXTINF:-1 tvg-id="VOD" tvg-name="You Shall Not Sleep Tonight" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/c37ef9d5-76a9-4c34-9bc1-478803999896.jpeg" group-title="Videoclub / Terror",You Shall Not Sleep Tonight
-https://rakuten.tv/movies/you-shall-not-sleep-tonight
-#EXTINF:-1 tvg-id="VOD" tvg-name="El regreso de Manson" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/e365a601-b6e1-4d71-8262-4896ce22f47d.jpeg" group-title="Videoclub / Terror",El regreso de Manson
-https://rakuten.tv/movies/el-regreso-de-manson
-#EXTINF:-1 tvg-id="VOD" tvg-name="The Pool" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/9bb78d95-0a26-4bca-bc43-bfe775dc97ea.jpeg" group-title="Videoclub / Terror",The Pool
-https://rakuten.tv/movies/the-pool
-#EXTINF:-1 tvg-id="VOD" tvg-name="Oficina Zombie" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/f34fc222-87cb-44eb-834e-855f1b4af31e.jpeg" group-title="Videoclub / Terror",Oficina Zombie
-https://rakuten.tv/movies/oficina-zombie
-#EXTINF:-1 tvg-id="VOD" tvg-name="Sin origen" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/8fb5e60c-d513-48ab-8b81-6add5e8007b8.jpeg" group-title="Videoclub / Terror",Sin origen
-https://rakuten.tv/movies/sin-origen
-#EXTINF:-1 tvg-id="VOD" tvg-name="Bad Apples" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/e58b5b9f-579a-43c7-80df-238f134db481.jpeg" group-title="Videoclub / Terror",Bad Apples
-https://rakuten.tv/movies/bad-apples
-#EXTINF:-1 tvg-id="VOD" tvg-name="Qué bello es morir" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/a7d49ce4-7093-47af-b10c-20efad1ccac3.jpeg" group-title="Videoclub / Terror",Qué bello es morir
-https://rakuten.tv/movies/que-bello-es-morir
-#EXTINF:-1 tvg-id="VOD" tvg-name="El dentista 2" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/70805c76-1d40-4f9f-b3fe-4d06322b4290-el-dentista-2-1622098588.jpeg" group-title="Videoclub / Terror",El dentista 2
-https://rakuten.tv/movies/el-dentista-2
-#EXTINF:-1 tvg-id="VOD" tvg-name="Johnny Z" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/eec9965b-65f4-4a58-a5fc-e15e367b8557.jpeg" group-title="Videoclub / Terror",Johnny Z
-https://rakuten.tv/movies/johnny-z
-#EXTINF:-1 tvg-id="VOD" tvg-name="Visitante" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/5bd5ec60-e9d3-4d3b-9ac5-a14639426bee-visitante-1661858904.jpeg" group-title="Videoclub / Terror",Visitante
-https://rakuten.tv/movies/visitante
-#EXTINF:-1 tvg-id="VOD" tvg-name="Acaba con los vecinos" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/d3a74e72-2547-4566-a9fb-ec3ad03f04b1.jpeg" group-title="Videoclub / Terror",Acaba con los vecinos
-https://rakuten.tv/movies/acaba-con-los-vecinos
-#EXTINF:-1 tvg-id="VOD" tvg-name="La bóveda" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/c6444664-4eb4-4a1e-bd56-3eb8bc63b076-la-boveda-1611322775.jpeg" group-title="Videoclub / Terror",La bóveda
-https://rakuten.tv/movies/la-boveda
-#EXTINF:-1 tvg-id="VOD" tvg-name="Bolsa de cadáveres" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/499ee0a9-f97d-49b9-93d7-c797279b557b.jpeg" group-title="Videoclub / Terror",Bolsa de cadáveres
-https://rakuten.tv/movies/bolsa-de-cadaveres
-#EXTINF:-1 tvg-id="VOD" tvg-name="El callejón" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/bbd16cd9-d95d-4af7-9ec1-35ebe0a132e7-el-callejon-1611320998.jpeg" group-title="Videoclub / Terror",El callejón
-https://rakuten.tv/movies/el-callejon
-#EXTINF:-1 tvg-id="VOD" tvg-name="C.H.U.D. (Caníbales Humanoides Ululantes Demoníacos)" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/f501ba59-984b-494e-898d-193046179d63.jpeg" group-title="Videoclub / Terror",C.H.U.D. (Caníbales Humanoides Ululantes Demoníacos)
-https://rakuten.tv/movies/c-h-u-d-canibales-humanoides-ululantes-demoniacos
-#EXTINF:-1 tvg-id="VOD" tvg-name="Hosts (Huéspedes)" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/61905990-e79b-426f-942a-1803990794ef.jpeg" group-title="Videoclub / Terror",Hosts (Huéspedes)
-https://rakuten.tv/movies/hosts-huespedes
-#EXTINF:-1 tvg-id="VOD" tvg-name="Hasta tu última muerte" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/7e283056-ec63-4ddd-9fae-d94f9ed44ca9.jpeg" group-title="Videoclub / Terror",Hasta tu última muerte
-https://rakuten.tv/movies/hasta-tu-ultima-muerte
-#EXTINF:-1 tvg-id="VOD" tvg-name="¿Quién mató a tía Roo?" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/a4d3c070-84c6-4b6e-a12b-603e5756035d.jpeg" group-title="Videoclub / Terror",¿Quién mató a tía Roo?
-https://rakuten.tv/movies/quien-mato-a-tia-roo
 #EXTINF:-1 tvg-id="VOD" tvg-name="Alvin y las ardillas" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/431daff7-3bed-41c7-9c4d-328e88599ab2-alvin-y-las-ardillas-1611321386.jpeg" group-title="Videoclub / Familiar",Alvin y las ardillas
 https://rakuten.tv/movies/alvin-y-las-ardillas
 #EXTINF:-1 tvg-id="VOD" tvg-name="Alvin y las ardillas: Fiesta sobre ruedas" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/8de7892c-5c68-4ac3-a4a4-fdf3a05178b2-alvin-y-las-ardillas-fiesta-sobre-ruedas-1611322259.jpeg" group-title="Videoclub / Familiar",Alvin y las ardillas: Fiesta sobre ruedas
