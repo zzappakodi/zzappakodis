@@ -1,239 +1,239 @@
 #EXTM3U x-tvg-url="http://192.168.1.98:8080/raku-epg.xml"
-#EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-name="Filmise Sci-Fi" tvg-logo="" group-title="Sci-Fi",Filmise Sci-Fi
+#EXTINF:-1 tvg-id="filmrise-sci-fi-es" tvg-name="FilmRise Sci-Fi" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/277ead19-5335-42c8-8c64-31bda5696bb9.jpeg" group-title="Sci-Fi",FilmRise Sci-Fi
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/8b345156-5a3f-4e0d-bf92-aa5076220248/5.m3u8
-#EXTINF:-1 tvg-id="bbc-series-es" tvg-name="BBC Series" tvg-logo="" group-title="Series",BBC Series
+#EXTINF:-1 tvg-id="bbc-series-es" tvg-name="BBC Drama" tvg-logo="" group-title="Series",BBC Drama
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspain-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="beyblade-es" tvg-name="Beyblade" tvg-logo="" group-title="Animacion",Beyblade
+#EXTINF:-1 tvg-id="beyblade-es" tvg-name="Beyblade" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/dac38e6b-007a-4c8f-88e2-198b4cef2035.jpeg" group-title="Animacion",Beyblade
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="rakuten-viki-es" tvg-name="akuten VIKI" tvg-logo="" group-title="Series",akuten VIKI
+#EXTINF:-1 tvg-id="rakuten-viki-es" tvg-name="Rakuten VIKI" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg" group-title="Series",Rakuten VIKI
 https://b8ee598f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1Jha3V0ZW5WaWtpX0hMUw/manifest.m3u8
-#EXTINF:-1 tvg-id="todo-novelas" tvg-name="Todo Novelas" tvg-logo="" group-title="Series",Todo Novelas
+#EXTINF:-1 tvg-id="todo-novelas" tvg-name="Todo Novelas" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg" group-title="Series",Todo Novelas
 https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="bbc-top-gear-spa" tvg-name="Top Gear en español" tvg-logo="" group-title="Series",Top Gear en español
+#EXTINF:-1 tvg-id="bbc-top-gear-spa" tvg-name="Top Gear en español" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/36527b18-2a5c-4977-8c04-60dd6e57db24-top-gear-en-espanol-1651835741.jpeg" group-title="Series",Top Gear en español
 https://amg00793-amg00793c50-rakuten-es-8130.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearspain-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="yu-gi-oh-new-spa" tvg-name="Yu-Gi-Oh!" tvg-logo="" group-title="Animacion",Yu-Gi-Oh!
+#EXTINF:-1 tvg-id="yu-gi-oh-new-spa" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/f23b1f1a-4854-441c-8522-9bf991f0bf21.jpeg" group-title="Animacion",Yu-Gi-Oh!
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="mr-bean-es" tvg-name="Mr. Bean" tvg-logo="" group-title="Series",Mr. Bean
+#EXTINF:-1 tvg-id="mr-bean-es" tvg-name="Mr. Bean" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/7ff74f0d-63d9-44f5-99e3-d11bdbf81197.jpeg" group-title="Series",Mr. Bean
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean - Live Action" tvg-logo="" group-title="Series",Mr. Bean - Live Action
+#EXTINF:-1 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean - Live Action" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg" group-title="Series",Mr. Bean - Live Action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="lol-espana" tvg-name="LOL España" tvg-logo="" group-title="Series",LOL España
+#EXTINF:-1 tvg-id="lol-espana" tvg-name="LOL España" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/927977ca-717e-449a-9499-d1364efd3bdb.jpeg" group-title="Series",LOL España
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/877cf728-b934-444b-b4f3-cbe0ea379970/5.m3u8
-#EXTINF:-1 tvg-id="todo-drama" tvg-name="Todo Drama" tvg-logo="" group-title="Series",Todo Drama
+#EXTINF:-1 tvg-id="todo-drama" tvg-name="Todo Drama" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fd26c4b5-868a-4520-8791-d016d0dd46b8.jpeg" group-title="Series",Todo Drama
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d4e8bc0e-4246-43ac-b101-54f7631bd145/5.m3u8
-#EXTINF:-1 tvg-id="rookie-blue-spa" tvg-name="ookie Blue" tvg-logo="" group-title="Series",ookie Blue
+#EXTINF:-1 tvg-id="rookie-blue-spa" tvg-name="Rookie Blue" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4fd593d9-67b8-46a6-ad8a-b89a33bc4572.jpeg" group-title="Series",Rookie Blue
 https://amg00353-amg00353c62-rakuten-es-8876.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookiebluespanish-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="wedotv-amor" tvg-name="wedotv Amor" tvg-logo="" group-title="Series",wedotv Amor
+#EXTINF:-1 tvg-id="wedotv-amor" tvg-name="wedotv Amor" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f2eabb04-9a91-4acb-97ff-8eab64c09446.jpeg" group-title="Series",wedotv Amor
 https://amg00735-amg00735c15-rakuten-es-8598.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="midsomer-murders-spa" tvg-name="Los asesinatos de Midsomer" tvg-logo="" group-title="Crimen",Los asesinatos de Midsomer
+#EXTINF:-1 tvg-id="midsomer-murders-spa" tvg-name="Los asesinatos de Midsomer" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/358e266b-c9b4-4c44-b9d3-ea4f92c878f1.jpeg" group-title="Crimen",Los asesinatos de Midsomer
 https://fda256cf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX01NU3BhaW5fSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="animevision" tvg-name="AnimeVisión" tvg-logo="" group-title="Animacion",AnimeVisión
+#EXTINF:-1 tvg-id="animevision" tvg-name="AnimeVisión" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3ad26428-c55b-4645-8202-c349ccbb52cc.jpeg" group-title="Animacion",AnimeVisión
 https://daiconnect.com/live/hls/tvup/rk-animevision/.m3u8
-#EXTINF:-1 tvg-id="animevision-classics" tvg-name="AnimeVisión Classics" tvg-logo="" group-title="Animacion",AnimeVisión Classics
+#EXTINF:-1 tvg-id="animevision-classics" tvg-name="AnimeVisión Classics" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/56e7f02c-0dbf-49cf-b8a2-c6b7e2d02c35.jpeg" group-title="Animacion",AnimeVisión Classics
 https://daiconnect.com/live/hls/tvup/rk-animevisionclassics/.m3u8
-#EXTINF:-1 tvg-id="k-drama-plus" tvg-name="K-Drama+" tvg-logo="" group-title="Series",K-Drama+
+#EXTINF:-1 tvg-id="k-drama-plus" tvg-name="K-Drama+" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/18918110-1ab1-4aa8-9879-24473b095497.jpeg" group-title="Series",K-Drama+
 https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0tEcmFtYV9ITFM/manifest.m3u8
-#EXTINF:-1 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" tvg-logo="" group-title="Entretenimiento",The Pet Collective
+#EXTINF:-1 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b471d6b6-5694-46b3-8a33-6dbb0f76cf53.jpeg" group-title="Entretenimiento",The Pet Collective
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="people-are-awesome-new" tvg-name="People Are Awesome" tvg-logo="" group-title="Entretenimiento",People Are Awesome
+#EXTINF:-1 tvg-id="people-are-awesome-new" tvg-name="People Are Awesome" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f.jpeg" group-title="Entretenimiento",People Are Awesome
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="revry" tvg-name="evry" tvg-logo="" group-title="Entretenimiento",evry
+#EXTINF:-1 tvg-id="revry" tvg-name="Revry" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/51021714-5a06-4be2-b0ff-6f5de75e742e.png" group-title="Entretenimiento",Revry
 https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="jukin-fail-army-new" tvg-name="Fail Army" tvg-logo="" group-title="Entretenimiento",Fail Army
+#EXTINF:-1 tvg-id="jukin-fail-army-new" tvg-name="Fail Army" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg" group-title="Entretenimiento",Fail Army
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="top-barca-es" tvg-name="TOP Barça" tvg-logo="" group-title="Deportes",TOP Barça
+#EXTINF:-1 tvg-id="top-barca-es" tvg-name="TOP Barça" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="Deportes",TOP Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="fifa-plus-es-new" tvg-name="FIFA+" tvg-logo="" group-title="Deportes",FIFA+
+#EXTINF:-1 tvg-id="fifa-plus-es-new" tvg-name="FIFA+" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/381e0e02-e3e4-4bf8-af7d-0751ec0cd395.png" group-title="Deportes",FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="mypadel-tv" tvg-name="MyPadel TV" tvg-logo="" group-title="Deportes",MyPadel TV
+#EXTINF:-1 tvg-id="mypadel-tv" tvg-name="MyPadel TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1de5d983-6666-4d47-8f02-b7a898f2ebc3.png" group-title="Deportes",MyPadel TV
 https://daiconnect.com/live/hls/tvup/rk-mypadeltv/.m3u8
-#EXTINF:-1 tvg-id="laliga-inside" tvg-name="LaLiga Inside" tvg-logo="" group-title="Deportes",LaLiga Inside
+#EXTINF:-1 tvg-id="laliga-inside" tvg-name="LaLiga Inside" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg" group-title="Deportes",LaLiga Inside
 https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8
-#EXTINF:-1 tvg-id="inter-24-7-eng" tvg-name="INTE 24/7" tvg-logo="" group-title="Deportes",INTE 24/7
+#EXTINF:-1 tvg-id="inter-24-7-eng" tvg-name="INTER 24/7" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3519342e-d891-46ef-923e-27b698550a13.jpeg" group-title="Deportes",INTER 24/7
 https://amg27604-amg27604c1-amgplt0165.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0165/playlist.m3u8
-#EXTINF:-1 tvg-id="rally-tv-fast" tvg-name="ally.TV FAST+" tvg-logo="" group-title="Deportes",ally.TV FAST+
+#EXTINF:-1 tvg-id="rally-tv-fast" tvg-name="Rally.TV FAST+" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ae3344c-16ea-4c6d-8c5d-37aceec4b8f7.jpeg" group-title="Deportes",Rally.TV FAST+
 https://d6a3f626.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JhbGx5VFZGQVNUUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="fuel-tv-new" tvg-name="FUEL TV" tvg-logo="" group-title="Deportes",FUEL TV
+#EXTINF:-1 tvg-id="fuel-tv-new" tvg-name="FUEL TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/d7755b9a-5d95-4d1c-8615-d061c709ea2d.jpeg" group-title="Deportes",FUEL TV
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1 tvg-id="billiards-tv" tvg-name="World Billiards TV" tvg-logo="" group-title="Deportes",World Billiards TV
+#EXTINF:-1 tvg-id="billiards-tv" tvg-name="World Billiards TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png" group-title="Deportes",World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" tvg-logo="" group-title="Deportes",Hard Knocks Fighting Championship
+#EXTINF:-1 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg" group-title="Deportes",Hard Knocks Fighting Championship
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9175c3bc-0b1d-4c7a-b177-ca7a24887d79/5.m3u8
-#EXTINF:-1 tvg-id="glory-kickboxing" tvg-name="GLOY Kickboxing" tvg-logo="" group-title="Deportes",GLOY Kickboxing
+#EXTINF:-1 tvg-id="glory-kickboxing" tvg-name="GLORY Kickboxing" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg" group-title="Deportes",GLORY Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="surf-channel" tvg-name="Surf Channel" tvg-logo="" group-title="Deportes",Surf Channel
+#EXTINF:-1 tvg-id="surf-channel" tvg-name="Surf Channel" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ee7406e0-5a2a-49dc-9722-f3888314566c-surf-channel-1631785285.jpeg" group-title="Deportes",Surf Channel
 https://daiconnect.com/live/hls/tvup/rk-surfchannel/.m3u8
-#EXTINF:-1 tvg-id="world-surf-league" tvg-name="World Surf League 24/7" tvg-logo="" group-title="Deportes",World Surf League 24/7
+#EXTINF:-1 tvg-id="world-surf-league" tvg-name="World Surf League 24/7" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cc6bb9fa-fbea-40a7-9f1d-ace3c25e9eea.jpeg" group-title="Deportes",World Surf League 24/7
 https://eed754f7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dvcmxkU3VyZkxlYWd1ZTI0N19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="sports-illustrated-tv" tvg-name="Sports Illustrated TV" tvg-logo="" group-title="Deportes",Sports Illustrated TV
+#EXTINF:-1 tvg-id="sports-illustrated-tv" tvg-name="Sports Illustrated TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a05b6f57-bc84-4d9e-8296-6a69acc14f42.jpeg" group-title="Deportes",Sports Illustrated TV
 https://c5879d53.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1NJVFZfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="pfl-mma" tvg-name="PFL MMA" tvg-logo="" group-title="Deportes",PFL MMA
+#EXTINF:-1 tvg-id="pfl-mma" tvg-name="PFL MMA" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg" group-title="Deportes",PFL MMA
 https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="racer-international" tvg-name="ACE International" tvg-logo="" group-title="Deportes",ACE International
+#EXTINF:-1 tvg-id="racer-international" tvg-name="RACER International" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e99fd425-48f6-4ced-b550-a9faca315a4d.jpeg" group-title="Deportes",RACER International
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="red-bull-tv-es" tvg-name="ed Bull TV" tvg-logo="" group-title="Deportes",ed Bull TV
+#EXTINF:-1 tvg-id="red-bull-tv-es" tvg-name="Red Bull TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg" group-title="Deportes",Red Bull TV
 https://73554b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="tennis-plus" tvg-name="Tennis+" tvg-logo="" group-title="Deportes",Tennis+
+#EXTINF:-1 tvg-id="tennis-plus" tvg-name="Tennis+" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0922c6a-1c35-4fe3-a0cd-688efa948a68.jpeg" group-title="Deportes",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
-#EXTINF:-1 tvg-id="lifestyle-rakuten-tv" tvg-name="Estilo y Vida - akuten TV" tvg-logo="" group-title="Estilo_de_vida",Estilo y Vida - akuten TV
+#EXTINF:-1 tvg-id="lifestyle-rakuten-tv" tvg-name="Estilo y Vida - Rakuten TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/84e0b7b3-1612-470a-afdc-67a8c5b0fbbe.jpeg" group-title="Estilo_de_vida",Estilo y Vida - Rakuten TV
 https://lifestyle-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8
-#EXTINF:-1 tvg-id="gipsy-kings-rakuten-tv" tvg-name="Los Gipsy Kings - akuten TV" tvg-logo="" group-title="Estilo_de_vida",Los Gipsy Kings - akuten TV
+#EXTINF:-1 tvg-id="gipsy-kings-rakuten-tv" tvg-name="Los Gipsy Kings - Rakuten TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cc63b2b-870e-46fd-889b-ae81f798c9d7.jpeg" group-title="Estilo_de_vida",Los Gipsy Kings - Rakuten TV
 https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8
-#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="" group-title="Estilo_de_vida",Fashion TV
+#EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg" group-title="Estilo_de_vida",Fashion TV
 https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="the-design-network-new" tvg-name="The Design Network" tvg-logo="" group-title="Estilo_de_vida",The Design Network
+#EXTINF:-1 tvg-id="the-design-network-new" tvg-name="The Design Network" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0d7ac09c-6941-41cd-9351-ff6f73a81ed6.jpeg" group-title="Estilo_de_vida",The Design Network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="1-1-travel" tvg-name="1+1 Travel" tvg-logo="" group-title="Estilo_de_vida",1+1 Travel
+#EXTINF:-1 tvg-id="1-1-travel" tvg-name="1+1 Travel" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/67849c11-43a6-4ba2-b4e0-ba3d173a03cb.png" group-title="Estilo_de_vida",1+1 Travel
 https://daiconnect.com/live/hls/tvup/rk-1travel/.m3u8
-#EXTINF:-1 tvg-id="travelxp-es" tvg-name="Travelxp" tvg-logo="" group-title="Estilo_de_vida",Travelxp
+#EXTINF:-1 tvg-id="travelxp-es" tvg-name="Travelxp" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg" group-title="Estilo_de_vida",Travelxp
 https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8
-#EXTINF:-1 tvg-id="med-tv" tvg-name="Med.TV" tvg-logo="" group-title="Estilo_de_vida",Med.TV
-https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiODRkMGZkNDAtMTAwMy00MTFhLThlZWQtNDViODcwZmFjMGJiIiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
-#EXTINF:-1 tvg-id="vivir-con-gatos" tvg-name="Vivir con gatos" tvg-logo="" group-title="Estilo_de_vida",Vivir con gatos
+#EXTINF:-1 tvg-id="med-tv" tvg-name="Med.TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ab7a2d2a-67cc-4e80-848b-ec163019bae3.jpeg" group-title="Estilo_de_vida",Med.TV
+https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiOGFhMjNlZjUtMmY0MC00MTY1LTk4M2QtZWRhZDExYjQzNDUwIiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
+#EXTINF:-1 tvg-id="vivir-con-gatos" tvg-name="Vivir con gatos" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg" group-title="Estilo_de_vida",Vivir con gatos
 https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8
-#EXTINF:-1 tvg-id="vivir-con-perros" tvg-name="Vivir con perros" tvg-logo="" group-title="Estilo_de_vida",Vivir con perros
+#EXTINF:-1 tvg-id="vivir-con-perros" tvg-name="Vivir con perros" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg" group-title="Estilo_de_vida",Vivir con perros
 https://daiconnect.com/live/hls/tvup/rk-vivirconperros/.m3u8
-#EXTINF:-1 tvg-id="stingray-naturescape" tvg-name="Stingray Naturescape" tvg-logo="" group-title="Estilo_de_vida",Stingray Naturescape
+#EXTINF:-1 tvg-id="stingray-naturescape" tvg-name="Stingray Naturescape" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7791905f-9f8d-45ca-8ddd-a808cab7eb24.jpeg" group-title="Estilo_de_vida",Stingray Naturescape
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d29c8d7b-1ce2-498c-af51-a11099a5066e/3.m3u8
-#EXTINF:-1 tvg-id="5-minutes-craft-es" tvg-name="Ideas en 5 minutos" tvg-logo="" group-title="Estilo_de_vida",Ideas en 5 minutos
+#EXTINF:-1 tvg-id="5-minutes-craft-es" tvg-name="Ideas en 5 minutos" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b5fc34b2-b51a-4418-a52d-bd479fd3d6e1.jpeg" group-title="Estilo_de_vida",Ideas en 5 minutos
 https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1" tvg-name="¡HOLA! Play" tvg-logo="" group-title="Estilo_de_vida",¡HOLA! Play
+#EXTINF:-1 tvg-id="hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1" tvg-name="¡HOLA! Play" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b7fa7e1a-c47f-4d90-98e7-7c64c77dbbdb.png" group-title="Estilo_de_vida",¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-#EXTINF:-1 tvg-id="daystar-spa" tvg-name="Daystar Español" tvg-logo="" group-title="Estilo_de_vida",Daystar Español
+#EXTINF:-1 tvg-id="daystar-spa" tvg-name="Daystar Español" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/129d0817-c05d-447f-85ba-acac21db4307.jpeg" group-title="Estilo_de_vida",Daystar Español
 https://amg00405-amg00405c2-amgplt0165.playout.now3.amagi.tv/smarttv/64wj6m6d8/playlist_cmaf.m3u8
-#EXTINF:-1 tvg-id="daystar-eng" tvg-name="Daystar TV" tvg-logo="" group-title="Estilo_de_vida",Daystar TV
+#EXTINF:-1 tvg-id="daystar-eng" tvg-name="Daystar TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/efe4aad6-6114-4535-adab-44ac9d552fcc.jpeg" group-title="Estilo_de_vida",Daystar TV
 https://amg00405-amg00405c1-amgplt0165.playout.now3.amagi.tv/smarttv/g32odw73f/playlist_cmaf.m3u8
-#EXTINF:-1 tvg-id="gusto-tv-new" tvg-name="Gusto TV" tvg-logo="" group-title="Cocina",Gusto TV
+#EXTINF:-1 tvg-id="gusto-tv-new" tvg-name="Gusto TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg" group-title="Cocina",Gusto TV
 https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="a-bocados" tvg-name="A bocados" tvg-logo="" group-title="Cocina",A bocados
+#EXTINF:-1 tvg-id="a-bocados" tvg-name="A bocados" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bc94df36-c17c-4496-a6f1-39bd133ddc49.jpeg" group-title="Cocina",A bocados
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6d496615-3258-464c-b798-bf72ade40656/5.m3u8
-#EXTINF:-1 tvg-id="metal-rocks" tvg-name="Metal.ocks" tvg-logo="" group-title="Música",Metal.ocks
+#EXTINF:-1 tvg-id="metal-rocks" tvg-name="Metal.Rocks" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg" group-title="Música",Metal.Rocks
 https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="qwest-tv" tvg-name="Qwest TV" tvg-logo="" group-title="Música",Qwest TV
+#EXTINF:-1 tvg-id="qwest-tv" tvg-name="Qwest TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0.jpeg" group-title="Música",Qwest TV
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge HD" tvg-logo="" group-title="Música",Deluxe Lounge HD
+#EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge HD" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/864f2b27-4702-4308-850c-f7a1c73d4298.jpeg" group-title="Música",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/69c906b8-977b-4e1a-92a9-3dfba33d24a0/0.m3u8
-#EXTINF:-1 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="Música",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6d183d7f-50c9-40f6-825f-e3d70f97247d.jpeg" group-title="Música",Stingray Greatest Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/cc9e3de3-6c2d-4d9e-aefe-9a278347e0b9/1.m3u8
-#EXTINF:-1 tvg-id="stingray-hit-list" tvg-name="Stingray: Hitlist" tvg-logo="" group-title="Música",Stingray: Hitlist
+#EXTINF:-1 tvg-id="stingray-hit-list" tvg-name="Stingray: Hitlist" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg" group-title="Música",Stingray: Hitlist
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/dc55c440-fa9c-4639-8987-9e45e582e1e1/1.m3u8
-#EXTINF:-1 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray: emember the 80’s" tvg-logo="" group-title="Música",Stingray: emember the 80’s
+#EXTINF:-1 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray: Remember the 80's" tvg-logo="" group-title="Música",Stingray: Remember the 80's
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d98ea3ab-6986-4138-a2fc-9c2c05b3dda1/1.m3u8
-#EXTINF:-1 tvg-id="that-s-70s" tvg-name="That's 70s" tvg-logo="" group-title="Música",That's 70s
+#EXTINF:-1 tvg-id="that-s-70s" tvg-name="That's 70s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/21ddd31b-ff64-4afe-aaca-0eb13b1a7cff.jpeg" group-title="Música",That's 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="that-s-80s" tvg-name="That's 80s" tvg-logo="" group-title="Música",That's 80s
+#EXTINF:-1 tvg-id="that-s-80s" tvg-name="That's 80s" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d1bd1f06-f3a0-47ec-abac-62342ff42fdb.jpeg" group-title="Música",That's 80s
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="that-s-rock" tvg-name="That's OCK" tvg-logo="" group-title="Música",That's OCK
+#EXTINF:-1 tvg-id="that-s-rock" tvg-name="That's ROCK" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e8d66036-f48b-417d-961d-45b7bf5ca5c7.jpeg" group-title="Música",That's ROCK
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="vevo-latino-es" tvg-name="Vevo Latino" tvg-logo="" group-title="Música",Vevo Latino
+#EXTINF:-1 tvg-id="vevo-latino-es" tvg-name="Vevo Latino" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/acffba3b-1779-48a8-bf69-de8f2cdf69c2.jpeg" group-title="Música",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="vevo-pop-es" tvg-name="Vevo Pop" tvg-logo="" group-title="Música",Vevo Pop
+#EXTINF:-1 tvg-id="vevo-pop-es" tvg-name="Vevo Pop" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f796c006-b189-4b90-b8ff-6a42cf6d4bd7.jpeg" group-title="Música",Vevo Pop
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopes-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="that-s-90s00s" tvg-name="That's 90s00s" tvg-logo="" group-title="Música",That's 90s00s
+#EXTINF:-1 tvg-id="that-s-90s00s" tvg-name="That's 90s00s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/4f51ac5c-a9ee-43ef-b44e-4eba377df3b2.jpeg" group-title="Música",That's 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts by Stingray" tvg-logo="" group-title="Música",Qello Concerts by Stingray
+#EXTINF:-1 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts by Stingray" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg" group-title="Música",Qello Concerts by Stingray
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/985c2d6e-9206-41fd-85f8-5a31cbe6886b/3.m3u8
-#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-name="En Familia - akuten TV" tvg-logo="" group-title="Infantil",En Familia - akuten TV
+#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-name="En Familia - Rakuten TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116.jpeg" group-title="Infantil",En Familia - Rakuten TV
 https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-#EXTINF:-1 tvg-id="baby-shark-tv" tvg-name="Baby Shark TV" tvg-logo="" group-title="Animacion",Baby Shark TV
+#EXTINF:-1 tvg-id="baby-shark-tv" tvg-name="Baby Shark TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a037e33c-a084-4a63-b433-b227d0bc2c59.jpeg" group-title="Animacion",Baby Shark TV
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-#EXTINF:-1 tvg-id="las-tres-mellizas" tvg-name="Las tres mellizas" tvg-logo="" group-title="Animacion",Las tres mellizas
+#EXTINF:-1 tvg-id="las-tres-mellizas" tvg-name="Las tres mellizas" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5fca5e18-a011-44e0-a411-608be7e29a84.jpeg" group-title="Animacion",Las tres mellizas
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d15713eb-d179-46ab-8290-6b5c7b70a2f1/5.m3u8
-#EXTINF:-1 tvg-id="pocoyo" tvg-name="Pocoyó" tvg-logo="" group-title="Animacion",Pocoyó
+#EXTINF:-1 tvg-id="pocoyo" tvg-name="Pocoyó" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b427e296-f7e7-488a-b8ac-f9822584acff.jpeg" group-title="Animacion",Pocoyó
 https://daiconnect.com/live/hls/tvup/rk-pocoyo/.m3u8
-#EXTINF:-1 tvg-id="planeta-junior-spa" tvg-name="La abeja Maya" tvg-logo="" group-title="Animacion",La abeja Maya
+#EXTINF:-1 tvg-id="planeta-junior-spa" tvg-name="La abeja Maya" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/66532545-7c48-4163-8602-4c17c8bb12ac.jpeg" group-title="Animacion",La abeja Maya
 https://daiconnect.com/live/hls/tvup/rk-planetajunior/.m3u8
-#EXTINF:-1 tvg-id="pingu-rakuten-tv" tvg-name="Pingu" tvg-logo="" group-title="Animacion",Pingu
+#EXTINF:-1 tvg-id="pingu-rakuten-tv" tvg-name="Pingu" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/602f18ef-efb4-4d79-9c07-195f82493aa7.jpeg" group-title="Animacion",Pingu
 https://pingu-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7627/master.m3u8
-#EXTINF:-1 tvg-id="ice-pilots-es" tvg-name="Pilotos del Ártico" tvg-logo="" group-title="Reality",Pilotos del Ártico
+#EXTINF:-1 tvg-id="ice-pilots-es" tvg-name="Pilotos del Ártico" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/47db66d1-8f73-451e-9244-34ce4b1c423c.jpeg" group-title="Reality",Pilotos del Ártico
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/33a04388-438f-4d2c-9695-afcb41a124d1/5.m3u8
-#EXTINF:-1 tvg-id="jade-fever-es" tvg-name="La fiebre del jade" tvg-logo="" group-title="Reality",La fiebre del jade
+#EXTINF:-1 tvg-id="jade-fever-es" tvg-name="La fiebre del jade" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4223433c-d101-452c-aced-2453b33d3126.jpeg" group-title="Reality",La fiebre del jade
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/dc729069-8fc2-4512-80b7-b44b6ebe70f8/5.m3u8
-#EXTINF:-1 tvg-id="cops-en-espanol" tvg-name="Cops En Español" tvg-logo="" group-title="Reality",Cops En Español
+#EXTINF:-1 tvg-id="cops-en-espanol" tvg-name="Cops En Español" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ba80c0fa-a357-4a50-927b-12e34ad75737.jpeg" group-title="Reality",Cops En Español
 https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/playlist.m3u8
-#EXTINF:-1 tvg-id="el-conquistador" tvg-name="El Conquistador" tvg-logo="" group-title="Reality",El Conquistador
+#EXTINF:-1 tvg-id="el-conquistador" tvg-name="El Conquistador" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/3779a116-fc8f-4720-8656-1a8eef566691.jpeg" group-title="Reality",El Conquistador
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2a3ab714-477e-44cd-b205-e4e3955e93d5/5.m3u8
-#EXTINF:-1 tvg-id="filmrise-forensic-files-spa" tvg-name="Archivos Forenses" tvg-logo="" group-title="Crimen",Archivos Forenses
+#EXTINF:-1 tvg-id="filmrise-forensic-files-spa" tvg-name="Archivos Forenses" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/33d033a2-326e-4f5b-b3dc-e8c8bf65e562-archivos-forenses-1642607532.jpeg" group-title="Crimen",Archivos Forenses
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/9b316474-77f1-45b8-812f-10f64b5e152a/5.m3u8
-#EXTINF:-1 tvg-id="filmrise-unsolved-mysteries-es" tvg-name="Misterios sin resolver" tvg-logo="" group-title="Crimen",Misterios sin resolver
+#EXTINF:-1 tvg-id="filmrise-unsolved-mysteries-es" tvg-name="Misterios sin resolver" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2fc7195d-be0a-4c4c-bb7c-6b57202535b7.jpeg" group-title="Crimen",Misterios sin resolver
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6adf3dfe-57bd-47df-b744-c164efc7598d/5.m3u8
-#EXTINF:-1 tvg-id="todo-crimen" tvg-name="Todo Crimen" tvg-logo="" group-title="Crimen",Todo Crimen
+#EXTINF:-1 tvg-id="todo-crimen" tvg-name="Todo Crimen" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg" group-title="Crimen",Todo Crimen
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/eef5468f-61c5-4f0d-873e-780b7f077d3f/5.m3u8
-#EXTINF:-1 tvg-id="crimenes-reales" tvg-name="Crímenes eales" tvg-logo="" group-title="Crimen",Crímenes eales
+#EXTINF:-1 tvg-id="crimenes-reales" tvg-name="Crímenes Reales" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ff4a2f43-f916-4e28-b349-632744ad68f2.jpeg" group-title="Crimen",Crímenes Reales
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="aftershock-meo-lc" tvg-name="Aftershock Mi Extraña Obsesión/Loca Compulsión" tvg-logo="" group-title="Documentales",Aftershock Mi Extraña Obsesión/Loca Compulsión
+#EXTINF:-1 tvg-id="aftershock-meo-lc" tvg-name="Aftershock Mi Extraña Obsesión/Loca Compulsión" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a39db06d-1e23-476a-8eda-ee9460c31ef7.jpeg" group-title="Documentales",Aftershock Mi Extraña Obsesión/Loca Compulsión
 https://aftershock-meo-lc-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-rivegauche-3/master.m3u8
-#EXTINF:-1 tvg-id="royalworld-es" tvg-name="oyalworld - Nobleza y dinastías" tvg-logo="" group-title="Documentales",oyalworld - Nobleza y dinastías
+#EXTINF:-1 tvg-id="royalworld-es" tvg-name="Royalworld - Nobleza y dinastías" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/706db597-244a-4939-9453-ea7b0c543d70.jpeg" group-title="Documentales",Royalworld - Nobleza y dinastías
 https://ccf9b723.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX1JveWFsd29ybGROb2JsZXpheURpbmFzdGlhc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="planeta-salvaje" tvg-name="Planeta Salvaje" tvg-logo="" group-title="Documentales",Planeta Salvaje
+#EXTINF:-1 tvg-id="planeta-salvaje" tvg-name="Planeta Salvaje" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/42315941-22ff-4580-aca9-98260d001ad2.jpeg" group-title="Documentales",Planeta Salvaje
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/6f7ef2c2-4c7d-4591-8017-60ec769bac52/5.m3u8
-#EXTINF:-1 tvg-id="weather-spy-new" tvg-name="Weather Spy" tvg-logo="" group-title="Documentales",Weather Spy
+#EXTINF:-1 tvg-id="weather-spy-new" tvg-name="Weather Spy" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg" group-title="Documentales",Weather Spy
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="nature-time-es" tvg-name="Nature Time" tvg-logo="" group-title="Documentales",Nature Time
+#EXTINF:-1 tvg-id="nature-time-es" tvg-name="Nature Time" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140fe96a-bda7-4ea2-b1ba-798224c28f46.jpeg" group-title="Documentales",Nature Time
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8
-#EXTINF:-1 tvg-id="cgtn-documentary" tvg-name="CGTN Documentary" tvg-logo="" group-title="Documentales",CGTN Documentary
+#EXTINF:-1 tvg-id="cgtn-documentary" tvg-name="CGTN Documentary" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ca4d6759-647b-4519-99f6-e76de3963de5.jpeg" group-title="Documentales",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="oficios-perdidos" tvg-name="Oficios Perdidos" tvg-logo="" group-title="Documentales",Oficios Perdidos
+#EXTINF:-1 tvg-id="oficios-perdidos" tvg-name="Oficios Perdidos" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9464f310-33c3-4e0f-b258-eeaf24d3fa51.png" group-title="Documentales",Oficios Perdidos
 https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8
-#EXTINF:-1 tvg-id="historia-y-vida" tvg-name="Historia y Vida" tvg-logo="" group-title="Documentales",Historia y Vida
+#EXTINF:-1 tvg-id="historia-y-vida" tvg-name="Historia y Vida" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/112ebdc0-159a-422f-9659-e9e6aa967df7.jpeg" group-title="Documentales",Historia y Vida
 https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="euronews-live-spa" tvg-name="Euronews EN DIECTO" tvg-logo="" group-title="Noticias",Euronews EN DIECTO
-https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiNTQ4ODYzOGItZjFmNi00ZTdkLWE3MDQtOTRmYjE4NDM4NmUyIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
-#EXTINF:-1 tvg-id="actualidad-360" tvg-name="Actualidad 360" tvg-logo="" group-title="Noticias",Actualidad 360
+#EXTINF:-1 tvg-id="euronews-live-spa" tvg-name="Euronews EN DIRECTO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0c9f38a6-5df7-4480-a994-a3a63ae695e6.jpeg" group-title="Noticias",Euronews EN DIRECTO
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiY2Q5Njc3MzUtZjY0My00ZDJmLTllYzAtMjRhZDE0YzMwMmRiIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
+#EXTINF:-1 tvg-id="actualidad-360" tvg-name="Actualidad 360" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg" group-title="Noticias",Actualidad 360
 https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="the-reuters-60" tvg-name="The euters 60" tvg-logo="" group-title="Noticias",The euters 60
+#EXTINF:-1 tvg-id="the-reuters-60" tvg-name="The Reuters 60" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg" group-title="Noticias",The Reuters 60
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="bloomberg-originals-new" tvg-name="Bloomberg Originals" tvg-logo="" group-title="Noticias",Bloomberg Originals
+#EXTINF:-1 tvg-id="bloomberg-originals-new" tvg-name="Bloomberg Originals" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d6c3cf95-3570-44fa-a3db-ca215ded6396.jpeg" group-title="Noticias",Bloomberg Originals
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="bloomberg-tv-plus" tvg-name="Bloomberg TV+" tvg-logo="" group-title="Noticias",Bloomberg TV+
+#EXTINF:-1 tvg-id="bloomberg-tv-plus" tvg-name="Bloomberg TV+" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80bb6ac5-9dbf-44fb-8716-dd84aec360f8.jpeg" group-title="Noticias",Bloomberg TV+
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="cgtn-es" tvg-name="CGTN" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="Noticias",CGTN
+#EXTINF:-1 tvg-id="cgtn-es" tvg-name="CGTN" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg" group-title="Noticias",CGTN
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="africanews-eng" tvg-name="Africanews" tvg-logo="" group-title="Noticias",Africanews
-https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiOTYwMTdhMzItODFjYy00YTAyLTllNGEtY2RkMDEwMDY1NTQzIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
-#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="Noticias",CGTN
+#EXTINF:-1 tvg-id="africanews-eng" tvg-name="Africanews" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5d1a76e1-5c26-4cf1-aed8-7101a5206922.jpeg" group-title="Noticias",Africanews
+https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiZjZhNmZjNzItZmUyYS00ODM1LTkxZTAtNzhkZTY3YjRhOWYzIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg" group-title="Noticias",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="newsworld-spa" tvg-name="NewsWorld" tvg-logo="" group-title="Noticias",NewsWorld
+#EXTINF:-1 tvg-id="newsworld-spa" tvg-name="NewsWorld" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4939210a-0bec-4dd9-9ea4-40ed09db1dbc.jpeg" group-title="Noticias",NewsWorld
 https://amg01076-amg01076c25-rakuten-es-8818.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworldspanish-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="el-pais" tvg-name="El País" tvg-logo="" group-title="Noticias",El País
+#EXTINF:-1 tvg-id="el-pais" tvg-name="El País" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg" group-title="Noticias",El País
 https://daiconnect.com/live/hls/tvup/rk-elpais/.m3u8
-#EXTINF:-1 tvg-id="france-24-en" tvg-name="France 24 FAST English" tvg-logo="" group-title="Noticias",France 24 FAST English
+#EXTINF:-1 tvg-id="france-24-en" tvg-name="France 24 FAST English" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" group-title="Noticias",France 24 FAST English
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="aguila-roja-rakuten-tv" tvg-name="Aguila oja akuten Tv" tvg-logo="" group-title="Series",Aguila oja akuten Tv
+#EXTINF:-1 tvg-id="aguila-roja-rakuten-tv" tvg-name="Aguila Roja Rakuten Tv" tvg-logo="" group-title="Series",Aguila Roja Rakuten Tv
 https://aguila-roja-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7117/6e88feab-a3b5-4172-871f-d4aec4bdd516/4.m3u8
-#EXTINF:-1 tvg-id="alarm-for-cobra-rakuten-tv" tvg-name="Alarm For Cobra akuten Tv" tvg-logo="" group-title="Series",Alarm For Cobra akuten Tv
+#EXTINF:-1 tvg-id="alarm-for-cobra-rakuten-tv" tvg-name="Alarm For Cobra Rakuten Tv" tvg-logo="" group-title="Series",Alarm For Cobra Rakuten Tv
 https://alarm-for-cobra-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7230/6c8d03c7-4cb5-400c-a7ca-55d020ca0031/4.m3u8
-#EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Crime akuten Tv" tvg-logo="" group-title="Crimen",Crime akuten Tv
+#EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Crime Rakuten Tv" tvg-logo="" group-title="Crimen",Crime Rakuten Tv
 https://crime-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/c9f8f241-4a39-4368-8dc5-150e62b83c5c/4.m3u8
 #EXTINF:-1 tvg-id="cine-western-es" tvg-name="Cine Western Es" tvg-logo="" group-title="Cine",Cine Western Es
 https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00711-zylofast-cinewesternes-rakutenes/cb563b176573648c84ce3d78d7f062ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da46852db80148b6f4adafb8c2360625f5c98435ee3b24aa3aab00f16896ca5ac1b4ac67d58e68314c8c914ef87dc46c8128674f4159a94a68bd0428893ab5df803f10b084832429b957797c558c4a9f0183a937c66541f5ef3b796f05a2ac850465ea28da1d564fb00f18424936b32af72fc25e6359931d763d7e04ab392bfda54483aa1fb566e23a5e9d2e39152149848de90c0fe2907f399157c54f669dd34223b95c2c6158fc667fedc4586bc7b1235c5cb04f1ecb387fc8f8c5a8c1ad9d3fb8a387d5b710870ea37c8886cd03cc97da680073706312edf9b51d7b9cb4a265d4c898e4ad11d0f86d28ff1b9645f9c35420bb21bb32a0468df0b7c70e434fc8803648c2f0d8d214f9d3251d112a4e876bdcda9e402288ad9c64fc06ce0a718d7fa03bd622e2b70d9827d0c111a2988be3f5e68299417b5859ebb0e636fedf3dec1c4562e0e3a126d158ee3f502fde4a47844419109740a1c1113853bc679d6043b46448d4784fa0a2587507260e3a16e081738cf9de7ccded59a16f87c8a9aab68763d5862bc60527c16b9d98c5dee074f7b6c54830a5b57a4175f308fffaaf29c82348af608ab3c712b73caf42855104276117ef1e278db5ffb960fa99acd59f3e28416578a30af5b50f4a8dd68ebd293d3593093a5590d6299c718c97223c002d52c8da014b2d2501546462a38c38a47c04fb5de83c239a53ba44b1776981ed1f8b2ea84360c92fb2332371a6a056b447f287ed0b0b336572ab4e97ebc288c8554ad516b373a51d78105618ae5636eff5f1f31ffd1a1ecacce102fcf60e207af0a67b645022abb8c529c82b6e0c584605a14dcb8bf73b8a09c84cbd9d82f7b181e56f1a5767455897caae677e0a90e43fc9d99e0db639e7be50ab280c4688e78a69aed5cacc0c9afb673455c0c1aa8c0a3fc5982ba081df67dda497f19998fb0a237a38ce67d12875ce496387bbd3b6c62ddb2eb01ba42d2812f23f48e7d56c72e4cab91fe220ff727a82e2678ffd9be693ec1d10ae124f1f2e00a5f980d0cea75450bdf144f39ef190e9bde212f138a390881768ac1d82e2818ccb75355e689917773b765493eeb2e6fdf75da4e08f81a49a30898002cb378b9c315c9ca8d11bab69187d642018ef61f1fb8678d6dee73998adfad6ae23b04dbe4a0c21c432cfbdeb1dc2a40c1adfd0138dc34be1cda798ac3e6b36005027bcc0a285e12317ca904245c8ecd59c6a60239c88ebd4bf40f5a410d03238f378adc44180b73d2a64a94d33c36322c28be974ff732a45507816072bf31660650520116ecc49b5b9602f4439cd81540e98cbca766c0a93cd593cfa699411acd5f230119cdeec1c19e117bacd4b990336993e22ae043227778d4a8d72d51f5cc2a27f7b59e34eaec11e036024a3e82c2fe488e15e415e55058d63eab8f6e65df8211317bc87fa1c67d45a94af55863b317fd3969da0c74341c7d671c11b2e5db4f208c86038bce6d9719335b507c396997/80/1920x1080_4716800/index.m3u8
 #EXTINF:-1 tvg-id="grjngo-es" tvg-name="Grjngo Es" tvg-logo="" group-title="Cine",Grjngo Es
 https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/60010418-2afd-45de-ba8b-46ca7efcda4f/2.m3u8
-#EXTINF:-1 tvg-id="feel-good-tv" tvg-name="Feel Good Tv" tvg-logo="" group-title="Cine",Feel Good Tv
+#EXTINF:-1 tvg-id="feel-good-tv" tvg-name="Feel Good Tv" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/c7ff802e-6aa3-4231-8aaf-c8c64b511013.jpeg" group-title="Cine",Feel Good Tv
 https://daiconnect.com/live/hls/tvup/rk-feelgood/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8
-#EXTINF:-1 tvg-id="verdi-tv" tvg-name="Verdi Tv" tvg-logo="" group-title="Cine",Verdi Tv
+#EXTINF:-1 tvg-id="verdi-tv" tvg-name="Verdi Tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d5f81eaf-cdac-4537-b5db-5d927af79833.jpeg" group-title="Cine",Verdi Tv
 https://daiconnect.com/live/hls/tvup/rk-cinesverdi/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8
 #EXTINF:-1 tvg-id="dark-matter-es-new" tvg-name="Dark Matter Es New" tvg-logo="" group-title="Cine",Dark Matter Es New
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/ccb60dc8-7ea3-40d4-bfd7-df998dcb0fab/5.m3u8
-#EXTINF:-1 tvg-id="cine-friki" tvg-name="Cine Friki" tvg-logo="" group-title="Cine",Cine Friki
+#EXTINF:-1 tvg-id="cine-friki" tvg-name="Cine Friki" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Cine",Cine Friki
 https://rakutenaa-zylo-cinefriki-rakuten-kj6rm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-zylo-cinefriki-rakuten/cb573d1e7f6c678684cb3a6ecef94282847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f6b45a45dd3ff0e0014f977b4cfa83439fd501b282d75383418425f7429990f18fd344d38cb8599606e627365c276b90837cacd058b7c8e80f53f82071114e0f9dc9e2ff4a2fb9574f5de1fad9806dfa1ac98131f3065ddf51c817d46ad001da08a3f271b3b9a9da434c30aac3646823d2a3caceab6531bf63f8a0bc90212dcaa6592c1f9c3e957a2e3c95b09b43d3c214cfe671d5e06d4e62b5fb2b9a99a1bcebb59b439f20f5cbf98c4f2124025558c637d49b69c816de77a6da162f487247ac8e50c389cb5735713de0ea3afd3239e881f7e9ad0f3fd95f094efe5fda540b78c93a7843ec298bfc5608dc765bd36f409128348451c3bc29e3aed8e03936badac24e8d0685d22df7d8279b441f0378d9822d5b56736ddcef7f082246d44ce0c7c293116364bdae9fae9a21526d3813413386e3f57b9e9ab24d7774c4407c1b1e7f169217e96dda1640032bf613d2a70c06ed6c472eeeb530505f36e8a2c08083c5f547ba71c7caf32d103c5c6daf36774f04b4bb944ae93d5967202cea686547ae385f4cfce7af8ffd907cc1983eef520c1567d6cf1651196d7176049f9c6da52d88e21eb696844ecde49806408b28b54f079bd28624929f80c35c3097ab5a266498c135c07f2cd318c659fab80089e105574c6f151c96d605a708e988c29d6af05dac4b1041eb68aba3f0a7d97453d884583f41653f7d6d537d3918bdd49b701621acd65fe759f5d447bd546b303049ca870e4ab9e476129b207f67a0d2afe1cfcf104ab2049b74cd733ca2521b27e2c907fe9aa2f688e2053717dcb4f139d1c88985dfe9d83268026842f3ab390720897ea5d55d9bc7707deb9ab4f0c96b854af62cab81c4478e5bb6c2af07ba9f8fa4bf1d7b5f5e44c3d1f8fe2bcfa51a40c90fb13f3d149d93e1e675faddb93875e359f28a0b62f46c1435c8afe83bd83bb1e24b6c8dc33d01832136c7b3ac6b18ca76f56d6628a39ecc6f639dc142c019ccc4f5561fde0e4ae0446c61c604920614f40d9bde263313803e09856381cc996f4d73ba97755752676e3b28a18dd8b18644078b15a0f0eaf1492d8b13830c3ec519e5a205e1ca8489824736554178e585d7758ec18c22f0ad1b6e93e0d935a14168a969de396aafdcddf9c7d60ad6a5d03355029f4897088723d496e9d9420f047ed118280a06c85d925b4703cf8462c3a91b38dd9ee555974f146412043cca2ebb9e3e41516cdcb52ad38e3c22214718dcee2afb53b84c00811750b819641d56477149b098c01e9178882effa41750abd5f79127e1ad2dd7d3d3b5ed075b9420532422aebe8195df5626bcc5dae35246b5ab34e55e254368e8bc854834c5c9215988818566b4b166c755763d66dc88a125de3de516ef4c54ce34c1f52f3e9f6d7df5bd668df0a108fdb1133069db3249da76b3936aef/32/1920x1080_4716800/index.m3u8
 #EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="Mytime Movie Network Spanish" tvg-logo="" group-title="Cine",Mytime Movie Network Spanish
 https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/cb403e4f7b7b6fdccb993a6cd3f042f3d1076b805d3ad63d65ab5694579e6206cfe5ad9fbc54ea765c8f07b93854390e1a24db67ba6c00c7c07aa341532549729e93a233df9d0b19c3984f767fd42f4c2aa74a0ad526543c8abf5a40ae158154295fa805675d37cd9a0cfe2d0ddc9079d33d76d6f8c2603d74445f815d43e5b03df2a9b01f1cc769a2b6024b933d51b287469ddc1bb2d1c95c9c17856bf015cb93ed8282198a9bc261a901e636515c76249a8623efa32fb7de89562b88671745115bf2a69dea7135823525369cad9ee73ca569a4e424857308ae139d5dbb24937baf7bce8b29b6a4a8d6564e2bfeb5310626a4f69f8ff52341db0c9fb2fbd27726d99c6c7943da52ca363d0793f2c50081cd01a9ba228bb37c1c3fc5e321f1ffb790b5e2e7229d21d9f8e48834463c256e46d205f4cf69dd7a8e35accc4173111911ffc918c5de8b5c7d311bd1d15c8d4049bf8f8f80857651a5611f49d764dc4d0c6fc90b7865f5288bff560f9e2308df7d57895931937dfbb921caa4d4f7143eb9dfd34ded1d9ddf7a83a451f03a680c53eaa374071c1c2880b43c674078c756dbc0def372080de5f9cac1c9574a415353575fd2b2b071c3dd8d7a4d4f951e726427455acf578f6c925211067d981b80a80a7781517b568cd63e59495386c4b09882c4f54cb076d4c7e94b49513d32ed6b557c1bb9df8c5dee07596a6c54847d0c29db550d13b2c090bfd9ea18cf9877953b6d1a77c0fe037e0a5367660d948261d24d90f577ddb2eb7e9db5f8782b8438b03e149bc6d56ffdd28dca5b7df3c036483de5b94dc4773ef81ad53983d764aad43f64192f1a09a8ff55fb4c86de8ad7148938a25d0641ff6ab7ee8fd9bc7457ec845e363d47410125281c5c0dbcc9ea740c7af5b935d94aefef41a13032595b1687d05004c2821b1d98264170aaa4f49fb4da0662be048665c5611aa3451d2fe6c907e78ab6e1f58b630e44b3c7aa48a89e8b8ec2c2cf286a346b3595d35a2718b24bf58213e4bf097de68786e0d47acd0c885aba80a511e039b6c2bf0b918998ffe90571343e06a596a7a069b1cc0b41a844df483b119f8fdbf96affdfb07511803ac7a0294b9c175d078cc19505cc3887e7293ad8857c57d17837b39395571fc729e9323376e4d984602fd98d18964fa9aa9d77240da383863d3c549f3e97b2b1607be4b8533345ec1f029f05fca2bb7278026316fb475060221a1bc5481c0de93b78ac19b39e82fb0872cb698e7ebc7a820b82d785827576c0473655f100c5ed982d1bf71dee08b86cedd186fb39a35c5b6709fb154fa9c5d5f2c4ed88e2818f5e122f9f4a9f06df65dae89dd12456442a854f0c4326aa49984b1105c08d15ebb75d6083e9f801e80f400a574767814ae8dc5d636d17a4ca31ddd163696c2c17edc00db85af4660396587ab8553e464649020ff2d99d5bed28da76a3fd1655b6d2f9f17095d955b4ab8fe8be461fd112771e3afe99bbd181117baceec9fb534f8ee462b9150f49088ac8ad4a3e82886414f1ac897bacaf21e03c331964c683be38ae2ed66a0a3eb869d86399c3a02f3c688cdbf51ddb9df9adab4b6f/148/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-name="Thriller akuten Tv" tvg-logo="" group-title="Cine",Thriller akuten Tv
+#EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-name="Thriller Rakuten Tv" tvg-logo="" group-title="Cine",Thriller Rakuten Tv
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/b7240c9c-78eb-4bc3-9ce6-2c2b54054b55/4.m3u8
-#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Sci Fi akuten Tv" tvg-logo="" group-title="Sci-Fi",Sci Fi akuten Tv
+#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="Sci Fi Rakuten Tv" tvg-logo="" group-title="Sci-Fi",Sci Fi Rakuten Tv
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/a2d6fe24-021c-4e3f-a7dc-98a070679b31/4.m3u8
-#EXTINF:-1 tvg-id="spanish-cinema-rakuten-tv" tvg-name="Spanish Cinema akuten Tv" tvg-logo="" group-title="Cine",Spanish Cinema akuten Tv
+#EXTINF:-1 tvg-id="spanish-cinema-rakuten-tv" tvg-name="Spanish Cinema Rakuten Tv" tvg-logo="" group-title="Cine",Spanish Cinema Rakuten Tv
 https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/f128f001-bdd5-49fb-9e4e-e66a3a4b5a2a/4.m3u8
-#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-name="omance akuten Tv" tvg-logo="" group-title="Cine",omance akuten Tv
+#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-name="Romance Rakuten Tv" tvg-logo="" group-title="Cine",Romance Rakuten Tv
 https://romance-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2//production-LiveChannel-6105/b5a565c0-8995-4d60-b7d0-ad874ae61ac9/4.m3u8
-#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-name="Drama akuten Tv" tvg-logo="" group-title="Cine",Drama akuten Tv
+#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-name="Drama Rakuten Tv" tvg-logo="" group-title="Cine",Drama Rakuten Tv
 https://drama-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/0ff929c5-ee58-4b59-bce5-a9ee35926180/4.m3u8
-#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-name="Comedy akuten Tv" tvg-logo="" group-title="Cine",Comedy akuten Tv
+#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-name="Comedy Rakuten Tv" tvg-logo="" group-title="Cine",Comedy Rakuten Tv
 https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/82d2a5d2-f8a4-4f0a-911a-7c3e37619147/4.m3u8
-#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-name="Action akuten Tv" tvg-logo="" group-title="Cine",Action akuten Tv
+#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-name="Action Rakuten Tv" tvg-logo="" group-title="Cine",Action Rakuten Tv
 https://action-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/cd8e8fc4-fb53-431f-b85b-1bca88538fd1/4.m3u8
-#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies akuten Tv" tvg-logo="" group-title="Cine",Top Movies akuten Tv
+#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-name="Top Movies Rakuten Tv" tvg-logo="" group-title="Cine",Top Movies Rakuten Tv
 https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/2bf599b4-f1a3-4ed6-a267-c3c90987abf9/4.m3u8
 #EXTINF:-1 tvg-id="VOD" tvg-name="Transcendence" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/b41694bf-8123-4457-80ab-a6070c576e52-transcendence-1611321603.jpeg" group-title="Videoclub / Sci-Fi",Transcendence
 https://rakuten.tv/movies/transcendence
