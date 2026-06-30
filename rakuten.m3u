@@ -88,7 +88,7 @@ https://daiconnect.com/live/hls/tvup/rk-1travel/.m3u8
 #EXTINF:-1 tvg-id="travelxp-es" tvg-name="travelxp-es" tvg-logo="" group-title="Estilo_de_vida",travelxp-es
 https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8
 #EXTINF:-1 tvg-id="med-tv" tvg-name="med-tv" tvg-logo="" group-title="Estilo_de_vida",med-tv
-https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiMDBlMWQyODMtNjE0Zi00ODQxLThhN2QtZjRkNDE2NDgyNTZmIiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
+https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiMzVhYzJkNjYtOWYxMC00NTg5LTlhMzItMWExNGE3YzA2ZGVkIiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
 #EXTINF:-1 tvg-id="vivir-con-gatos" tvg-name="vivir-con-gatos" tvg-logo="" group-title="Estilo_de_vida",vivir-con-gatos
 https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8
 #EXTINF:-1 tvg-id="vivir-con-perros" tvg-name="vivir-con-perros" tvg-logo="" group-title="Estilo_de_vida",vivir-con-perros
@@ -178,7 +178,7 @@ https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8
 #EXTINF:-1 tvg-id="historia-y-vida" tvg-name="historia-y-vida" tvg-logo="" group-title="Documentales",historia-y-vida
 https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews-live-spa" tvg-name="euronews-live-spa" tvg-logo="" group-title="Noticias",euronews-live-spa
-https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiNTk3NWI0YWItMWJmZC00YTMzLTgwMzItNzExNGY0ODA3ZmJlIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiN2M4MzQ3NTktMjIwMC00Yjc3LWIwOGItZDc0ODNmY2MxMzRkIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-id="actualidad-360" tvg-name="actualidad-360" tvg-logo="" group-title="Noticias",actualidad-360
 https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="the-reuters-60" tvg-name="the-reuters-60" tvg-logo="" group-title="Noticias",the-reuters-60
@@ -190,7 +190,7 @@ https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="cgtn-es" tvg-name="cgtn-es" tvg-logo="" group-title="Noticias",cgtn-es
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="africanews-eng" tvg-name="africanews-eng" tvg-logo="" group-title="Noticias",africanews-eng
-https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNWZiNGU4YzctOGIwYi00ZjZiLTk0OGQtNzFkYmI0NTgyYmUxIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMDlhOTM4YmMtNGVmMi00Njk4LTg0YjYtYjQwNTVjYzk1OWZlIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-id="cgtn" tvg-name="cgtn" tvg-logo="" group-title="Noticias",cgtn
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="newsworld-spa" tvg-name="newsworld-spa" tvg-logo="" group-title="Noticias",newsworld-spa
