@@ -453,6 +453,9 @@ https://oficiosperdidos-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="La_Abeja_Maya" tvg-name="La Abeja Maya" tvg-logo="http://192.168.1.98:8080/logos/La%20Abeja%20Maya.png" group-title="Animación",La Abeja Maya
 https://planetajunior-tivify.ssai.tcscdn.net/master.m3u8
 
+#EXTINF:-1 tvg-id="Cines_Verdi_TV" tvg-name="Cines Verdi TV" tvg-logo="http://192.168.1.98:8080/logos/Cines%20Verdi%20TV.png" group-title="Cine",Cines Verdi TV
+https://cinesverdi-tivify.ssai.tcscdn.net/master.m3u8
+
 #EXTINF:-1 tvg-id="RTPi3" tvg-name="RTPi3" tvg-logo="http://192.168.1.98:8080/logos/RTPi3.png" group-title="Cajón de Sastre",RTPi3
 https://live-tcsand.c511.transparentedge.io/rtpi3/rtpi3.mpd
 
@@ -554,9 +557,6 @@ https://armoniatevesana-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="ZUT_TV" tvg-name="ZUT TV" tvg-logo="http://192.168.1.98:8080/logos/ZUT%20TV.png" group-title="Música",ZUT TV
 https://zuttv-tivify.ssai.tcscdn.net/master.m3u8
-
-#EXTINF:-1 tvg-id="Cines_Verdi_TV" tvg-name="Cines Verdi TV" tvg-logo="http://192.168.1.98:8080/logos/Cines%20Verdi%20TV.png" group-title="Cine",Cines Verdi TV
-https://cinesverdi-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Cine_Feel_Good_Verdi_TV" tvg-name="Cine Feel Good Verdi TV" tvg-logo="http://192.168.1.98:8080/logos/Cine%20Feel%20Good%20Verdi%20TV.png" group-title="Cine",Cine Feel Good Verdi TV
 https://cinesfeelgood-tivify.ssai.tcscdn.net/master.m3u8
