@@ -88,7 +88,7 @@ https://daiconnect.com/live/hls/tvup/rk-1travel/.m3u8
 #EXTINF:-1 tvg-id="travelxp-es" tvg-name="Travelxp" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg" group-title="Estilo_de_vida",travelxp-es
 https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8
 #EXTINF:-1 tvg-id="med-tv" tvg-name="Med.TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ab7a2d2a-67cc-4e80-848b-ec163019bae3.jpeg" group-title="Estilo_de_vida",med-tv
-https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiZGVlMTQyYTAtZmM4ZS00OWQyLTgwMTMtMTEzOTRjYjI0ZjZjIiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
+https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiZGJiOWYzOGYtYTVhYy00ZGEwLTg1ODEtOGZhYjQxN2E1ZDE2IiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
 #EXTINF:-1 tvg-id="vivir-con-gatos" tvg-name="Vivir con gatos" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg" group-title="Estilo_de_vida",vivir-con-gatos
 https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8
 #EXTINF:-1 tvg-id="vivir-con-perros" tvg-name="Vivir con perros" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg" group-title="Estilo_de_vida",vivir-con-perros
@@ -178,7 +178,7 @@ https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8
 #EXTINF:-1 tvg-id="historia-y-vida" tvg-name="Historia y Vida" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/112ebdc0-159a-422f-9659-e9e6aa967df7.jpeg" group-title="Documentales",historia-y-vida
 https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews-live-spa" tvg-name="Euronews EN DIRECTO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0c9f38a6-5df7-4480-a994-a3a63ae695e6.jpeg" group-title="Noticias",euronews-live-spa
-https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiY2IzZWZjYmEtNzgwMy00ZGZmLThmMDItODFkZTI4ZWY3YTljIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiNmU4NjdhZWItMGE5Yy00ODhiLWJmNWMtY2M1NTM2OTc0YTIwIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-id="actualidad-360" tvg-name="Actualidad 360" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg" group-title="Noticias",actualidad-360
 https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="the-reuters-60" tvg-name="The Reuters 60" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg" group-title="Noticias",the-reuters-60
@@ -190,7 +190,7 @@ https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="cgtn-es" tvg-name="CGTN" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg" group-title="Noticias",cgtn-es
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="africanews-eng" tvg-name="Africanews" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5d1a76e1-5c26-4cf1-aed8-7101a5206922.jpeg" group-title="Noticias",africanews-eng
-https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiYjQ2ZDgyMDMtYTViZC00NDRjLWI4ZTctYzIxOTQxNGVlODgyIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNWYzNDJjMWItOWNlOC00YjU4LWE2MGUtMDAyN2UxZjQ0ZDI3IiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="Noticias",cgtn
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="newsworld-spa" tvg-name="NewsWorld" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4939210a-0bec-4dd9-9ea4-40ed09db1dbc.jpeg" group-title="Noticias",newsworld-spa
@@ -445,6 +445,8 @@ https://rakuten.tv/movies/everyone-wants-to-be-the-next-weismann
 https://rakuten.tv/movies/paradiso
 #EXTINF:-1 tvg-id="Invencibles" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/536c6b04-e1e5-4936-918a-e56a9c5f7d61-invencibles-1631786900.jpeg" group-title="Videoclub / Cine Español",Invencibles
 https://rakuten.tv/movies/invencibles
+#EXTINF:-1 tvg-id="Pompeya" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/884d9258-1cd1-4059-a016-b73b61770280-pompeya-1611321553.jpeg" group-title="Videoclub / Acción",Pompeya
+https://rakuten.tv/movies/pompeya
 #EXTINF:-1 tvg-id="Crows Zero" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/faa0fe4b-3bed-4725-808d-b8e3062a625c.jpeg" group-title="Videoclub / Acción",Crows Zero
 https://rakuten.tv/movies/crows-zero
 #EXTINF:-1 tvg-id="Crows II" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/1b2b1c8c-a13d-41cf-8bbf-808b633f24f1.jpeg" group-title="Videoclub / Acción",Crows II
@@ -1319,6 +1321,8 @@ https://rakuten.tv/movies/corazones-valientes
 https://rakuten.tv/movies/hombre-libre
 #EXTINF:-1 tvg-id="Una casa con vistas al mar" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/4988d59c-cfa9-4f58-8e4d-c1a2879140a1.jpeg" group-title="Videoclub / Drama",Una casa con vistas al mar
 https://rakuten.tv/movies/una-casa-con-vistas-al-mar
+#EXTINF:-1 tvg-id="Espías desde el cielo" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/620a22af-409a-4470-adf5-bb3d65db1da5-espias-desde-el-cielo-1611322383.jpeg" group-title="Videoclub / Thriller",Espías desde el cielo
+https://rakuten.tv/movies/espias-desde-el-cielo
 #EXTINF:-1 tvg-id="El juego más frío" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/be7cf3cf-6c04-4dc0-af54-d628b7110e2a.jpeg" group-title="Videoclub / Thriller",El juego más frío
 https://rakuten.tv/movies/el-juego-mas-frio
 #EXTINF:-1 tvg-id="Cut Off" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/30719f76-8402-4859-aede-0fc80b3fdc77.jpeg" group-title="Videoclub / Thriller",Cut Off
