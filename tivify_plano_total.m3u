@@ -208,7 +208,7 @@ https://cdn1.etbon.eus/etb2on/index.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-id="Canal_Extremadura_Sat" tvg-name="Canal Extremadura Sat" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Extremadura%20Sat.png" group-title="TDT & Canales Locales",Canal Extremadura Sat
-https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
 
 #EXTINF:-1 tvg-id="CMM_Global" tvg-name="CMM Global" tvg-logo="http://192.168.1.98:8080/logos/CMM%20Global.png" group-title="Cajón de Sastre",CMM Global
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
@@ -452,6 +452,9 @@ https://oficiosperdidos-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="La_Abeja_Maya" tvg-name="La Abeja Maya" tvg-logo="http://192.168.1.98:8080/logos/La%20Abeja%20Maya.png" group-title="Animación",La Abeja Maya
 https://planetajunior-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Runtime_Comedia" tvg-name="Runtime Comedia" tvg-logo="http://192.168.1.98:8080/logos/Runtime%20Comedia.png" group-title="Cine",Runtime Comedia
+https://runtimecomedia-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Cines_Verdi_TV" tvg-name="Cines Verdi TV" tvg-logo="http://192.168.1.98:8080/logos/Cines%20Verdi%20TV.png" group-title="Cine",Cines Verdi TV
 https://cinesverdi-tivify.ssai.tcscdn.net/master.m3u8
@@ -759,6 +762,9 @@ https://dejatedehistorias-tivify.fastlive.tcscdn.net/live/dejatedeh-livestream.m
 #EXTINF:-1 tvg-id="Grupo_Cadena_Media" tvg-name="Grupo Cadena Media" tvg-logo="http://192.168.1.98:8080/logos/Grupo%20Cadena%20Media.png" group-title="Cajón de Sastre",Grupo Cadena Media
 https://gcm-tivify.fastlive.tcscdn.net/master.m3u8
 
+#EXTINF:-1 tvg-id="Cry_Babies_(NO_USAR)" tvg-name="Cry Babies (NO USAR)" tvg-logo="http://192.168.1.98:8080/logos/Cry%20Babies%20(NO%20USAR).png" group-title="Animación",Cry Babies (NO USAR)
+https://daiconnect.com/live/hls/tvup/tvfy-crybabies/.m3u8
+
 #EXTINF:-1 tvg-id="Todo_Pasion" tvg-name="Todo Pasion" tvg-logo="http://192.168.1.98:8080/logos/Todo%20Pasion.png" group-title="Cajón de Sastre",Todo Pasion
 https://daiconnect.com/live/hls/tvup/tvfy-todopasion/.m3u8
 
@@ -854,6 +860,9 @@ https://media2.streambrothers.com:1936/8140/8140/.m3u8
 
 #EXTINF:-1 tvg-id="Lancelot_TV" tvg-name="Lancelot TV" tvg-logo="http://192.168.1.98:8080/logos/Lancelot%20TV.png" group-title="Cajón de Sastre",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+
+#EXTINF:-1 tvg-id="Movie_Music_(NO_USAR)" tvg-name="Movie Music (NO USAR)" tvg-logo="http://192.168.1.98:8080/logos/Movie%20Music%20(NO%20USAR).png" group-title="Música",Movie Music (NO USAR)
+https://moviemusic-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Distrito_TV" tvg-name="Distrito TV" tvg-logo="http://192.168.1.98:8080/logos/Distrito%20TV.png" group-title="Cajón de Sastre",Distrito TV
 https://daiconnect.com/live/hls/tvup/distritotv-tivify/.m3u8
