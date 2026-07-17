@@ -1,5 +1,5 @@
 #EXTM3U
-#TIMESTAMP: 2026-07-17 03:06:03
+#TIMESTAMP: 2026-07-17 03:08:03
 #EXT-X-VERSION:4
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://d1opvfhgg24x5t.cloudfront.net/hlsts/live/neox_usp/neox_usp.isml/neox_usp-audio_spa=128000.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Reserved for local use",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://d1opvfhgg24x5t.cloudfront.net/hlsts/live/neox_usp/neox_usp.isml/neox_usp-audio_qaa=128000.m3u8"
