@@ -88,7 +88,7 @@ https://daiconnect.com/live/hls/tvup/rk-1travel/.m3u8
 #EXTINF:-1 tvg-id="travelxp-es" tvg-name="Travelxp" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg" group-title="Estilo_de_vida",travelxp-es
 https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8
 #EXTINF:-1 tvg-id="med-tv" tvg-name="Med.TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ab7a2d2a-67cc-4e80-848b-ec163019bae3.jpeg" group-title="Estilo_de_vida",med-tv
-https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiYzRkNGI2MDItZjg0YS00ODVhLWJkMWQtMTQ4ZTI5YTQ0OGJhIiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
+https://med-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNjZkNmM3ZjAtN2Q4ZC00NTZkLThiNDItYjZhNWJlNzMyNDIxIiwibWt0IjoiZXMiLCJjaCI6IjMiLCJwdGYiOjV9/hls/main.m3u8
 #EXTINF:-1 tvg-id="vivir-con-gatos" tvg-name="Vivir con gatos" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg" group-title="Estilo_de_vida",vivir-con-gatos
 https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8
 #EXTINF:-1 tvg-id="vivir-con-perros" tvg-name="Vivir con perros" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg" group-title="Estilo_de_vida",vivir-con-perros
@@ -178,7 +178,7 @@ https://daiconnect.com/live/hls/tvup/rk-oficiosperdidos/.m3u8
 #EXTINF:-1 tvg-id="historia-y-vida" tvg-name="Historia y Vida" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/112ebdc0-159a-422f-9659-e9e6aa967df7.jpeg" group-title="Documentales",historia-y-vida
 https://amg01821-amg01821c22-rakuten-gb-8651.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews-live-spa" tvg-name="Euronews EN DIRECTO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0c9f38a6-5df7-4480-a994-a3a63ae695e6.jpeg" group-title="Noticias",euronews-live-spa
-https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiYmM5NTVmOTctYWIzZi00N2E0LWEwYzEtOGExMjc4ZDMwYzBjIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571-restreaming/bitok/eyJzdGlkIjoiMmQ3MzQ5NzItZWMxOS00NjIxLTgyM2YtZWIyYmI1NjRjZWYxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/live/eds/euronews-es/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-id="actualidad-360" tvg-name="Actualidad 360" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg" group-title="Noticias",actualidad-360
 https://amg01821-amg01821c27-rakuten-gb-8652.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="the-reuters-60" tvg-name="The Reuters 60" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg" group-title="Noticias",the-reuters-60
@@ -190,7 +190,7 @@ https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="cgtn-es" tvg-name="CGTN" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg" group-title="Noticias",cgtn-es
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="africanews-eng" tvg-name="Africanews" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5d1a76e1-5c26-4cf1-aed8-7101a5206922.jpeg" group-title="Noticias",africanews-eng
-https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNGMxMDNkNTMtZmI1Yi00MWMxLTkxYzQtODRmZmI2NTE1ZGVkIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiYTVmODMwYjItNzk2MC00ZjRmLWE0ZGQtZDAyNDk1OWVkZjJlIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg" group-title="Noticias",cgtn
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="newsworld-spa" tvg-name="NewsWorld" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4939210a-0bec-4dd9-9ea4-40ed09db1dbc.jpeg" group-title="Noticias",newsworld-spa
@@ -1737,3 +1737,145 @@ https://rakuten.tv/movies/acaba-con-los-vecinos
 https://rakuten.tv/movies/quien-mato-a-tia-roo
 #EXTINF:-1 tvg-id="Hasta tu última muerte" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/7e283056-ec63-4ddd-9fae-d94f9ed44ca9.jpeg" group-title="Videoclub / Terror",Hasta tu última muerte
 https://rakuten.tv/movies/hasta-tu-ultima-muerte
+#EXTINF:-1 tvg-id="Alvin y las ardillas" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/431daff7-3bed-41c7-9c4d-328e88599ab2-alvin-y-las-ardillas-1611321386.jpeg" group-title="Videoclub / Familiar",Alvin y las ardillas
+https://rakuten.tv/movies/alvin-y-las-ardillas
+#EXTINF:-1 tvg-id="Alvin y las ardillas: Fiesta sobre ruedas" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/8de7892c-5c68-4ac3-a4a4-fdf3a05178b2-alvin-y-las-ardillas-fiesta-sobre-ruedas-1611322259.jpeg" group-title="Videoclub / Familiar",Alvin y las ardillas: Fiesta sobre ruedas
+https://rakuten.tv/movies/alvin-y-las-ardillas-fiesta-sobre-ruedas
+#EXTINF:-1 tvg-id="Alvin y las ardillas 2" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/45edfd7c-ba22-42f6-acf0-12e2b150c21f.jpeg" group-title="Videoclub / Familiar",Alvin y las ardillas 2
+https://rakuten.tv/movies/alvin-y-las-ardillas-2
+#EXTINF:-1 tvg-id="Alvin y las ardillas 3" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/a6f66e95-67d8-408d-9c8e-63212b0f8db8-alvin-y-las-ardillas-3-1611321386.jpeg" group-title="Videoclub / Familiar",Alvin y las ardillas 3
+https://rakuten.tv/movies/alvin-y-las-ardillas-3
+#EXTINF:-1 tvg-id="Vendaval 3" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/1c75ce4e-1a79-4caa-8594-f7ff572d329e.jpeg" group-title="Videoclub / Familiar",Vendaval 3
+https://rakuten.tv/movies/vendaval-3
+#EXTINF:-1 tvg-id="Tom y Jerry: Aventura en el tiempo" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/507b1374-57d4-4a3d-b2e9-7cc49205722d.jpeg" group-title="Videoclub / Familiar",Tom y Jerry: Aventura en el tiempo
+https://rakuten.tv/movies/tom-y-jerry-aventura-en-el-tiempo
+#EXTINF:-1 tvg-id="Un puente hacia Terabithia" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/29a5431f-f1a6-4bc3-8c84-d52d836f7005.jpeg" group-title="Videoclub / Familiar",Un puente hacia Terabithia
+https://rakuten.tv/movies/un-puente-hacia-terabithia
+#EXTINF:-1 tvg-id="Pequeños Invasores" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/5625a179-0882-40af-9b4f-e7d8879ac883-pequenos-invasores-1663846904.jpeg" group-title="Videoclub / Familiar",Pequeños Invasores
+https://rakuten.tv/movies/pequenos-invasores
+#EXTINF:-1 tvg-id="Perro al rescate" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/91292def-af34-4f6f-a15a-26ed072850ee-perro-al-rescate-1662559552.jpeg" group-title="Videoclub / Familiar",Perro al rescate
+https://rakuten.tv/movies/perro-al-rescate
+#EXTINF:-1 tvg-id="Marmaduke" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/edbf298c-447c-4691-ae6c-b5bf612cc237.jpeg" group-title="Videoclub / Familiar",Marmaduke
+https://rakuten.tv/movies/marmaduke
+#EXTINF:-1 tvg-id="Vendaval" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/31012e0c-2060-4bd6-8851-611d0b150dc8.jpeg" group-title="Videoclub / Familiar",Vendaval
+https://rakuten.tv/movies/vendaval
+#EXTINF:-1 tvg-id="Air Buddies" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/b73cd6e2-39dd-4bc0-a423-704c58d33624-air-buddies-1611323724.jpeg" group-title="Videoclub / Familiar",Air Buddies
+https://rakuten.tv/movies/air-buddies
+#EXTINF:-1 tvg-id="La abeja Maya: La película" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/4feccbe2-d68b-4131-8031-a6f575cde572.jpeg" group-title="Videoclub / Familiar",La abeja Maya: La película
+https://rakuten.tv/movies/la-abeja-maya-la-pelicula
+#EXTINF:-1 tvg-id="Boonie Bears: Aventura en la Prehistoria" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/3e2ca552-b02f-4e87-9082-816a50397111-boonie-bears-aventura-en-la-prehistoria-1613727250.jpeg" group-title="Videoclub / Familiar",Boonie Bears: Aventura en la Prehistoria
+https://rakuten.tv/movies/boonie-bears-aventuras-en-la-prehistoria
+#EXTINF:-1 tvg-id="Stardog y Turbocat" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/e828f712-417e-401c-82b1-194023f325a0.jpeg" group-title="Videoclub / Familiar",Stardog y Turbocat
+https://rakuten.tv/movies/stardog-y-turbocat
+#EXTINF:-1 tvg-id="Vendaval 4: La llegada de Ari" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/2f59eaf5-1a19-44d2-b63c-5e93802cf9bb-vendaval-4-la-llegada-de-ari-1651044114.jpeg" group-title="Videoclub / Familiar",Vendaval 4: La llegada de Ari
+https://rakuten.tv/movies/vendaval-4-la-llegada-de-ari
+#EXTINF:-1 tvg-id="Alpha y Omega" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/397d3468-6ce9-4dbb-bd57-18a220f36a74-alpha-y-omega-1665736872.jpeg" group-title="Videoclub / Familiar",Alpha y Omega
+https://rakuten.tv/movies/alpha-y-omega
+#EXTINF:-1 tvg-id="Chestnut: el hero de Central Park" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/1e7cde53-79cf-4d31-83f4-126a80aca42e-chestnut-el-hero-de-central-park-1611323724.jpeg" group-title="Videoclub / Familiar",Chestnut: el hero de Central Park
+https://rakuten.tv/movies/chestnut-el-hero-de-central-park
+#EXTINF:-1 tvg-id="Dinosaurios" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/15b4edde-8016-42cd-bf75-2b973c8b1220-dinosaurios-1649253282.jpeg" group-title="Videoclub / Familiar",Dinosaurios
+https://rakuten.tv/movies/dinosaurios
+#EXTINF:-1 tvg-id="¡Socorro, he encogido a la profe!" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/3b6fd97c-06b3-459d-8324-96b6067626b4.jpeg" group-title="Videoclub / Familiar",¡Socorro, he encogido a la profe!
+https://rakuten.tv/movies/socorro-he-encogido-a-la-profe
+#EXTINF:-1 tvg-id="¡Socorro, he encogido a mis padres!" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/a5cfa350-b380-4084-a738-d92b092f3e39.jpeg" group-title="Videoclub / Familiar",¡Socorro, he encogido a mis padres!
+https://rakuten.tv/movies/socorro-he-encogido-a-mis-padres
+#EXTINF:-1 tvg-id="Vendaval 2" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/d5bc5333-2cdf-485e-9276-7d32010f2aa5.jpeg" group-title="Videoclub / Familiar",Vendaval 2
+https://rakuten.tv/movies/vendaval-2
+#EXTINF:-1 tvg-id="Aventura en la isla" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/21a84c00-a635-4e52-8c03-50ea7c39602d.jpeg" group-title="Videoclub / Familiar",Aventura en la isla
+https://rakuten.tv/movies/aventura-en-la-isla
+#EXTINF:-1 tvg-id="Las Hermanas Vampiras" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/5b66a7ec-04fd-4d11-a108-2e5378472f94.jpeg" group-title="Videoclub / Familiar",Las Hermanas Vampiras
+https://rakuten.tv/movies/las-hermanas-vampiras
+#EXTINF:-1 tvg-id="Los Cachorros De Buddy" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/714878fb-6eb1-4460-b421-5f5e507f0e7c-los-cachorros-de-buddy-1611323723.jpeg" group-title="Videoclub / Familiar",Los Cachorros De Buddy
+https://rakuten.tv/movies/los-cachorros-de-buddy
+#EXTINF:-1 tvg-id="Jóvenes extraordinarios" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/d7e1c1f3-c719-40f2-ba81-f26601e047e1-jovenes-extraordinarios-1651043936.jpeg" group-title="Videoclub / Familiar",Jóvenes extraordinarios
+https://rakuten.tv/movies/jovenes-extraordinarios
+#EXTINF:-1 tvg-id="Air Bud: Super Estrella" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/b77f0ef2-c823-42a9-b9d9-48c8ed65709e-air-bud-super-estrella-1611323720.jpeg" group-title="Videoclub / Familiar",Air Bud: Super Estrella
+https://rakuten.tv/movies/air-bud-super-estrella
+#EXTINF:-1 tvg-id="El misterio de la dama gris" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/0b120e62-ddf5-47fd-90e9-319d11c11b35.jpeg" group-title="Videoclub / Familiar",El misterio de la dama gris
+https://rakuten.tv/movies/el-misterio-de-la-dama-gris
+#EXTINF:-1 tvg-id="La Abeja Maya y el Orbe Dorado" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/5198b04c-6afe-4af9-844b-db4481eb718f-la-abeja-maya-y-el-orbe-dorado-1631706949.jpeg" group-title="Videoclub / Familiar",La Abeja Maya y el Orbe Dorado
+https://rakuten.tv/movies/la-abeja-maya-y-el-orbe-dorado
+#EXTINF:-1 tvg-id="Yakari" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/4c748d48-546e-4f5b-915d-d9410379d72f-yakari-1647274231.jpeg" group-title="Videoclub / Familiar",Yakari
+https://rakuten.tv/movies/yakari
+#EXTINF:-1 tvg-id="¡Mola mazo ser mono!" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/10cd1dd1-d559-4861-93f5-fd1ee764afe8-mola-mazo-ser-mono-1611323725.jpeg" group-title="Videoclub / Familiar",¡Mola mazo ser mono!
+https://rakuten.tv/movies/mola-mazo-ser-mono
+#EXTINF:-1 tvg-id="Las Hermanas Mágicas" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/d1a30f81-e576-4c95-ac8e-c77fd17bf1d8.jpeg" group-title="Videoclub / Familiar",Las Hermanas Mágicas
+https://rakuten.tv/movies/las-hermanas-magicas
+#EXTINF:-1 tvg-id="Las Hermanas Vampiras 3" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/6465473f-37c9-4927-9998-fc614ff97f72.jpeg" group-title="Videoclub / Familiar",Las Hermanas Vampiras 3
+https://rakuten.tv/movies/las-hermanas-vampiras-3
+#EXTINF:-1 tvg-id="Las Hermanas Vampiras 2" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/a5504bf7-9498-44d8-8511-17ef7b40d32f.jpeg" group-title="Videoclub / Familiar",Las Hermanas Vampiras 2
+https://rakuten.tv/movies/las-hermanas-vampiras-2
+#EXTINF:-1 tvg-id="Vicky el Vikingo" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/8c55b0f9-646c-42f9-9c3e-cca20381a003.jpeg" group-title="Videoclub / Familiar",Vicky el Vikingo
+https://rakuten.tv/movies/vicky-el-vikingo
+#EXTINF:-1 tvg-id="Mi Amigo Raffi" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/bc1c1482-ffa1-4e4e-8e87-3b7f6ff0fd10-mi-amigo-raffi-1649244191.jpeg" group-title="Videoclub / Familiar",Mi Amigo Raffi
+https://rakuten.tv/movies/mi-amigo-raffi
+#EXTINF:-1 tvg-id="Una aventura Salvaje" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/d3ec32bd-78cc-4b48-ba04-f1546d481189.jpeg" group-title="Videoclub / Familiar",Una aventura Salvaje
+https://rakuten.tv/movies/una-aventura-salvaje
+#EXTINF:-1 tvg-id="Academia Cranston: Escuela de monstruos" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/57fef496-c4fe-4fd1-a93e-a18273cf02d7-academia-cranston-escuela-de-monstruos-1616686135.jpeg" group-title="Videoclub / Familiar",Academia Cranston: Escuela de monstruos
+https://rakuten.tv/movies/cranston-academy
+#EXTINF:-1 tvg-id="Air Bud 2: El Fichaje De La Liga" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/49aba32b-736a-49a7-8848-bd6d3e4bd0d5-air-bud-2-el-fichaje-de-la-liga-1611323721.jpeg" group-title="Videoclub / Familiar",Air Bud 2: El Fichaje De La Liga
+https://rakuten.tv/movies/air-bud-2-el-fichaje-de-la-liga
+#EXTINF:-1 tvg-id="Air Bud: Spikes Back" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/aacfb26a-007c-46d4-a29f-15f8b08f62fe-air-bud-spikes-back-1611323722.jpeg" group-title="Videoclub / Familiar",Air Bud: Spikes Back
+https://rakuten.tv/movies/air-bud-spikes-back
+#EXTINF:-1 tvg-id="Los Cazamonstruos" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/dacb751e-6c67-459e-8381-7086d37d0b15.jpeg" group-title="Videoclub / Familiar",Los Cazamonstruos
+https://rakuten.tv/movies/los-cazamonstruos
+#EXTINF:-1 tvg-id="Max y la tropa gamberra" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/5f2c0237-3b9b-4710-98f1-8452d64e5128-max-y-la-tropa-gamberra-1651044226.jpeg" group-title="Videoclub / Familiar",Max y la tropa gamberra
+https://rakuten.tv/movies/max-y-la-tropa-gamberra
+#EXTINF:-1 tvg-id="Pup Star" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/d9311c2b-6fdd-48db-b301-bb426302169b-pup-star-1611323727.jpeg" group-title="Videoclub / Familiar",Pup Star
+https://rakuten.tv/movies/pup-star
+#EXTINF:-1 tvg-id="La leyenda de Hei" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/a2dcba16-0370-4313-b39a-93604ddfaefd.jpeg" group-title="Videoclub / Familiar",La leyenda de Hei
+https://rakuten.tv/movies/la-leyenda-de-hei
+#EXTINF:-1 tvg-id="Ladybug, en busca del cañón dorado" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/341d7515-3d55-4783-8600-54131ad582c4-ladybug-en-busca-del-canon-dorado-1639990231.jpeg" group-title="Videoclub / Familiar",Ladybug, en busca del cañón dorado
+https://rakuten.tv/movies/ladybug-en-busca-del-canon-dorado
+#EXTINF:-1 tvg-id="Papá Moll y la Fábrica de Chocolate" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/e14fed1f-a038-492e-b287-9cffb490f70b.jpeg" group-title="Videoclub / Familiar",Papá Moll y la Fábrica de Chocolate
+https://rakuten.tv/movies/papa-moll-y-la-fabrica-de-chocolate
+#EXTINF:-1 tvg-id="Air Bud 4: El Bateador De Oro" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/1095a69e-ed81-4c82-a8da-50f5124dc8cb-air-bud-4-el-bateador-de-oro-1611323721.jpeg" group-title="Videoclub / Familiar",Air Bud 4: El Bateador De Oro
+https://rakuten.tv/movies/air-bud-4-el-bateador-de-oro
+#EXTINF:-1 tvg-id="Robo-Dog" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/08887c98-90f7-40e6-8b5b-8363ba51f24b-robo-dog-1611322634.jpeg" group-title="Videoclub / Familiar",Robo-Dog
+https://rakuten.tv/movies/robo-dog
+#EXTINF:-1 tvg-id="The gold retrievers" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/4a95ff31-783a-4ffb-b2c3-e961a7eb40bd-the-gold-retrievers-1618912706.jpeg" group-title="Videoclub / Familiar",The gold retrievers
+https://rakuten.tv/movies/the-gold-retrievers
+#EXTINF:-1 tvg-id="Bogus" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/ece84575-cfb1-4610-9c3e-ba0cd7abb48d.jpeg" group-title="Videoclub / Familiar",Bogus
+https://rakuten.tv/movies/bogus
+#EXTINF:-1 tvg-id="Una Momia Divertida 3: La tumba de Achnetut" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/9271f200-d82b-4a2e-b426-7aec18562643.jpeg" group-title="Videoclub / Familiar",Una Momia Divertida 3: La tumba de Achnetut
+https://rakuten.tv/movies/una-momia-divertida-3-la-tumba-de-achnetut
+#EXTINF:-1 tvg-id="Lifi, una gallina tocada del ala" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/7a81bf91-d084-4960-9852-68ec58d0ae6f.jpeg" group-title="Videoclub / Familiar",Lifi, una gallina tocada del ala
+https://rakuten.tv/movies/lifi-una-gallina-tocada-del-ala
+#EXTINF:-1 tvg-id="Super Papá Oso" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/dc3b5cdb-e891-4e01-b6a9-2500199b934d.jpeg" group-title="Videoclub / Familiar",Super Papá Oso
+https://rakuten.tv/movies/super-papa-oso
+#EXTINF:-1 tvg-id="Spymate" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/fdaffb66-de41-41af-af6a-ec35a98babd1-spymate-1611323730.jpeg" group-title="Videoclub / Familiar",Spymate
+https://rakuten.tv/movies/spymate
+#EXTINF:-1 tvg-id="Storm Y La Carta Prohibida De Lutero" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/0364538e-0d43-44f3-baaa-e7405b835467.jpeg" group-title="Videoclub / Familiar",Storm Y La Carta Prohibida De Lutero
+https://rakuten.tv/movies/storm-y-la-carta-prohibida-de-lutero
+#EXTINF:-1 tvg-id="Una Momia Divertida: La Esfinge de Shákaba" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/bdbcd050-3fcf-4206-bad5-b9c7fcd0c62e.jpeg" group-title="Videoclub / Familiar",Una Momia Divertida: La Esfinge de Shákaba
+https://rakuten.tv/movies/una-momia-divertida-la-esfinge-de-shakaba-2015
+#EXTINF:-1 tvg-id="Monkey Business" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/8ce67a09-dd5a-4aac-9bdc-ea763f3f3e0d-monkey-business-1649323619.jpeg" group-title="Videoclub / Familiar",Monkey Business
+https://rakuten.tv/movies/monkey-business
+#EXTINF:-1 tvg-id="Las Aventuras de la Familia Fox" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/a1906ff1-e37b-4fd1-b285-e71822847863.jpeg" group-title="Videoclub / Familiar",Las Aventuras de la Familia Fox
+https://rakuten.tv/movies/las-aventuras-de-la-familia-fox
+#EXTINF:-1 tvg-id="Russell, el perro luchador" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/a7e41071-8d8b-41b1-9b09-61eb0badeb19-russell-el-perro-luchador-1611323728.jpeg" group-title="Videoclub / Familiar",Russell, el perro luchador
+https://rakuten.tv/movies/russell-el-perro-luchador
+#EXTINF:-1 tvg-id="MXP: Jack, un mono muy intrépido" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/abfaf69d-d6f1-422b-bad4-df6d75298b50-mxp-jack-un-mono-muy-intrepido-1611323727.jpeg" group-title="Videoclub / Familiar",MXP: Jack, un mono muy intrépido
+https://rakuten.tv/movies/mxp-jack-un-mono-muy-intrepido
+#EXTINF:-1 tvg-id="George y el Dragón" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/965921b4-9651-42f5-b37f-8702594fc696-george-y-el-dragon-1611323780.jpeg" group-title="Videoclub / Familiar",George y el Dragón
+https://rakuten.tv/movies/george-y-el-dragon
+#EXTINF:-1 tvg-id="Vicky el Vikingo y la espada mágica" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/f1be4cd4-c938-47f5-8dd7-b212c7ce2286-vicky-el-vikingo-y-la-espada-magica-1612442943.jpeg" group-title="Videoclub / Familiar",Vicky el Vikingo y la espada mágica
+https://rakuten.tv/movies/vicky-el-vikingo-y-la-espada-magica
+#EXTINF:-1 tvg-id="Mi amigo Berni" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/f61b5fde-65b0-4718-b5f0-bb71a93ebb77.jpeg" group-title="Videoclub / Familiar",Mi amigo Berni
+https://rakuten.tv/movies/mi-amigo-berni
+#EXTINF:-1 tvg-id="¡Cómo mola ser mono!" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/a53afb35-e5a4-42b6-be3e-138c4079e552-como-mola-ser-mono-1611323726.jpeg" group-title="Videoclub / Familiar",¡Cómo mola ser mono!
+https://rakuten.tv/movies/como-mola-ser-mono
+#EXTINF:-1 tvg-id="Army Dog" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/b9ba09dd-a6ef-43d8-ac65-ef7029904960-army-dog-1611322164.jpeg" group-title="Videoclub / Familiar",Army Dog
+https://rakuten.tv/movies/army-dog
+#EXTINF:-1 tvg-id="Una Momia Genial: El escarabajo Dorado" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/37a93e58-8956-4e43-89aa-2aa0e1513ca9.jpeg" group-title="Videoclub / Familiar",Una Momia Genial: El escarabajo Dorado
+https://rakuten.tv/movies/una-momia-genial-el-escarabajo-dorado
+#EXTINF:-1 tvg-id="Una Familia Genial" tvg-logo="https://images-1.rakuten.tv/storage/global-movie/translation/artwork/1a5fff70-4708-446e-a744-53c85ffa8604.jpeg" group-title="Videoclub / Familiar",Una Familia Genial
+https://rakuten.tv/movies/una-familia-genial
+#EXTINF:-1 tvg-id="La Senda de los Forajidos: El Tesoro de Butch Cassidy" tvg-logo="https://images-3.rakuten.tv/storage/global-movie/translation/artwork/d8fbc291-f20c-4157-b4da-70b0aecccc90.jpeg" group-title="Videoclub / Familiar",La Senda de los Forajidos: El Tesoro de Butch Cassidy
+https://rakuten.tv/movies/la-senda-de-los-forajidos-el-tesoro-de-butch-cassidy
+#EXTINF:-1 tvg-id="El Duque" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/a568501c-b464-45c4-90f9-32c6688892a7-el-duque-1611323731.jpeg" group-title="Videoclub / Familiar",El Duque
+https://rakuten.tv/movies/el-duque
+#EXTINF:-1 tvg-id="La fortuna sonríe a Lady Nikuko" tvg-logo="https://images-2.rakuten.tv/storage/global-movie/translation/artwork/34e279c0-7bf3-43f1-8e87-50ec46503b12-la-fortuna-sonrie-a-lady-nikuko-1647274330.jpeg" group-title="Videoclub / Familiar",La fortuna sonríe a Lady Nikuko
+https://rakuten.tv/movies/la-fortuna-sonrie-a-lady-nikuko
+#EXTINF:-1 tvg-id="Un Disfraz para Nicolás" tvg-logo="https://images-0.rakuten.tv/storage/global-movie/translation/artwork/bb752bc9-51b0-47b8-b9de-3f2e48fea8a1.jpeg" group-title="Videoclub / Familiar",Un Disfraz para Nicolás
+https://rakuten.tv/movies/un-disfraz-para-nicolas
