@@ -3,11 +3,11 @@
 https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/antena3.m3u8
 #EXTINF:-1 tvg-id="LA SEXTA" tvg-name="LA SEXTA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="Atresmedia",LA SEXTA
 https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/lasexta.m3u8
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Neox
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="Atresmedia",Neox
 https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/neox.m3u8
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Nova
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="Atresmedia",Nova
 https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/nova.m3u8
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Mega
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="Atresmedia",Mega
 https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/mega.m3u8
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://atresplayer.com" group-title="Atresmedia",Atreseries
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="Atresmedia",Atreseries
 https://raw.githubusercontent.com/zzappakodi/zzappakodis/refs/heads/main/atreseries.m3u8
