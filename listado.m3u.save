@@ -1,0 +1,784 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+#EXTINF:-1 tvg-id="TV3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png" group-title="✪ TDT/AUTONOMICOS",TV3
+https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
+#EXTINF:-1 tvg-id="PLUS | GH 20: Directo 24h 1" tvg-logo="https://cdn.aptoide.com/imgs/7/3/c/73cb983ea5a5cdf38108f2f269bbc7e0_icon.png" group-title="✪ TDT/AUTONOMICOS",PLUS | GH 20: Directo 24h 1
+http://31.57.111.120:80:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1787663&extension=ts
+#EXTINF:-1 tvg-id="PLUS | GH 20: Directo 24h 2" tvg-logo="https://cdn.aptoide.com/imgs/7/3/c/73cb983ea5a5cdf38108f2f269bbc7e0_icon.png" group-title="✪ TDT/AUTONOMICOS",PLUS | GH 20: Directo 24h 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1787662&extension=ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="✪ TDT/AUTONOMICOS",La 1 (DVB)
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1186696&extension=ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="✪ TDT/AUTONOMICOS",La 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=653&extension=ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="✪ TDT/AUTONOMICOS",LA 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234179&extension=ts
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="✪ TDT/AUTONOMICOS",La 2 (DVB)
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1186697&extension=ts
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="✪ TDT/AUTONOMICOS",La 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=654&extension=ts
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="✪ TDT/AUTONOMICOS",LA 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234178&extension=ts
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" group-title="✪ TDT/AUTONOMICOS",Antena 3 (DVB)
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1186702&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" tvg-id="Antena 3 HD" group-title="✪ TDT/AUTONOMICOS",Antena 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=652&extension=ts
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" group-title="✪ TDT/AUTONOMICOS",Antena 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234177&extension=ts
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="✪ TDT/AUTONOMICOS",CUATRO (DVB)
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1186701&extension=ts
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="✪ TDT/AUTONOMICOS",CUATRO
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=3846&extension=ts
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="✪ TDT/AUTONOMICOS",Cuatro
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234176&extension=ts
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" group-title="✪ TDT/AUTONOMICOS",Telecinco (DVB)
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1186699&extension=ts
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" group-title="✪ TDT/AUTONOMICOS",Telecinco
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=677&extension=ts
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" group-title="✪ TDT/AUTONOMICOS",Telecinco
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234175&extension=ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="✪ TDT/AUTONOMICOS",La Sexta
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=655&extension=ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="✪ TDT/AUTONOMICOS",La Sexta
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234174&extension=ts
+#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="✪ TDT/AUTONOMICOS",DIVINITY
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10094&extension=ts
+#EXTINF:-1 tvg-id="Neox" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="✪ TDT/AUTONOMICOS",NEOX
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2614&extension=ts
+#EXTINF:-1 tvg-id="Nova" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="✪ TDT/AUTONOMICOS",NOVA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2616&extension=ts
+#EXTINF:-1 tvg-id="Ten" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" group-title="✪ TDT/AUTONOMICOS",TEN
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1785179&extension=ts
+#EXTINF:-1 tvg-id="Energy" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="✪ TDT/AUTONOMICOS",ENERGY
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10097&extension=ts
+#EXTINF:-1 tvg-id="13 TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/13%20TV.png" group-title="✪ TDT/AUTONOMICOS",13 TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=639729&extension=ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="✪ TDT/AUTONOMICOS",La Sexta (DVB)
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1186698&extension=ts
+#EXTINF:-1 tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="✪ TDT/AUTONOMICOS",Mega
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=32748&extension=ts
+#EXTINF:-1 tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="✪ TDT/AUTONOMICOS",Mega
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234268&extension=ts
+#EXTINF:-1 tvg-id="24HORAS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="✪ TDT/AUTONOMICOS",24HORAS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10082&extension=ts
+#EXTINF:-1 tvg-id="France 24" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%2024.png" group-title="✪ TDT/AUTONOMICOS",France 24
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=328766&extension=ts
+#EXTINF:-1 tvg-id="TVG Europa HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png" group-title="✪ TDT/AUTONOMICOS",TVG Europa
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=116948&extension=ts
+#EXTINF:-1 tvg-id="CANAL ANDALUCIA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png" group-title="✪ TDT/AUTONOMICOS",CANAL ANDALUCIA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=329061&extension=ts
+#EXTINF:-1 tvg-id="Tele2 Norway" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tele2%20Norway.png" group-title="✪ TDT/AUTONOMICOS",Tele2 Norway
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=329065&extension=ts
+#EXTINF:-1 tvg-id="Canal Andalucia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png" group-title="✪ TDT/AUTONOMICOS",Canal Andalucia
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1354804&extension=ts
+#EXTINF:-1 tvg-id="ALGECIRAS TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20Algeciras%20TV.png" group-title="✪ TDT/AUTONOMICOS",ALGECIRAS TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=568425&extension=ts
+#EXTINF:-1 tvg-id="Canal Extremadura SAT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png" group-title="✪ TDT/AUTONOMICOS",Canal Extremadura Sat
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=116940&extension=ts
+#EXTINF:-1 tvg-id="lancelot TV" tvg-logo="http://138.199.27.237:8080/SPAIN/LANCELOTTV.jpg" group-title="✪ TDT/AUTONOMICOS",lancelot TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=113364&extension=ts
+#EXTINF:-1 tvg-id="SOLIDARIA TV" tvg-logo="http://138.199.27.237:8080/SPAIN/SOLIDARIATV.png" group-title="✪ TDT/AUTONOMICOS",SOLIDARIA TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=113874&extension=ts
+#EXTINF:-1 tvg-id="TELE MADRID" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" group-title="✪ TDT/AUTONOMICOS",TELE MADRID
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=568426&extension=ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="✪ SPAIN ULTRA",La 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21043&extension=ts
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="✪ SPAIN ULTRA",LA 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233969&extension=ts
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" group-title="✪ SPAIN ULTRA",Antena 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21040&extension=ts
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="✪ SPAIN ULTRA",Cuatro
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21029&extension=ts
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" group-title="✪ SPAIN ULTRA",TeleCinco
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21002&extension=ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="✪ SPAIN ULTRA",La Sexta
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233968&extension=ts
+#EXTINF:-1 tvg-id="ETB 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png" group-title="✪ SPAIN ULTRA",ETB 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=329075&extension=ts
+#EXTINF:-1 tvg-id="ETB 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2.png" group-title="✪ SPAIN ULTRA",ETB 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=329057&extension=ts
+#EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="✪ SPAIN ULTRA",Canal 24 Horas
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=667&extension=ts
+#EXTINF:-1 tvg-id="Canal 25 Barbastro" tvg-logo="http://138.199.27.237:8080/SPAIN/CANAL25BARBASTRO.jpg" group-title="✪ SPAIN ULTRA",Canal 25 Barbastro
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=113343&extension=ts
+#EXTINF:-1 tvg-id="Diez TV" tvg-logo="http://138.199.27.237:8080/SPAIN/DIEZTV.png" group-title="✪ SPAIN ULTRA",Diez TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=113857&extension=ts
+#EXTINF:-1 tvg-id="LOGOS TV" tvg-logo="http://138.199.27.237:8080/SPAIN/LOGOS.png" group-title="✪ SPAIN ULTRA",LOGOS TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=113873&extension=ts
+#EXTINF:-1 tvg-id="M95 Marbella" tvg-logo="http://138.199.27.237:8080/SPAIN/M95MARBELLA.png" group-title="✪ SPAIN ULTRA",M95 Marbella
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=113864&extension=ts
+#EXTINF:-1 tvg-id="TRECE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" group-title="✪ SPAIN ULTRA",TRECE
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=113867&extension=ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="✪ SPAIN ULTRA",AMC
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233979&extension=ts
+#EXTINF:-1 tvg-id="ARAGON TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png" group-title="✪ SPAIN ULTRA",ARAGON TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10086&extension=ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="✪ SPAIN ULTRA",AXN
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233984&extension=ts
+#EXTINF:-1 tvg-id="Betevé" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png" group-title="✪ SPAIN ULTRA",betevé
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=651&extension=ts
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" group-title="✪ SPAIN ULTRA",COSMO
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233980&extension=ts
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="✪ SPAIN ULTRA",M+ Vamos
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=12479&extension=ts
+#EXTINF:-1 tvg-id="Somos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" group-title="✪ SPAIN ULTRA",SOMOS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=79556&extension=ts
+#EXTINF:-1 tvg-id="TV Galicia" tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" group-title="✪ SPAIN ULTRA",TV Galicia
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=62504&extension=ts
+#EXTINF:-1 tvg-id="XTRM" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="✪ SPAIN ULTRA",XTRM
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=53505&extension=ts
+#EXTINF:-1 tvg-id="Claro Sports" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Claro%20Sports.png" group-title="✪ SPAIN ULTRA",Claro Sports
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21037&extension=ts
+#EXTINF:-1 tvg-id="Universal" tvg-logo="http://138.199.27.237:8080/SPAIN/UNIVERSAL.png" group-title="✪ SPAIN ULTRA",Universal
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233999&extension=ts
+#EXTINF:-1 tvg-id="Clan" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" group-title="✪ SPAIN ULTRA",Clan TVE
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233994&extension=ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel.png" group-title="✪ SPAIN ULTRA",Disney Channel
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233995&extension=ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel.png" group-title="✪ SPAIN ULTRA",Disney Channel
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21028&extension=ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png" group-title="✪ SPAIN ULTRA",Disney Junior
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234000&extension=ts
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png" group-title="✪ SPAIN ULTRA",Dreamworks
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233996&extension=ts
+#EXTINF:-1 tvg-id="Nick JR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png" group-title="✪ SPAIN ULTRA",NICK JR
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233998&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" group-title="✪ SPAIN ULTRA",ES Nickelodeon
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233997&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" group-title="✪ SPAIN ULTRA",NIckelodeon
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21005&extension=ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="✪ SPAIN ULTRA",Nat Geo Wild
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233992&extension=ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="✪ SPAIN ULTRA",Nat Geo WILD
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21007&extension=ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="✪ SPAIN ULTRA",National Geographic
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233993&extension=ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="✪ SPAIN ULTRA",National Geographic
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21006&extension=ts
+#EXTINF:-1 tvg-id="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="✪ SPAIN ULTRA",Historia
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233991&extension=ts
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="✪ SPAIN ULTRA",Canal Cocina 1080
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233990&extension=ts
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="✪ SPAIN ULTRA",Caza y Pesca 1080
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233987&extension=ts
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="✪ SPAIN ULTRA",Caza y Pesca
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21032&extension=ts
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="✪ SPAIN ULTRA",IBERALIA TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2612&extension=ts
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="✪ SPAIN ULTRA",Calle 13
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233981&extension=ts
+#EXTINF:-1 tvg-id="Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="✪ SPAIN ULTRA",Cine Español
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21008&extension=ts
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="✪ SPAIN ULTRA",Comedy Central
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233982&extension=ts
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="✪ SPAIN ULTRA",STAR Channel
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233985&extension=ts
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="✪ SPAIN ULTRA",STAR Channel
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21026&extension=ts
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="✪ SPAIN ULTRA",M+ Drama
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233974&extension=ts
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="✪ SPAIN ULTRA",M+ Comedia
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233975&extension=ts
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="✪ SPAIN ULTRA",M+ Hits
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21010&extension=ts
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="✪ SPAIN ULTRA",M+ Hits
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=150484&extension=ts
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="✪ SPAIN ULTRA",M+ Estrenos
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233986&extension=ts
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="✪ SPAIN ULTRA",M+ Cine Español
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233973&extension=ts
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="✪ SPAIN ULTRA",Canal Hollywood
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233971&extension=ts
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TLC.png" group-title="✪ SPAIN ULTRA",TLC
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233983&extension=ts
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="✪ SPAIN ULTRA",Warner TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21001&extension=ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" group-title="✪ SPAIN ULTRA",TCM
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233972&extension=ts
+#EXTINF:-1 tvg-id="SyFy HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" group-title="✪ SPAIN ULTRA",Syfy
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2608&extension=ts
+#EXTINF:-1 tvg-id="SyFy HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" group-title="✪ SPAIN ULTRA",Syfy
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21004&extension=ts
+#EXTINF:-1 tvg-id="RCN" tvg-logo="http://138.199.27.237:8080/SPAIN/RCN.png" group-title="✪ SPAIN ULTRA",RCN
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=329059&extension=ts
+#EXTINF:-1 tvg-id="40 Y 20" tvg-logo="http://138.199.27.237:8080/SPAIN/40%20Y%2020.jpeg" group-title="✪ SPAIN ULTRA",40 Y 20
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=329052&extension=ts
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="✪ SPAIN ULTRA",M+ VAMOS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=302864&extension=ts
+#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" group-title="✪ SPAIN ULTRA",M+ Ellas
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=235604&extension=ts
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="✪ SPAIN ULTRA",M+ GOLF
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201498&extension=ts
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="✪ SPAIN ULTRA",M+ Golf
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=657&extension=ts
+#EXTINF:-1 tvg-id="M+ GOLF+ 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20GOLF%2B%202.png" group-title="✪ SPAIN ULTRA",M+ GOLF+ 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=605302&extension=ts
+#EXTINF:-1 tvg-id="DAZN LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="✪ SPAIN ULTRA",DAZN LA LIGA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=252724&extension=ts
+#EXTINF:-1 tvg-id="DAZN LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="✪ SPAIN ULTRA",DAZN LIGA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=670&extension=ts
+#EXTINF:-1 tvg-id="M+LA LIGA TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="✪ SPAIN ULTRA",M+LA LIGA TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=597097&extension=ts
+#EXTINF:-1 tvg-id="DAZN FORMULA 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20FORMULA%201.png" group-title="✪ SPAIN ULTRA",DAZN  FORMULA 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21015&extension=ts
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="✪ SPAIN ULTRA",DAZN 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201474&extension=ts
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="✪ SPAIN ULTRA",DAZN 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201475&extension=ts
+#EXTINF:-1 tvg-id="M+ LA LIGA" tvg-logo="http://138.199.27.237:8080/SPAIN/LALIGAM%2B.png" group-title="✪ SPAIN ULTRA",M+ LA LIGA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201497&extension=ts
+#EXTINF:-1 tvg-id="M+ LA LIGA 2" tvg-logo="http://138.199.27.237:8080/SPAIN/LALIGAM%2B.png" group-title="✪ SPAIN ULTRA",M+ LA LIGA 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=568204&extension=ts
+#EXTINF:-1 tvg-id="ES beIN SPORTS Ñ" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%20beIN%20SPORTS%20%C3%91.png" group-title="✪ SPAIN ULTRA",ES  beIN SPORTS Ñ
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=329051&extension=ts
+#EXTINF:-1 tvg-id="M+LCAMPEON" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2BLCAMPEON.png" group-title="✪ SPAIN ULTRA",M+LCAMPEON
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201496&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%201.png" group-title="✪ SPAIN ULTRA",M+ Deportes 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201490&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="✪ SPAIN ULTRA",M+ Deportes 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201489&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="✪ SPAIN ULTRA",M+ Deportes 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201488&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="✪ SPAIN ULTRA",M+ Deportes 4
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201487&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="✪ SPAIN ULTRA",M+ Deportes 5
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201486&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="✪ SPAIN ULTRA",M+ Deportes 6
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=201485&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="✪ SPAIN ULTRA",Eurosport 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21027&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="✪ SPAIN ULTRA",Eurosport 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233989&extension=ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20Family.png" group-title="✪ SPAIN ULTRA",HBO Family
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233988&extension=ts
+#EXTINF:-1 tvg-id="That's Rock" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e8d66036-f48b-417d-961d-45b7bf5ca5c7.jpeg" group-title="✪ MUSIC",thats ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="That's 80" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d1bd1f06-f3a0-47ec-abac-62342ff42fdb.jpeg" group-title="✪ MUSIC",thats 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="That's 70" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/21ddd31b-ff64-4afe-aaca-0eb13b1a7cff.jpeg" group-title="✪ MUSIC",thats 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Mezzo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo.png" group-title="✪ MUSIC",MEZZO
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=116945&extension=ts
+#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" group-title="✪ DOCUMENTALES",DMAX
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10096&extension=ts
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" group-title="✪ DOCUMENTALES",DKISS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10095&extension=ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="✪ DOCUMENTALES",Nat Geo WILD
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=674&extension=ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="✪ DOCUMENTALES",Nat Geo Wild
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234220&extension=ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="✪ DOCUMENTALES",National Geographic
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=647&extension=ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="✪ DOCUMENTALES",National Geographic
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234221&extension=ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="✪ DOCUMENTALES",Discovery Channel
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=675&extension=ts
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="✪ DOCUMENTALES",M+ Documentales
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309656&extension=ts
+#EXTINF:-1 tvg-id="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="✪ DOCUMENTALES",HISTORIA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2596&extension=ts
+#EXTINF:-1 tvg-id="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="✪ DOCUMENTALES",Historia
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234219&extension=ts
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20XTREME.png" group-title="✪ DOCUMENTALES",HBO XTREME
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10088&extension=ts
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="✪ DOCUMENTALES",Canal Cocina
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2593&extension=ts
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="✪ DOCUMENTALES",Canal Cocina
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234218&extension=ts
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" group-title="✪ DOCUMENTALES",Canal Decasa
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=12478&extension=ts
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="✪ DOCUMENTALES",Caza y Pesca
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=676&extension=ts
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="✪ DOCUMENTALES",Caza y Pesca
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234184&extension=ts
+#EXTINF:-1 tvg-id="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="✪ DOCUMENTALES",ODISEA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10120&extension=ts
+#EXTINF:-1 tvg-id="CAZAVISION" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CAZAVI%C3%B3n.png" group-title="✪ DOCUMENTALES",CAZAVISION
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=328765&extension=ts
+#EXTINF:-1 tvg-id="Webcam Port Benicarlo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Webcam%20Port%20Benicarlo.png" group-title="✪ ENTRETENIMIENTO",Webcam Port Benicarlo
+https://streaming.comunitatvalenciana.com/webcam/Benicarlo/manifest.m3u8
+#EXTINF:-1 tvg-id="Pasiones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pasiones.png" group-title="✪ ENTRETENIMIENTO",Pasiones
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2611&extension=ts
+#EXTINF:-1 tvg-id="ATRESERIES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="✪ ENTRETENIMIENTO",A3SERIES
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10083&extension=ts
+#EXTINF:-1 tvg-id="Alcarria TV" tvg-logo="http://138.199.27.237:8080/SPAIN/ALCARRIATV.png" group-title="✪ ENTRETENIMIENTO",Alcarria TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=30948&extension=ts
+#EXTINF:-1 tvg-id="ANDALUCIA TV" tvg-logo="ttps://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png" group-title="✪ ENTRETENIMIENTO",ANDALUCIA TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10085&extension=ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="✪ ENTRETENIMIENTO",AXN
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=650&extension=ts
+#EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png" group-title="✪ ENTRETENIMIENTO",BE MAD
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=30945&extension=ts
+#EXTINF:-1 tvg-id="Canal de las Estrellas" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20de%20las%20Estrellas.png" group-title="✪ ENTRETENIMIENTO",Canal de las Estrellas
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2592&extension=ts
+#EXTINF:-1 tvg-id="DE CASA" tvg-logo="http://138.199.27.237:8080/SPAIN/DECASA.png" group-title="✪ ENTRETENIMIENTO",DE CASA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=6330&extension=ts
+#EXTINF:-1 tvg-id="FDF" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="✪ ENTRETENIMIENTO",FDF
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10104&extension=ts
+#EXTINF:-1 tvg-id="TELENOVELAS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Telenovelas.png" group-title="✪ ENTRETENIMIENTO",TELENOVELAS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2605&extension=ts
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" group-title="✪ ENTRETENIMIENTO",SUNDANCE
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2610&extension=ts
+#EXTINF:-1 tvg-id="Classica HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Classica.png" group-title="✪ ENTRETENIMIENTO",Stingray Classica
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2613&extension=ts
+#EXTINF:-1 tvg-id="MTV ESPANA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png" group-title="✪ ENTRETENIMIENTO",MTV ESPANA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2599&extension=ts
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV.png" group-title="✪ ENTRETENIMIENTO",MTV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10119&extension=ts
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" group-title="✪ ENTRETENIMIENTO",Cosmo
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2708&extension=ts
+#EXTINF:-1 tvg-id="AMC Living" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png" group-title="✪ ENTRETENIMIENTO",AMC Living
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=116946&extension=ts
+#EXTINF:-1 tvg-id="PRO TV INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PRO%20TV%20INTERNATIONAL.png" group-title="✪ ENTRETENIMIENTO",PRO TV INTERNATIONAL
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=328757&extension=ts
+#EXTINF:-1 tvg-id="AMC Break" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="✪ ENTRETENIMIENTO",AMC Break
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309646&extension=ts
+#EXTINF:-1 tvg-id="AMC Crime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="✪ ENTRETENIMIENTO",AMC Crime
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309647&extension=ts
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="✪ ENTRETENIMIENTO",Comedy Central
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=687&extension=ts
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="✪ ENTRETENIMIENTO",Comedy Central
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21031&extension=ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="✪ CINEMA",AMC
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10084&extension=ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="✪ CINEMA",AXN
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234182&extension=ts
+#EXTINF:-1 tvg-id="COSMOS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/COSMOS.png" group-title="✪ CINEMA",COSMOS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10092&extension=ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="✪ CINEMA",AMC
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21041&extension=ts
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vacaciones.png" group-title="✪ CINEMA",M+ Vacaciones
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309643&extension=ts
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="✪ CINEMA",AXN Movies
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309645&extension=ts
+#EXTINF:-1 tvg-id="AMC Western" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Western.png" group-title="✪ CINEMA",AMC Western
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309648&extension=ts
+#EXTINF:-1 tvg-id="VinTV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png" group-title="✪ CINEMA",VinTV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309649&extension=ts
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="✪ CINEMA",GOL PLAY
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309986&extension=ts
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="✪ CINEMA",Calle 13
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=641&extension=ts
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="✪ CINEMA",Calle 13
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21033&extension=ts
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" group-title="✪ CINEMA",Cosmo
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21030&extension=ts
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="✪ CINEMA",STAR CHANNEL
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=646&extension=ts
+#EXTINF:-1 tvg-id="DARK" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="✪ CINEMA",DARK
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=116941&extension=ts
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" group-title="✪ CINEMA",M+ Indie
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309652&extension=ts
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="✪ CINEMA",M+ Originales
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=613433&extension=ts
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="✪ CINEMA",WARNER TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=328573&extension=ts
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="✪ CINEMA",M+ Drama
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10114&extension=ts
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="✪ CINEMA",M+ Drama
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21017&extension=ts
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="✪ CINEMA",M+ Comedia
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=668&extension=ts
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="✪ CINEMA",M+ Comedia
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21020&extension=ts
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="✪ CINEMA",M+ Estrenos
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233977&extension=ts
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="✪ CINEMA",M+  Estrenos
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=663&extension=ts
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="✪ CINEMA",M+  Estrenos
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=664&extension=ts
+#EXTINF:-1 tvg-id="M+ Orgullo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Orgullo.png" group-title="✪ CINEMA",M+ Orgullo
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1082142&extension=ts
+#EXTINF:-1 tvg-id="M+ Orgullo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Orgullo.png" group-title="✪ CINEMA",M+ Orgullo
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1082143&extension=ts
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vacaciones.png" group-title="✪ CINEMA",M+ Vacaciones
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1082145&extension=ts
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vacaciones.png" group-title="✪ CINEMA",M+ Vacaciones
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1082146&extension=ts
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="✪ CINEMA",M+ Hits
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=233970&extension=ts
+#EXTINF:-1 tvg-id="El Toro TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="✪ CINEMA",El Toro TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10116&extension=ts
+#EXTINF:-1 tvg-id="El Toro TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="✪ CINEMA",El Toro TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234183&extension=ts
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="✪ CINEMA",M+ Cine Español
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2591&extension=ts
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="✪ CINEMA",M+ Cine Español
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234180&extension=ts
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="✪ CINEMA",M+  Acción
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=665&extension=ts
+#EXTINF:-1 tvg-id="M+ Accion" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="✪ CINEMA",M+ Acción
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21021&extension=ts
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="✪ CINEMA",M+ Acción
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=623350&extension=ts
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="✪ CINEMA",M+ Acción
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=623349&extension=ts
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="✪ CINEMA",M+ Clásicos
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=522113&extension=ts
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="✪ CINEMA",Factoría de Ficción
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=116944&extension=ts
+#EXTINF:-1 tvg-id="Hollywood PT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Hollywood%20PT.png" group-title="✪ CINEMA",Hollywood PT
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2597&extension=ts
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="✪ CINEMA",Canal Hollywood
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21024&extension=ts
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="✪ CINEMA",Warner TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=666&extension=ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" group-title="✪ CINEMA",TCM
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2602&extension=ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" group-title="✪ CINEMA",TCM
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21003&extension=ts
+#EXTINF:-1 tvg-id="Afortunadas TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Afortunadas%20TV.png" group-title="✪ CINEMA",Afortunadas TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10121&extension=ts
+#EXTINF:-1 tvg-id="Afortunadas TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Afortunadas%20TV.png" group-title="✪ CINEMA",Afortunadas TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2601&extension=ts
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vacaciones.png" group-title="✪ CINEMA",M+ Vacaciones
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=510594&extension=ts
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="✪ CINEMA",Factoría de Ficción
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=309642&extension=ts
+#EXTINF:-1 tvg-id="BBC Series" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Series.png" group-title="✪ BBC",BBC Series
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1277540&extension=ts
+#EXTINF:-1 tvg-id="BBC Food" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Food.png" group-title="✪ BBC",BBC Food
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1277539&extension=ts
+#EXTINF:-1 tvg-id="BBC History" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20History.png" group-title="✪ BBC",BBC History
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1277538&extension=ts
+#EXTINF:-1 tvg-id="BBC Top Gear" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png" group-title="✪ BBC",BBC Top Gear
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1277537&extension=ts
+#EXTINF:-1 tvg-id="BBC World" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20World.png" group-title="✪ BBC",BBC World
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1277536&extension=ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Baby%20TV.png" group-title="✪ NIÑOS",Baby TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2585&extension=ts
+#EXTINF:-1 tvg-id="Boing" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boing.png" group-title="✪ NIÑOS",Boing
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10089&extension=ts
+#EXTINF:-1 tvg-id="Canal Panda" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Panda.png" group-title="✪ NIÑOS",Canal Panda
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=659&extension=ts
+#EXTINF:-1 tvg-id="Canal Panda" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Panda.png" group-title="✪ NIÑOS",Canal Panda
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234227&extension=ts
+#EXTINF:-1 tvg-id="Clan" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" group-title="✪ NIÑOS",Clan
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=2595&extension=ts
+#EXTINF:-1 tvg-id="Clan" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png" group-title="✪ NIÑOS",Clan
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234222&extension=ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel.png" group-title="✪ NIÑOS",Disney Channel
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=678&extension=ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel.png" group-title="✪ NIÑOS",Disney Channel
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234223&extension=ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png" group-title="✪ NIÑOS",Disney Junior
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=649&extension=ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png" group-title="✪ NIÑOS",Disney Junior
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234228&extension=ts
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png" group-title="✪ NIÑOS",DreamWorks
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=116320&extension=ts
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png" group-title="✪ NIÑOS",Dreamworks
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234224&extension=ts
+#EXTINF:-1 tvg-id="Nick JR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png" group-title="✪ NIÑOS",Nick JR
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=686&extension=ts
+#EXTINF:-1 tvg-id="Nick JR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png" group-title="✪ NIÑOS",NICK JR
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234226&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" group-title="✪ NIÑOS",Nickelodeon
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=679&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" group-title="✪ NIÑOS",Nickelodeon
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234225&extension=ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="✪ SPAIN 4K",LA 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=116998&extension=ts
+#EXTINF:-1 tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="✪ SPAIN 4K",LA 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=116999&extension=ts
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" group-title="✪ SPAIN 4K",ANTENA 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117000&extension=ts
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="✪ SPAIN 4K",CUATRO
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117001&extension=ts
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" group-title="✪ SPAIN 4K",TELECINCO
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117002&extension=ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="✪ SPAIN 4K",LA SEXTA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117003&extension=ts
+#EXTINF:-1 tvg-id="CANAL 24 HORAS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%2024%20HORAS.png" group-title="✪ SPAIN 4K",CANAL 24 HORAS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117006&extension=ts
+#EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="✪ SPAIN 4K",24 HORAS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117008&extension=ts
+#EXTINF:-1 tvg-id="CLAN TVE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CLAN%20TVE.png" group-title="✪ SPAIN 4K",CLAN TVE
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117011&extension=ts
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HOLLYWOOD.png" group-title="✪ SPAIN 4K",HOLLYWOOD
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117012&extension=ts
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="✪ SPAIN 4K",M+ VAMOS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117015&extension=ts
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%20PANDA.png" group-title="✪ SPAIN 4K",CANAL PANDA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117022&extension=ts
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="✪ SPAIN 4K",COMEDY CENTRAL
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117023&extension=ts
+#EXTINF:-1 tvg-id="DISNEY+" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DISNEY%2B.png" group-title="✪ SPAIN 4K",DISNEY+
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117026&extension=ts
+#EXTINF:-1 tvg-id="DISNEY CH" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DISNEY%20CH.png" group-title="✪ SPAIN 4K",DISNEY CH
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117024&extension=ts
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DISNEY%20JR.png" group-title="✪ SPAIN 4K",DISNEY JR
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117025&extension=ts
+#EXTINF:-1 tvg-id="NICK" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NICK.png" group-title="✪ SPAIN 4K",NICK
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117028&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png" group-title="✪ SPAIN 4K",NICKELODEON
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117029&extension=ts
+#EXTINF:-1 tvg-id="Nick JR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png" group-title="✪ SPAIN 4K",NICK JR
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117027&extension=ts
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png" group-title="✪ SPAIN 4K",Dreamworks
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276562&extension=ts
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX.png" group-title="✪ SPAIN 4K",FOX
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117031&extension=ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="✪ SPAIN 4K",AMC
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117034&extension=ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="✪ SPAIN 4K",AXN
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117036&extension=ts
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="✪ SPAIN 4K",AXN MOVIES
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117037&extension=ts
+#EXTINF:-1 tvg-id="Betevé" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png" group-title="✪ SPAIN 4K",betevé
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117038&extension=ts
+#EXTINF:-1 tvg-id="SyFy HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" group-title="✪ SPAIN 4K",SYFY
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117039&extension=ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" group-title="✪ SPAIN 4K",TCM
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117040&extension=ts
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT.png" group-title="✪ SPAIN 4K",TNT
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117041&extension=ts
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="✪ SPAIN 4K",CALLE 13
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117044&extension=ts
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="✪ SPAIN 4K",CANAL COCINA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117045&extension=ts
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%20CANAL%20DECASA.png" group-title="✪ SPAIN 4K",CANAL DECASA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117046&extension=ts
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%20ODISEA.png" group-title="✪ SPAIN 4K",CANAL ODISEA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117047&extension=ts
+#EXTINF:-1 tvg-id="CAZAYPESCA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CAZAYPESCA.png" group-title="✪ SPAIN 4K",CAZAYPESCA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117048&extension=ts
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" group-title="✪ SPAIN 4K",COSMO
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117050&extension=ts
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="✪ SPAIN 4K",Canal Cocina
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276563&extension=ts
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="✪ SPAIN 4K",Caza y Pesca
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276564&extension=ts
+#EXTINF:-1 tvg-id="LA LIGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LA%20LIGA.png" group-title="✪ SPAIN 4K",LA LIGA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117058&extension=ts
+#EXTINF:-1 tvg-id="M+ LaLiga 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" group-title="✪ SPAIN 4K",M+ LaLiga 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276565&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="✪ SPAIN 4K",EUROSPORT 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117062&extension=ts
+#EXTINF:-1 tvg-id="GOLD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOLD.png" group-title="✪ SPAIN 4K",GOLD
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117063&extension=ts
+#EXTINF:-1 tvg-id="FORMULA 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FORMULA%201.png" group-title="✪ SPAIN 4K",FORMULA 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117067&extension=ts
+#EXTINF:-1 tvg-id="DAZNT FORMULA 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZNT%20FORMULA%201.png" group-title="✪ SPAIN 4K",DAZNT FORMULA 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117068&extension=ts
+#EXTINF:-1 tvg-id="M+ GOLF" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M+%20GOLF.png" group-title="✪ SPAIN 4K",M+ GOLF
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117069&extension=ts
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="✪ SPAIN 4K",DAZN 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276545&extension=ts
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="✪ SPAIN 4K",DAZN 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117072&extension=ts
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="✪ SPAIN 4K",DAZN 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276546&extension=ts
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="✪ SPAIN 4K",DAZN 4
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276547&extension=ts
+#EXTINF:-1 tvg-id="DAZNT LA LIGA 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZNT%20LA%20LIGA%201.png" group-title="✪ SPAIN 4K",DAZNT LA LIGA 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276548&extension=ts
+#EXTINF:-1 tvg-id="DAZNT LA LIGA 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZNT%20LA%20LIGA%202.png" group-title="✪ SPAIN 4K",DAZNT LA LIGA 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276549&extension=ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="✪ SPAIN 4K",M+ Liga de Campeones
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117055&extension=ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="✪ SPAIN 4K",M+ Liga de Campeones 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276550&extension=ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="✪ SPAIN 4K",M+ Liga de Campeones 4
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276551&extension=ts
+#EXTINF:-1 tvg-id="SmartBankTV-M3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SmartBankTV-M3.png" group-title="✪ SPAIN 4K",SmartBankTV-M3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276554&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="✪ SPAIN 4K",M+ Deportes 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276555&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="✪ SPAIN 4K",M+ Deportes 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276556&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="✪ SPAIN 4K",M+ Deportes 4
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276557&extension=ts
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="✪ SPAIN 4K",M+ Deportes 5
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276558&extension=ts
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="✪ SPAIN 4K",TELEDEPORTE
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117089&extension=ts
+#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" group-title="✪ SPAIN 4K",M+ Vamos 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=276561&extension=ts
+#EXTINF:-1 tvg-id="M+ ACCION" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20ACCION.png" group-title="✪ SPAIN 4K",M+ ACCION
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117077&extension=ts
+#EXTINF:-1 tvg-id="M+ CINE ESPANOL" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20CINE%20ESPANOL.png" group-title="✪ SPAIN 4K",M+ CINE ESPANOL
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117078&extension=ts
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="✪ SPAIN 4K",M+ COMEDIA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117079&extension=ts
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="✪ SPAIN 4K",M+ DRAMA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117080&extension=ts
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" group-title="✪ SPAIN 4K",M+ ESTRENOS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117081&extension=ts
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" group-title="✪ SPAIN 4K",M+ Hits
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117084&extension=ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="✪ SPAIN 4K",National Geographic
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117101&extension=ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="✪ SPAIN 4K",NAT GEO WILD
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117102&extension=ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="✪ SPAIN 4K",NAT GEO WILD
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117103&extension=ts
+#EXTINF:-1 tvg-id="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="✪ SPAIN 4K",HISTORIA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=117107&extension=ts
+#EXTINF:-1 tvg-id="TVC Deportes" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVC%20Deportes.png" group-title="✪ DEPORTES",TVC Deportes
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10111&extension=ts
+#EXTINF:-1 tvg-id="Movistar Plus+" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="✪ DEPORTES",Movistar Plus+
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=613436&extension=ts
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" group-title="✪ DEPORTES",Movistar Plus+ 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=613435&extension=ts
+#EXTINF:-1 tvg-id="M GOLF" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%20GOLF.png" group-title="✪ DEPORTES",M GOLF
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=21013&extension=ts
+#EXTINF:-1 tvg-id="M+ GOLF+ 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20GOLF%2B%202.png" group-title="✪ DEPORTES",M+ GOLF+ 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=605365&extension=ts
+#EXTINF:-1 tvg-id="M+ Ellas" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas.png" group-title="✪ DEPORTES",M+ Ellas
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=235603&extension=ts
+#EXTINF:-1 tvg-id="-#VAMOS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/-#VAMOS.png" group-title="✪ DEPORTES",-#VAMOS
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=713669&extension=ts
+#EXTINF:-1 tvg-id="EUROSPORT 1 EVENT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EUROSPORT%201%20EVENT.png" group-title="✪ DEPORTES",EUROSPORT 1 EVENT
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=403770&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="✪ DEPORTES",Eurosport 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10101&extension=ts
+#EXTINF:-1 tvg-id="EUROSPORT 2 EVENT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EUROSPORT%202%20EVENT.png" group-title="✪ DEPORTES",EUROSPORT 2 EVENT
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=403771&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="✪ DEPORTES",Eurosport 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=10100&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="✪ DEPORTES",Eurosport 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=234186&extension=ts
+#EXTINF:-1 tvg-id="24h Canarias" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24h%20Canarias.png" group-title="✪ AUTONOMICOS",24h Canarias
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115324&extension=ts
+#EXTINF:-1 tvg-id="24h Catalunya" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24h%20Catalunya.png" group-title="✪ AUTONOMICOS",24h Catalunya
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115516&extension=ts
+#EXTINF:-1 tvg-id="Afortunadas TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Afortunadas%20TV.png" group-title="✪ AUTONOMICOS",Afortunadas TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115329&extension=ts
+#EXTINF:-1 tvg-id="Alacantí TV" tvg-logo="https://alacantitv.com/wp-content/uploads/2024/03/logo-alacantitv-programacion.jpg" group-title="✪ AUTONOMICOS",Alacantí TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115544&extension=ts
+#EXTINF:-1 tvg-id="Alcarria TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alcarria%20TV.png" group-title="✪ AUTONOMICOS",Alcarria TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115494&extension=ts
+#EXTINF:-1 tvg-id="Anove TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anove%20TV.png" group-title="✪ AUTONOMICOS",Anove TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115352&extension=ts
+#EXTINF:-1 tvg-id="Canal 2000" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%202000.png" group-title="✪ AUTONOMICOS",Canal 2000
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115498&extension=ts
+#EXTINF:-1 tvg-id="Canal 56" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%2056.png" group-title="✪ AUTONOMICOS",Canal 56
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115549&extension=ts
+#EXTINF:-1 tvg-id="ES: CADENA ELITE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20CADENA%20ELITE.png" group-title="✪ AUTONOMICOS",ES: CADENA ELITE
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115372&extension=ts
+#EXTINF:-1 tvg-id="ES: CANAL EXTREMADURA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20CANAL%20EXTREMADURA.png" group-title="✪ AUTONOMICOS",ES: CANAL EXTREMADURA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115397&extension=ts
+#EXTINF:-1 tvg-id="ES: CANAL MALAGA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20CANAL%20MALAGA.png" group-title="✪ AUTONOMICOS",ES: CANAL MALAGA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115370&extension=ts
+#EXTINF:-1 tvg-id="ES: CANAL SUR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20CANAL%20SUR.png" group-title="✪ AUTONOMICOS",ES: CANAL SUR
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115363&extension=ts
+#EXTINF:-1 tvg-id="ES: Costa Noroeste TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20Costa%20Noroeste%20TV.png" group-title="✪ AUTONOMICOS",ES: Costa Noroeste TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115436&extension=ts
+#EXTINF:-1 tvg-id="ES: ETB 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20ETB%201.png" group-title="✪ AUTONOMICOS",ES: ETB 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115409&extension=ts
+#EXTINF:-1 tvg-id="ES: ETB 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20ETB%202.png" group-title="✪ AUTONOMICOS",ES: ETB 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115410&extension=ts
+#EXTINF:-1 tvg-id="ES: LOGOS TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20LOGOS%20TV.png" group-title="✪ AUTONOMICOS",ES: LOGOS TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115404&extension=ts
+#EXTINF:-1 tvg-id="ES: M95 Marbella" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20M95%20Marbella.png" group-title="✪ AUTONOMICOS",ES: M95 Marbella
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115430&extension=ts
+#EXTINF:-1 tvg-id="ES: MELILLA TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20MELILLA%20TV.png" group-title="✪ AUTONOMICOS",ES: MELILLA TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115405&extension=ts
+#EXTINF:-1 tvg-id="ES: MTMAD 24H" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20MTMAD%2024H.png" group-title="✪ AUTONOMICOS",ES: MTMAD 24H
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115424&extension=ts
+#EXTINF:-1 tvg-id="ES: PEQUERADIO TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20PEQUERADIO%20TV.png" group-title="✪ AUTONOMICOS",ES: PEQUERADIO TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115421&extension=ts
+#EXTINF:-1 tvg-id="ES: POPULAR TV MELILLA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20POPULAR%20TV%20MELILLA.png" group-title="✪ AUTONOMICOS",ES: POPULAR TV MELILLA
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115406&extension=ts
+#EXTINF:-1 tvg-id="ES: SOLIDARIA TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20SOLIDARIA%20TV.png" group-title="✪ AUTONOMICOS",ES: SOLIDARIA TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115403&extension=ts
+#EXTINF:-1 tvg-id="ES: TELESAFOR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20TELESAFOR.png" group-title="✪ AUTONOMICOS",ES: TELESAFOR
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115418&extension=ts
+#EXTINF:-1 tvg-id="ES: Tuya La Janda TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ES%3A%20Tuya%20La%20Janda%20TV.png" group-title="✪ AUTONOMICOS",ES: Tuya La Janda TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115441&extension=ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="✪ AUTONOMICOS",ESPORT 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115580&extension=ts
+#EXTINF:-1 tvg-id="Elche 7 TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Elche%207%20TV.png" group-title="✪ AUTONOMICOS",Elche 7 TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115553&extension=ts
+#EXTINF:-1 tvg-id="Este Canal TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Este%20Canal%20TV.png" group-title="✪ AUTONOMICOS",Este Canal TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115326&extension=ts
+#EXTINF:-1 tvg-id="Estepona TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Estepona%20TV.png" group-title="✪ AUTONOMICOS",Estepona TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115476&extension=ts
+#EXTINF:-1 tvg-id="Factoría de Carnaval" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Carnaval.png" group-title="✪ AUTONOMICOS",Factoría de Carnaval
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115328&extension=ts
+#EXTINF:-1 tvg-id="Fuerteventura TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fuerteventura%20TV.png" group-title="✪ AUTONOMICOS",Fuerteventura TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115327&extension=ts
+#EXTINF:-1 tvg-id="Imás TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Im%C3%A1s%20TV.png" group-title="✪ AUTONOMICOS",Imás TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115493&extension=ts
+#EXTINF:-1 tvg-id="La 1 Canarias" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Canarias.png" group-title="✪ AUTONOMICOS",La 1 Canarias
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115322&extension=ts
+#EXTINF:-1 tvg-id="La 1 Catalunya" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Catalunya.png" group-title="✪ AUTONOMICOS",La 1 Catalunya
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115514&extension=ts
+#EXTINF:-1 tvg-id="Lancelot TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lancelot%20TV.png" group-title="✪ AUTONOMICOS",Lancelot TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115471&extension=ts
+#EXTINF:-1 tvg-id="NORTEvisión" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NORTEvisi%C3%B3n.png" group-title="✪ AUTONOMICOS",NORTEvisión
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115467&extension=ts
+#EXTINF:-1 tvg-id="Noroeste TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Noroeste%20TV.png" group-title="✪ AUTONOMICOS",Noroeste TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115468&extension=ts
+#EXTINF:-1 tvg-id="Onda 15 TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%2015%20TV.png" group-title="✪ AUTONOMICOS",Onda 15 TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115552&extension=ts
+#EXTINF:-1 tvg-id="Onda Cádiz" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz.png" group-title="✪ AUTONOMICOS",Onda Cádiz
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115473&extension=ts
+#EXTINF:-1 tvg-id="Onda Valencia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20Valencia.png" group-title="✪ AUTONOMICOS",Onda Valencia
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115557&extension=ts
+#EXTINF:-1 tvg-id="Piera TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Piera%20TV.png" group-title="✪ AUTONOMICOS",Piera TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115523&extension=ts
+#EXTINF:-1 tvg-id="Popular TV Cantabria" tvg-logo="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" group-title="✪ AUTONOMICOS",Popular TV Cantabria
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115489&extension=ts
+#EXTINF:-1 tvg-id="RTV Mogán" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RTV%20Mog%C3%A1n.png" group-title="✪ AUTONOMICOS",RTV Mogán
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115469&extension=ts
+#EXTINF:-1 tvg-id="Ribera TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ribera%20TV.png" group-title="✪ AUTONOMICOS",Ribera TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115541&extension=ts
+#EXTINF:-1 tvg-id="TVG" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" group-title="✪ AUTONOMICOS",TVG
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115340&extension=ts
+#EXTINF:-1 tvg-id="TVG Eventos 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Eventos%201.png" group-title="✪ AUTONOMICOS",TVG Eventos 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115346&extension=ts
+#EXTINF:-1 tvg-id="TVG Eventos 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Eventos%202.png" group-title="✪ AUTONOMICOS",TVG Eventos 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115347&extension=ts
+#EXTINF:-1 tvg-id="TVG Eventos 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Eventos%203.png" group-title="✪ AUTONOMICOS",TVG Eventos 3
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115348&extension=ts
+#EXTINF:-1 tvg-id="TVG Eventos 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Eventos%204.png" group-title="✪ AUTONOMICOS",TVG Eventos 4
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115349&extension=ts
+#EXTINF:-1 tvg-id="TVG Mira Radio Galega" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Mira%20Radio%20Galega.png" group-title="✪ AUTONOMICOS",TVG Mira Radio Galega
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115350&extension=ts
+#EXTINF:-1 tvg-id="TVG Xabarin" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Xabarin.png" group-title="✪ AUTONOMICOS",TVG Xabarin
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115342&extension=ts
+#EXTINF:-1 tvg-id="Urola TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Urola%20TV.png" group-title="✪ AUTONOMICOS",Urola TV
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115576&extension=ts
+#EXTINF:-1 tvg-id="Betevé" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png" group-title="✪ AUTONOMICOS",betevé
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1115517&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="✪ EUROSPORT",EUROSPORT 1
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1082111&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="✪ EUROSPORT",EUROSPORT 1 SD
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1082112&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="✪ EUROSPORT",EUROSPORT 2
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1082114&extension=ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="✪ EUROSPORT",EUROSPORT 2 SD
+http://31.57.111.120:80/play/live.php?mac=00:1A:79:4C:5D:47&stream=1082115&extension=ts
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
+
+#EXTINF:-1 tvg-id="Historia" tvg-ID="Historia" tvg-name="Historia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="Documentales",Historia
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/713
+
+#EXTINF:-1 tvg-id="Odisea" tvg-ID="Odisea" tvg-name="Odisea" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="Documentales",Odisea
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/710
+
+#EXTINF:-1 tvg-id="Discovery" tvg-ID="Discovery" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="Documentales",Discovery
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/708
+
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-ID="M+ Documentales HD" tvg-name="M+ Documentales HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="Documentales",M+ Documentales
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/87108
+
+#EXTINF:-1 tvg-id="BuenViaje" tvg-ID="BuenViaje" tvg-name="Buen Viaje" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png" group-title="Documentales",Buen Viaje
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/60251
+
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-ID="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="Documentales",Nat. Geographic
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/711
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-ID="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="Documentales",Nat. Geo. Wild
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/712
+
+#EXTINF:-1 tvg-id="DKISS" tvg-ID="DKISS" tvg-name="DKISS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" group-title="Documentales",Dkiss
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/748
+
+#EXTINF:-1 tvg-id="DMAX" tvg-ID="DMAX" tvg-name="Dmax" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" group-title="Documentales",Dmax
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/709
+
+#EXTINF:-1 tvg-id="AMC Crime" tvg-ID="AMC Crime" tvg-name="AMC Crime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="Documentales",AMC Crime
+http://zp165.vhnsqtef.top:8080/VIP016901759141261503/548c2b1a756a/707
+#EXTINF:-1 tvg-id="Garage TV" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Garage%20TV.png" group-title="Motor",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
