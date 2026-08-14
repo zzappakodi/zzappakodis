@@ -1312,375 +1312,7 @@
     <title>Arts24</title>
     <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
   </programme>
-  <programme channel="france-24-en" start="20260816020001 +0200" stop="20260816021200 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816021201 +0200" stop="20260816023000 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816023001 +0200" stop="20260816024200 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816024201 +0200" stop="20260816025400 +0200">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816025401 +0200" stop="20260816030000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816030001 +0200" stop="20260816031500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816031501 +0200" stop="20260816033000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816033001 +0200" stop="20260816034500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816034501 +0200" stop="20260816040000 +0200">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816040001 +0200" stop="20260816041500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816041501 +0200" stop="20260816043000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816043001 +0200" stop="20260816044500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816044501 +0200" stop="20260816045100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816045101 +0200" stop="20260816050000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816050001 +0200" stop="20260816051500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816051501 +0200" stop="20260816053000 +0200">
-    <title>France In Focus</title>
-    <desc>An in-depth look at the political and social events shaping France.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816053001 +0200" stop="20260816054500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816054501 +0200" stop="20260816060000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816060001 +0200" stop="20260816061500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816061501 +0200" stop="20260816062100 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816062101 +0200" stop="20260816063000 +0200">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816063001 +0200" stop="20260816064500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816064501 +0200" stop="20260816065100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816065101 +0200" stop="20260816070000 +0200">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816070001 +0200" stop="20260816071500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816071501 +0200" stop="20260816073000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816073001 +0200" stop="20260816074500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816074501 +0200" stop="20260816075100 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816075101 +0200" stop="20260816080000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816080001 +0200" stop="20260816081500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816081501 +0200" stop="20260816083000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816083001 +0200" stop="20260816084500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816084501 +0200" stop="20260816085000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816085001 +0200" stop="20260816090000 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816090001 +0200" stop="20260816093000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816093001 +0200" stop="20260816100000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816100001 +0200" stop="20260816101500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816101501 +0200" stop="20260816102000 +0200">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816102001 +0200" stop="20260816103000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816103001 +0200" stop="20260816104500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816104501 +0200" stop="20260816110000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816110001 +0200" stop="20260816111500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816111501 +0200" stop="20260816113000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816113001 +0200" stop="20260816114500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816114501 +0200" stop="20260816120000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816120001 +0200" stop="20260816121500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816121501 +0200" stop="20260816123000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816123001 +0200" stop="20260816124500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816124501 +0200" stop="20260816125000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816125001 +0200" stop="20260816130000 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816130001 +0200" stop="20260816133000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816133001 +0200" stop="20260816140000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816140001 +0200" stop="20260816141200 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816141201 +0200" stop="20260816143000 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816143001 +0200" stop="20260816144200 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816144201 +0200" stop="20260816145400 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816145401 +0200" stop="20260816150000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816150001 +0200" stop="20260816151500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816151501 +0200" stop="20260816153000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816153001 +0200" stop="20260816154500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816154501 +0200" stop="20260816160000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816160001 +0200" stop="20260816161500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816161501 +0200" stop="20260816162100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816162101 +0200" stop="20260816163000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816163001 +0200" stop="20260816164500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816164501 +0200" stop="20260816170000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816170001 +0200" stop="20260816171500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816171501 +0200" stop="20260816173000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816173001 +0200" stop="20260816174500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816174501 +0200" stop="20260816180000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816180001 +0200" stop="20260816183000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816183001 +0200" stop="20260816190000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816190001 +0200" stop="20260816191500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816191501 +0200" stop="20260816193000 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816193001 +0200" stop="20260816194500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816194501 +0200" stop="20260816200000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816200001 +0200" stop="20260816203000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816203001 +0200" stop="20260816210000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816210001 +0200" stop="20260816211500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816211501 +0200" stop="20260816213000 +0200">
-    <title>France In Focus</title>
-    <desc>An in-depth look at the political and social events shaping France.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816213001 +0200" stop="20260816214500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816214501 +0200" stop="20260816215100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816215101 +0200" stop="20260816220000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816220001 +0200" stop="20260816221000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816221001 +0200" stop="20260816223000 +0200">
-    <title>Revisited</title>
-    <desc>France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816223001 +0200" stop="20260816224000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816224001 +0200" stop="20260816224500 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816224501 +0200" stop="20260816230000 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816230001 +0200" stop="20260816231500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816231501 +0200" stop="20260816233000 +0200">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816233001 +0200" stop="20260816234500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260816234501 +0200" stop="20260817000000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260817000001 +0200" stop="20260817001500 +0200">
+  <programme channel="france-24-en" start="20260816020001 +0200" stop="20260817001500 +0200">
     <title>News</title>
     <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
@@ -11026,22 +10658,22 @@
     <sub-title>Menú Salvaje</sub-title>
     <desc>Tener un gran banquete es algo muy diferente a picar tapas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260815101404 +0200" stop="20260815105320 +0200">
+  <programme channel="planeta-salvaje" start="20260815101404 +0200" stop="20260815105319 +0200">
     <title>S01 : E21 Planeta Selva - Planeta Selva</title>
     <sub-title>Planeta Selva</sub-title>
     <desc>Las selvas neotropicales de Sudamérica se extienden tapizando enormes territorios con una increíble diversidad de árboles y plantas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260815105321 +0200" stop="20260815113143 +0200">
+  <programme channel="planeta-salvaje" start="20260815105320 +0200" stop="20260815113143 +0200">
     <title>S01 : E22 Planeta Selva - Planeta Selva</title>
     <sub-title>Planeta Selva</sub-title>
     <desc>Las costas del Viejo Continente están ocupadas por un bosque siempre verde que se acerca hasta llegar borde del mar.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260815113144 +0200" stop="20260815123633 +0200">
+  <programme channel="planeta-salvaje" start="20260815113144 +0200" stop="20260815123632 +0200">
     <title>S01 : E02 Mississippi - Mississippi</title>
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260815123634 +0200" stop="20260815134138 +0200">
+  <programme channel="planeta-salvaje" start="20260815123633 +0200" stop="20260815134138 +0200">
     <title>Un Invierno en el Sur</title>
     <desc>El invierno en los bosques de encinas y alcornoques que cubren el sur de la península Ibérica está lejos de ser un tiempo de silencio y espera para la naturaleza salvaje. Por el contrario, vive una eclosión de vida en la que multitud de emigrantes buscando su paraíso de invierno, algunos provenientes del otro extremo del continente europeo, comparten espacio con las especies autóctonas, domésticas y salvajes, que los pueblan en un ejemplo de convivencia y sostenibilidad.</desc>
   </programme>
@@ -11059,12 +10691,12 @@
     <sub-title>Menú Salvaje</sub-title>
     <desc>Los mariscos son un platillo delicioso, muy valorado por los paladares más exigentes.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260815154657 +0200" stop="20260815161636 +0200">
+  <programme channel="planeta-salvaje" start="20260815154657 +0200" stop="20260815161635 +0200">
     <title>S01 : E20 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Tener un gran banquete es algo muy diferente a picar tapas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260815161637 +0200" stop="20260815172127 +0200">
+  <programme channel="planeta-salvaje" start="20260815161636 +0200" stop="20260815172127 +0200">
     <title>S01 : E02 Las Islas Canarias - Las Islas Canarias</title>
     <sub-title>Las Islas Canarias</sub-title>
     <desc>El mundo de las montañas de fuego destaca lo que se necesita para sobrevivir en un hábitat implacable, centrándose en el frágil equilibrio de la vida en el límite, en paisajes crudos de espectacular belleza.</desc>
@@ -11134,22 +10766,22 @@
     <sub-title>Mundos de Agua</sub-title>
     <desc>Con la llegada del invierno, el paisaje se convierte en un desierto congelado.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260816032258 +0200" stop="20260816035255 +0200">
+  <programme channel="planeta-salvaje" start="20260816032258 +0200" stop="20260816035254 +0200">
     <title>S01 : E17 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Los ecosistemas acuáticos son los más productivos del planeta: están llenos de vida y energía.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260816035256 +0200" stop="20260816042310 +0200">
+  <programme channel="planeta-salvaje" start="20260816035255 +0200" stop="20260816042310 +0200">
     <title>S01 : E18 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Los anfibios casi siempre viven en condiciones húmedas o mojadas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260816042311 +0200" stop="20260816052802 +0200">
+  <programme channel="planeta-salvaje" start="20260816042311 +0200" stop="20260816052801 +0200">
     <title>S01 : E02 Las Islas Canarias - Las Islas Canarias</title>
     <sub-title>Las Islas Canarias</sub-title>
     <desc>El mundo de las montañas de fuego destaca lo que se necesita para sobrevivir en un hábitat implacable, centrándose en el frágil equilibrio de la vida en el límite, en paisajes crudos de espectacular belleza.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260816052803 +0200" stop="20260816062810 +0200">
+  <programme channel="planeta-salvaje" start="20260816052802 +0200" stop="20260816062810 +0200">
     <title>S01 : E01 Tecnología Natural - Tecnología Natural</title>
     <sub-title>Tecnología Natural</sub-title>
     <desc>Nuevos desarrollos interesantes en la tecnología informática, la química y la física ahora se nos permite comprender mejor que nunca los diseños de la naturaleza.</desc>
@@ -11167,12 +10799,12 @@
     <sub-title>Conexión Salvaje</sub-title>
     <desc>Un lugar influenciado por el clima húmedo y frío del norte, pero también por el calor y el sol mediterráneos.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260816093546 +0200" stop="20260816100828 +0200">
+  <programme channel="planeta-salvaje" start="20260816093546 +0200" stop="20260816100827 +0200">
     <title>S01 : E22 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Las flores están entre los regalos más hermosos que la naturaleza tiene para ofrecer.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260816100829 +0200" stop="20260816111320 +0200">
+  <programme channel="planeta-salvaje" start="20260816100828 +0200" stop="20260816111320 +0200">
     <title>S01 : E01 Las Islas Canarias - Las Islas Canarias</title>
     <sub-title>Las Islas Canarias</sub-title>
     <desc>La flora y la fauna que habitan las Islas Canarias y cómo la vida en estas remotas tierras ha dado lugar a rasgos evolutivos únicos.</desc>
@@ -11209,12 +10841,12 @@
     <sub-title>Menú Salvaje</sub-title>
     <desc>Las flores están entre los regalos más hermosos que la naturaleza tiene para ofrecer.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260816163031 +0200" stop="20260816171028 +0200">
+  <programme channel="planeta-salvaje" start="20260816163031 +0200" stop="20260816171027 +0200">
     <title>S01 : E24 Planeta Selva - Planeta Selva</title>
     <sub-title>Planeta Selva</sub-title>
     <desc>Entre los bosques con más personalidad del mundo se sitúan los sabinares. Cada sabina tiene su propia forma.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260816171029 +0200" stop="20260816181337 +0200">
+  <programme channel="planeta-salvaje" start="20260816171028 +0200" stop="20260816181337 +0200">
     <title>S01 : E01 Mississippi - Mississippi</title>
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
@@ -11284,11 +10916,11 @@
     <title>Un Invierno en el Sur</title>
     <desc>El invierno en los bosques de encinas y alcornoques que cubren el sur de la península Ibérica está lejos de ser un tiempo de silencio y espera para la naturaleza salvaje. Por el contrario, vive una eclosión de vida en la que multitud de emigrantes buscando su paraíso de invierno, algunos provenientes del otro extremo del continente europeo, comparten espacio con las especies autóctonas, domésticas y salvajes, que los pueblan en un ejemplo de convivencia y sostenibilidad.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817071124 +0200" stop="20260817081254 +0200">
+  <programme channel="planeta-salvaje" start="20260817071124 +0200" stop="20260817081253 +0200">
     <title>Primavera El Regreso de La Vida</title>
     <desc>Un documental sobre la primavera más espectacular de los últimos 40 años. Cinco meses de rodaje en la Península Ibérica, grandes bosques, lagos, llanuras, salinas, el despertar de la flora y sobre todo de la fauna. Asistimos a momentos únicos como la cópula de las culebras viperinas o el largo camino hacia la madurez de los sapos corredores.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817081255 +0200" stop="20260817084556 +0200">
+  <programme channel="planeta-salvaje" start="20260817081254 +0200" stop="20260817084556 +0200">
     <title>S01 : E11 Mundos de Agua - Mundos de Agua</title>
     <sub-title>Mundos de Agua</sub-title>
     <desc>La lluvia forma charcos y lagunas temporales que se secan con la llegada del verano. En ese barro cuarteado late la vida. Peces y crustáceos esperan las primeras gotas para resucitar.</desc>
@@ -11318,11 +10950,11 @@
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817120405 +0200" stop="20260817130910 +0200">
+  <programme channel="planeta-salvaje" start="20260817120405 +0200" stop="20260817130909 +0200">
     <title>Un Invierno en el Sur</title>
     <desc>El invierno en los bosques de encinas y alcornoques que cubren el sur de la península Ibérica está lejos de ser un tiempo de silencio y espera para la naturaleza salvaje. Por el contrario, vive una eclosión de vida en la que multitud de emigrantes buscando su paraíso de invierno, algunos provenientes del otro extremo del continente europeo, comparten espacio con las especies autóctonas, domésticas y salvajes, que los pueblan en un ejemplo de convivencia y sostenibilidad.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817130911 +0200" stop="20260817141040 +0200">
+  <programme channel="planeta-salvaje" start="20260817130910 +0200" stop="20260817141040 +0200">
     <title>Primavera El Regreso de La Vida</title>
     <desc>Un documental sobre la primavera más espectacular de los últimos 40 años. Cinco meses de rodaje en la Península Ibérica, grandes bosques, lagos, llanuras, salinas, el despertar de la flora y sobre todo de la fauna. Asistimos a momentos únicos como la cópula de las culebras viperinas o el largo camino hacia la madurez de los sapos corredores.</desc>
   </programme>
@@ -11331,12 +10963,12 @@
     <sub-title>Mundos de Agua</sub-title>
     <desc>La lluvia forma charcos y lagunas temporales que se secan con la llegada del verano. En ese barro cuarteado late la vida. Peces y crustáceos esperan las primeras gotas para resucitar.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817144343 +0200" stop="20260817151735 +0200">
+  <programme channel="planeta-salvaje" start="20260817144343 +0200" stop="20260817151734 +0200">
     <title>S01 : E12 Mundos de Agua - Mundos de Agua</title>
     <sub-title>Mundos de Agua</sub-title>
     <desc>El agua por su ausencia o su presencia marca la vida, las estrategias de supervivencia de los animales y de las plantas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817151736 +0200" stop="20260817154801 +0200">
+  <programme channel="planeta-salvaje" start="20260817151735 +0200" stop="20260817154801 +0200">
     <title>S01 : E23 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>En este restaurante llamado Tierra hay dos tipos de clientes: los glotones y los ascetas.</desc>
@@ -11346,12 +10978,12 @@
     <sub-title>Menú Salvaje</sub-title>
     <desc>A la hora de comer, muchos animales prefieren compañía. Y sus compañeros de comida ni siquiera necesitan ser de la misma especie.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817162112 +0200" stop="20260817172604 +0200">
+  <programme channel="planeta-salvaje" start="20260817162112 +0200" stop="20260817172603 +0200">
     <title>S01 : E01 Las Islas Canarias - Las Islas Canarias</title>
     <sub-title>Las Islas Canarias</sub-title>
     <desc>La flora y la fauna que habitan las Islas Canarias y cómo la vida en estas remotas tierras ha dado lugar a rasgos evolutivos únicos.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817172605 +0200" stop="20260817182852 +0200">
+  <programme channel="planeta-salvaje" start="20260817172604 +0200" stop="20260817182852 +0200">
     <title>S01 : E02 Tecnología Natural - Tecnología Natural</title>
     <sub-title>Tecnología Natural</sub-title>
     <desc>La naturaleza inventó toda una gama de materiales de alta tecnología mucho antes de que inventáramos la cerámica y los plásticos. Vea cómo una mariposa puede cambiar los lápices labiales, y posiblemente la tecnología de la información y cómo una secoya puede ayudar a desarrollar un mejor chaleco antibalas.</desc>
@@ -11374,17 +11006,17 @@
     <sub-title>Mundos de Agua</sub-title>
     <desc>El agua por su ausencia o su presencia marca la vida, las estrategias de supervivencia de los animales y de las plantas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817211414 +0200" stop="20260817214440 +0200">
+  <programme channel="planeta-salvaje" start="20260817211414 +0200" stop="20260817214439 +0200">
     <title>S01 : E23 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>En este restaurante llamado Tierra hay dos tipos de clientes: los glotones y los ascetas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817214441 +0200" stop="20260817221750 +0200">
+  <programme channel="planeta-salvaje" start="20260817214440 +0200" stop="20260817221749 +0200">
     <title>S01 : E24 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>A la hora de comer, muchos animales prefieren compañía. Y sus compañeros de comida ni siquiera necesitan ser de la misma especie.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260817221751 +0200" stop="20260817225520 +0200">
+  <programme channel="planeta-salvaje" start="20260817221750 +0200" stop="20260817225520 +0200">
     <title>S01 : E23 Planeta Selva - Planeta Selva</title>
     <sub-title>Planeta Selva</sub-title>
     <desc>En algunas regiones de centro y sud América crece una foresta adaptada a una gran sequedad que se combina con una humedad intermitente.</desc>
@@ -24693,75 +24325,75 @@ Featuring Kid Rock, Bryan Adams, Blur, Weezer &amp; loads more!</desc>
     <sub-title>Love Sucks! Good Riddance</sub-title>
     <desc>Turn it up for an hour of high volume heartbreak! From Fleetwood Mac to Royal Blood, here are 12 essential anthems for the scorned &amp; the broken in love!</desc>
   </programme>
-  <programme channel="that-s-rock" start="20260817000001 +0200" stop="20260817030000 +0200">
+  <programme channel="that-s-rock" start="20260817000001 +0200" stop="20260817020000 +0200">
     <title>S01 : E01 The Wild Ones with Suzi Quatro! - The Wild Ones with Suzi Quatro!</title>
     <sub-title>The Wild Ones with Suzi Quatro!</sub-title>
     <desc>Our godmother of Rock, Suzi Quatro is here with the wildest Rock Stars of the 70's! But who is the craziest and most outlandish? Bowie, Meatloaf, Queen or even Suzi herself?</desc>
   </programme>
+  <programme channel="that-s-rock" start="20260817020001 +0200" stop="20260817030000 +0200">
+    <title>S01 : E01 We Will Rock You! 1970-1979 - We Will Rock You! 1970-1979</title>
+    <sub-title>We Will Rock You! 1970-1979</sub-title>
+    <desc>A definitive 4 hour marathon of 70s guitar anthems! From Black Sabbath &amp; Free in 1970 to Kiss &amp; AC/DC in 1979 - 60 rock classics are here, in order!</desc>
+  </programme>
   <programme channel="that-s-rock" start="20260817030001 +0200" stop="20260817041500 +0200">
-    <title>S01 : E01 50 Years Of Rock Number 1s! - 50 Years Of Rock Number 1s!</title>
-    <sub-title>50 Years Of Rock Number 1s!</sub-title>
-    <desc>Nicky Horne's journey through 50 years of rock history &amp; stopping off at the biggest no.1 songs. Featuring classics from Elvis &amp; The Stones to Queen, The Verve &amp; Kings of Leon.</desc>
+    <title>S01 : E01 30 Years of Rock No.1s: 1985-2015 - 30 Years of Rock No.1s: 1985-2015</title>
+    <sub-title>30 Years of Rock No.1s: 1985-2015</sub-title>
+    <desc>In order - 30 years, every song a number 1 rock single or from a classic number 1 rock album. </desc>
   </programme>
   <programme channel="that-s-rock" start="20260817041501 +0200" stop="20260817050000 +0200">
-    <title>S01 : E01 Summer Weekend Anthems - Summer Weekend Anthems</title>
-    <sub-title>Summer Weekend Anthems</sub-title>
-    <desc>Your summer weekend anthems &amp; the biggest rock songs from the last 50 years! From the Beach Boys &amp; the Stones in the 60s right through to One Republic and Kid Rock in the 00s</desc>
+    <title>S01 : E01 Sunday Rock Classics - Sunday Rock Classics</title>
+    <sub-title>Sunday Rock Classics</sub-title>
+    <desc>Rounding off the week with rock classics and anthems! We guarantee AC/DC, Nirvana, Queen, Meat Loaf, Bon Jovi &amp; much more!</desc>
   </programme>
-  <programme channel="that-s-rock" start="20260817050001 +0200" stop="20260817090000 +0200">
-    <title>S01 : E01 No Intro Needed: The Top 50 - No Intro Needed: The Top 50</title>
-    <sub-title>No Intro Needed: The Top 50</sub-title>
-    <desc>50 tracks we know you know - but how fast can you name them? One thing's for sure: after the first note, you'll be singing them all night long!</desc>
+  <programme channel="that-s-rock" start="20260817050001 +0200" stop="20260817082500 +0200">
+    <title>S01 : E01 Carol Decker's Leather &amp; Lace! - Carol Decker's Leather &amp; Lace!</title>
+    <sub-title>Carol Decker's Leather &amp; Lace!</sub-title>
+    <desc>25 years of classic rock from an era where the look was nearly as important as the music! From Led Zeppelin in 1970 to Def Leppard in 1995.</desc>
   </programme>
-  <programme channel="that-s-rock" start="20260817090001 +0200" stop="20260817140000 +0200">
-    <title>S01 : E01 Monsters of Rock! 1980-1989 - Monsters of Rock! 1980-1989</title>
-    <sub-title>Monsters of Rock! 1980-1989</sub-title>
-    <desc>A definitive 5 hour marathon of 80s guitar anthems! From Queen &amp; AC/DC in 1980 to Def Leppard &amp; Guns N' Roses in 1989 - 60 rock classics are here, in order!</desc>
+  <programme channel="that-s-rock" start="20260817082501 +0200" stop="20260817090000 +0200">
+    <title>S01 : E01 Blazing Rock Ballads! - Blazing Rock Ballads!</title>
+    <sub-title>Blazing Rock Ballads!</sub-title>
+    <desc>The Biggest Ballads from the royals of rock! From Queen, Bon Jovi &amp; Whitesnake to Meat Loaf, Nickleback &amp; Evanescence.</desc>
   </programme>
-  <programme channel="that-s-rock" start="20260817140001 +0200" stop="20260817161000 +0200">
-    <title>S01 : E01 30 Years of Summer Rock! - 30 Years of Summer Rock!</title>
-    <sub-title>30 Years of Summer Rock!</sub-title>
-    <desc>From the rock archives we bring you 30 years of the biggest rock songs that charted in summer. Featuring Queen, Bon Jovi, The Killers, AC/DC, Oasis and much more!</desc>
+  <programme channel="that-s-rock" start="20260817090001 +0200" stop="20260817130000 +0200">
+    <title>S01 : E01 Rock n Roll Top 5s! 2000-2009 - Rock n Roll Top 5s! 2000-2009</title>
+    <sub-title>Rock n Roll Top 5s! 2000-2009</sub-title>
+    <desc>4 hours of rock anthems that all hit the top 5 in the first decade of this century. From Blink 182 in 2000 to Kasabian in 2009.</desc>
   </programme>
-  <programme channel="that-s-rock" start="20260817161001 +0200" stop="20260817170000 +0200">
-    <title>S01 : E01 Summer Rock Anthems! - Summer Rock Anthems!</title>
-    <sub-title>Summer Rock Anthems!</sub-title>
-    <desc>Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
+  <programme channel="that-s-rock" start="20260817130001 +0200" stop="20260817135000 +0200">
+    <title>S01 : E01 Paramore: Fan Favourites - Paramore: Fan Favourites</title>
+    <sub-title>Paramore: Fan Favourites</sub-title>
+    <desc>Starting in 2007 - 45 minutes of the biggest rock songs from Paramore!</desc>
   </programme>
-  <programme channel="that-s-rock" start="20260817170001 +0200" stop="20260817185000 +0200">
-    <title>S01 : E01 Turn Up The Emo Anthems! - Turn Up The Emo Anthems!</title>
-    <sub-title>Turn Up The Emo Anthems!</sub-title>
-    <desc>Turn up your speakers to 11 and live life even louder! Emo Anthems in order from Linkin Park in 2000 to The My Chemical Romance at the end of the Decade!</desc>
-  </programme>
-  <programme channel="that-s-rock" start="20260817185001 +0200" stop="20260817190000 +0200">
-    <title>S01 : E01 The New Legends Of Rock - The New Legends Of Rock</title>
-    <sub-title>The New Legends Of Rock</sub-title>
-    <desc>Rock Riffs, indie anthems and a new generation of rock legends from 2000 to now! Expect YungBlud, BMTH, The Arctic Monkeys, Fall Out Boy &amp; loads more!</desc>
-  </programme>
-  <programme channel="that-s-rock" start="20260817190001 +0200" stop="20260817212000 +0200">
-    <title>S01 : E01 Alex Baker's 30 High School Heroes - Alex Baker's 30 High School Heroes</title>
-    <sub-title>Alex Baker's 30 High School Heroes</sub-title>
-    <desc>Dust off your old posters as Alex relives 30 era-defining mega bangers that made high school legendary! Featuring Evanescence, No Doubt, Limp Bizkit, Wheatus &amp; many more!</desc>
-  </programme>
-  <programme channel="that-s-rock" start="20260817212001 +0200" stop="20260817220000 +0200">
+  <programme channel="that-s-rock" start="20260817135001 +0200" stop="20260817140000 +0200">
     <title>S01 : E01 Killer Cuts Of The 00s! - Killer Cuts Of The 00s!</title>
     <sub-title>Killer Cuts Of The 00s!</sub-title>
     <desc>A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
   </programme>
-  <programme channel="that-s-rock" start="20260817220001 +0200" stop="20260817224000 +0200">
-    <title>S01 : E01 My Chemical Romance:Fan Favourites - My Chemical Romance:Fan Favourites</title>
-    <sub-title>My Chemical Romance:Fan Favourites</sub-title>
-    <desc>From 2005 to 2010 - 40 minutes of the biggest rock songs from My Chemical Romance!</desc>
+  <programme channel="that-s-rock" start="20260817140001 +0200" stop="20260817161500 +0200">
+    <title>S01 : E01 Robin Banks 90s Antiques Rockshow - Robin Banks 90s Antiques Rockshow</title>
+    <sub-title>Robin Banks 90s Antiques Rockshow</sub-title>
+    <desc>Crammed full with extraordinary finds, hidden treasures, and plenty of old relics! From the Stones and Genesis, to Iggy &amp; Aerosmith - how many of these family heirlooms do you own?</desc>
   </programme>
-  <programme channel="that-s-rock" start="20260817224001 +0200" stop="20260817230000 +0200">
-    <title>S01 : E01 Rated Rock! The No.1s - Rated Rock! The No.1s</title>
-    <sub-title>Rated Rock! The No.1s</sub-title>
-    <desc>Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+  <programme channel="that-s-rock" start="20260817161501 +0200" stop="20260817170000 +0200">
+    <title>S01 : E01 Summer Rock Anthems! - Summer Rock Anthems!</title>
+    <sub-title>Summer Rock Anthems!</sub-title>
+    <desc>Summer anthems &amp; the biggest rock songs from the last 5 decades! From the Beach Boys &amp; the Stones through to One Republic and Kid Rock.</desc>
   </programme>
-  <programme channel="that-s-rock" start="20260817230001 +0200" stop="20260818020000 +0200">
-    <title>S01 : E01 Nicky Horne's 30 Bad Ass Videos! - Nicky Horne's 30 Bad Ass Videos!</title>
-    <sub-title>Nicky Horne's 30 Bad Ass Videos!</sub-title>
-    <desc>Nicky Horne presents his favourite 30 Kick Ass Videos which, need to sit in the hall of fame for Rock Video Greatness featuring Bon Jovi, David Bowie, Kate Bush, Nirvana and Ozzy! </desc>
+  <programme channel="that-s-rock" start="20260817170001 +0200" stop="20260817204500 +0200">
+    <title>S01 : E01 Turn Up The 00s Anthems! - Turn Up The 00s Anthems!</title>
+    <sub-title>Turn Up The 00s Anthems!</sub-title>
+    <desc>Turn up your spreakers to 11 and live life even louder! 50 All-Killer Anthems in order from Blink 182 in 2000 to The Killers at the end of the Decade!</desc>
+  </programme>
+  <programme channel="that-s-rock" start="20260817204501 +0200" stop="20260817210000 +0200">
+    <title>S01 : E01 Killer Cuts Of The 00s! - Killer Cuts Of The 00s!</title>
+    <sub-title>Killer Cuts Of The 00s!</sub-title>
+    <desc>A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!</desc>
+  </programme>
+  <programme channel="that-s-rock" start="20260817210001 +0200" stop="20260818001000 +0200">
+    <title>S01 : E01 Nicky Horne's Top 30 Rock Voices - Nicky Horne's Top 30 Rock Voices</title>
+    <sub-title>Nicky Horne's Top 30 Rock Voices</sub-title>
+    <desc>The gods &amp; goddesses who have graced our stages and given us some of the greatest rock voices ever. Nicky Horne presents his personal top 30 and agonises over the number 1!</desc>
   </programme>
   <programme channel="that-s-80s" start="20260813230001 +0200" stop="20260814000000 +0200">
     <title>S01 : E01 Elton v George in the 80s! - Elton v George in the 80s!</title>
@@ -24948,80 +24580,75 @@ Featuring Kid Rock, Bryan Adams, Blur, Weezer &amp; loads more!</desc>
     <sub-title>I Know You Got Soul! 1980-1989</sub-title>
     <desc>Legends like Diana, Lionel &amp; Prince mix with smooth sounds from Sade, Anita Baker &amp; Imagination in our 2 hour 80s funk &amp; soul session!</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260816230001 +0200" stop="20260817020000 +0200">
+  <programme channel="that-s-80s" start="20260816230001 +0200" stop="20260817022000 +0200">
     <title>S01 : E01 Barrioke Karaoke! 80s v 90s - Barrioke Karaoke! 80s v 90s</title>
     <sub-title>Barrioke Karaoke! 80s v 90s</sub-title>
     <desc>He was Barry in Eastenders, Barry in Extras &amp; now now he's Barri in Barrioke Karaoke! Shaun Williamson has 3 hours of party madness with a twist - it's 80s v 90s!</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817020001 +0200" stop="20260817030000 +0200">
-    <title>S01 : E01 Love At The Movies! with Pat Sharp - Love At The Movies! with Pat Sharp</title>
-    <sub-title>Love At The Movies! with Pat Sharp</sub-title>
-    <desc>Grab the biggest tub of popcorn, snuggle up to your loved one &amp; expect plenty of smooching in the back row as Pat Sharp has a session of 80s movie magic, all on the theme of lurve!</desc>
+  <programme channel="that-s-80s" start="20260817022001 +0200" stop="20260817030000 +0200">
+    <title>S01 : E01 WOW! What A Party! - WOW! What A Party!</title>
+    <sub-title>WOW! What A Party!</sub-title>
+    <desc>A non-stop ticket to the ultimate retro rave! We crank up the neon and hit the dancefloor with the most electrifying feelgood music videos the 80s had to offer. </desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817030001 +0200" stop="20260817044500 +0200">
-    <title>S01 : E01 The UK Top 20 of the 80s - The UK Top 20 of the 80s</title>
-    <sub-title>The UK Top 20 of the 80s</sub-title>
-    <desc>Radio 1 legend Bruno Brookes returns with a countdown of the 20 biggest singles of the decade. Including million-selling hits from Frankie, Wham! &amp; Soft Cell. </desc>
+  <programme channel="that-s-80s" start="20260817030001 +0200" stop="20260817032000 +0200">
+    <title>S01 : E01 Clare Grogan's Teenage Kicks! - Clare Grogan's Teenage Kicks!</title>
+    <sub-title>Clare Grogan's Teenage Kicks!</sub-title>
+    <desc>The 5 years from '77 to '81 was possibly the most exciting &amp; vibrant time to be a teenager &amp; Clare Grogan was there - buying the records, seeing the bands &amp; wearing the t-shirts!</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817044501 +0200" stop="20260817050000 +0200">
-    <title>S01 : E01 Hits That Missed! - Hits That Missed!</title>
-    <sub-title>Hits That Missed!</sub-title>
-    <desc>Lesser known songs you may have forgotten from artists you'll certainly know! </desc>
+  <programme channel="that-s-80s" start="20260817032001 +0200" stop="20260817040000 +0200">
+    <title>S01 : E01 Best Played at 45 RPM! - Best Played at 45 RPM!</title>
+    <sub-title>Best Played at 45 RPM!</sub-title>
+    <desc>Before the CD, the perfect pop songs were spun by singers &amp; bands on 7 inch vinyl. From 1980-1984 these were the classic UK hits that invaded the world!</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817050001 +0200" stop="20260817070000 +0200">
-    <title>S01 : E01 Complete George Michael: 1982-1989 - Complete George Michael: 1982-1989</title>
-    <sub-title>Complete George Michael: 1982-1989</sub-title>
-    <desc>A complete video retrospective of George's 80s hits - both solo &amp; with Wham, Elton John, Aretha Franklin &amp; that forgotten top 10 from Boogie Box High.</desc>
+  <programme channel="that-s-80s" start="20260817040001 +0200" stop="20260817062500 +0200">
+    <title>S01 : E01 40 Years On - 1986's Best Sellers! - 40 Years On - 1986's Best Sellers!</title>
+    <sub-title>40 Years On - 1986's Best Sellers!</sub-title>
+    <desc>A complete rundown of the 30 biggest selling UK singles for 1986 - can you believe these were all hits 40 years ago? And if you thought Madonna was at number 1 - think again!</desc>
+  </programme>
+  <programme channel="that-s-80s" start="20260817062501 +0200" stop="20260817070000 +0200">
+    <title>S01 : E01 The Ultimate 80s Mix! - The Ultimate 80s Mix!</title>
+    <sub-title>The Ultimate 80s Mix!</sub-title>
+    <desc>Dramatic storylines, big dance routines, neon lights &amp; iconic fashions - these are the classic music videos that made the 80s!</desc>
   </programme>
   <programme channel="that-s-80s" start="20260817070001 +0200" stop="20260817090000 +0200">
-    <title>S01 : E01 Jenny Powell: Around The World! - Jenny Powell: Around The World!</title>
-    <sub-title>Jenny Powell: Around The World!</sub-title>
-    <desc>From London's West End to the the Manhattan Skyline, via Belfast, Rio, Vienna, Bangkok, Japan, China &amp; Egypt - this is Captain Jenny's wander around the world... in song titles! </desc>
+    <title>S01 : E01 Trev &amp; Simon's Swing Your Pants! - Trev &amp; Simon's Swing Your Pants!</title>
+    <sub-title>Trev &amp; Simon's Swing Your Pants!</sub-title>
+    <desc>80s TV funny men Trev &amp; Simon are the perfect hosts to get you in the mood to party, swing some pants, and have a giggle about some of the top pop talent of the decade!</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817090001 +0200" stop="20260817104500 +0200">
-    <title>S01 : E01 Sinitta's Everyone I Fancied! - Sinitta's Everyone I Fancied!</title>
-    <sub-title>Sinitta's Everyone I Fancied!</sub-title>
-    <desc>100 minutes of everyone Sinitta fancied being, or just plain adored in the 80s. Her favourite boys &amp; gorgeous girls in their fiercest videos - you'll fancy them a little bit too!</desc>
+  <programme channel="that-s-80s" start="20260817090001 +0200" stop="20260817100000 +0200">
+    <title>S01 : E01 With Love From The Movies xx - With Love From The Movies xx</title>
+    <sub-title>With Love From The Movies xx</sub-title>
+    <desc>Lush movie love songs with that extra dose of emotion. Warning: expect a bit of Phil Collins.</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817104501 +0200" stop="20260817110000 +0200">
-    <title>S01 : E01 The Heat Is On! - The Heat Is On!</title>
-    <sub-title>The Heat Is On!</sub-title>
-    <desc>The Heat Is On with the hottest tunes of the 80s! We crank up the neon and hit the dancefloor with the most electrifying feelgood music videos the decade had to offer.</desc>
+  <programme channel="that-s-80s" start="20260817100001 +0200" stop="20260817184000 +0200">
+    <title>S01 : E01 NOW 100 Hits: Love Songs! - NOW 100 Hits: Love Songs!</title>
+    <sub-title>NOW 100 Hits: Love Songs!</sub-title>
+    <desc>Simon Bates with the ultimate countdown of 80s love. Yes - 100 songs with heartfelt vocals, lush strings &amp; big breakdowns in a 9 hour marathon! Expect Whitney, Lionel &amp; George.</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817110001 +0200" stop="20260817154500 +0200">
-    <title>S01 : E01 60 Summer Sizzlers! 1980-1989 - 60 Summer Sizzlers! 1980-1989</title>
-    <sub-title>60 Summer Sizzlers! 1980-1989</sub-title>
-    <desc>60 of the best feel-good summer hits! Each was a Top 10 smash across June, July &amp; August in the '80s - on the beach, on your walkman, and at the Radio 1 Roadshow!</desc>
+  <programme channel="that-s-80s" start="20260817184001 +0200" stop="20260817190000 +0200">
+    <title>S01 : E01 All Day - 80s Power Ballads! - All Day - 80s Power Ballads!</title>
+    <sub-title>All Day - 80s Power Ballads!</sub-title>
+    <desc>From the decade that invented the genre - non-stop powerful love songs, back to back.</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817154501 +0200" stop="20260817160000 +0200">
-    <title>S01 : E01 The Heat Is On! - The Heat Is On!</title>
-    <sub-title>The Heat Is On!</sub-title>
-    <desc>The Heat Is On with the hottest tunes of the 80s! We crank up the neon and hit the dancefloor with the most electrifying feelgood music videos the decade had to offer.</desc>
+  <programme channel="that-s-80s" start="20260817190001 +0200" stop="20260817195000 +0200">
+    <title>S01 : E01 Def Leppard v Bon Jovi! - Def Leppard v Bon Jovi!</title>
+    <sub-title>Def Leppard v Bon Jovi!</sub-title>
+    <desc>It's Sheffield v New Jersey in our battle of the 80s rock gods!</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817160001 +0200" stop="20260817191500 +0200">
-    <title>S01 : E01 Jenny Powell's 80s Summer! - Jenny Powell's 80s Summer!</title>
-    <sub-title>Jenny Powell's 80s Summer!</sub-title>
-    <desc>We're feeling hot hot hot, and packing the sunshine over 40 feelgood songs. But don't worry about the sunscreen, and there's enough big 80s hair to block out the UV completely!</desc>
+  <programme channel="that-s-80s" start="20260817195001 +0200" stop="20260817200000 +0200">
+    <title>S01 : E01 All Day - 80s Power Ballads! - All Day - 80s Power Ballads!</title>
+    <sub-title>All Day - 80s Power Ballads!</sub-title>
+    <desc>From the decade that invented the genre - non-stop powerful love songs, back to back.</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817191501 +0200" stop="20260817200000 +0200">
-    <title>S01 : E01 The Heat Is On! - The Heat Is On!</title>
-    <sub-title>The Heat Is On!</sub-title>
-    <desc>The Heat Is On with the hottest tunes of the 80s! We crank up the neon and hit the dancefloor with the most electrifying feelgood music videos the decade had to offer.</desc>
+  <programme channel="that-s-80s" start="20260817200001 +0200" stop="20260817210000 +0200">
+    <title>S01 : E01 The 1987 POWER Hour! - The 1987 POWER Hour!</title>
+    <sub-title>The 1987 POWER Hour!</sub-title>
+    <desc>60 minutes of power pop &amp; rock! Earplugs at the ready as we rewind to 1987 with GnR, Aerosmith, Duran Duran, Cher, T'Pau &amp; Whitesnake!</desc>
   </programme>
-  <programme channel="that-s-80s" start="20260817200001 +0200" stop="20260817220000 +0200">
-    <title>S01 : E01 I Do Like To Be Beside the Seaside - I Do Like To Be Beside the Seaside</title>
-    <sub-title>I Do Like To Be Beside the Seaside</sub-title>
-    <desc>2 hours salty videos full of sea, sun &amp; sand! Time to get On The Beach with NOW 80s!</desc>
-  </programme>
-  <programme channel="that-s-80s" start="20260817220001 +0200" stop="20260817230000 +0200">
-    <title>S01 : E01 Spandau Ballet Gold! 1980-1986 - Spandau Ballet Gold! 1980-1986</title>
-    <sub-title>Spandau Ballet Gold! 1980-1986</sub-title>
-    <desc>11 top 20 hits back to back, starting with "To Cut A Long A Story Short" in 1980, through to their last top 10 "Through The Barricades" in 1986. Including classic number 1 "True".</desc>
-  </programme>
-  <programme channel="that-s-80s" start="20260817230001 +0200" stop="20260818013000 +0200">
-    <title>S01 : E01 Tony Hadley's Solid Gold Anthems! - Tony Hadley's Solid Gold Anthems!</title>
-    <sub-title>Tony Hadley's Solid Gold Anthems!</sub-title>
-    <desc>Tony flashes back to the 80s and picks 30 Solid Gold Anthems. Expect Blondie, ABC, Level 42, OMD, A-Ha &amp; of course some Spandau Ballet classics.</desc>
+  <programme channel="that-s-80s" start="20260817210001 +0200" stop="20260818000000 +0200">
+    <title>S01 : E01 Carol Decker's Power No.1s! - Carol Decker's Power No.1s!</title>
+    <sub-title>Carol Decker's Power No.1s!</sub-title>
+    <desc>Many of the big power hits that we know &amp; love today were released during the 80s, and the best reached No.1 either here or in the USA. Carol blasts through the decade - in order!</desc>
   </programme>
   <programme channel="that-s-70s" start="20260813230001 +0200" stop="20260814010000 +0200">
     <title>S00 : E00 Get Your Groove On! - Get Your Groove On!</title>
@@ -41409,47 +41036,7 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Brendon Gibbens</title>
     <desc>Meet Brendon "Beach" Gibbens in Kommetjie, South Africa, as he shares his passions</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260814020001 +0200" stop="20260814021500 +0200">
-    <title>Episode 17</title>
-    <desc>Get to know the past and present of "Charlie B" on the streets Barcelona.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814021501 +0200" stop="20260814023000 +0200">
-    <title>Episode 18</title>
-    <desc>Skaters JN Charles, Adelmo Júnior, Ricardo Porva and others explore the Chinese city of Shenzhen.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814023001 +0200" stop="20260814024500 +0200">
-    <title>Episode 1</title>
-    <desc>Brazilian skater André Manto shares his journey from São Paulo to Toyoake, Japan.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814024501 +0200" stop="20260814030000 +0200">
-    <title>Episode 2</title>
-    <desc>Brazilian skater Hugo Hoffmeister Filho launches 88 House in Keflavík in Iceland.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814030001 +0200" stop="20260814033000 +0200">
-    <title>Backyard Challenge with Manny Santiago</title>
-    <desc>In this new episode, the Next Gen competitors will have to avoid being slayed by Manny Santiago.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814033001 +0200" stop="20260814040000 +0200">
-    <title>Stairset Challenge with Ryan Decenzo</title>
-    <desc>Canadian skateboarding star, Ryan Decenzo, takes up Next Gen's competitors in a daring Stairstep Challenge.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814040001 +0200" stop="20260814070000 +0200">
-    <title>Canadian GP</title>
-    <desc>World Supercross hits Canada on August 8. Watch the high-speed action live on FUEL TV.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814070001 +0200" stop="20260814071500 +0200">
-    <title>Episode 2</title>
-    <desc>Big wave surfer Matt Bromley shares his roots, gear, waves, and surf mentorship in Cape Town.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814071501 +0200" stop="20260814074500 +0200">
-    <title>The Titans</title>
-    <desc>Explore Indonesia, local culture, race prep, and intense MXGP action with Andrea Adamo and Delvintor Alfari...</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814074501 +0200" stop="20260814080000 +0200">
-    <title>Sebo Walker</title>
-    <desc>Sebo Walker reconnects with Portland, family and the roots behind his skating.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814080001 +0200" stop="20260814090000 +0200">
+  <programme channel="fuel-tv-new" start="20260814020001 +0200" stop="20260814090000 +0200">
     <title>Highlights Simple Session 2025 - Skate</title>
     <desc>World's top skateboarders compete at the heart of Tallinn, Estonia.</desc>
   </programme>
@@ -41553,45 +41140,25 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Vigilante Tranny</title>
     <desc>Jeff King and the Grindline crew lay down concrete ramps and transitions at the Shred Ranch.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260814210001 +0200" stop="20260814211500 +0200">
-    <title>Sebo Walker</title>
-    <desc>Sebo Walker reconnects with Portland, family and the roots behind his skating.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814211501 +0200" stop="20260814223000 +0200">
+  <programme channel="fuel-tv-new" start="20260814210001 +0200" stop="20260815010000 +0200">
     <title>Day 1</title>
     <desc>Follow Day 1 of Rockstar Energy Open 2026 live on FUEL TV.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260814223001 +0200" stop="20260814230000 +0200">
-    <title>Episode 1</title>
-    <desc>We are back at Etnies Skatepark where 10 skaters will compete against each other.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814230001 +0200" stop="20260814234500 +0200">
-    <title>Day 1</title>
-    <desc>Follow Day 1 of Rockstar Energy Open 2026 live on FUEL TV.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260814234501 +0200" stop="20260815000000 +0200">
+  <programme channel="fuel-tv-new" start="20260815010001 +0200" stop="20260815011500 +0200">
     <title>Lazer Crawford</title>
     <desc>Lazer Crawford rolls through Long Beach, style, skate and what's next.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260815000001 +0200" stop="20260815003000 +0200">
-    <title>Surfing the Caribbean</title>
-    <desc>The crew embark for their 2 week trip, play a concert in Panama city and find some surf on a Caribbean isla...</desc>
+  <programme channel="fuel-tv-new" start="20260815011501 +0200" stop="20260815014500 +0200">
+    <title>Episode 2</title>
+    <desc>The competitors are invited to Manny Santiago's backyard to battle for points.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260815003001 +0200" stop="20260815010000 +0200">
-    <title>Surf in Panama</title>
-    <desc>After having settled into life in Panama, the crew unwind only to be confronted by some local surfers.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260815010001 +0200" stop="20260815040000 +0200">
+  <programme channel="fuel-tv-new" start="20260815014501 +0200" stop="20260815043000 +0200">
     <title>Day 1</title>
     <desc>Follow Day 1 of Rockstar Energy Open 2026 live on FUEL TV.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260815040001 +0200" stop="20260815041500 +0200">
-    <title>Steve Caballero</title>
-    <desc>Steve Caballero looks back on skating and life beyond it, from art to motocross and music.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260815041501 +0200" stop="20260815044500 +0200">
-    <title>Alaska (pt. 1)</title>
-    <desc>Standard Films documents the birth of extreme mountain snowboarding in a place few dare to ride.</desc>
+  <programme channel="fuel-tv-new" start="20260815043001 +0200" stop="20260815044500 +0200">
+    <title>Sebo Walker</title>
+    <desc>Sebo Walker reconnects with Portland, family and the roots behind his skating.</desc>
   </programme>
   <programme channel="fuel-tv-new" start="20260815044501 +0200" stop="20260815051500 +0200">
     <title>Alaska (pt. 2)</title>
@@ -41673,39 +41240,35 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Vans Pool Party</title>
     <desc>In The Mix explores the legacy, community and final chapter of the legendary Vans Pool Party.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260815203001 +0200" stop="20260815220000 +0200">
+  <programme channel="fuel-tv-new" start="20260815203001 +0200" stop="20260815204500 +0200">
+    <title>NYC</title>
+    <desc>NYC skate thrives in any weather. Mike Sassano captures city streets, legends, and skate spirit.</desc>
+  </programme>
+  <programme channel="fuel-tv-new" start="20260815204501 +0200" stop="20260815210000 +0200">
+    <title>SF</title>
+    <desc>Ando and Kyle explore SF's plazas and hills with locals, creating a true skate map of the city.</desc>
+  </programme>
+  <programme channel="fuel-tv-new" start="20260815210001 +0200" stop="20260816011500 +0200">
     <title>Day 2</title>
     <desc>Follow Day 2 of Rockstar Energy Open 2026 live on FUEL TV.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260815220001 +0200" stop="20260815224500 +0200">
-    <title>Episode 7</title>
-    <desc>On the final day, Richie Löffler guides the crew through Hamburg as Leo Heinert lands two wild NBDs.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260815224501 +0200" stop="20260816013000 +0200">
-    <title>Day 2</title>
-    <desc>Follow Day 2 of Rockstar Energy Open 2026 live on FUEL TV.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260816013001 +0200" stop="20260816014500 +0200">
+  <programme channel="fuel-tv-new" start="20260816011501 +0200" stop="20260816013000 +0200">
     <title>Aaron Jaws Homoki</title>
     <desc>Portraits follows Aaron "Jaws" Homoki beyond the jumps, into his roots, recovery and skate life.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260816014501 +0200" stop="20260816020000 +0200">
+  <programme channel="fuel-tv-new" start="20260816013001 +0200" stop="20260816014500 +0200">
     <title>Chris Russel</title>
     <desc>Portraits follows Chris Russell through skate, discipline, training and the balance behind his lifestyle.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260816020001 +0200" stop="20260816021500 +0200">
+  <programme channel="fuel-tv-new" start="20260816014501 +0200" stop="20260816020000 +0200">
     <title>Grayson Fletcher</title>
     <desc>Greyson Fletcher's Portrait captures raw skating, surf roots and fearless energy.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260816021501 +0200" stop="20260816030000 +0200">
-    <title>Day 2</title>
-    <desc>Follow Day 2 of Rockstar Energy Open 2026 live on FUEL TV.</desc>
+  <programme channel="fuel-tv-new" start="20260816020001 +0200" stop="20260816023000 +0200">
+    <title>Episode 2</title>
+    <desc>TWS Vault Ep2 (Tapes 4-7): Jason drops more archive heat with a stacked crew of legends.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260816030001 +0200" stop="20260816031500 +0200">
-    <title>Sebo Walker</title>
-    <desc>Sebo Walker reconnects with Portland, family and the roots behind his skating.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260816031501 +0200" stop="20260816040000 +0200">
+  <programme channel="fuel-tv-new" start="20260816023001 +0200" stop="20260816040000 +0200">
     <title>Day 2</title>
     <desc>Follow Day 2 of Rockstar Energy Open 2026 live on FUEL TV.</desc>
   </programme>
@@ -41857,29 +41420,29 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>A 5boro Montage and Mystery Guest</title>
     <desc>Interview with a Mysterious Guest, "A 5boro Montage", " pies with Brad Johnson, and "A Hellrose Montage".</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260816203001 +0200" stop="20260816223000 +0200">
+  <programme channel="fuel-tv-new" start="20260816203001 +0200" stop="20260816204500 +0200">
+    <title>Episode 1</title>
+    <desc>Arizona Skate kicks off the Sky High Skrilla Tour in Berlin with a session at Greifswalder DIY.</desc>
+  </programme>
+  <programme channel="fuel-tv-new" start="20260816204501 +0200" stop="20260816210000 +0200">
+    <title>Episode 81</title>
+    <desc>Skate sessions across San Diego and Los Angeles: ledges, big rails, manuals and street chaos.</desc>
+  </programme>
+  <programme channel="fuel-tv-new" start="20260816210001 +0200" stop="20260817020000 +0200">
     <title>Day 3</title>
     <desc>Finals of Rockstar Energy Open 2026 live on FUEL TV.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260816223001 +0200" stop="20260816231500 +0200">
-    <title>Episode 2</title>
-    <desc>TWS Vault Ep2 (Tapes 4-7): Jason drops more archive heat with a stacked crew of legends.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260816231501 +0200" stop="20260817004500 +0200">
-    <title>Day 3</title>
-    <desc>Finals of Rockstar Energy Open 2026 live on FUEL TV.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260817004501 +0200" stop="20260817011500 +0200">
+  <programme channel="fuel-tv-new" start="20260817020001 +0200" stop="20260817023000 +0200">
     <title>Welcome to the North Shore</title>
     <desc>Photographer Clark Little shares his routines, equipment, and techniques, showcasing his gallery in Haleiwa...</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260817011501 +0200" stop="20260817013000 +0200">
+  <programme channel="fuel-tv-new" start="20260817023001 +0200" stop="20260817024500 +0200">
     <title>Aveiro</title>
     <desc>Portugal Back-to-Back episode with Nic Von Rupp riding empty waves in Aveiro and touring the town's beautie...</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260817013001 +0200" stop="20260817030000 +0200">
-    <title>Day 3</title>
-    <desc>Finals of Rockstar Energy Open 2026 live on FUEL TV.</desc>
+  <programme channel="fuel-tv-new" start="20260817024501 +0200" stop="20260817030000 +0200">
+    <title>Grayson Fletcher</title>
+    <desc>Greyson Fletcher's Portrait captures raw skating, surf roots and fearless energy.</desc>
   </programme>
   <programme channel="fuel-tv-new" start="20260817030001 +0200" stop="20260817034000 +0200">
     <title>Episode 78</title>
@@ -42029,19 +41592,27 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Ronnie Renner</title>
     <desc>A grown man in diapers and on moto-bikes is what you get with professional FMX rider Ronnie Renner.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260817200001 +0200" stop="20260817214000 +0200">
+  <programme channel="fuel-tv-new" start="20260817200001 +0200" stop="20260817211000 +0200">
     <title>Episode 14</title>
     <desc>Riders, creators and culture collide in another laid-back Monday M.A.S.S. conversation.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260817214001 +0200" stop="20260817222000 +0200">
+  <programme channel="fuel-tv-new" start="20260817211001 +0200" stop="20260817213000 +0200">
+    <title>The Forgotten Archipelago</title>
+    <desc>Shackleton's Endurance mission turns from bold Antarctic quest into a trapped-in-ice fight to survive.</desc>
+  </programme>
+  <programme channel="fuel-tv-new" start="20260817213001 +0200" stop="20260817220500 +0200">
+    <title>Everything Goes South</title>
+    <desc>Surfing's wildest bunch reach Ventura where Dane Reynolds and friends take the boys to rip some waves.</desc>
+  </programme>
+  <programme channel="fuel-tv-new" start="20260817220501 +0200" stop="20260817224000 +0200">
     <title>Taking a Toll</title>
     <desc>The boys hit San Clemente for breakfast in their underwear. Caroline Marks and Cheyne Magnusson jump aboard...</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260817222001 +0200" stop="20260817231000 +0200">
+  <programme channel="fuel-tv-new" start="20260817224001 +0200" stop="20260817231500 +0200">
     <title>The goat is with us</title>
     <desc>In Florida, the boys knock at Kelly Slater's door, play some golf and watch Donnie get a Drive Thru tattoo.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260817231001 +0200" stop="20260818000000 +0200">
+  <programme channel="fuel-tv-new" start="20260817231501 +0200" stop="20260818000000 +0200">
     <title>Blackout went for it</title>
     <desc>Legendary Lisa Andersen gets picked up to go to Jacksonville where 5x World Champ, Carissa Moore, is awaiti...</desc>
   </programme>
@@ -48629,538 +48200,669 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Los asesinatos de Midsomer</sub-title>
     <desc>Barnaby y Troy tienen casos por separado, mientras Troy se alista para dejar Midsomer por su nuevo puesto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20260813230915 +0200" stop="20260814000217 +0200">
-    <title>S01 : E48 Piel Salvaje - S01:E48 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Las cartas contienen pruebas que incriminan a Patricia y a Fausto en el asesinato de Leoncio. Camila tomará decisiones importantes, sobre todo para encontrar las cuatro mujeres que traicionaron a su mamá. Fausto tiene una grave intención: hay que matar a Rosa Blanco.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814000218 +0200" stop="20260814005420 +0200">
-    <title>Abigail - S01:E037 - Episode 37</title>
-    <desc>María Clara le pide a Carlos Alfredo el divorcio y le dice que no desea ser un obstáculo en su vida. Guillermo ordena a Abigail irse a vivir con su tía y tiene prohibido salir a la calle. Abigail le confiesa a Matilde que pronto todo se solucionará.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814005421 +0200" stop="20260814014312 +0200">
-    <title>Abigail - S01:E038 - Episode 38</title>
-    <desc>Leonel visita a Abigail y se burla por el castigo que le han impuesto el padre de ella, y le dice que Carlos Alfredo es muy cobarde como para enfrentar a su padre. Estrella sin querer se entera que las posibilidades de volver a caminar son mínimas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814014313 +0200" stop="20260814023603 +0200">
-    <title>S01 : E65 Corazón Traicionado - S01:E65 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Gertrudis le confiesa a Paulina que el verdadero y único amor de su vida se llama Claudio Corona, y que se casó con Marco Aurelio sólo por conveniencia - En la casa de Malena: todo está listo para la reconstrucción de los hechos el día que Pablo perdió la vida - Alberto acorrala a su tío, hasta el punto de preguntarle de manera directa si ama tanto a su madre que sería capaz de matar por ella.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814023604 +0200" stop="20260814032836 +0200">
-    <title>S01 : E66 Corazón Traicionado - S01:E66 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Omar decide investigar en los casos de narcotraficantes que fueron condenados por el difunto Marco Aurelio. Claudio le dice a su sobrino que si no quiere que se case con Gertrudis sólo tiene que expresarlo, pero sin levantar falsos testimonios en su contra. Alberto descubre a su tío Claudio en el anticuario, en un encuentro privado con Pedro Lobo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814032837 +0200" stop="20260814042733 +0200">
-    <title>S01 : E119 El Desprecio - S01:E119 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Edilio es detenido por unos policías; cepeda le notifica que Israel grabó la conversación que tuvieron en su estudio la noche anterior.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814042734 +0200" stop="20260814052645 +0200">
-    <title>S01 : E120 El Desprecio - S01:E120 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Elisenda se descubre sola al despertar, se extraña al hallar una nota donde Pastora la convocó a reunirse con ella en una fábrica abandonada.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814052646 +0200" stop="20260814062028 +0200">
-    <title>S01 : E49 Te Tengo en Salsa - S01:E49 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>César le anuncia a Adriana que el día de mañana se casarán, a la joven no le queda más remedio que aceptar.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814062029 +0200" stop="20260814071156 +0200">
-    <title>S01 : E50 Te Tengo en Salsa - S01:E50 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Carlos Raúl llega al aeropuerto y al encontrar a Adriana ambos se miran desbordando amor.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814071157 +0200" stop="20260814080007 +0200">
-    <title>S01 : E47 Piel Salvaje - S01:E47 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>En las cartas que entregó Henry a Max, Rosa Blanco dice que le arrebataron a su hija y Camila, muy ansiosa, cree que, al fin sabrá por qué su mamá la abandonó. Marcelina encuentra la caja con las cartas y al saber el contenido, alterada, ordena que las quemen.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814080008 +0200" stop="20260814085240 +0200">
-    <title>S01 : E66 Corazón Traicionado - S01:E66 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Omar decide investigar en los casos de narcotraficantes que fueron condenados por el difunto Marco Aurelio. Claudio le dice a su sobrino que si no quiere que se case con Gertrudis sólo tiene que expresarlo, pero sin levantar falsos testimonios en su contra. Alberto descubre a su tío Claudio en el anticuario, en un encuentro privado con Pedro Lobo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814085241 +0200" stop="20260814094646 +0200">
-    <title>S01 : E67 Corazón Traicionado - S01:E67 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alfonso se presenta en el anticuario para solicitar los servicios de sicariato de Pedro. Luego de las sospechas iniciales por parte del delincuente, cuando éste se anima a hacer el negocio, el pánico invade al biólogo al comprobar que efectivamente está ante la presencia de un asesino - Alberto llega al encuentro de Lorena y, destrozado, le confía a su esposa que descubrió que el asesino de su padre es su tío Claudio. Lorena impactada y aterrada por el hallazgo de Alberto.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814094647 +0200" stop="20260814104344 +0200">
-    <title>S01 : E120 El Desprecio - S01:E120 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Elisenda se descubre sola al despertar, se extraña al hallar una nota donde Pastora la convocó a reunirse con ella en una fábrica abandonada.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814104345 +0200" stop="20260814114116 +0200">
-    <title>S01 : E121 El Desprecio - S01:E121 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Raúl pregunta a su amada si alguna vez puedan verse sin reproches; Clara lo invita a guardar la esperanza de que ese sueño pueda hacerse realidad.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814114117 +0200" stop="20260814123238 +0200">
-    <title>S01 : E50 Te Tengo en Salsa - S01:E50 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Carlos Raúl llega al aeropuerto y al encontrar a Adriana ambos se miran desbordando amor.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814123239 +0200" stop="20260814132411 +0200">
-    <title>S01 : E51 Te Tengo en Salsa - S01:E51 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Salvatore busca una botella de vino cuando de pronto recibe la llamada del hombre misterioso, acusándolo de seguir siendo el mismo padre castrador.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814132412 +0200" stop="20260814141715 +0200">
-    <title>S01 : E48 Piel Salvaje - S01:E48 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Las cartas contienen pruebas que incriminan a Patricia y a Fausto en el asesinato de Leoncio. Camila tomará decisiones importantes, sobre todo para encontrar las cuatro mujeres que traicionaron a su mamá. Fausto tiene una grave intención: hay que matar a Rosa Blanco.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814141716 +0200" stop="20260814150924 +0200">
-    <title>S01 : E49 Piel Salvaje - S01:E49 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>La Madre Isabel le confirma a Camila parte de los secretos que oculta: Patricia y su cuñada María Amelia fueron las que denunciaron a su madre. Luciano recibe un sobre que contiene la foto de Camila niña, con su vestidito amarillo, y detrás, una mujer protegiéndola.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814150925 +0200" stop="20260814155815 +0200">
-    <title>Abigail - S01:E038 - Episode 38</title>
-    <desc>Leonel visita a Abigail y se burla por el castigo que le han impuesto el padre de ella, y le dice que Carlos Alfredo es muy cobarde como para enfrentar a su padre. Estrella sin querer se entera que las posibilidades de volver a caminar son mínimas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814155816 +0200" stop="20260814165121 +0200">
-    <title>Abigail - S01:E039 - Episode 39</title>
-    <desc>María Clara decide separarse de Carlos Alfredo y le confiesa a Lucía que lo que ella vivió a lado de Berta será un paraíso comparado con lo que le espera a Abigail. Carlos Alfredo por fin es un hombre libre y que podrán casarse cuando ella quiera.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814165122 +0200" stop="20260814174355 +0200">
-    <title>S01 : E66 Corazón Traicionado - S01:E66 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Omar decide investigar en los casos de narcotraficantes que fueron condenados por el difunto Marco Aurelio. Claudio le dice a su sobrino que si no quiere que se case con Gertrudis sólo tiene que expresarlo, pero sin levantar falsos testimonios en su contra. Alberto descubre a su tío Claudio en el anticuario, en un encuentro privado con Pedro Lobo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814174356 +0200" stop="20260814183800 +0200">
-    <title>S01 : E67 Corazón Traicionado - S01:E67 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alfonso se presenta en el anticuario para solicitar los servicios de sicariato de Pedro. Luego de las sospechas iniciales por parte del delincuente, cuando éste se anima a hacer el negocio, el pánico invade al biólogo al comprobar que efectivamente está ante la presencia de un asesino - Alberto llega al encuentro de Lorena y, destrozado, le confía a su esposa que descubrió que el asesino de su padre es su tío Claudio. Lorena impactada y aterrada por el hallazgo de Alberto.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814183801 +0200" stop="20260814193713 +0200">
-    <title>S01 : E120 El Desprecio - S01:E120 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Elisenda se descubre sola al despertar, se extraña al hallar una nota donde Pastora la convocó a reunirse con ella en una fábrica abandonada.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814193714 +0200" stop="20260814203659 +0200">
-    <title>S01 : E121 El Desprecio - S01:E121 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Raúl pregunta a su amada si alguna vez puedan verse sin reproches; Clara lo invita a guardar la esperanza de que ese sueño pueda hacerse realidad.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814203700 +0200" stop="20260814212820 +0200">
-    <title>S01 : E50 Te Tengo en Salsa - S01:E50 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Carlos Raúl llega al aeropuerto y al encontrar a Adriana ambos se miran desbordando amor.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814212821 +0200" stop="20260814221954 +0200">
-    <title>S01 : E51 Te Tengo en Salsa - S01:E51 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Salvatore busca una botella de vino cuando de pronto recibe la llamada del hombre misterioso, acusándolo de seguir siendo el mismo padre castrador.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814221955 +0200" stop="20260814231257 +0200">
-    <title>S01 : E48 Piel Salvaje - S01:E48 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Las cartas contienen pruebas que incriminan a Patricia y a Fausto en el asesinato de Leoncio. Camila tomará decisiones importantes, sobre todo para encontrar las cuatro mujeres que traicionaron a su mamá. Fausto tiene una grave intención: hay que matar a Rosa Blanco.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260814231258 +0200" stop="20260815000506 +0200">
-    <title>S01 : E49 Piel Salvaje - S01:E49 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>La Madre Isabel le confirma a Camila parte de los secretos que oculta: Patricia y su cuñada María Amelia fueron las que denunciaron a su madre. Luciano recibe un sobre que contiene la foto de Camila niña, con su vestidito amarillo, y detrás, una mujer protegiéndola.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815000507 +0200" stop="20260815005358 +0200">
-    <title>Abigail - S01:E038 - Episode 38</title>
-    <desc>Leonel visita a Abigail y se burla por el castigo que le han impuesto el padre de ella, y le dice que Carlos Alfredo es muy cobarde como para enfrentar a su padre. Estrella sin querer se entera que las posibilidades de volver a caminar son mínimas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815005359 +0200" stop="20260815014704 +0200">
-    <title>Abigail - S01:E039 - Episode 39</title>
-    <desc>María Clara decide separarse de Carlos Alfredo y le confiesa a Lucía que lo que ella vivió a lado de Berta será un paraíso comparado con lo que le espera a Abigail. Carlos Alfredo por fin es un hombre libre y que podrán casarse cuando ella quiera.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815014705 +0200" stop="20260815023937 +0200">
-    <title>S01 : E66 Corazón Traicionado - S01:E66 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Omar decide investigar en los casos de narcotraficantes que fueron condenados por el difunto Marco Aurelio. Claudio le dice a su sobrino que si no quiere que se case con Gertrudis sólo tiene que expresarlo, pero sin levantar falsos testimonios en su contra. Alberto descubre a su tío Claudio en el anticuario, en un encuentro privado con Pedro Lobo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815023938 +0200" stop="20260815033343 +0200">
-    <title>S01 : E67 Corazón Traicionado - S01:E67 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alfonso se presenta en el anticuario para solicitar los servicios de sicariato de Pedro. Luego de las sospechas iniciales por parte del delincuente, cuando éste se anima a hacer el negocio, el pánico invade al biólogo al comprobar que efectivamente está ante la presencia de un asesino - Alberto llega al encuentro de Lorena y, destrozado, le confía a su esposa que descubrió que el asesino de su padre es su tío Claudio. Lorena impactada y aterrada por el hallazgo de Alberto.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815033344 +0200" stop="20260815043255 +0200">
-    <title>S01 : E120 El Desprecio - S01:E120 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Elisenda se descubre sola al despertar, se extraña al hallar una nota donde Pastora la convocó a reunirse con ella en una fábrica abandonada.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815043256 +0200" stop="20260815053242 +0200">
-    <title>S01 : E121 El Desprecio - S01:E121 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Raúl pregunta a su amada si alguna vez puedan verse sin reproches; Clara lo invita a guardar la esperanza de que ese sueño pueda hacerse realidad.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815053243 +0200" stop="20260815062617 +0200">
-    <title>S01 : E50 Te Tengo en Salsa - S01:E50 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Carlos Raúl llega al aeropuerto y al encontrar a Adriana ambos se miran desbordando amor.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815062618 +0200" stop="20260815071329 +0200">
-    <title>S01 : E51 Te Tengo en Salsa - S01:E51 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Salvatore busca una botella de vino cuando de pronto recibe la llamada del hombre misterioso, acusándolo de seguir siendo el mismo padre castrador.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815071330 +0200" stop="20260815080007 +0200">
-    <title>S01 : E48 Piel Salvaje - S01:E48 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Las cartas contienen pruebas que incriminan a Patricia y a Fausto en el asesinato de Leoncio. Camila tomará decisiones importantes, sobre todo para encontrar las cuatro mujeres que traicionaron a su mamá. Fausto tiene una grave intención: hay que matar a Rosa Blanco.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815080008 +0200" stop="20260815085412 +0200">
-    <title>S01 : E67 Corazón Traicionado - S01:E67 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alfonso se presenta en el anticuario para solicitar los servicios de sicariato de Pedro. Luego de las sospechas iniciales por parte del delincuente, cuando éste se anima a hacer el negocio, el pánico invade al biólogo al comprobar que efectivamente está ante la presencia de un asesino - Alberto llega al encuentro de Lorena y, destrozado, le confía a su esposa que descubrió que el asesino de su padre es su tío Claudio. Lorena impactada y aterrada por el hallazgo de Alberto.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815085413 +0200" stop="20260815094818 +0200">
-    <title>S01 : E67 Corazón Traicionado - S01:E67 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alfonso se presenta en el anticuario para solicitar los servicios de sicariato de Pedro. Luego de las sospechas iniciales por parte del delincuente, cuando éste se anima a hacer el negocio, el pánico invade al biólogo al comprobar que efectivamente está ante la presencia de un asesino - Alberto llega al encuentro de Lorena y, destrozado, le confía a su esposa que descubrió que el asesino de su padre es su tío Claudio. Lorena impactada y aterrada por el hallazgo de Alberto.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815094819 +0200" stop="20260815104550 +0200">
-    <title>S01 : E121 El Desprecio - S01:E121 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Raúl pregunta a su amada si alguna vez puedan verse sin reproches; Clara lo invita a guardar la esperanza de que ese sueño pueda hacerse realidad.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815104551 +0200" stop="20260815113717 +0200">
-    <title>S01 : E01 El Desprecio - S01:E01 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara Inés se defiende por haberse escapado, su única intención era buscar a su familia, los Santa María, noticia que sorprende a Valandró.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815113718 +0200" stop="20260815122851 +0200">
-    <title>S01 : E51 Te Tengo en Salsa - S01:E51 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Salvatore busca una botella de vino cuando de pronto recibe la llamada del hombre misterioso, acusándolo de seguir siendo el mismo padre castrador.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815122852 +0200" stop="20260815132009 +0200">
-    <title>S01 : E52 Te Tengo en Salsa - S01:E52 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Adriana, en una habitación de huéspedes, es sorprendida por Cristian quien está dispuesto a poseerla.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815132010 +0200" stop="20260815141219 +0200">
-    <title>S01 : E49 Piel Salvaje - S01:E49 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>La Madre Isabel le confirma a Camila parte de los secretos que oculta: Patricia y su cuñada María Amelia fueron las que denunciaron a su madre. Luciano recibe un sobre que contiene la foto de Camila niña, con su vestidito amarillo, y detrás, una mujer protegiéndola.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815141220 +0200" stop="20260815150538 +0200">
-    <title>S01 : E50 Piel Salvaje - S01:E50 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Las cuatro mujeres que destruyeron la vida de Rosa Blanco se reencuentran en una casa vacía. Camila se enfrenta a Fausto acusando a Patricia de ser la asesina de Leoncio. Otra vez un motorizado le advierte que no siga buscando a su mamá y le arrebata la carta.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815150539 +0200" stop="20260815155844 +0200">
-    <title>Abigail - S01:E039 - Episode 39</title>
-    <desc>María Clara decide separarse de Carlos Alfredo y le confiesa a Lucía que lo que ella vivió a lado de Berta será un paraíso comparado con lo que le espera a Abigail. Carlos Alfredo por fin es un hombre libre y que podrán casarse cuando ella quiera.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815155845 +0200" stop="20260815164642 +0200">
-    <title>Abigail - S01:E040 - Episode 40</title>
-    <desc>Godard le pide a Estrella que le cuente toda la verdad a Abigail para que no se case con Carlos Alfredo y cumpla con su destino. La ceremonia del matrimonio entre Abigail y Carlos Alfredo está a punto de comenzar. Guillermo habla con Carlos Alfredo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815164643 +0200" stop="20260815174047 +0200">
-    <title>S01 : E67 Corazón Traicionado - S01:E67 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alfonso se presenta en el anticuario para solicitar los servicios de sicariato de Pedro. Luego de las sospechas iniciales por parte del delincuente, cuando éste se anima a hacer el negocio, el pánico invade al biólogo al comprobar que efectivamente está ante la presencia de un asesino - Alberto llega al encuentro de Lorena y, destrozado, le confía a su esposa que descubrió que el asesino de su padre es su tío Claudio. Lorena impactada y aterrada por el hallazgo de Alberto.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815174048 +0200" stop="20260815183453 +0200">
-    <title>S01 : E67 Corazón Traicionado - S01:E67 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alfonso se presenta en el anticuario para solicitar los servicios de sicariato de Pedro. Luego de las sospechas iniciales por parte del delincuente, cuando éste se anima a hacer el negocio, el pánico invade al biólogo al comprobar que efectivamente está ante la presencia de un asesino - Alberto llega al encuentro de Lorena y, destrozado, le confía a su esposa que descubrió que el asesino de su padre es su tío Claudio. Lorena impactada y aterrada por el hallazgo de Alberto.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815183454 +0200" stop="20260815193439 +0200">
-    <title>S01 : E121 El Desprecio - S01:E121 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Raúl pregunta a su amada si alguna vez puedan verse sin reproches; Clara lo invita a guardar la esperanza de que ese sueño pueda hacerse realidad.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815193440 +0200" stop="20260815202821 +0200">
-    <title>S01 : E01 El Desprecio - S01:E01 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara Inés se defiende por haberse escapado, su única intención era buscar a su familia, los Santa María, noticia que sorprende a Valandró.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815202822 +0200" stop="20260815211954 +0200">
-    <title>S01 : E51 Te Tengo en Salsa - S01:E51 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Salvatore busca una botella de vino cuando de pronto recibe la llamada del hombre misterioso, acusándolo de seguir siendo el mismo padre castrador.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815211955 +0200" stop="20260815221112 +0200">
-    <title>S01 : E52 Te Tengo en Salsa - S01:E52 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Adriana, en una habitación de huéspedes, es sorprendida por Cristian quien está dispuesto a poseerla.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815221113 +0200" stop="20260815230322 +0200">
-    <title>S01 : E49 Piel Salvaje - S01:E49 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>La Madre Isabel le confirma a Camila parte de los secretos que oculta: Patricia y su cuñada María Amelia fueron las que denunciaron a su madre. Luciano recibe un sobre que contiene la foto de Camila niña, con su vestidito amarillo, y detrás, una mujer protegiéndola.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815230323 +0200" stop="20260815235641 +0200">
-    <title>S01 : E50 Piel Salvaje - S01:E50 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Las cuatro mujeres que destruyeron la vida de Rosa Blanco se reencuentran en una casa vacía. Camila se enfrenta a Fausto acusando a Patricia de ser la asesina de Leoncio. Otra vez un motorizado le advierte que no siga buscando a su mamá y le arrebata la carta.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260815235642 +0200" stop="20260816004947 +0200">
-    <title>Abigail - S01:E039 - Episode 39</title>
-    <desc>María Clara decide separarse de Carlos Alfredo y le confiesa a Lucía que lo que ella vivió a lado de Berta será un paraíso comparado con lo que le espera a Abigail. Carlos Alfredo por fin es un hombre libre y que podrán casarse cuando ella quiera.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816004948 +0200" stop="20260816013745 +0200">
-    <title>Abigail - S01:E040 - Episode 40</title>
-    <desc>Godard le pide a Estrella que le cuente toda la verdad a Abigail para que no se case con Carlos Alfredo y cumpla con su destino. La ceremonia del matrimonio entre Abigail y Carlos Alfredo está a punto de comenzar. Guillermo habla con Carlos Alfredo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816013746 +0200" stop="20260816023151 +0200">
-    <title>S01 : E67 Corazón Traicionado - S01:E67 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alfonso se presenta en el anticuario para solicitar los servicios de sicariato de Pedro. Luego de las sospechas iniciales por parte del delincuente, cuando éste se anima a hacer el negocio, el pánico invade al biólogo al comprobar que efectivamente está ante la presencia de un asesino - Alberto llega al encuentro de Lorena y, destrozado, le confía a su esposa que descubrió que el asesino de su padre es su tío Claudio. Lorena impactada y aterrada por el hallazgo de Alberto.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816023152 +0200" stop="20260816032556 +0200">
-    <title>S01 : E67 Corazón Traicionado - S01:E67 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alfonso se presenta en el anticuario para solicitar los servicios de sicariato de Pedro. Luego de las sospechas iniciales por parte del delincuente, cuando éste se anima a hacer el negocio, el pánico invade al biólogo al comprobar que efectivamente está ante la presencia de un asesino - Alberto llega al encuentro de Lorena y, destrozado, le confía a su esposa que descubrió que el asesino de su padre es su tío Claudio. Lorena impactada y aterrada por el hallazgo de Alberto.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816032557 +0200" stop="20260816042543 +0200">
-    <title>S01 : E121 El Desprecio - S01:E121 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Raúl pregunta a su amada si alguna vez puedan verse sin reproches; Clara lo invita a guardar la esperanza de que ese sueño pueda hacerse realidad.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816042544 +0200" stop="20260816051924 +0200">
-    <title>S01 : E01 El Desprecio - S01:E01 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara Inés se defiende por haberse escapado, su única intención era buscar a su familia, los Santa María, noticia que sorprende a Valandró.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816051925 +0200" stop="20260816061312 +0200">
-    <title>S01 : E51 Te Tengo en Salsa - S01:E51 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Salvatore busca una botella de vino cuando de pronto recibe la llamada del hombre misterioso, acusándolo de seguir siendo el mismo padre castrador.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816061313 +0200" stop="20260816070430 +0200">
-    <title>S01 : E52 Te Tengo en Salsa - S01:E52 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Adriana, en una habitación de huéspedes, es sorprendida por Cristian quien está dispuesto a poseerla.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816070431 +0200" stop="20260816080007 +0200">
-    <title>S01 : E49 Piel Salvaje - S01:E49 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>La Madre Isabel le confirma a Camila parte de los secretos que oculta: Patricia y su cuñada María Amelia fueron las que denunciaron a su madre. Luciano recibe un sobre que contiene la foto de Camila niña, con su vestidito amarillo, y detrás, una mujer protegiéndola.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816080008 +0200" stop="20260816085451 +0200">
-    <title>S01 : E69 Corazón Traicionado - S01:E69 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alberto atormentado y furioso porque no fue capaz de impedir el matrimonio de su madre con el traidor de su tío; Alfonso le pide que se calme y se concentre en conseguir las pruebas que le permitan acusar sin lugar a dudas a Claudio - Alfonso le reprocha a Alberto el haber involucrado a Patricia en un asunto tan peligroso; pero ella demanda saber más y, en medio de la discusión, aparece Claudio.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816085452 +0200" stop="20260816094936 +0200">
-    <title>S01 : E69 Corazón Traicionado - S01:E69 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alberto atormentado y furioso porque no fue capaz de impedir el matrimonio de su madre con el traidor de su tío; Alfonso le pide que se calme y se concentre en conseguir las pruebas que le permitan acusar sin lugar a dudas a Claudio - Alfonso le reprocha a Alberto el haber involucrado a Patricia en un asunto tan peligroso; pero ella demanda saber más y, en medio de la discusión, aparece Claudio.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816094937 +0200" stop="20260816104103 +0200">
-    <title>S01 : E01 El Desprecio - S01:E01 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara Inés se defiende por haberse escapado, su única intención era buscar a su familia, los Santa María, noticia que sorprende a Valandró.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816104104 +0200" stop="20260816113337 +0200">
-    <title>S01 : E02 El Desprecio - S01:E02 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara desea que los Santa María la acepten para cumplir con su sueño de tener una verdadera familia</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816113338 +0200" stop="20260816122456 +0200">
-    <title>S01 : E52 Te Tengo en Salsa - S01:E52 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Adriana, en una habitación de huéspedes, es sorprendida por Cristian quien está dispuesto a poseerla.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816122457 +0200" stop="20260816131638 +0200">
-    <title>S01 : E53 Te Tengo en Salsa - S01:E53 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Débil, César intenta continuar su huida, mientras le ruega a Dios que le dé fuerzas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816131639 +0200" stop="20260816140958 +0200">
-    <title>S01 : E50 Piel Salvaje - S01:E50 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Las cuatro mujeres que destruyeron la vida de Rosa Blanco se reencuentran en una casa vacía. Camila se enfrenta a Fausto acusando a Patricia de ser la asesina de Leoncio. Otra vez un motorizado le advierte que no siga buscando a su mamá y le arrebata la carta.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816140959 +0200" stop="20260816150334 +0200">
-    <title>S01 : E51 Piel Salvaje - S01:E51 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Mucha confusión en Camila, nada justifica las mentiras y cada vez Camila está más decepcionada de los engaños de la Madre Isabel. Ezequiel confronta a Julia y agrede salvajemente a Gregorio al encontrarlos juntos.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816150335 +0200" stop="20260816155132 +0200">
-    <title>Abigail - S01:E040 - Episode 40</title>
-    <desc>Godard le pide a Estrella que le cuente toda la verdad a Abigail para que no se case con Carlos Alfredo y cumpla con su destino. La ceremonia del matrimonio entre Abigail y Carlos Alfredo está a punto de comenzar. Guillermo habla con Carlos Alfredo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816155133 +0200" stop="20260816164107 +0200">
-    <title>Abigail - S02:E001 - Episode 01</title>
-    <desc>Abigail al final consigue lo que quería pero insiste en dañar los sentimientos de María Clara pues decide pedirle a Matilde que invite a la profesora a su boda para que los vea a ella y a Carlos como una pareja de casados felices.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816164108 +0200" stop="20260816173552 +0200">
-    <title>S01 : E69 Corazón Traicionado - S01:E69 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alberto atormentado y furioso porque no fue capaz de impedir el matrimonio de su madre con el traidor de su tío; Alfonso le pide que se calme y se concentre en conseguir las pruebas que le permitan acusar sin lugar a dudas a Claudio - Alfonso le reprocha a Alberto el haber involucrado a Patricia en un asunto tan peligroso; pero ella demanda saber más y, en medio de la discusión, aparece Claudio.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816173553 +0200" stop="20260816183036 +0200">
-    <title>S01 : E69 Corazón Traicionado - S01:E69 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alberto atormentado y furioso porque no fue capaz de impedir el matrimonio de su madre con el traidor de su tío; Alfonso le pide que se calme y se concentre en conseguir las pruebas que le permitan acusar sin lugar a dudas a Claudio - Alfonso le reprocha a Alberto el haber involucrado a Patricia en un asunto tan peligroso; pero ella demanda saber más y, en medio de la discusión, aparece Claudio.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816183037 +0200" stop="20260816192418 +0200">
-    <title>S01 : E01 El Desprecio - S01:E01 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara Inés se defiende por haberse escapado, su única intención era buscar a su familia, los Santa María, noticia que sorprende a Valandró.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816192419 +0200" stop="20260816201906 +0200">
-    <title>S01 : E02 El Desprecio - S01:E02 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara desea que los Santa María la acepten para cumplir con su sueño de tener una verdadera familia</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816201907 +0200" stop="20260816211024 +0200">
-    <title>S01 : E52 Te Tengo en Salsa - S01:E52 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Adriana, en una habitación de huéspedes, es sorprendida por Cristian quien está dispuesto a poseerla.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816211025 +0200" stop="20260816220207 +0200">
-    <title>S01 : E53 Te Tengo en Salsa - S01:E53 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Débil, César intenta continuar su huida, mientras le ruega a Dios que le dé fuerzas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816220208 +0200" stop="20260816225526 +0200">
-    <title>S01 : E50 Piel Salvaje - S01:E50 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Las cuatro mujeres que destruyeron la vida de Rosa Blanco se reencuentran en una casa vacía. Camila se enfrenta a Fausto acusando a Patricia de ser la asesina de Leoncio. Otra vez un motorizado le advierte que no siga buscando a su mamá y le arrebata la carta.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816225527 +0200" stop="20260816234903 +0200">
-    <title>S01 : E51 Piel Salvaje - S01:E51 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Mucha confusión en Camila, nada justifica las mentiras y cada vez Camila está más decepcionada de los engaños de la Madre Isabel. Ezequiel confronta a Julia y agrede salvajemente a Gregorio al encontrarlos juntos.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260816234904 +0200" stop="20260817003701 +0200">
-    <title>Abigail - S01:E040 - Episode 40</title>
-    <desc>Godard le pide a Estrella que le cuente toda la verdad a Abigail para que no se case con Carlos Alfredo y cumpla con su destino. La ceremonia del matrimonio entre Abigail y Carlos Alfredo está a punto de comenzar. Guillermo habla con Carlos Alfredo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817003702 +0200" stop="20260817012636 +0200">
-    <title>Abigail - S02:E001 - Episode 01</title>
-    <desc>Abigail al final consigue lo que quería pero insiste en dañar los sentimientos de María Clara pues decide pedirle a Matilde que invite a la profesora a su boda para que los vea a ella y a Carlos como una pareja de casados felices.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817012637 +0200" stop="20260817022120 +0200">
-    <title>S01 : E69 Corazón Traicionado - S01:E69 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alberto atormentado y furioso porque no fue capaz de impedir el matrimonio de su madre con el traidor de su tío; Alfonso le pide que se calme y se concentre en conseguir las pruebas que le permitan acusar sin lugar a dudas a Claudio - Alfonso le reprocha a Alberto el haber involucrado a Patricia en un asunto tan peligroso; pero ella demanda saber más y, en medio de la discusión, aparece Claudio.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817022121 +0200" stop="20260817031605 +0200">
-    <title>S01 : E69 Corazón Traicionado - S01:E69 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alberto atormentado y furioso porque no fue capaz de impedir el matrimonio de su madre con el traidor de su tío; Alfonso le pide que se calme y se concentre en conseguir las pruebas que le permitan acusar sin lugar a dudas a Claudio - Alfonso le reprocha a Alberto el haber involucrado a Patricia en un asunto tan peligroso; pero ella demanda saber más y, en medio de la discusión, aparece Claudio.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817031606 +0200" stop="20260817040946 +0200">
-    <title>S01 : E01 El Desprecio - S01:E01 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara Inés se defiende por haberse escapado, su única intención era buscar a su familia, los Santa María, noticia que sorprende a Valandró.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817040947 +0200" stop="20260817050435 +0200">
-    <title>S01 : E02 El Desprecio - S01:E02 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara desea que los Santa María la acepten para cumplir con su sueño de tener una verdadera familia</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817050436 +0200" stop="20260817055807 +0200">
-    <title>S01 : E52 Te Tengo en Salsa - S01:E52 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Adriana, en una habitación de huéspedes, es sorprendida por Cristian quien está dispuesto a poseerla.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817055808 +0200" stop="20260817064950 +0200">
-    <title>S01 : E53 Te Tengo en Salsa - S01:E53 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Débil, César intenta continuar su huida, mientras le ruega a Dios que le dé fuerzas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817064951 +0200" stop="20260817080007 +0200">
-    <title>S01 : E50 Piel Salvaje - S01:E50 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Las cuatro mujeres que destruyeron la vida de Rosa Blanco se reencuentran en una casa vacía. Camila se enfrenta a Fausto acusando a Patricia de ser la asesina de Leoncio. Otra vez un motorizado le advierte que no siga buscando a su mamá y le arrebata la carta.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817080008 +0200" stop="20260817085451 +0200">
-    <title>S01 : E69 Corazón Traicionado - S01:E69 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alberto atormentado y furioso porque no fue capaz de impedir el matrimonio de su madre con el traidor de su tío; Alfonso le pide que se calme y se concentre en conseguir las pruebas que le permitan acusar sin lugar a dudas a Claudio - Alfonso le reprocha a Alberto el haber involucrado a Patricia en un asunto tan peligroso; pero ella demanda saber más y, en medio de la discusión, aparece Claudio.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817085452 +0200" stop="20260817094732 +0200">
-    <title>S01 : E70 Corazón Traicionado - S01:E70 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>El impactante regalo para Gertrudis, procedente de la tienda de Pedro Lobo, llega en medio de la fiesta por su matrimonio – Gertrudis, enervada y ya sin poder controlarse más, cuestiona la presencia de Omar opacando su boda; cuando, sin sutileza alguna, Alberto le dice que se acaba de casar con el asesino de su padre.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817094733 +0200" stop="20260817104006 +0200">
-    <title>S01 : E02 El Desprecio - S01:E02 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara desea que los Santa María la acepten para cumplir con su sueño de tener una verdadera familia</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817104007 +0200" stop="20260817113122 +0200">
-    <title>S01 : E03 El Desprecio - S01:E03 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara necesita saber si es una Santa Maria; situación que afecta a Raúl, pues le ha mentido a su amada con la ayuda de sus amigos.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817113123 +0200" stop="20260817122305 +0200">
-    <title>S01 : E53 Te Tengo en Salsa - S01:E53 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Débil, César intenta continuar su huida, mientras le ruega a Dios que le dé fuerzas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817122306 +0200" stop="20260817131453 +0200">
-    <title>S01 : E54 Te Tengo en Salsa - S01:E54 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Intentando zafarse de la locura de “César” Adriana le pide al joven que se marche pero el hombre le exige que le diga cuándo regresará a su lado.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817131454 +0200" stop="20260817140830 +0200">
-    <title>S01 : E51 Piel Salvaje - S01:E51 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Mucha confusión en Camila, nada justifica las mentiras y cada vez Camila está más decepcionada de los engaños de la Madre Isabel. Ezequiel confronta a Julia y agrede salvajemente a Gregorio al encontrarlos juntos.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817140831 +0200" stop="20260817150205 +0200">
-    <title>S01 : E52 Piel Salvaje - S01:E52 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>La Madre Isabel confiesa a Camila pero la muchacha sabe que aún miente. Jeli, su hermanita, sufre por la irresponsabilidad de Fernando, que la embarazó. Max anuncia a Marcelina y Astrid que pronto se casará con Camila.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817150206 +0200" stop="20260817155140 +0200">
-    <title>Abigail - S02:E001 - Episode 01</title>
-    <desc>Abigail al final consigue lo que quería pero insiste en dañar los sentimientos de María Clara pues decide pedirle a Matilde que invite a la profesora a su boda para que los vea a ella y a Carlos como una pareja de casados felices.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817155141 +0200" stop="20260817164137 +0200">
-    <title>Abigail - S02:E002 - Episode 02</title>
-    <desc>Berta se desata en llanto implorando el regreso de su hijo ya que está dispuesta a cambiar. Leonidas le da instrucciones a Pastora de avisarle cuando llegue Carlos Alfredo ya que le urge hablar con él.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817164138 +0200" stop="20260817173622 +0200">
-    <title>S01 : E69 Corazón Traicionado - S01:E69 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alberto atormentado y furioso porque no fue capaz de impedir el matrimonio de su madre con el traidor de su tío; Alfonso le pide que se calme y se concentre en conseguir las pruebas que le permitan acusar sin lugar a dudas a Claudio - Alfonso le reprocha a Alberto el haber involucrado a Patricia en un asunto tan peligroso; pero ella demanda saber más y, en medio de la discusión, aparece Claudio.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817173623 +0200" stop="20260817183106 +0200">
-    <title>S01 : E69 Corazón Traicionado - S01:E69 - Corazon Traicionado</title>
-    <sub-title>Corazon Traicionado</sub-title>
-    <desc>Alberto atormentado y furioso porque no fue capaz de impedir el matrimonio de su madre con el traidor de su tío; Alfonso le pide que se calme y se concentre en conseguir las pruebas que le permitan acusar sin lugar a dudas a Claudio - Alfonso le reprocha a Alberto el haber involucrado a Patricia en un asunto tan peligroso; pero ella demanda saber más y, en medio de la discusión, aparece Claudio.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817183107 +0200" stop="20260817192555 +0200">
-    <title>S01 : E02 El Desprecio - S01:E02 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara desea que los Santa María la acepten para cumplir con su sueño de tener una verdadera familia</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817192556 +0200" stop="20260817201925 +0200">
-    <title>S01 : E03 El Desprecio - S01:E03 - El Desprecio</title>
-    <sub-title>El Desprecio</sub-title>
-    <desc>Clara necesita saber si es una Santa Maria; situación que afecta a Raúl, pues le ha mentido a su amada con la ayuda de sus amigos.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817201926 +0200" stop="20260817211107 +0200">
-    <title>S01 : E53 Te Tengo en Salsa - S01:E53 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Débil, César intenta continuar su huida, mientras le ruega a Dios que le dé fuerzas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817211108 +0200" stop="20260817220256 +0200">
-    <title>S01 : E54 Te Tengo en Salsa - S01:E54 - Te Tengo en Salsa</title>
-    <sub-title>Te Tengo en Salsa</sub-title>
-    <desc>Intentando zafarse de la locura de “César” Adriana le pide al joven que se marche pero el hombre le exige que le diga cuándo regresará a su lado.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817220257 +0200" stop="20260817225632 +0200">
-    <title>S01 : E51 Piel Salvaje - S01:E51 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>Mucha confusión en Camila, nada justifica las mentiras y cada vez Camila está más decepcionada de los engaños de la Madre Isabel. Ezequiel confronta a Julia y agrede salvajemente a Gregorio al encontrarlos juntos.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817225633 +0200" stop="20260817235008 +0200">
-    <title>S01 : E52 Piel Salvaje - S01:E52 - Piel Salvaje</title>
-    <sub-title>Piel Salvaje</sub-title>
-    <desc>La Madre Isabel confiesa a Camila pero la muchacha sabe que aún miente. Jeli, su hermanita, sufre por la irresponsabilidad de Fernando, que la embarazó. Max anuncia a Marcelina y Astrid que pronto se casará con Camila.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20260817235009 +0200" stop="20260818003943 +0200">
-    <title>Abigail - S02:E001 - Episode 01</title>
-    <desc>Abigail al final consigue lo que quería pero insiste en dañar los sentimientos de María Clara pues decide pedirle a Matilde que invite a la profesora a su boda para que los vea a ella y a Carlos como una pareja de casados felices.</desc>
+  <programme channel="wedotv-amor" start="20260813233421 +0200" stop="20260814000027 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814000028 +0200" stop="20260814002653 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814002654 +0200" stop="20260814005733 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814005734 +0200" stop="20260814012326 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814012327 +0200" stop="20260814015224 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814015225 +0200" stop="20260814022314 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814022315 +0200" stop="20260814024705 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814024706 +0200" stop="20260814031305 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814031306 +0200" stop="20260814034005 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814034006 +0200" stop="20260814040633 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814040634 +0200" stop="20260814043407 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814043408 +0200" stop="20260814050539 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814050540 +0200" stop="20260814053540 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814053541 +0200" stop="20260814060317 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814060318 +0200" stop="20260814063120 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814063121 +0200" stop="20260814070033 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814070034 +0200" stop="20260814072703 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814072704 +0200" stop="20260814075806 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814075807 +0200" stop="20260814082645 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814082646 +0200" stop="20260814085723 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814085724 +0200" stop="20260814092721 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814092722 +0200" stop="20260814095729 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814095730 +0200" stop="20260814102835 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814102836 +0200" stop="20260814105716 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814105717 +0200" stop="20260814112512 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814112513 +0200" stop="20260814115440 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814115441 +0200" stop="20260814122319 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814122320 +0200" stop="20260814125357 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814125358 +0200" stop="20260814132008 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814132009 +0200" stop="20260814134811 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814134812 +0200" stop="20260814141422 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814141423 +0200" stop="20260814144207 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814144208 +0200" stop="20260814151239 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814151240 +0200" stop="20260814154204 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814154205 +0200" stop="20260814160744 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814160745 +0200" stop="20260814163620 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814163621 +0200" stop="20260814170225 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814170226 +0200" stop="20260814173221 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814173222 +0200" stop="20260814175941 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814175942 +0200" stop="20260814182330 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814182331 +0200" stop="20260814185155 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814185156 +0200" stop="20260814192325 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814192326 +0200" stop="20260814195344 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814195345 +0200" stop="20260814202421 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814202422 +0200" stop="20260814205322 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814205323 +0200" stop="20260814211917 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814211918 +0200" stop="20260814214754 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814214755 +0200" stop="20260814221840 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814221841 +0200" stop="20260814224846 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814224847 +0200" stop="20260814231927 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814231928 +0200" stop="20260814234936 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260814234937 +0200" stop="20260815001901 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815001902 +0200" stop="20260815004919 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815004920 +0200" stop="20260815011313 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815011314 +0200" stop="20260815013813 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815013814 +0200" stop="20260815020626 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815020627 +0200" stop="20260815023719 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815023720 +0200" stop="20260815030614 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815030615 +0200" stop="20260815033609 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815033610 +0200" stop="20260815040228 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815040229 +0200" stop="20260815042854 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815042855 +0200" stop="20260815045845 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815045846 +0200" stop="20260815052902 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815052903 +0200" stop="20260815060000 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815060001 +0200" stop="20260815062846 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815062847 +0200" stop="20260815070014 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815070015 +0200" stop="20260815072624 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815072625 +0200" stop="20260815075253 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815075254 +0200" stop="20260815082338 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815082339 +0200" stop="20260815084934 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815084935 +0200" stop="20260815091833 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815091834 +0200" stop="20260815094926 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815094927 +0200" stop="20260815101317 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815101318 +0200" stop="20260815103919 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815103920 +0200" stop="20260815110723 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815110724 +0200" stop="20260815113356 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815113357 +0200" stop="20260815120131 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815120132 +0200" stop="20260815123308 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815123309 +0200" stop="20260815130310 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815130311 +0200" stop="20260815133221 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815133222 +0200" stop="20260815140030 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815140031 +0200" stop="20260815143025 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815143026 +0200" stop="20260815150047 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815150048 +0200" stop="20260815152730 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815152731 +0200" stop="20260815155723 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815155724 +0200" stop="20260815162802 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815162803 +0200" stop="20260815165928 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815165929 +0200" stop="20260815172427 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815172428 +0200" stop="20260815175029 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815175030 +0200" stop="20260815182005 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815182006 +0200" stop="20260815184648 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815184649 +0200" stop="20260815191736 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815191737 +0200" stop="20260815194647 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815194648 +0200" stop="20260815201351 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815201352 +0200" stop="20260815203757 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815203758 +0200" stop="20260815210254 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815210255 +0200" stop="20260815213238 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815213239 +0200" stop="20260815220238 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815220239 +0200" stop="20260815223201 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815223202 +0200" stop="20260815230212 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815230213 +0200" stop="20260815232840 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815232841 +0200" stop="20260815235614 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260815235615 +0200" stop="20260816002005 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816002006 +0200" stop="20260816004607 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816004608 +0200" stop="20260816011720 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816011721 +0200" stop="20260816014804 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816014805 +0200" stop="20260816021434 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816021435 +0200" stop="20260816024104 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816024105 +0200" stop="20260816030836 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816030837 +0200" stop="20260816033640 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816033641 +0200" stop="20260816040313 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816040314 +0200" stop="20260816043050 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816043051 +0200" stop="20260816050227 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816050228 +0200" stop="20260816053231 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816053232 +0200" stop="20260816060142 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816060143 +0200" stop="20260816062953 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816062954 +0200" stop="20260816065812 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816065813 +0200" stop="20260816073329 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816073330 +0200" stop="20260816080853 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816080854 +0200" stop="20260816083230 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816083231 +0200" stop="20260816085729 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816085730 +0200" stop="20260816092715 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816092716 +0200" stop="20260816095655 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816095656 +0200" stop="20260816102738 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816102739 +0200" stop="20260816105531 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816105532 +0200" stop="20260816112201 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816112202 +0200" stop="20260816114933 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816114934 +0200" stop="20260816122009 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816122010 +0200" stop="20260816125133 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816125134 +0200" stop="20260816131524 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816131525 +0200" stop="20260816134124 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816134125 +0200" stop="20260816140903 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816140904 +0200" stop="20260816143543 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816143544 +0200" stop="20260816150519 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816150520 +0200" stop="20260816153601 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816153602 +0200" stop="20260816160058 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816160059 +0200" stop="20260816162902 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816162903 +0200" stop="20260816165627 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816165628 +0200" stop="20260816172529 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816172530 +0200" stop="20260816175248 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816175249 +0200" stop="20260816181812 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816181813 +0200" stop="20260816184409 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816184410 +0200" stop="20260816191131 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816191132 +0200" stop="20260816194655 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816194656 +0200" stop="20260816201840 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816201841 +0200" stop="20260816204605 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816204606 +0200" stop="20260816210956 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816210957 +0200" stop="20260816213558 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816213559 +0200" stop="20260816220447 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816220448 +0200" stop="20260816223322 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816223323 +0200" stop="20260816230435 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816230436 +0200" stop="20260816233519 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260816233520 +0200" stop="20260817000111 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817000112 +0200" stop="20260817002834 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817002835 +0200" stop="20260817005820 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817005821 +0200" stop="20260817012758 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817012759 +0200" stop="20260817015839 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817015840 +0200" stop="20260817022632 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817022633 +0200" stop="20260817025302 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817025303 +0200" stop="20260817032032 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817032033 +0200" stop="20260817035108 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817035109 +0200" stop="20260817042230 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817042231 +0200" stop="20260817044621 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817044622 +0200" stop="20260817051223 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817051224 +0200" stop="20260817054002 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20260817054003 +0200" stop="20260817055959 +0200">
+    <title>Info not available</title>
+    <desc>Info not available</desc>
   </programme>
   <programme channel="rookie-blue-spa" start="20260813232810 +0200" stop="20260814001637 +0200">
     <title>S05 : E20 Treinta y dos grados - Rookie Blue</title>
@@ -50527,12 +50229,12 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>David se queda encerrado en el lavabo. Carbonell intenta abrir la puerta pero es imposible; el inquilino anterior montó allí un refugio nuclear.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260815181306 +0200" stop="20260815184456 +0200">
+  <programme channel="lol-espana" start="20260815181306 +0200" stop="20260815184455 +0200">
     <title>S01 : E46 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David toma conciencia de la degradación del medio ambiente y decide hacerse ecologista.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260815184457 +0200" stop="20260815191738 +0200">
+  <programme channel="lol-espana" start="20260815184456 +0200" stop="20260815191738 +0200">
     <title>S01 : E47 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Las familias de López y David han hecho planes para celebrar las fiestas navideñas prescindiendo de ellos. Por ese motivo, los dos deciden pasar de las navidades y fingir que se trata de días normales.</desc>
@@ -50791,12 +50493,12 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Jet Lag</sub-title>
     <desc>Un director de televisión ha elegido el bar de Mario para rodar el anuncio publicitario de una nueva marca de cervezas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260817081312 +0200" stop="20260817084726 +0200">
+  <programme channel="lol-espana" start="20260817081312 +0200" stop="20260817084725 +0200">
     <title>S02 : E06 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona ve que el sofá, el lugar donde ella duerme, ha desaparecido porque Esther ha decidido hacerlo tapizar y tiene que ir a vivir con la Diana.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260817084727 +0200" stop="20260817092032 +0200">
+  <programme channel="lol-espana" start="20260817084726 +0200" stop="20260817092032 +0200">
     <title>S02 : E07 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther está harta de hacer todas las tareas de la casa y quiere coger una mujer de la limpieza.</desc>
