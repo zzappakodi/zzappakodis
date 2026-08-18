@@ -252,6 +252,10 @@
     <display-name lang="es">lifestyle-rakuten-tv</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/84e0b7b3-1612-470a-afdc-67a8c5b0fbbe.jpeg"/>
   </channel>
+  <channel id="nascar">
+    <display-name lang="es">nascar</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6087fb71-fb04-47f4-9a2e-1d577a865d95.jpeg"/>
+  </channel>
   <channel id="tennis-plus">
     <display-name lang="es">tennis-plus</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0922c6a-1c35-4fe3-a0cd-688efa948a68.jpeg"/>
@@ -37524,6 +37528,294 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <title>S9:E4 Si hay fiesta, hay churros - Gipsy Kings</title>
     <sub-title>Gipsy Kings</sub-title>
     <desc>Rebe recibe una propuesta inesperada: ser jueza del certamen de Miss Gitana. Y no es la única alegría: Graciela, la menor de los Jiménez, anuncia su boda. Mientras, las Salazar organizan una fiesta inolvidable y siguen adelante con su proyecto de churrería, la calma dura poco.</desc>
+  </programme>
+  <programme channel="nascar" start="20260818000000 +0200" stop="20260818005959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818010000 +0200" stop="20260818015959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818020000 +0200" stop="20260818025959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818030000 +0200" stop="20260818035959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818040000 +0200" stop="20260818045959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818050000 +0200" stop="20260818055959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818060000 +0200" stop="20260818065959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818070000 +0200" stop="20260818075959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818080000 +0200" stop="20260818085959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818090000 +0200" stop="20260818095959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818100000 +0200" stop="20260818105959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818110000 +0200" stop="20260818115959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818120000 +0200" stop="20260818125959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818130000 +0200" stop="20260818135959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818140000 +0200" stop="20260818145959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818150000 +0200" stop="20260818155959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818160000 +0200" stop="20260818165959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818170000 +0200" stop="20260818175959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818180000 +0200" stop="20260818185959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818190000 +0200" stop="20260818195959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818200000 +0200" stop="20260818205959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818210000 +0200" stop="20260818215959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818220000 +0200" stop="20260818225959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260818230000 +0200" stop="20260818235959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819000000 +0200" stop="20260819005959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819010000 +0200" stop="20260819015959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819020000 +0200" stop="20260819025959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819030000 +0200" stop="20260819035959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819040000 +0200" stop="20260819045959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819050000 +0200" stop="20260819055959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819060000 +0200" stop="20260819065959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819070000 +0200" stop="20260819075959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819080000 +0200" stop="20260819085959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819090000 +0200" stop="20260819095959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819100000 +0200" stop="20260819105959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819110000 +0200" stop="20260819115959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819120000 +0200" stop="20260819125959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819130000 +0200" stop="20260819135959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819140000 +0200" stop="20260819145959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819150000 +0200" stop="20260819155959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819160000 +0200" stop="20260819165959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819170000 +0200" stop="20260819175959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819180000 +0200" stop="20260819185959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819190000 +0200" stop="20260819195959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819200000 +0200" stop="20260819205959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819210000 +0200" stop="20260819215959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819220000 +0200" stop="20260819225959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260819230000 +0200" stop="20260819235959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820000000 +0200" stop="20260820005959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820010000 +0200" stop="20260820015959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820020000 +0200" stop="20260820025959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820030000 +0200" stop="20260820035959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820040000 +0200" stop="20260820045959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820050000 +0200" stop="20260820055959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820060000 +0200" stop="20260820065959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820070000 +0200" stop="20260820075959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820080000 +0200" stop="20260820085959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820090000 +0200" stop="20260820095959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820100000 +0200" stop="20260820105959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820110000 +0200" stop="20260820115959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820120000 +0200" stop="20260820125959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820130000 +0200" stop="20260820135959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820140000 +0200" stop="20260820145959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820150000 +0200" stop="20260820155959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820160000 +0200" stop="20260820165959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820170000 +0200" stop="20260820175959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820180000 +0200" stop="20260820185959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820190000 +0200" stop="20260820195959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820200000 +0200" stop="20260820205959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820210000 +0200" stop="20260820215959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820220000 +0200" stop="20260820225959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260820230000 +0200" stop="20260820235959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821000000 +0200" stop="20260821005959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821010000 +0200" stop="20260821015959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821020000 +0200" stop="20260821025959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821030000 +0200" stop="20260821035959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821040000 +0200" stop="20260821045959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821050000 +0200" stop="20260821055959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821060000 +0200" stop="20260821065959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821070000 +0200" stop="20260821075959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821080000 +0200" stop="20260821085959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821090000 +0200" stop="20260821095959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821100000 +0200" stop="20260821105959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821110000 +0200" stop="20260821115959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821120000 +0200" stop="20260821125959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821130000 +0200" stop="20260821135959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821140000 +0200" stop="20260821145959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821150000 +0200" stop="20260821155959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821160000 +0200" stop="20260821165959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821170000 +0200" stop="20260821175959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821180000 +0200" stop="20260821185959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821190000 +0200" stop="20260821195959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821200000 +0200" stop="20260821205959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821210000 +0200" stop="20260821215959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821220000 +0200" stop="20260821225959 +0200">
+    <title>NASCAR</title>
+  </programme>
+  <programme channel="nascar" start="20260821230000 +0200" stop="20260821235959 +0200">
+    <title>NASCAR</title>
   </programme>
   <programme channel="tennis-plus" start="20260817220113 +0200" stop="20260818013713 +0200">
     <title>S2025 : E07 AO25 Men's First Round - Rinderknech v Tiafoe - Australian Open Full Match</title>
