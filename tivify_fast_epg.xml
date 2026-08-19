@@ -3270,10 +3270,6 @@
     <title lang="es">Buster el robo del siglo</title>
     <desc lang="es">Basada en la vida real de Buster Edwards, un encantador padre de familia que planeo el mayor golpe de la historia de Inglaterra al atracar al tren correo de Glasgow en 1963.</desc>
   </programme>
-  <programme start="20260819042018 +0000" stop="20260819060432 +0000" channel="Cine_Feel_Good_Verdi_TV">
-    <title lang="es">Soltera a los 40</title>
-    <desc lang="es">Ave Maria Mulligan ha vivido toda su vida en Big Stone Gap, un pintoresco pueblo minero enclavado en los Montes Apalaches del suroeste de Virginia. Autoproclamada solterona, Ave Maria rehace su vida y la cambia para siempre tras enterarse de un sorprendente secreto familiar, flirtea con el chico de quien siempre ha estado enamorada y se muestra expectante ante la visita de la estrella Elizabeth Taylor a Big Stone Gap.</desc>
-  </programme>
   <programme start="20260819060432 +0000" stop="20260819074208 +0000" channel="Cine_Feel_Good_Verdi_TV">
     <title lang="es">Un amigo para Frank</title>
     <desc lang="es">En un futuro no muy lejano, la integracion de los robots en la vida humana hara posible que surjan androides programados para cuidar personas mayores. Esa es la solucion que encuentran Hunter y Madison para su anciano padre Frank, cuyas perdidas de memoria son cada vez mas frecuentes.</desc>
@@ -3364,10 +3360,6 @@
     <title lang="es">C'est la vie!</title>
     <desc lang="es">Max ha organizado cientos de bodas durante anos y ahora prepara una boda de lujo en un château frances del siglo XVII. Ha coordinado todo para que la celebracion sea un exito: camareros, orquesta, menu, disc jockey, decoracion floral… Pero el resultado pende de un hilo y cada momento de felicidad y emocion puede convertirse en desastre o caos. ¿A quien confiarias la fiesta mas importante de tu vida?</desc>
   </programme>
-  <programme start="20260819052920 +0000" stop="20260819071506 +0000" channel="Cines_Verdi_TV">
-    <title lang="es">Madame de...</title>
-    <desc lang="es">Paris, 1900, Madame Louise, mujer frivola y coqueta, necesita hacer frente a sus deudas, para lo cual decide vender en secreto unos valiosos pendientes que le habia regalado su marido. Este sencillo acto provocara una dramatica reaccion en cadena. Los pendientes seran primero adquiridos por su propio marido como ofrenda a su amante, y posteriormente ella se deshara de ellos y acabaran en manos de un Baron italiano, quien, por azares del destino, acabara encontrandose en Paris con Madame de...</desc>
-  </programme>
   <programme start="20260819071506 +0000" stop="20260819085001 +0000" channel="Cines_Verdi_TV">
     <title lang="es">La rifa</title>
     <desc lang="es">La increiblemente bella y joven Francesca se ha quedado viuda con una hija pequena a su cargo. Para pagar las deudas de su marido, debe vender todos los objetos de valor que posee. Todo ello para poder pagar el piso en el que vive y el colegio de la nina. Sin embargo, dado que sus problemas economicos no acaban ahi, decide hacer un sorteo entre los hombres mas ricos que la desean en el que ella es el premio.</desc>
@@ -3451,26 +3443,6 @@
   <programme start="20260820202650 +0000" stop="20260820220724 +0000" channel="Cines_Verdi_TV">
     <title lang="es">Ciudad del crimen</title>
     <desc lang="es">Despues de haber matado a uno de sus contrincantes en el ring, Matt (Tom Berenguer) se retira del boxeo y regenta con su socio Nicky un club de bailarinas de striptease en Nueva York. Cuando dos bailarinas aparecen brutalmente asesinadas, Matt sospecha de Carmine, rival y propietario de varios clubes, pero este niega cualquier tipo de implicacion en el crimen. Mientras tanto, el detective de policia Al Wheeler (Billy Dee Williams), que teme que estalle una guerra entre las bandas, intentara impedirla. Pero los asesinato se suceden y toda parece indicar que la siguiente victima sera Loretta (Melanie Griffith), la primera bailarina del local de Matt.</desc>
-  </programme>
-  <programme start="20260819053755 +0000" stop="20260819060450 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Espada Sagrada</sub-title>
-    <desc lang="es">Sasha logra entrar en el sueno de Sisifo y alli descubre que el Caballero de Oro se siente culpable por alejarla de Alone y Tenma y esta convencido de que por su culpa se desencadeno la Guerra Santa. Atenea arriesga su vida intentando convencerle de que abra su corazon y salga de la oscuridad. Mientras, El Cid cae finalmente exhausto en su enfrentamiento contra Oneiros.</desc>
-  </programme>
-  <programme start="20260819060450 +0000" stop="20260819063145 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Tiempo De Batallas Sangrientas</sub-title>
-    <desc lang="es">Con los cuatro dioses del sueno derrotados y la barrera de Hypnos derribada, las fuerzas de Atenea finalmente pueden irrumpir en el Castillo de Hades. Tras pronunciar un discurso en nombre del Patriarca, Hakurei entra solo en el Castillo con el proposito de sellar a Hypnos. Sin embargo, en ese mismo momento, el dios del sueno provoca el autentico despertar de Hades.</desc>
-  </programme>
-  <programme start="20260819063145 +0000" stop="20260819065839 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Cuantos Meses Y Años</sub-title>
-    <desc lang="es">Hakurei se aventura en el Castillo de Hades en solitario, protegido por una espada bendecida por la anterior encarnacion de Atenea. Pero justo cuando se dispone a destruir la barrera que se extiende por el castillo, aparece Hypnos y le revela que ha capturado a sus discipulos. ¿Sera Hakurei capaz de derrotar a quien se convirtio en su mas odiado enemigo durante la ultima Guerra Santa?</desc>
-  </programme>
-  <programme start="20260819065839 +0000" stop="20260819072503 +0000" channel="Anime_Vision">
-    <title lang="es">Saint Seiya The Lost Canvas</title>
-    <sub-title lang="es">Sé Tu Mismo</sub-title>
-    <desc lang="es">Hakurei consigue derrotar a Hypnos con la ayuda de sus camaradas de armas caidos en la ultima Guerra Santa. Pero justo cuando se dispone a destruir la barrera oscura, aparece Hades en persona y acaba con el. Tenma y un enfurecido Shion se enfrentan a Hades, pero no pueden hacer nada contra el poder del dios. Pero justo cuando todo parece perdido, interviene Dohko….</desc>
   </programme>
   <programme start="20260819072503 +0000" stop="20260819075116 +0000" channel="Anime_Vision">
     <title lang="es">La melancolia de Haruhi Suzumiya</title>
@@ -3810,21 +3782,6 @@
   <programme start="20260820220612 +0000" stop="20260820235257 +0000" channel="Anime_Vision">
     <title lang="es">Street Fighter II</title>
     <desc lang="es">En un futuro cercano, la organizacion terrorista Shadowland da un paso adelante en su conquista del mundo asesinando a politicos clave a nivel internacional. Su lider supremo Bison pretende encontrar y capturar a los mejores expertos en artes marciales para convertirlos en maquinas de matar. Con un ejercito de guerreros invencibles a sus ordenes, los unicos que poseen el potencial para detenerle son dos legendarios expertos en artes marciales: el famoso campeon Ken Masters y su antiguo companero de entrenamiento Ryu, que viaja por el mundo para poner a prueba sus habilidades contra todo tipo de luchadores. Pero el maquiavelico plan de Bison pasa por enfrentar a Ryu contra Ken en la lucha de las luchas con el destino del mundo en juego.</desc>
-  </programme>
-  <programme start="20260819054347 +0000" stop="20260819060851 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Ranma 1/2</title>
-    <sub-title lang="es">¿el Agua Caliente Está Bien? Combate En Los Baños Públicos</sub-title>
-    <desc lang="es">La banera del Dojo Tendo se ha roto, asi que todos deciden ir juntos a los banos publicos. ¡Sin embargo, Happosai, que hace todo lo posible por espiar el bano de las chicas, y Ranma, que trata de evitarlo, se enzarzan en un combate que hace que hace que cunda el panico!</desc>
-  </programme>
-  <programme start="20260819060851 +0000" stop="20260819063420 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Neon Genesis Evangelion</title>
-    <sub-title lang="es">Más Allá De La Oscuridad</sub-title>
-    <desc lang="es">Una manana, Tokio-3 se ve afectada por un apagon inesperado y todas las funciones urbanas cesan por completo. Gendo y Fuyutsuki consideran que el apagon es un sabotaje por parte de un extrano y luchan por mantener MAGI y el Central Dogma. Entonces, el Noveno Angel ataca. Shinji y los demas sienten el peligro inminente y se dirigen hacia el cuartel general de NERV. Alli se encuentran con los EVA que Gendo ha iniciado manualmente.</desc>
-  </programme>
-  <programme start="20260819063420 +0000" stop="20260819065949 +0000" channel="Anime_Vision_Classics">
-    <title lang="es">Neon Genesis Evangelion</title>
-    <sub-title lang="es">El Valor De Un Milagro</sub-title>
-    <desc lang="es">El Decimo Angel intenta lanzar un ataque directo contra el cuartel general de NERV dejandose caer desde fuera de la atmosfera. Misato, que ha tomado el mando en el cuartel general, propone una estrategia que tiene solo un 0,00001% de posibilidades de exito. Misato afirma que los milagros solo tienen valor cuando las personas hacen que ocurran, pero Ritsuko la acusa de actuar por su propio deseo de venganza personal ¿Se obrara el milagro que les salve de la caida del Angel?</desc>
   </programme>
   <programme start="20260819065949 +0000" stop="20260819072519 +0000" channel="Anime_Vision_Classics">
     <title lang="es">Neon Genesis Evangelion</title>
@@ -5446,14 +5403,6 @@
     <sub-title lang="es">Combate En El Coliseo: Parte 1</sub-title>
     <desc lang="es">Es la revancha que todos estabamos esperando. Yugi y Kaiba se enfrentan por primera vez desde el Reino de los Duelistas ante miles de avidos fans para ganar el derecho a desafiar a Marik. ¡Es la hora del duelo!</desc>
   </programme>
-  <programme start="20260819055119 +0000" stop="20260819064654 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Reconstruccion de un tejado con 7000 tablillas artesanales obtenidas del bosque en 2021</title>
-    <desc lang="es">Una de las singularidades arquitectonicas de la ermita de montana de este documental es su tejado, construido integramente con tablillas obtenidas en los bosques del entorno. Un grupo de vecinos y expertos en el trabajo forestal de los valles de Aezkoa y de Salazar renovaron en 2021 el tejado de la ermita con 7.000 tablillas de haya.</desc>
-  </programme>
-  <programme start="20260819064654 +0000" stop="20260819070648 +0000" channel="Oficios_Perdidos">
-    <title lang="es">Toneles y barriles artesanos. Fabricacion tradicional de este recipiente para el vino</title>
-    <desc lang="es">Las exigencias de los tiempos han motivado la industrializacion del proceso de elaboracion de los toneles, pero Mariano Burgos conserva frescos los conocimientos de antano y nos recreo en 2007 la fabricacion artesanal que comienza con la elaboracion de las duelas, las tablas que daran forma a los barriles.</desc>
-  </programme>
   <programme start="20260819070648 +0000" stop="20260819080219 +0000" channel="Oficios_Perdidos">
     <title lang="es">Montaje y bandeo tradicional de una campana nueva en el campanario</title>
     <desc lang="es">De los ocho vanos que se abren en la torre campanario de San Saturnino, cuatro los ocupan otras tantas campanas. Dos de ellas, de gran tamano, estan preparadas para el bandeo y mantienen vivo su sonido gracias a la voluntad de la Asociacion de Bandeadores de Artajona. En el ano 2016 pudimos seguir paso a paso el montaje de una campana nueva en el campanario.</desc>
@@ -7020,14 +6969,6 @@
     <sub-title lang="es">Breakthrough Primeros Estadounidenses</sub-title>
     <desc lang="es">Hay nueva evidencia que sugiere que las personas llegaron a Norteamerica antes de lo que se creia, y que han viajado por caminos que ahora estan cubiertos por el mar.</desc>
   </programme>
-  <programme start="20260819053321 +0000" stop="20260819061846 +0000" channel="Ingles_Total">
-    <title lang="es">Expresiones cotidianas que debes conocer</title>
-    <desc lang="es">Aumenta tu expresion oral aprendiendo a dar opiniones, formas de despedida y expresiones con get, bring o take.</desc>
-  </programme>
-  <programme start="20260819061846 +0000" stop="20260819070523 +0000" channel="Ingles_Total">
-    <title lang="es">Hazte preguntas</title>
-    <desc lang="es">Las preguntas que empiezan por wh-, algunos verbos que dan mucho juego y matices de expresiones que hay que conocer.</desc>
-  </programme>
   <programme start="20260819070523 +0000" stop="20260819074938 +0000" channel="Ingles_Total">
     <title lang="es">Regreso al futuro</title>
     <desc lang="es">Aprenderemos pasado, presente y futuro en las lecciones de hoy.</desc>
@@ -7336,14 +7277,6 @@
     <title lang="es">Violent City</title>
     <desc lang="es">After being double-crossed by his mistress and barely escaping a murder attempt, a hit-man sets out to take his revenge on the woman and the mob boss who put her up to it.</desc>
   </programme>
-  <programme start="20260819053534 +0000" stop="20260819062206 +0000" channel="ita_principiante">
-    <title lang="es">¿Quien eres?</title>
-    <desc lang="es">Aprende a hablar de ti mismo y de quien eres con estos sencillos consejos.</desc>
-  </programme>
-  <programme start="20260819062206 +0000" stop="20260819070935 +0000" channel="ita_principiante">
-    <title lang="es">Empieza a conversar</title>
-    <desc lang="es">Aprende a decir la hora, a hablar del tiempo y de tus aficiones. Te ensenamos tambien las fechas y los numeros ordinarios.</desc>
-  </programme>
   <programme start="20260819070935 +0000" stop="20260819081001 +0000" channel="ita_principiante">
     <title lang="es">Refresh del tiempo futuro</title>
     <desc lang="es">Para poder expresar las cosas que van a pasar en ingles, aprende a contar los planes y experiencias con emocion y seguridad. ¡Habla de lo que va a pasar con la confianza como un verdadero hablante de ingles!</desc>
@@ -7547,14 +7480,6 @@
   <programme start="20260820230033 +0000" stop="20260820234742 +0000" channel="ita_principiante">
     <title lang="es">Viajamos al futuro</title>
     <desc lang="es">Vamos a aprender las formas del futuro, los adverbios de frecuencia y seguiremos mejorando la gramatica con preposiciones y articulos.</desc>
-  </programme>
-  <programme start="20260819055216 +0000" stop="20260819063614 +0000" channel="ita_intermedio">
-    <title lang="es">Verbos irregulares</title>
-    <desc lang="es">En esta seccion de ITA observaremos como usar en distintas situaciones los verbos irregulares y verbos modales.</desc>
-  </programme>
-  <programme start="20260819063614 +0000" stop="20260819071807 +0000" channel="ita_intermedio">
-    <title lang="es">Expresate cada dia mejor</title>
-    <desc lang="es">Usa la voz pasiva y mejora tu gramatica para hacer preguntas indirectas y expresar de forma correcta los matices.</desc>
   </programme>
   <programme start="20260819071807 +0000" stop="20260819080118 +0000" channel="ita_intermedio">
     <title lang="es">Mejora tu expresion oral</title>
@@ -7775,14 +7700,6 @@
   <programme start="20260820225439 +0000" stop="20260820233727 +0000" channel="ita_intermedio">
     <title lang="es">Regreso al futuro</title>
     <desc lang="es">Aprenderemos pasado, presente y futuro en las lecciones de hoy.</desc>
-  </programme>
-  <programme start="20260819051218 +0000" stop="20260819055822 +0000" channel="ita_avanzado">
-    <title lang="es">Cualquier tiempo pasado</title>
-    <desc lang="es">Repasamos de verbos, el pasado perfecto, phrasal verbs y would. Tambien los adverbios de lugar.</desc>
-  </programme>
-  <programme start="20260819055822 +0000" stop="20260819064248 +0000" channel="ita_avanzado">
-    <title lang="es">¡Vamonos de vacaciones!</title>
-    <desc lang="es">¿Deseando irte de vacaciones y no te decides por tu proximo destino? ¡Llevanos contigo con estos consejos!</desc>
   </programme>
   <programme start="20260819064248 +0000" stop="20260819072632 +0000" channel="ita_avanzado">
     <title lang="es">Vocabulario y expresiones comunes</title>
@@ -8011,20 +7928,6 @@
   <programme start="20260820225238 +0000" stop="20260820234147 +0000" channel="ita_avanzado">
     <title lang="es">Repasa y mejora la gramatica</title>
     <desc lang="es">Repaso de los tiempos continuos y phrasal verbs y mejora de la gramatica con "some / any", comparativos y superlativos.</desc>
-  </programme>
-  <programme start="20260819053724 +0000" stop="20260819060650 +0000" channel="vaughan">
-    <title lang="es">Richard Vaughan Live Episode 101 - 105</title>
-    <desc lang="es">¿Como es tener una clase con el guru del ingles? Richard Vaughan te invita a un programa de 5 minutos donde descubriras el poder de su metodo y veras como mejoras tu ingles casi sin darte cuenta.</desc>
-  </programme>
-  <programme start="20260819060650 +0000" stop="20260819063446 +0000" channel="vaughan">
-    <title lang="es">The Show With No Name</title>
-    <sub-title lang="es">The Show With No Name Episode 21</sub-title>
-    <desc lang="es">Alberto Alonso te invita a disfrutar de un programa vibrante donde el aprendizaje del ingles se convierte en algo divertido y util. Cultura popular y noticias actuales se entrelazan para ofrecerte una experiencia educativa unica.</desc>
-  </programme>
-  <programme start="20260819063446 +0000" stop="20260819070200 +0000" channel="vaughan">
-    <title lang="es">The Kyle Millar Show</title>
-    <sub-title lang="es">The Kyle Millar Show Episode 21</sub-title>
-    <desc lang="es">Aprender ingles se convierte en un desafio emocionante con The Kyle Millar Show. Kyle te lleva por un recorrido interactivo que abarca desde la gramatica basica hasta la pronunciacion perfecta, asegurandose de que cada clase sea tan intensa como gratificante. ¡Ideal para quienes buscan dominar el idioma rapidamente!</desc>
   </programme>
   <programme start="20260819070200 +0000" stop="20260819072945 +0000" channel="vaughan">
     <title lang="es">English on the DOT</title>
@@ -8669,10 +8572,6 @@
     <title lang="es">Inferno</title>
     <desc lang="es">Mientras un hombre conduce su moto por el desierto, unos matones le roban el vehiculo y lo dan por muerto. Sobrevive y ya no piensa en el suicidio, porque ahora tiene un objetivo en la vida: vengarse y recuperar su moto.</desc>
   </programme>
-  <programme start="20260819041539 +0000" stop="20260819060832 +0000" channel="Film_Co">
-    <title lang="es">Zoe</title>
-    <desc lang="es">Gema se ha quedado sin trabajo. Su hija Zoe suena con tener alas. Gema desea volar con ella, salir de ese lugar que asfixia, que alimenta el miedo. Ambas imaginas un nuevo hogar pintado de rojo, alejado del ruido, cerca de ellas mismas. Primer largometraje de Ander Duque. Pelicula documental, Zoe es un relato amargo que se enclava en el sur de Espana en y se narra la vida de una joven madre que intenta sobrevivir junto a su hija Zoe, a una realidad social reconocible por todos. Asistimos entonces a las ultimas 48 horas de una relacion entre una madre y una hija con un final tan predecible como intenso.</desc>
-  </programme>
   <programme start="20260819060832 +0000" stop="20260819073549 +0000" channel="Film_Co">
     <title lang="es">La ultima cena</title>
     <desc lang="es">Una cena entre amigos en la que el alcohol, las drogas, un caso de corrupcion y una visita inesperada convertiran la noche en un encuentro salvaje, donde el espectador sera un invitado mas.</desc>
@@ -8768,10 +8667,6 @@
   <programme start="20260820220114 +0000" stop="20260820232114 +0000" channel="Film_Co">
     <title lang="es">Seccion Oficial 1x10 by Mundoplus.tv</title>
     <desc lang="es">"Seccion Oficial" charla esta semana con Maria Herrera, directora del cortometraje nominado a los Forque "El cuento de una noche de verano". Ademas, nos asomamos a un Premio Planeta y descubrimos joyas del streaming que ver en diciembre.</desc>
-  </programme>
-  <programme start="20260819042816 +0000" stop="20260819060430 +0000" channel="Planeta_de_Cine">
-    <title lang="es">El pequeno Nicolas</title>
-    <desc lang="es">Inclinados sobre un gran folio en blanco en algun lugar entre Montmartre y Saint-Germain-des-Pres, Jean-Jacques Sempe y Rene Goscinny dan vida a El pequeno Nicolas, un nino risueno y travieso. La suya es una infancia alegre, llena de juegos, diversion, bromas, aprendizaje, complicidad, peleas y castigos. Las aventuras de Nicolas le llevan al estudio de sus creadores, donde habla con ellos de forma distendida. Sempe y Goscinny le cuentan como se conocieron y se hicieron amigos, y tambien responden a preguntas sobre su carrera, su infancia y sus ambiciones.</desc>
   </programme>
   <programme start="20260819060430 +0000" stop="20260819074514 +0000" channel="Planeta_de_Cine">
     <title lang="es">La abeja Maya. La pelicula</title>
@@ -9071,18 +8966,6 @@
     <title lang="es">Close Up</title>
     <sub-title lang="es">Close Up: Al Pacino</sub-title>
     <desc lang="es">La historia, el glamour, la cinematografia y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
-  </programme>
-  <programme start="20260819045632 +0000" stop="20260819060415 +0000" channel="Pocoyoymas">
-    <title lang="es">Lo mejor de la T4</title>
-    <desc lang="es">Lo mas destacado de la cuarta temporada, llena de creatividad, amabilidad y sorpresas.</desc>
-  </programme>
-  <programme start="20260819060415 +0000" stop="20260819063734 +0000" channel="Pocoyoymas">
-    <title lang="es">¿Cuando llegamos?</title>
-    <desc lang="es">¿Cuando Llegamos? Que Empiece La Partida La Gran Final Pato Aceitoso.</desc>
-  </programme>
-  <programme start="20260819063734 +0000" stop="20260819071117 +0000" channel="Pocoyoymas">
-    <title lang="es">Dinosaurios</title>
-    <desc lang="es">Dinosaurios ¡Al Abordaje! El Perfume Rosa Pocoyo Robot.</desc>
   </programme>
   <programme start="20260819071117 +0000" stop="20260819074437 +0000" channel="Pocoyoymas">
     <title lang="es">El Movil De Pato</title>
