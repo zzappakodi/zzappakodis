@@ -6844,13 +6844,9 @@
     <title>Noticias en 30 minutos</title>
     <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
-  <programme channel="actualidad-360" start="20260829180001 +0200" stop="20260829181500 +0200">
-    <title>Noticias en 30 minutos</title>
-    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-  </programme>
-  <programme channel="actualidad-360" start="20260829181501 +0200" stop="20260829183000 +0200">
-    <title>Noticias en 30 minutos</title>
-    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+  <programme channel="actualidad-360" start="20260829180001 +0200" stop="20260829183000 +0200">
+    <title>Deutsche Welle</title>
+    <desc>Noticias, reportajes y artículos de fondo sobre los temas de mayor relevancia internacional</desc>
   </programme>
   <programme channel="actualidad-360" start="20260829183001 +0200" stop="20260829184500 +0200">
     <title>Noticias en 30 minutos</title>
@@ -6924,13 +6920,9 @@
     <title>Noticias en 30 minutos</title>
     <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
-  <programme channel="actualidad-360" start="20260829230001 +0200" stop="20260829231500 +0200">
-    <title>Noticias en 30 minutos</title>
-    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-  </programme>
-  <programme channel="actualidad-360" start="20260829231501 +0200" stop="20260829233000 +0200">
-    <title>Noticias en 30 minutos</title>
-    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+  <programme channel="actualidad-360" start="20260829230001 +0200" stop="20260829233000 +0200">
+    <title>Deutsche Welle</title>
+    <desc>Noticias, reportajes y artículos de fondo sobre los temas de mayor relevancia internacional</desc>
   </programme>
   <programme channel="actualidad-360" start="20260829233001 +0200" stop="20260829234500 +0200">
     <title>Noticias en 30 minutos</title>
@@ -7228,13 +7220,9 @@
     <title>Noticias en 30 minutos</title>
     <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
-  <programme channel="actualidad-360" start="20260830180001 +0200" stop="20260830181500 +0200">
-    <title>Noticias en 30 minutos</title>
-    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-  </programme>
-  <programme channel="actualidad-360" start="20260830181501 +0200" stop="20260830183000 +0200">
-    <title>Noticias en 30 minutos</title>
-    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+  <programme channel="actualidad-360" start="20260830180001 +0200" stop="20260830183000 +0200">
+    <title>Deutsche Welle</title>
+    <desc>Noticias, reportajes y artículos de fondo sobre los temas de mayor relevancia internacional</desc>
   </programme>
   <programme channel="actualidad-360" start="20260830183001 +0200" stop="20260830184500 +0200">
     <title>Noticias en 30 minutos</title>
@@ -7308,13 +7296,9 @@
     <title>Noticias en 30 minutos</title>
     <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
-  <programme channel="actualidad-360" start="20260830230001 +0200" stop="20260830231500 +0200">
-    <title>Noticias en 30 minutos</title>
-    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
-  </programme>
-  <programme channel="actualidad-360" start="20260830231501 +0200" stop="20260830233000 +0200">
-    <title>Noticias en 30 minutos</title>
-    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+  <programme channel="actualidad-360" start="20260830230001 +0200" stop="20260830233000 +0200">
+    <title>Deutsche Welle</title>
+    <desc>Noticias, reportajes y artículos de fondo sobre los temas de mayor relevancia internacional</desc>
   </programme>
   <programme channel="actualidad-360" start="20260830233001 +0200" stop="20260830234500 +0200">
     <title>Noticias en 30 minutos</title>
@@ -28401,7 +28385,7 @@
   </programme>
   <programme channel="daystar-eng" start="20260830020001 +0200" stop="20260830023000 +0200">
     <title>Healing Time with Dr. Doug Weiss</title>
-    <desc>Equipping Pastors, group leaders &amp; church members with biblical truth and tools to heal themselves and take healing to a wounded world. </desc>
+    <desc>How Dan Steiner is helping save the lives of innocent babies while sharing the hope of Jesus with women in crisis.</desc>
   </programme>
   <programme channel="daystar-eng" start="20260830023001 +0200" stop="20260830030000 +0200">
     <title>Ron Carpenter</title>
@@ -28441,7 +28425,7 @@
   </programme>
   <programme channel="daystar-eng" start="20260830073001 +0200" stop="20260830080000 +0200">
     <title>The Jewish Jesus</title>
-    <desc>Rabbi K.A. Schneider, a believer in Jesus and end-times messenger of the Lord, delivers the Word of God with clarity and the true passion of the Holy Spirit.</desc>
+    <desc>As Rosh Hashanah points us toward awakening and preparation, Rabbi challenges viewers to keep their lamps burning for the coming King.</desc>
   </programme>
   <programme channel="daystar-eng" start="20260830080001 +0200" stop="20260830083000 +0200">
     <title>The Narrow Way</title>
@@ -28497,7 +28481,7 @@
   </programme>
   <programme channel="daystar-eng" start="20260830143001 +0200" stop="20260830150000 +0200">
     <title>The Jewish Jesus</title>
-    <desc>Rabbi K.A. Schneider, a believer in Jesus and end-times messenger of the Lord, delivers the Word of God with clarity and the true passion of the Holy Spirit.</desc>
+    <desc>As Rosh Hashanah points us toward awakening and preparation, Rabbi challenges viewers to keep their lamps burning for the coming King.</desc>
   </programme>
   <programme channel="daystar-eng" start="20260830150001 +0200" stop="20260830153000 +0200">
     <title>The Winner's Way with Mac Hammond</title>
@@ -28561,7 +28545,7 @@
   </programme>
   <programme channel="daystar-eng" start="20260830230001 +0200" stop="20260830233000 +0200">
     <title>The Jewish Jesus</title>
-    <desc>Rabbi K.A. Schneider, a believer in Jesus and end-times messenger of the Lord, delivers the Word of God with clarity and the true passion of the Holy Spirit.</desc>
+    <desc>As Rosh Hashanah points us toward awakening and preparation, Rabbi challenges viewers to keep their lamps burning for the coming King.</desc>
   </programme>
   <programme channel="daystar-eng" start="20260830233001 +0200" stop="20260831000000 +0200">
     <title>Dr. David Jeremiah</title>
@@ -37567,202 +37551,207 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2021 Men's Second Round - Stefanos Tsitsipas v Thanasi Kokkinakis</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260827182217 +0200" stop="20260827211525 +0200">
+  <programme channel="tennis-plus" start="20260827182217 +0200" stop="20260827211425 +0200">
     <title>S2010 : E04 AO10 Men's Semifinal - Murray v Cilic - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2010 Men's Semifinal - Andy Murray v Marin Cilic</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260827211526 +0200" stop="20260827231219 +0200">
+  <programme channel="tennis-plus" start="20260827211426 +0200" stop="20260827231019 +0200">
     <title>S2008 : E04 AO08 Men's Semifinal - Tsonga v Nadal - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2008 Men's Semifinal - Jo-Wilfried Tsonga v Rafael Nadal</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260827231220 +0200" stop="20260828012114 +0200">
+  <programme channel="tennis-plus" start="20260827231020 +0200" stop="20260828011844 +0200">
     <title>S2020 : E06 AO20 Men's Quarterfinal - Zverev v Wawrinka - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2020 Men's Quarterfinal - Alexander Zverev v Stan Wawrinka</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828012115 +0200" stop="20260828042342 +0200">
+  <programme channel="tennis-plus" start="20260828011845 +0200" stop="20260828042012 +0200">
     <title>S2009 : E04 AO09 Women's Fourth Round - Dokic v Kleybanova - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2009 Women's Fourth Round - Jelena Dokic v Alisa Kleybanova</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828042343 +0200" stop="20260828054216 +0200">
+  <programme channel="tennis-plus" start="20260828042013 +0200" stop="20260828053746 +0200">
     <title>S2020 : E21 AO20 Women's Third Round - Barty v Rybakina - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2020 Women's Third Round - Ash Barty v Elena Rybakina</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828054217 +0200" stop="20260828064449 +0200">
+  <programme channel="tennis-plus" start="20260828053747 +0200" stop="20260828063606 +0200">
     <title>S2025 : E44 AO25 Women's Fourth Round - Sabalenka v Andreeva - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2025 Women's Fourth Round - Aryna Sabalenka v Mirra Andreeva</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828064450 +0200" stop="20260828090144 +0200">
+  <programme channel="tennis-plus" start="20260828063607 +0200" stop="20260828085300 +0200">
     <title>S2018 : E11 AO18 Women's Semifinal - Halep v Kerber - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2018 Women's Semifinal - Simona Halep v Angelique Kerber</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828090145 +0200" stop="20260828111143 +0200">
+  <programme channel="tennis-plus" start="20260828085301 +0200" stop="20260828110200 +0200">
     <title>S2025 : E27 AO25 Men's Third Round - Djokovic v Machac - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2025 Men's Third Round - Novak Djokovic v Tomas Machac</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828111144 +0200" stop="20260828114017 +0200">
+  <programme channel="tennis-plus" start="20260828110201 +0200" stop="20260828113033 +0200">
     <title>S2020 : E62 AO20 Men's Third Round - Kyrgios v Khachanov - Australian Open Classic Match</title>
     <sub-title>Australian Open Classic Match</sub-title>
     <desc>Watch the condensed classic match of the Australian Open 2020 Men's Third Round - Nick Kyrgios v Karen Khachanov</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828114018 +0200" stop="20260828122422 +0200">
+  <programme channel="tennis-plus" start="20260828113034 +0200" stop="20260828121438 +0200">
     <title>S2026 : E51 Weekly Episode - Pod Laver Arena</title>
     <sub-title>Pod Laver Arena</sub-title>
     <desc>Latest episode of Pod Laver Arena hosted by comedians Mike Goldstien and Sam Taunton.</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828122423 +0200" stop="20260828154646 +0200">
+  <programme channel="tennis-plus" start="20260828121439 +0200" stop="20260828153702 +0200">
     <title>S1995 : E38 AO95 Men's Quarterfinal - Courier v Sampras - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 1995 Men's Quarterfinal - Jim Courier v Pete Sampras</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828154647 +0200" stop="20260828161648 +0200">
+  <programme channel="tennis-plus" start="20260828153703 +0200" stop="20260828160704 +0200">
     <title>S1995 : E09 AO93 Women's Final - Seles v Graf - Australian Open Classic Match</title>
     <sub-title>Australian Open Classic Match</sub-title>
     <desc>Watch the condensed classic match of the Australian Open 1993 Women's Final - Monica Seles v Steffi Graf</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828161649 +0200" stop="20260828190311 +0200">
+  <programme channel="tennis-plus" start="20260828160705 +0200" stop="20260828185328 +0200">
     <title>S2025 : E25 AO25 Men's Third Round - Alcaraz v Borges - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2025 Men's Third Round - Carlos Alcaraz v Nuno Borges</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828190312 +0200" stop="20260828214505 +0200">
+  <programme channel="tennis-plus" start="20260828185329 +0200" stop="20260828213521 +0200">
     <title>S2010 : E09 AO10 Women's Quarterfinal - V Williams v Na - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2010 Women's Quarterfinal - Venus Williams v Li Na</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828214506 +0200" stop="20260828215440 +0200">
+  <programme channel="tennis-plus" start="20260828213522 +0200" stop="20260828214457 +0200">
     <title>AO Moments</title>
     <desc>See some of the most rarest events to take place on a tennis court</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260828215441 +0200" stop="20260829011351 +0200">
+  <programme channel="tennis-plus" start="20260828214458 +0200" stop="20260829010407 +0200">
     <title>S2023 : E09 AO23 Men's Fourth Round - Shelton v Wolf - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2023 Men's Fourth Round - Ben Shelton v JJ Wolf</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829011352 +0200" stop="20260829040332 +0200">
+  <programme channel="tennis-plus" start="20260829010408 +0200" stop="20260829035348 +0200">
     <title>S2023 : E26 AO23 Women's Second Round - Muchova v Collins - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2023 Women's Second Round - Karolina Muchova v Danielle Collins</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829040333 +0200" stop="20260829050353 +0200">
+  <programme channel="tennis-plus" start="20260829035349 +0200" stop="20260829045409 +0200">
     <title>The Score Australian Open 2026 Official Film</title>
     <desc>The official Australian Open 2026 Film, The Score</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829050354 +0200" stop="20260829065410 +0200">
+  <programme channel="tennis-plus" start="20260829045410 +0200" stop="20260829064427 +0200">
     <title>S2023 : E24 AO23 Women's Second Round - Fernandez v Garcia - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2023 Women's Second Round - Leylah Fernandez v Caroline Garcia</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829065411 +0200" stop="20260829092841 +0200">
+  <programme channel="tennis-plus" start="20260829064428 +0200" stop="20260829091857 +0200">
     <title>S2022 : E10 AO22 Men's Second Round - Fritz v Tiafoe - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2022 Men's Second Round - Taylor Fritz v Frances Tiafoe</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829092842 +0200" stop="20260829100109 +0200">
+  <programme channel="tennis-plus" start="20260829091858 +0200" stop="20260829095125 +0200">
     <title>S2017 : E46 AO17 Men's Semifinal - Dimitrov v Nadal - Australian Open Classic Match</title>
     <sub-title>Australian Open Classic Match</sub-title>
     <desc>Watch the condensed classic match of the Australian Open 2017 Men's Semifinal - Grigor Dimitrov v Rafael Nadal</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829100110 +0200" stop="20260829115650 +0200">
+  <programme channel="tennis-plus" start="20260829095126 +0200" stop="20260829114706 +0200">
     <title>S2009 : E05 AO09 Women's Quarterfinal - S Williams v Kuznetsova - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2009 Women's Quarterfinal - Serena Williams v Svetlana Kuznetsova</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829115651 +0200" stop="20260829120612 +0200">
+  <programme channel="tennis-plus" start="20260829114707 +0200" stop="20260829115629 +0200">
     <title>S2024 : E22 Francis Tiafoe - Cinema Sessions</title>
     <sub-title>Cinema Sessions</sub-title>
     <desc>Joining us today in the cinema is Francis Tiafoe</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829120613 +0200" stop="20260829131437 +0200">
+  <programme channel="tennis-plus" start="20260829115630 +0200" stop="20260829130453 +0200">
     <title>S2022 : E23 AO22 Women's Semifinal - Barty v Keys - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2022 Women's Semifinal - Ash Barty v Madison Keys</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829131438 +0200" stop="20260829141027 +0200">
+  <programme channel="tennis-plus" start="20260829130454 +0200" stop="20260829140043 +0200">
     <title>Australian Open Tournament Film</title>
     <desc>Relive what took place at the 2012 Australian Open</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829141028 +0200" stop="20260829160012 +0200">
+  <programme channel="tennis-plus" start="20260829140044 +0200" stop="20260829155028 +0200">
     <title>S2021 : E16 AO21 Women's Third Round - Svitolina v Pegula - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2021 Women's Third Round - Elina Svitolina v Jess Pegula</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829160013 +0200" stop="20260829163201 +0200">
+  <programme channel="tennis-plus" start="20260829155029 +0200" stop="20260829162217 +0200">
     <title>S1995 : E10 AO95 Men's Quarterfinal - Courier v Sampras - Australian Open Classic Match</title>
     <sub-title>Australian Open Classic Match</sub-title>
     <desc>Watch the condensed classic match of the Australian Open 1995 Men's Quarterfinal - Jim Courier v Pete Sampras</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829163202 +0200" stop="20260829193420 +0200">
+  <programme channel="tennis-plus" start="20260829162218 +0200" stop="20260829192437 +0200">
     <title>S2014 : E03 AO14 Men's Quarterfinal - Federer v Murray - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2014 Men's Quarterfinal - Roger Federer v Andy Murray</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829193421 +0200" stop="20260829223015 +0200">
+  <programme channel="tennis-plus" start="20260829192438 +0200" stop="20260829222032 +0200">
     <title>S2024 : E28 AO24 Women's Quarterfinal - Kostyuk v Gauff - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2024 Women's Quarterfinal - Marta Kostyuk v Coco Gauff</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260829223016 +0200" stop="20260830012010 +0200">
+  <programme channel="tennis-plus" start="20260829222033 +0200" stop="20260830011026 +0200">
     <title>S2024 : E16 AO24 Men's Second Round - Djokovic v Popyrin - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2024 Men's Second Round - Novak Djokovic v Alexei Popyrin</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830012011 +0200" stop="20260830014913 +0200">
+  <programme channel="tennis-plus" start="20260830011027 +0200" stop="20260830013929 +0200">
     <title>S2018 : E55 AO18 Women's Semifinal - Kerber v Halep - Australian Open Classic Match</title>
     <sub-title>Australian Open Classic Match</sub-title>
     <desc>Watch the condensed classic match of the Australian Open 2018 Women's Semifinal - Angelique Kerber v Simona Halep</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830014914 +0200" stop="20260830050140 +0200">
+  <programme channel="tennis-plus" start="20260830013930 +0200" stop="20260830045156 +0200">
     <title>S2023 : E08 AO23 Men's Fourth Round - Rune v Rublev - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2023 Men's Fourth Round - Holger Rune v Andrey Rublev</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830050141 +0200" stop="20260830064410 +0200">
+  <programme channel="tennis-plus" start="20260830045157 +0200" stop="20260830063426 +0200">
     <title>S2022 : E28 AO22 Women's Third Round - Vondrousova v Sabalenka - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2022 Women's Third Round - Vondrousova v Aryna Sabalenka</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830064411 +0200" stop="20260830092924 +0200">
+  <programme channel="tennis-plus" start="20260830063427 +0200" stop="20260830091940 +0200">
     <title>S2025 : E31 AO25 Men's Third Round - Shelton v Musetti - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2025 Men's Third Round - Ben Shelton v Lorzeno Musetti</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830092925 +0200" stop="20260830113953 +0200">
+  <programme channel="tennis-plus" start="20260830091941 +0200" stop="20260830113009 +0200">
     <title>S2022 : E26 AO22 Women's Third Round - Osaka v Anisimova - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2022 Women's Third Round - Naomi Osaka v Amanda Anisimova</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830113954 +0200" stop="20260830140256 +0200">
+  <programme channel="tennis-plus" start="20260830113010 +0200" stop="20260830135312 +0200">
     <title>S1995 : E36 AO95 Men's Final - Agassi v Sampras - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 1995 Men's Final - Andre Agassi v Pete Sampras</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830140257 +0200" stop="20260830153057 +0200">
+  <programme channel="tennis-plus" start="20260830135313 +0200" stop="20260830152113 +0200">
     <title>S1995 : E40 AO95 Women's Final - Pierce v Sanchez Vicario - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 1995 Women's Final - Mary Pierce v Arantxa Sanchez Vicario</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830153058 +0200" stop="20260830174527 +0200">
+  <programme channel="tennis-plus" start="20260830152114 +0200" stop="20260830173543 +0200">
     <title>S2025 : E08 AO25 Men's First Round - Rublev v Fonseca - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2025 Men's First Round - Andrey Rublev v Joao Fonseca</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830174528 +0200" stop="20260830205004 +0200">
+  <programme channel="tennis-plus" start="20260830173544 +0200" stop="20260830204020 +0200">
     <title>S2023 : E15 AO23 Men's Third Round - Djokovic v Dimitrov - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2023 Men's Third Round - Novak Djokovic v Grigor Dimitrov</desc>
   </programme>
-  <programme channel="tennis-plus" start="20260830205005 +0200" stop="20260831000808 +0200">
+  <programme channel="tennis-plus" start="20260830204021 +0200" stop="20260830235824 +0200">
     <title>S2025 : E37 AO25 Women's First Round - Navarro v Stearns - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2025 Women's First Round - Emma Navarro v Peyton Stearns</desc>
+  </programme>
+  <programme channel="tennis-plus" start="20260830235825 +0200" stop="20260831030044 +0200">
+    <title>S2014 : E03 AO14 Men's Quarterfinal - Federer v Murray - Australian Open Full Match</title>
+    <sub-title>Australian Open Full Match</sub-title>
+    <desc>Full Match of Australian Open 2014 Men's Quarterfinal - Roger Federer v Andy Murray</desc>
   </programme>
   <programme channel="red-bull-tv-es" start="20260826232528 +0200" stop="20260827003231 +0200">
     <title>Ice Waterfalls: expedición de kayak en el ártico</title>
