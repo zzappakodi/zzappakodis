@@ -1312,375 +1312,7 @@
     <title>Arts24</title>
     <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
   </programme>
-  <programme channel="france-24-en" start="20260830020001 +0200" stop="20260830021200 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830021201 +0200" stop="20260830023000 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830023001 +0200" stop="20260830024200 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830024201 +0200" stop="20260830025400 +0200">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830025401 +0200" stop="20260830030000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830030001 +0200" stop="20260830031500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830031501 +0200" stop="20260830033000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830033001 +0200" stop="20260830034500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830034501 +0200" stop="20260830040000 +0200">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830040001 +0200" stop="20260830041500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830041501 +0200" stop="20260830043000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830043001 +0200" stop="20260830044500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830044501 +0200" stop="20260830045100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830045101 +0200" stop="20260830050000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830050001 +0200" stop="20260830051500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830051501 +0200" stop="20260830053000 +0200">
-    <title>France In Focus</title>
-    <desc>An in-depth look at the political and social events shaping France.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830053001 +0200" stop="20260830054500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830054501 +0200" stop="20260830060000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830060001 +0200" stop="20260830061500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830061501 +0200" stop="20260830062100 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830062101 +0200" stop="20260830063000 +0200">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830063001 +0200" stop="20260830064500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830064501 +0200" stop="20260830065100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830065101 +0200" stop="20260830070000 +0200">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830070001 +0200" stop="20260830071500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830071501 +0200" stop="20260830073000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830073001 +0200" stop="20260830074500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830074501 +0200" stop="20260830075100 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830075101 +0200" stop="20260830080000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830080001 +0200" stop="20260830081500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830081501 +0200" stop="20260830083000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830083001 +0200" stop="20260830084500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830084501 +0200" stop="20260830085000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830085001 +0200" stop="20260830090000 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830090001 +0200" stop="20260830093000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830093001 +0200" stop="20260830100000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830100001 +0200" stop="20260830101500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830101501 +0200" stop="20260830102000 +0200">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830102001 +0200" stop="20260830103000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830103001 +0200" stop="20260830104500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830104501 +0200" stop="20260830110000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830110001 +0200" stop="20260830111500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830111501 +0200" stop="20260830113000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830113001 +0200" stop="20260830114500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830114501 +0200" stop="20260830120000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830120001 +0200" stop="20260830121500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830121501 +0200" stop="20260830123000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830123001 +0200" stop="20260830124500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830124501 +0200" stop="20260830125000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830125001 +0200" stop="20260830130000 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830130001 +0200" stop="20260830133000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830133001 +0200" stop="20260830140000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830140001 +0200" stop="20260830141200 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830141201 +0200" stop="20260830143000 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830143001 +0200" stop="20260830144200 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830144201 +0200" stop="20260830145400 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830145401 +0200" stop="20260830150000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830150001 +0200" stop="20260830151500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830151501 +0200" stop="20260830153000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830153001 +0200" stop="20260830154500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830154501 +0200" stop="20260830160000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830160001 +0200" stop="20260830161500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830161501 +0200" stop="20260830162100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830162101 +0200" stop="20260830163000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830163001 +0200" stop="20260830164500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830164501 +0200" stop="20260830170000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830170001 +0200" stop="20260830171500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830171501 +0200" stop="20260830173000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830173001 +0200" stop="20260830174500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830174501 +0200" stop="20260830180000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830180001 +0200" stop="20260830183000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830183001 +0200" stop="20260830190000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830190001 +0200" stop="20260830191500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830191501 +0200" stop="20260830193000 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830193001 +0200" stop="20260830194500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830194501 +0200" stop="20260830200000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830200001 +0200" stop="20260830203000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830203001 +0200" stop="20260830210000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830210001 +0200" stop="20260830211500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830211501 +0200" stop="20260830213000 +0200">
-    <title>France In Focus</title>
-    <desc>An in-depth look at the political and social events shaping France.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830213001 +0200" stop="20260830214500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830214501 +0200" stop="20260830215100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830215101 +0200" stop="20260830220000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830220001 +0200" stop="20260830221000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830221001 +0200" stop="20260830223000 +0200">
-    <title>Revisited</title>
-    <desc>France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830223001 +0200" stop="20260830224000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830224001 +0200" stop="20260830224500 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830224501 +0200" stop="20260830230000 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830230001 +0200" stop="20260830231500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830231501 +0200" stop="20260830233000 +0200">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830233001 +0200" stop="20260830234500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260830234501 +0200" stop="20260831000000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260831000001 +0200" stop="20260831001500 +0200">
+  <programme channel="france-24-en" start="20260830020001 +0200" stop="20260831001500 +0200">
     <title>News</title>
     <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
@@ -11013,11 +10645,11 @@
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260829123331 +0200" stop="20260829133836 +0200">
+  <programme channel="planeta-salvaje" start="20260829123331 +0200" stop="20260829133835 +0200">
     <title>Un Invierno en el Sur</title>
     <desc>El invierno en los bosques de encinas y alcornoques que cubren el sur de la península Ibérica está lejos de ser un tiempo de silencio y espera para la naturaleza salvaje. Por el contrario, vive una eclosión de vida en la que multitud de emigrantes buscando su paraíso de invierno, algunos provenientes del otro extremo del continente europeo, comparten espacio con las especies autóctonas, domésticas y salvajes, que los pueblan en un ejemplo de convivencia y sostenibilidad.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260829133837 +0200" stop="20260829144006 +0200">
+  <programme channel="planeta-salvaje" start="20260829133836 +0200" stop="20260829144006 +0200">
     <title>Primavera El Regreso de La Vida</title>
     <desc>Un documental sobre la primavera más espectacular de los últimos 40 años. Cinco meses de rodaje en la Península Ibérica, grandes bosques, lagos, llanuras, salinas, el despertar de la flora y sobre todo de la fauna. Asistimos a momentos únicos como la cópula de las culebras viperinas o el largo camino hacia la madurez de los sapos corredores.</desc>
   </programme>
@@ -11026,22 +10658,22 @@
     <sub-title>Mundos de Agua</sub-title>
     <desc>La lluvia forma charcos y lagunas temporales que se secan con la llegada del verano. En ese barro cuarteado late la vida. Peces y crustáceos esperan las primeras gotas para resucitar.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260829151309 +0200" stop="20260829154505 +0200">
+  <programme channel="planeta-salvaje" start="20260829151309 +0200" stop="20260829154504 +0200">
     <title>S01 : E21 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Casi en cualquier lugar que miremos hay algo que podemos comer, y algunos alimentos adquieren un valor especial durante la temporada de apareamiento, el tiempo del amor y la reproducción.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260829154506 +0200" stop="20260829161747 +0200">
+  <programme channel="planeta-salvaje" start="20260829154505 +0200" stop="20260829161746 +0200">
     <title>S01 : E22 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Las flores están entre los regalos más hermosos que la naturaleza tiene para ofrecer.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260829161748 +0200" stop="20260829172240 +0200">
+  <programme channel="planeta-salvaje" start="20260829161747 +0200" stop="20260829172239 +0200">
     <title>S01 : E01 Las Islas Canarias - Las Islas Canarias</title>
     <sub-title>Las Islas Canarias</sub-title>
     <desc>La flora y la fauna que habitan las Islas Canarias y cómo la vida en estas remotas tierras ha dado lugar a rasgos evolutivos únicos.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260829172241 +0200" stop="20260829182528 +0200">
+  <programme channel="planeta-salvaje" start="20260829172240 +0200" stop="20260829182528 +0200">
     <title>S01 : E02 Tecnología Natural - Tecnología Natural</title>
     <sub-title>Tecnología Natural</sub-title>
     <desc>La naturaleza inventó toda una gama de materiales de alta tecnología mucho antes de que inventáramos la cerámica y los plásticos. Vea cómo una mariposa puede cambiar los lápices labiales, y posiblemente la tecnología de la información y cómo una secoya puede ayudar a desarrollar un mejor chaleco antibalas.</desc>
@@ -11054,12 +10686,12 @@
     <title>Hijos de Saliega, el Retorno del Lince Ibérico</title>
     <desc>Más que el tigre. Mucho más que el leopardo de las nieves. El lince ibérico es el felino más amenazado del planeta. A comienzos de este siglo, estaba a un paso de su extinción definitiva. Apenas quedaban unos ciento cincuenta ejemplares de este hermoso y único animal, pues solo se encuentra en la Península Ibérica.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260829203316 +0200" stop="20260829210618 +0200">
+  <programme channel="planeta-salvaje" start="20260829203316 +0200" stop="20260829210617 +0200">
     <title>S01 : E11 Mundos de Agua - Mundos de Agua</title>
     <sub-title>Mundos de Agua</sub-title>
     <desc>La lluvia forma charcos y lagunas temporales que se secan con la llegada del verano. En ese barro cuarteado late la vida. Peces y crustáceos esperan las primeras gotas para resucitar.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260829210619 +0200" stop="20260829213814 +0200">
+  <programme channel="planeta-salvaje" start="20260829210618 +0200" stop="20260829213814 +0200">
     <title>S01 : E21 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Casi en cualquier lugar que miremos hay algo que podemos comer, y algunos alimentos adquieren un valor especial durante la temporada de apareamiento, el tiempo del amor y la reproducción.</desc>
@@ -11084,11 +10716,11 @@
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830002837 +0200" stop="20260830010005 +0200">
+  <programme channel="planeta-salvaje" start="20260830002837 +0200" stop="20260830010004 +0200">
     <title>Los Últimos Dragones Urbanos</title>
     <desc>En la ciudad de Oviedo, al norte de España, habitan varias poblaciones muy singulares de salamandras, muchas de las cuales han permanecido aisladas desde la fundación de la ciudad en el siglo VIII. En este documental se narra su historia, las leyendas que rodean a este animal desde la antigüedad, así como las singularidades de estas poblaciones que han conseguido sobrevivir en la ciudad sin cursos de agua, elemento esencial en la reproducción de la mayoría de anfibios.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830010006 +0200" stop="20260830015933 +0200">
+  <programme channel="planeta-salvaje" start="20260830010005 +0200" stop="20260830015933 +0200">
     <title>Soy el Mejor Ciervo Ibérico</title>
     <desc>Rodado durante los últimos tres años, este documental cuenta la historia del peculiar romance que cada otoño invade el bosque mediterráneo. El ciervo rojo inicia su particular celo emitiendo un sonido estremecedor que se cuela por todo el bosque. Para los ciervos comienza un tiempo para amar, defender y luchar. Durante casi un mes, perpetuarse será su única razón de vivir, su único objetivo, su única opción.</desc>
   </programme>
@@ -11096,12 +10728,12 @@
     <title>Los Últimos Dragones Urbanos</title>
     <desc>En la ciudad de Oviedo, al norte de España, habitan varias poblaciones muy singulares de salamandras, muchas de las cuales han permanecido aisladas desde la fundación de la ciudad en el siglo VIII. En este documental se narra su historia, las leyendas que rodean a este animal desde la antigüedad, así como las singularidades de estas poblaciones que han conseguido sobrevivir en la ciudad sin cursos de agua, elemento esencial en la reproducción de la mayoría de anfibios.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830023102 +0200" stop="20260830030404 +0200">
+  <programme channel="planeta-salvaje" start="20260830023102 +0200" stop="20260830030403 +0200">
     <title>S01 : E11 Mundos de Agua - Mundos de Agua</title>
     <sub-title>Mundos de Agua</sub-title>
     <desc>La lluvia forma charcos y lagunas temporales que se secan con la llegada del verano. En ese barro cuarteado late la vida. Peces y crustáceos esperan las primeras gotas para resucitar.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830030405 +0200" stop="20260830033437 +0200">
+  <programme channel="planeta-salvaje" start="20260830030404 +0200" stop="20260830033437 +0200">
     <title>S01 : E19 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Los mariscos son un platillo delicioso, muy valorado por los paladares más exigentes.</desc>
@@ -11116,12 +10748,12 @@
     <sub-title>Las Islas Canarias</sub-title>
     <desc>La flora y la fauna que habitan las Islas Canarias y cómo la vida en estas remotas tierras ha dado lugar a rasgos evolutivos únicos.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830050910 +0200" stop="20260830061158 +0200">
+  <programme channel="planeta-salvaje" start="20260830050910 +0200" stop="20260830061157 +0200">
     <title>S01 : E02 Tecnología Natural - Tecnología Natural</title>
     <sub-title>Tecnología Natural</sub-title>
     <desc>La naturaleza inventó toda una gama de materiales de alta tecnología mucho antes de que inventáramos la cerámica y los plásticos. Vea cómo una mariposa puede cambiar los lápices labiales, y posiblemente la tecnología de la información y cómo una secoya puede ayudar a desarrollar un mejor chaleco antibalas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830061159 +0200" stop="20260830071703 +0200">
+  <programme channel="planeta-salvaje" start="20260830061158 +0200" stop="20260830071703 +0200">
     <title>Un Invierno en el Sur</title>
     <desc>El invierno en los bosques de encinas y alcornoques que cubren el sur de la península Ibérica está lejos de ser un tiempo de silencio y espera para la naturaleza salvaje. Por el contrario, vive una eclosión de vida en la que multitud de emigrantes buscando su paraíso de invierno, algunos provenientes del otro extremo del continente europeo, comparten espacio con las especies autóctonas, domésticas y salvajes, que los pueblan en un ejemplo de convivencia y sostenibilidad.</desc>
   </programme>
@@ -11149,12 +10781,12 @@
     <sub-title>Las Islas Canarias</sub-title>
     <desc>El mundo de las montañas de fuego destaca lo que se necesita para sobrevivir en un hábitat implacable, centrándose en el frágil equilibrio de la vida en el límite, en paisajes crudos de espectacular belleza.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830113356 +0200" stop="20260830123619 +0200">
+  <programme channel="planeta-salvaje" start="20260830113356 +0200" stop="20260830123618 +0200">
     <title>S01 : E03 Tecnología Natural - Tecnología Natural</title>
     <sub-title>Tecnología Natural</sub-title>
     <desc>La naturaleza tiene que ser eficiente en la forma en que procesa la información y utiliza la energía, por lo que cuando los científicos comenzaron a mirar la naturaleza con ojos biomiméticos, no es sorprendente que comenzaran a ver visiones completamente nuevas para nuestro futuro. La inspiración proviene de las termitas, e incluso de la hoja de un árbol.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830123620 +0200" stop="20260830134124 +0200">
+  <programme channel="planeta-salvaje" start="20260830123619 +0200" stop="20260830134124 +0200">
     <title>Un Invierno en el Sur</title>
     <desc>El invierno en los bosques de encinas y alcornoques que cubren el sur de la península Ibérica está lejos de ser un tiempo de silencio y espera para la naturaleza salvaje. Por el contrario, vive una eclosión de vida en la que multitud de emigrantes buscando su paraíso de invierno, algunos provenientes del otro extremo del continente europeo, comparten espacio con las especies autóctonas, domésticas y salvajes, que los pueblan en un ejemplo de convivencia y sostenibilidad.</desc>
   </programme>
@@ -11172,12 +10804,12 @@
     <sub-title>Menú Salvaje</sub-title>
     <desc>A la hora de comer, muchos animales prefieren compañía. Y sus compañeros de comida ni siquiera necesitan ser de la misma especie.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830162259 +0200" stop="20260830170006 +0200">
+  <programme channel="planeta-salvaje" start="20260830162259 +0200" stop="20260830170005 +0200">
     <title>S01 : E12 Planeta Selva - Planeta Selva</title>
     <sub-title>Planeta Selva</sub-title>
     <desc>La selva tropical nubosa es un ecosistema peculiar que crece en regiones ecuatoriales encaramado.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830170007 +0200" stop="20260830180455 +0200">
+  <programme channel="planeta-salvaje" start="20260830170006 +0200" stop="20260830180455 +0200">
     <title>S01 : E02 Mississippi - Mississippi</title>
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
@@ -11186,26 +10818,26 @@
     <title>Astroturismo, Sentir el Universo</title>
     <desc>¿Has probado a mirar al cielo por la noche? ¿Cuántas estrellas ves? La contaminación lumínica amenaza con apagar las estrellas a los ojos del mundo desarrollado. España está considerada el mejor destino de Europa para disfrutar de la astronomía y de una tendencia en auge, el astroturismo. Este viaje inteligente ofrece experiencias únicas e inolvidables que viajeros de todo el mundo vienen a descubrir al suroeste de Europa.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830191155 +0200" stop="20260830201243 +0200">
+  <programme channel="planeta-salvaje" start="20260830191155 +0200" stop="20260830201242 +0200">
     <title>Hijos de Saliega, el Retorno del Lince Ibérico</title>
     <desc>Más que el tigre. Mucho más que el leopardo de las nieves. El lince ibérico es el felino más amenazado del planeta. A comienzos de este siglo, estaba a un paso de su extinción definitiva. Apenas quedaban unos ciento cincuenta ejemplares de este hermoso y único animal, pues solo se encuentra en la Península Ibérica.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830201244 +0200" stop="20260830211936 +0200">
+  <programme channel="planeta-salvaje" start="20260830201243 +0200" stop="20260830211936 +0200">
     <title>S01 : E06 Conexión Salvaje - Conexión Salvaje</title>
     <sub-title>Conexión Salvaje</sub-title>
     <desc>El hecho de que la península esté ubicada a solo catorce kilómetros de África permite el flujo de especies entre los dos continentes.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830211937 +0200" stop="20260830215003 +0200">
+  <programme channel="planeta-salvaje" start="20260830211937 +0200" stop="20260830215002 +0200">
     <title>S01 : E23 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>En este restaurante llamado Tierra hay dos tipos de clientes: los glotones y los ascetas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830215004 +0200" stop="20260830222313 +0200">
+  <programme channel="planeta-salvaje" start="20260830215003 +0200" stop="20260830222312 +0200">
     <title>S01 : E24 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>A la hora de comer, muchos animales prefieren compañía. Y sus compañeros de comida ni siquiera necesitan ser de la misma especie.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260830222314 +0200" stop="20260830232804 +0200">
+  <programme channel="planeta-salvaje" start="20260830222313 +0200" stop="20260830232804 +0200">
     <title>S01 : E02 Las Islas Canarias - Las Islas Canarias</title>
     <sub-title>Las Islas Canarias</sub-title>
     <desc>El mundo de las montañas de fuego destaca lo que se necesita para sobrevivir en un hábitat implacable, centrándose en el frágil equilibrio de la vida en el límite, en paisajes crudos de espectacular belleza.</desc>
@@ -11219,11 +10851,11 @@
     <title>Soy el Mejor Ciervo Ibérico</title>
     <desc>Rodado durante los últimos tres años, este documental cuenta la historia del peculiar romance que cada otoño invade el bosque mediterráneo. El ciervo rojo inicia su particular celo emitiendo un sonido estremecedor que se cuela por todo el bosque. Para los ciervos comienza un tiempo para amar, defender y luchar. Durante casi un mes, perpetuarse será su única razón de vivir, su único objetivo, su única opción.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831012957 +0200" stop="20260831020125 +0200">
+  <programme channel="planeta-salvaje" start="20260831012957 +0200" stop="20260831020124 +0200">
     <title>Los Últimos Dragones Urbanos</title>
     <desc>En la ciudad de Oviedo, al norte de España, habitan varias poblaciones muy singulares de salamandras, muchas de las cuales han permanecido aisladas desde la fundación de la ciudad en el siglo VIII. En este documental se narra su historia, las leyendas que rodean a este animal desde la antigüedad, así como las singularidades de estas poblaciones que han conseguido sobrevivir en la ciudad sin cursos de agua, elemento esencial en la reproducción de la mayoría de anfibios.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831020126 +0200" stop="20260831030843 +0200">
+  <programme channel="planeta-salvaje" start="20260831020125 +0200" stop="20260831030843 +0200">
     <title>S01 : E05 Conexión Salvaje - Conexión Salvaje</title>
     <sub-title>Conexión Salvaje</sub-title>
     <desc>Un lugar influenciado por el clima húmedo y frío del norte, pero también por el calor y el sol mediterráneos.</desc>
@@ -11253,11 +10885,11 @@
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831063102 +0200" stop="20260831073030 +0200">
+  <programme channel="planeta-salvaje" start="20260831063102 +0200" stop="20260831073029 +0200">
     <title>Soy el Mejor Ciervo Ibérico</title>
     <desc>Rodado durante los últimos tres años, este documental cuenta la historia del peculiar romance que cada otoño invade el bosque mediterráneo. El ciervo rojo inicia su particular celo emitiendo un sonido estremecedor que se cuela por todo el bosque. Para los ciervos comienza un tiempo para amar, defender y luchar. Durante casi un mes, perpetuarse será su única razón de vivir, su único objetivo, su única opción.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831073031 +0200" stop="20260831080158 +0200">
+  <programme channel="planeta-salvaje" start="20260831073030 +0200" stop="20260831080158 +0200">
     <title>Los Últimos Dragones Urbanos</title>
     <desc>En la ciudad de Oviedo, al norte de España, habitan varias poblaciones muy singulares de salamandras, muchas de las cuales han permanecido aisladas desde la fundación de la ciudad en el siglo VIII. En este documental se narra su historia, las leyendas que rodean a este animal desde la antigüedad, así como las singularidades de estas poblaciones que han conseguido sobrevivir en la ciudad sin cursos de agua, elemento esencial en la reproducción de la mayoría de anfibios.</desc>
   </programme>
@@ -11266,12 +10898,12 @@
     <sub-title>Mundos de Agua</sub-title>
     <desc>El agua por su ausencia o su presencia marca la vida, las estrategias de supervivencia de los animales y de las plantas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831083551 +0200" stop="20260831090743 +0200">
+  <programme channel="planeta-salvaje" start="20260831083551 +0200" stop="20260831090742 +0200">
     <title>S01 : E13 Mundos de Agua - Mundos de Agua</title>
     <sub-title>Mundos de Agua</sub-title>
     <desc>La humedad copa el ambiente. El agua rebosa por todas partes y más de la mitad de la lluvia vuelve a las nubes por la transpiración de las hojas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831090744 +0200" stop="20260831093757 +0200">
+  <programme channel="planeta-salvaje" start="20260831090743 +0200" stop="20260831093757 +0200">
     <title>S01 : E25 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Sentarse a comer en la mesa siempre requiere cierto grado de orden y civilidad, de buenos modales y cortesía.</desc>
@@ -11291,12 +10923,12 @@
     <sub-title>Planeta Selva</sub-title>
     <desc>El centro de Madagascar es seco y montañoso. Los bosques que crecen aquí́ pierden las hojas durante la estación seca.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831112624 +0200" stop="20260831123113 +0200">
+  <programme channel="planeta-salvaje" start="20260831112624 +0200" stop="20260831123112 +0200">
     <title>S01 : E02 Mississippi - Mississippi</title>
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831123114 +0200" stop="20260831133041 +0200">
+  <programme channel="planeta-salvaje" start="20260831123113 +0200" stop="20260831133041 +0200">
     <title>Soy el Mejor Ciervo Ibérico</title>
     <desc>Rodado durante los últimos tres años, este documental cuenta la historia del peculiar romance que cada otoño invade el bosque mediterráneo. El ciervo rojo inicia su particular celo emitiendo un sonido estremecedor que se cuela por todo el bosque. Para los ciervos comienza un tiempo para amar, defender y luchar. Durante casi un mes, perpetuarse será su única razón de vivir, su único objetivo, su única opción.</desc>
   </programme>
@@ -11304,12 +10936,12 @@
     <title>Astroturismo, Sentir el Universo</title>
     <desc>¿Has probado a mirar al cielo por la noche? ¿Cuántas estrellas ves? La contaminación lumínica amenaza con apagar las estrellas a los ojos del mundo desarrollado. España está considerada el mejor destino de Europa para disfrutar de la astronomía y de una tendencia en auge, el astroturismo. Este viaje inteligente ofrece experiencias únicas e inolvidables que viajeros de todo el mundo vienen a descubrir al suroeste de Europa.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831143740 +0200" stop="20260831150932 +0200">
+  <programme channel="planeta-salvaje" start="20260831143740 +0200" stop="20260831150931 +0200">
     <title>S01 : E13 Mundos de Agua - Mundos de Agua</title>
     <sub-title>Mundos de Agua</sub-title>
     <desc>La humedad copa el ambiente. El agua rebosa por todas partes y más de la mitad de la lluvia vuelve a las nubes por la transpiración de las hojas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831150933 +0200" stop="20260831153946 +0200">
+  <programme channel="planeta-salvaje" start="20260831150932 +0200" stop="20260831153946 +0200">
     <title>S01 : E25 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Sentarse a comer en la mesa siempre requiere cierto grado de orden y civilidad, de buenos modales y cortesía.</desc>
@@ -11324,12 +10956,12 @@
     <sub-title>Las Islas Canarias</sub-title>
     <desc>El mundo de las montañas de fuego destaca lo que se necesita para sobrevivir en un hábitat implacable, centrándose en el frágil equilibrio de la vida en el límite, en paisajes crudos de espectacular belleza.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831171735 +0200" stop="20260831181958 +0200">
+  <programme channel="planeta-salvaje" start="20260831171735 +0200" stop="20260831181957 +0200">
     <title>S01 : E03 Tecnología Natural - Tecnología Natural</title>
     <sub-title>Tecnología Natural</sub-title>
     <desc>La naturaleza tiene que ser eficiente en la forma en que procesa la información y utiliza la energía, por lo que cuando los científicos comenzaron a mirar la naturaleza con ojos biomiméticos, no es sorprendente que comenzaran a ver visiones completamente nuevas para nuestro futuro. La inspiración proviene de las termitas, e incluso de la hoja de un árbol.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260831181959 +0200" stop="20260831192503 +0200">
+  <programme channel="planeta-salvaje" start="20260831181958 +0200" stop="20260831192503 +0200">
     <title>Un Invierno en el Sur</title>
     <desc>El invierno en los bosques de encinas y alcornoques que cubren el sur de la península Ibérica está lejos de ser un tiempo de silencio y espera para la naturaleza salvaje. Por el contrario, vive una eclosión de vida en la que multitud de emigrantes buscando su paraíso de invierno, algunos provenientes del otro extremo del continente europeo, comparten espacio con las especies autóctonas, domésticas y salvajes, que los pueblan en un ejemplo de convivencia y sostenibilidad.</desc>
   </programme>
@@ -41209,59 +40841,7 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Brendon Gibbens</title>
     <desc>Meet Brendon "Beach" Gibbens in Kommetjie, South Africa, as he shares his passions</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260828020001 +0200" stop="20260828021500 +0200">
-    <title>Episode 5</title>
-    <desc>In this episode we return to São Paulo with Brazilian skater Marcelo Garcia, a pro since 2015.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828021501 +0200" stop="20260828023000 +0200">
-    <title>Episode 6</title>
-    <desc>Spanish skater Roberto Alemañ tells us how the city of Barcelona has impacted his career. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828023001 +0200" stop="20260828024500 +0200">
-    <title>Episode 7</title>
-    <desc>We meet French skater Antony Lopez, who has lived in Barcelona since 2002.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828024501 +0200" stop="20260828030000 +0200">
-    <title>Episode 8</title>
-    <desc>We meet Brazilian skater Eliezer Dantas, from Porto Velho</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828030001 +0200" stop="20260828033000 +0200">
-    <title>Mini Ramp Challenge with Dave Bachinsky</title>
-    <desc>NEXT GEN runners face-off the legendary Dave Bachinsky in a mini-ramp event that will test their best skill...</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828033001 +0200" stop="20260828040000 +0200">
-    <title>Rail Trick with Greg Lutzka</title>
-    <desc>NEXT GEN competitors face-off the legendary Greg Lutzka in a mini-ramp event that will test their best skil...</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828040001 +0200" stop="20260828041500 +0200">
-    <title>Braden Hoban</title>
-    <desc>Braden Hoban hits Portland for a 48-hour mission, stacking clips despite the rain.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828041501 +0200" stop="20260828044500 +0200">
-    <title>Kazu</title>
-    <desc>Kazuhiro Kokubo rides deep powder on Lake Tahoe and big kickers in Hemsedal Norway.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828044501 +0200" stop="20260828051500 +0200">
-    <title>Secret Spots: Canada</title>
-    <desc>Checking Canada's secret spots with Eric Jackson, Mads Jonsson, Mark Landvik, and the Montreal Street Crew.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828051501 +0200" stop="20260828054500 +0200">
-    <title>A New Grenade Team Rider!</title>
-    <desc>The Grenade Games are on as snowboarders battle it out for a spot on the Grenade team.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828054501 +0200" stop="20260828061500 +0200">
-    <title>Street Credit</title>
-    <desc>Danny and Dingo meet Rob Dyrdek in Hollywood and then head to San Diego for a trade show and a premiere.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828061501 +0200" stop="20260828064500 +0200">
-    <title>Travis Pastrana</title>
-    <desc>Join token hottie Layla as M80 catches up with Travis Pastrana in his hometown of Annapolis, MD. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828064501 +0200" stop="20260828070000 +0200">
-    <title>Ike Klaassen and Theo Erlangsen</title>
-    <desc>Meet the South-African mountain bike prodigies, Ike Klaassen and and Theo Erlangsen.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260828070001 +0200" stop="20260828142000 +0200">
+  <programme channel="fuel-tv-new" start="20260828020001 +0200" stop="20260828142000 +0200">
     <title>Day 1</title>
     <desc>Follow Day 1 of Rockstar Energy Open 2026 live on FUEL TV.</desc>
   </programme>
@@ -48424,27 +48004,27 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Abigail - S02:E014 - Episode 14</title>
     <desc>Godard sigue amenazando a Estrella para ocultarlo ahí. Carlos Alfredo visita a María Clara y le pide que se case con Guillermo, ella se enoja. Abigail le reclama a Carlos Alfredo haber ido a casa de Leonel y él le confiesa que no aceptará el divorcio.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260827233539 +0200" stop="20260828002434 +0200">
+  <programme channel="rookie-blue-spa" start="20260827233539 +0200" stop="20260828002433 +0200">
     <title>S04 : E04 Los chicos no están bien - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy ansía descansar. Pero una comprobación conduce al descubrimiento de un adolescente en un maletero y deben convencerlo de que ningún dolor es eterno para evitar que cometa un error.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828002435 +0200" stop="20260828011334 +0200">
+  <programme channel="rookie-blue-spa" start="20260828002434 +0200" stop="20260828011333 +0200">
     <title>S04 : E05 Píldora de veneno - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras un arresto por drogas, Andy y Marlo están en cuarentena. Mientras, la 15 División entra en emergencia para sacar las drogas contaminadas antes de que un brote mortal se extienda.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828011335 +0200" stop="20260828020156 +0200">
+  <programme channel="rookie-blue-spa" start="20260828011334 +0200" stop="20260828020156 +0200">
     <title>S04 : E06 Esqueletos - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Al denunciarse la desaparición de una joven, pronto descubren una posible conexión con uno de los casos más angustiosos. Contrarreloj, Gail debe afrontar sus temores para encontrarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828020157 +0200" stop="20260828025057 +0200">
+  <programme channel="rookie-blue-spa" start="20260828020157 +0200" stop="20260828025056 +0200">
     <title>S04 : E07 Martes 13 - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando unos huesos encontrados abren un caso de personas desaparecidas, Swarek se reúne con su antiguo mentor para resolver el caso. Swarek se fija en él y debe decidir si seguir sus pasos.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828025058 +0200" stop="20260828033937 +0200">
+  <programme channel="rookie-blue-spa" start="20260828025057 +0200" stop="20260828033937 +0200">
     <title>S04 : E08 Para bien, para mal - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Todos, especialmente Andy, quieren un turno fácil para ir a la boda de Frank y Noelle. Pero las cosas se complican cuando secuestran un autobús con personas mayores y la novia desaparece.</desc>
@@ -48459,12 +48039,12 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Una redada es el primer caso de homicidio de Traci y les obliga a trabajar horas extras. Swarek, Oliver, Chris y Dov van a la cabaña de Oliver para confesarse, reparar generadores y unirse.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828051734 +0200" stop="20260828060634 +0200">
+  <programme channel="rookie-blue-spa" start="20260828051734 +0200" stop="20260828060633 +0200">
     <title>S04 : E11 Engaño - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando se encuentran a un sospechoso pedófilo medio muerto, Andy descubre que Marlo lo ha investigado durante días. Andy y Swarek deben luchar para cubrir a Marlo y encontrar al agresor.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828060635 +0200" stop="20260828065516 +0200">
+  <programme channel="rookie-blue-spa" start="20260828060634 +0200" stop="20260828065516 +0200">
     <title>S04 : E12 Bajo fuego - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Después de que disparen a Andy y Chloe, los agentes ven que son el objetivo de alguien con rencor. Deben continuar sirviendo y protegiendo mientras están en la línea de fuego.</desc>
@@ -48474,32 +48054,37 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras un ataque contra los agentes de la 15 División, Andy, Swarek y sus compañeros tienen que reunir la verdad sobre un crimen pasado para encontrar a Oliver Shaw y salvar su vida.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828074416 +0200" stop="20260828083319 +0200">
+  <programme channel="rookie-blue-spa" start="20260828074416 +0200" stop="20260828083318 +0200">
     <title>S05 : E01 En un pestañeo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras los sucesos traumáticos de la noche (Ep. 413), Andy y Dov intentan tranquilizarse en un restaurante abierto las 24 horas, pero un asalto imprevisto los pilla por sorpresa y fuera de servicio. Mientras, los cansados agentes de la División 15 intentan contener los daños colaterales bajo la vigilancia de un nuevo y duro inspector.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828083320 +0200" stop="20260828092222 +0200">
+  <programme channel="rookie-blue-spa" start="20260828083319 +0200" stop="20260828092221 +0200">
     <title>S05 : E02 Por su cuenta - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Es un día de sorpresas: Oliver es ascendido a sargento en funciones y Andy debe entrenar a Duncan Moore, el nuevo recluta de la División 15. Pero cuando Andy y Duncan responden a un homicidio en una tienda de empeños, queda claro que el novato va a ser todo un desafío para Andy.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828092223 +0200" stop="20260828101029 +0200">
+  <programme channel="rookie-blue-spa" start="20260828092222 +0200" stop="20260828101029 +0200">
     <title>S05 : E03 Los rompecorazones ganan dinero - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Se acerca la noche benéfica y el inspector Jarvis envía a los agentes de la División 15 a incautar cualquier cosa obtenida con dinero ilegal. Pero cuando Andy y Nick van a una casa de apuestas ilegal y consiguen una confesión un tanto turbia, Andy pide ayuda a Sam para descubrir quién miente, por qué miente, y dónde está escondido el dinero antes de que nadie salga herido.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828101030 +0200" stop="20260828105912 +0200">
+  <programme channel="rookie-blue-spa" start="20260828101030 +0200" stop="20260828105911 +0200">
     <title>S05 : E04 Buscado - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Descubren a un jefe mafioso ejecutado tras un tiroteo en un edificio de apartamentos y la División 15 tiene que encontrar al asesino antes de que estalle una guerra de bandas. Mientras el asesino intenta encontrar al único testigo que puede relacionarlo con el crimen, Andy y su novato, Duncan, se enfrentan a una heroica prueba a vida o muerte.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828105913 +0200" stop="20260828114752 +0200">
+  <programme channel="rookie-blue-spa" start="20260828105912 +0200" stop="20260828114751 +0200">
     <title>S05 : E05 De encubierto - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La División 15 se infiltra en un club que podría ser la tapadera de una tienda de armas, pero el comportamiento errático de Chris y su preocupación por un traficante en concreto provocan las sospechas de Dov. Andy descubre que Duncan ha presentado acusaciones graves contra ella, pero decide ayudar a Sam en un caso de personas desaparecidas con un giro un tanto tenebroso.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828114753 +0200" stop="20260828123655 +0200">
+  <programme channel="rookie-blue-spa" start="20260828114752 +0200" stop="20260828120000 +0200">
+    <title>S05 : E06 Dos verdades y una mentira - Rookie Blue</title>
+    <sub-title>Rookie Blue</sub-title>
+    <desc>Los agentes de la División 15 intentan encontrar al asesino de Brian Gowdy y Andy Sam viajan hasta la penitenciaria de Millburn para entrevistar a varios reclusos. Todos tienen relación con el sospechoso principal, pero uno resulta ser Jay Swarek, el escurridizo padre de Sam.</desc>
+  </programme>
+  <programme channel="rookie-blue-spa" start="20260828120001 +0200" stop="20260828123655 +0200">
     <title>S05 : E06 Dos verdades y una mentira - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Los agentes de la División 15 intentan encontrar al asesino de Brian Gowdy y Andy Sam viajan hasta la penitenciaria de Millburn para entrevistar a varios reclusos. Todos tienen relación con el sospechoso principal, pero uno resulta ser Jay Swarek, el escurridizo padre de Sam.</desc>
@@ -48519,72 +48104,72 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>La División 15 es asignada a un programa de ayuda comunitario: “Día de mudanza”, para ayudar a los inquilinos a desalojar un complejo que va a ser demolido. Pero cuando Andy y Chloe encuentra a un hombre apalizado en un piso vacío, su investigación desvela una despiadada operación criminal más grande de lo que podían imaginar.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828150324 +0200" stop="20260828155227 +0200">
+  <programme channel="rookie-blue-spa" start="20260828150324 +0200" stop="20260828155226 +0200">
     <title>S05 : E10 Fragmentos - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Duncan, el antiguo recluta de Andy, ha vuelto y quiere reconciliarse, algo para lo que ella no está preparada. Pero los sentimientos personales deben quedar de lado cuando una bomba explota en un aparcamiento del centro. Con la ciudad amenazada, los agentes de la División 15 trabajan contrarreloj para descubrir el origen de las amenazas y detener al sospechoso antes de que haya más heridos.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828155228 +0200" stop="20260828164117 +0200">
+  <programme channel="rookie-blue-spa" start="20260828155227 +0200" stop="20260828164116 +0200">
     <title>S05 : E11 Eterno - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Los agentes de la División 15 intentan rastrear a TED MCDONALD (el terrorista del Ep. 510). Pero, tras detenerlo, descubren que Ted tiene más bombas preparadas para detonar y el reloj no se detiene…</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828164118 +0200" stop="20260828173020 +0200">
+  <programme channel="rookie-blue-spa" start="20260828164117 +0200" stop="20260828173019 +0200">
     <title>S05 : E12 Ventanas abiertas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un mes después de la explosión en la sala de pruebas (Ep. 511), Andy y Sam regresan al trabajo después de unas muy necesarias vacaciones. Pero cuando un intruso ataca a Andy en casa de Traci, la Unidad de Delitos Sexuales se hace cargo del caso a su manera, y la División 15 deberá decidir si toman cartas en el asunto.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828173021 +0200" stop="20260828181907 +0200">
+  <programme channel="rookie-blue-spa" start="20260828173020 +0200" stop="20260828181907 +0200">
     <title>S05 : E13 Familia perfecta - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy se plantea su futuro con Sam tras la sorprendente noticia de que Marlo está embarazada con su bebé (Ep. 512). Pero la idea de una familia perfecta de Andy cambia radicalmente cuando conoce a un descontrolado adolescente que necesita ser protegido de su conservadora familia.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828181908 +0200" stop="20260828190755 +0200">
+  <programme channel="rookie-blue-spa" start="20260828181908 +0200" stop="20260828190754 +0200">
     <title>S05 : E14 Levantamiento - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Hay un motín en un centro penitenciario para mujeres mientras Andy, Juliet, Nick y Gail están allí para trasladar a varias prisioneras. Los cuatro acaban separados en una cárcel confinada, y Andy y Juliet quedan atrapadas con una mujer desesperada por demostrar su inocencia.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828190756 +0200" stop="20260828195658 +0200">
+  <programme channel="rookie-blue-spa" start="20260828190755 +0200" stop="20260828195657 +0200">
     <title>S05 : E15 Soltar - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>El hermano desaparecido de Nick llega con nueva información sobre alguien de su trágico pasado y Nick intenta encontrarlo por su cuenta. Pero Juliet no lo pierde de vista y Nick se ve obligado a contarle los secretos de su pasado.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828195659 +0200" stop="20260828204547 +0200">
+  <programme channel="rookie-blue-spa" start="20260828195658 +0200" stop="20260828204546 +0200">
     <title>S05 : E16 Un verdadero caballero - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Traci no aparece para su primera redada y la División 15 teme que un infame traficante de armas la haya secuestrado. Pero cuando Andy descubre que el violador en serie que no atraparon (Ep. 512) ha vuelto, todos deberán colaborar para encontrar a Traci. Mientras, Traci se enfrenta a su captor e intenta escapar antes de que sea tarde.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828204548 +0200" stop="20260828213408 +0200">
+  <programme channel="rookie-blue-spa" start="20260828204547 +0200" stop="20260828213407 +0200">
     <title>S05 : E17 Cuadrangular - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La relación de Gail con su hermano Steve Peck es puesta prueba mientras buscan al pistolero que ha disparado desde un coche en un partido de béisbol comunitario. Mientras, Swarek planea una escapada con Andy a la cabaña de Gavin, pero la cosa acaba fatal de todas las maneras posibles menos una.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828213409 +0200" stop="20260828222311 +0200">
+  <programme channel="rookie-blue-spa" start="20260828213408 +0200" stop="20260828222310 +0200">
     <title>S05 : E18 El mejor - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y Sam se sorprenden al descubrir que Oliver es el principal sospechoso de la investigación de Asuntos Internos sobre la corrupción en la División 15. Y lo que es peor, solo tienen hasta la noche para encontrar a Chris Klem, el vendedor de explosivos desaparecido, y limpiar el nombre de Oliver antes de que cargue con todo.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828222312 +0200" stop="20260828231214 +0200">
+  <programme channel="rookie-blue-spa" start="20260828222311 +0200" stop="20260828231213 +0200">
     <title>S05 : E19 Prueba de integridad - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Oliver es el principal sospechoso de la bomba en la sala de pruebas de la División 15 y Andy, Dov, Gail y Nick traman un peligroso plan que podría acabar con sus carreras para demostrar que el comisionado Alonso Santana es corrupto. Mientras, Traci sigue a Steve Peck con la esperanza de calmar sus temores sobre su relación con el atentado.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260828231215 +0200" stop="20260829000042 +0200">
+  <programme channel="rookie-blue-spa" start="20260828231214 +0200" stop="20260829000042 +0200">
     <title>S05 : E20 Treinta y dos grados - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras los agentes de la División 15 intentan pasar página tras el escándalo de corrupción, una ola de calor obliga a Jarvis a abrir la división al público para que puedan refrescarse. Andy ayudar a la embarazada Marlo a encontrar a una mujer que ha desaparecido tras una terapia en grupo, pero ni Andy ni Marlo están preparadas cuando la última se pone de parto.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829000043 +0200" stop="20260829004945 +0200">
+  <programme channel="rookie-blue-spa" start="20260829000043 +0200" stop="20260829004944 +0200">
     <title>S05 : E21 Se separa la banda - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Ahora que ha llegado el bebé de Sam y Marlo (Ep. 520), es evidente que nada podría haber preparado a Andy para este momento. Así que cuando Juliet le ofrece a Andy la oportunidad de participar en una misión encubierta de cuatro meses, esta empieza a pensárselo. Mientras, Jarvis revela la sorprendente noticia de que la División 15 se reestructurará tras el escándalo de corrupción.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829004946 +0200" stop="20260829013848 +0200">
+  <programme channel="rookie-blue-spa" start="20260829004945 +0200" stop="20260829013847 +0200">
     <title>S05 : E22 74 epifanías - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La reestructuración de la División 15 está al caer y la boda de Andy y Sam llega en el momento justo para celebrar una última fiesta todos juntos. Pero cuando un autoestopista hace desviar a Andy y acaba en una carretera sin salida, con un hombre moribundo y sin modo de pedir ayuda ni de avisar a Sam de que no ha huido, ¿será capaz de salvar la vida al hombre? ¿Llegará a tiempo a su boda?</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829013849 +0200" stop="20260829022638 +0200">
+  <programme channel="rookie-blue-spa" start="20260829013848 +0200" stop="20260829022638 +0200">
     <title>S01 : E01 Pintura fresca - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>El triunfo se convierte en humillación. Una operación de alto riesgo se tuerce cuando la agente novata Andy McNally pilla a uno de los suyos frustrando una operación encubierta.</desc>
@@ -48599,22 +48184,22 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy debe saltarse el protocolo para ganarse la confianza de una víctima de abusos a la que el sistema ha defraudado. Mientras, los demás novatos se pelean en "La Noche de Combate".</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829040321 +0200" stop="20260829045134 +0200">
+  <programme channel="rookie-blue-spa" start="20260829040321 +0200" stop="20260829045133 +0200">
     <title>S01 : E04 Señales cruzadas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy se infiltra como prostituta. La tensión se dispara cuando Dov pone en peligro la vida de una informante y Andy tiene que infiltrarse en un arriesgado negocio de armas para salvarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829045135 +0200" stop="20260829053905 +0200">
+  <programme channel="rookie-blue-spa" start="20260829045134 +0200" stop="20260829053905 +0200">
     <title>S01 : E05 A plena luz del día - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un allanamiento de morada en un barrio de lujo moviliza a todos los novatos, pero una vez despejado el lugar, es Andy quien se queda sola y se enfrenta a un ladrón muy volátil.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829053906 +0200" stop="20260829062714 +0200">
+  <programme channel="rookie-blue-spa" start="20260829053906 +0200" stop="20260829062713 +0200">
     <title>S01 : E06 A prueba de balas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un accidente de tráfico fatal revela una verdad impactante, y el romance de Andy y el inspector Luke Callaghan se complica cuando discrepan sobre el manejo de un testigo de asesinato.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829062715 +0200" stop="20260829071617 +0200">
+  <programme channel="rookie-blue-spa" start="20260829062714 +0200" stop="20260829071617 +0200">
     <title>S01 : E07 Con los nervios de punta - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una ola de calor causa estragos en la ciudad, que se multiplican ante el temor de un violador en serie que anda suelto. Mientras, un apagón obliga a Andy a enfrentarse a un cruel agresor.</desc>
@@ -48624,67 +48209,67 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y Chris investigan una paliza en un club. Cuando las pistas apuntan a un policía, deben tomar una decisión que pondrá a prueba su lealtad al cuerpo y puede hacer peligrar sus carreras.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829080421 +0200" stop="20260829085312 +0200">
+  <programme channel="rookie-blue-spa" start="20260829080421 +0200" stop="20260829085311 +0200">
     <title>S01 : E09 La novia del año - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Chris y Gail ven un coche cuya matrícula coincide con una alerta ámbar de una niña de 9 años. Mientras buscan al conductor, el interrogatorio a los padres revela pruebas inquietantes.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829085313 +0200" stop="20260829094052 +0200">
+  <programme channel="rookie-blue-spa" start="20260829085312 +0200" stop="20260829094052 +0200">
     <title>S01 : E10 Big Nickel - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La tensión entre Andy y Swarek es máxima, pero deben dejar a un lado sus sentimientos cuando el transporte de un preso fallido los obliga a buscar al fugitivo.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829094053 +0200" stop="20260829102901 +0200">
+  <programme channel="rookie-blue-spa" start="20260829094053 +0200" stop="20260829102900 +0200">
     <title>S01 : E11 Para servir o proteger - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>El padre de Andy, Tommy, expolicía, confiesa que pudo haber cometido un delito estando ebrio. Andy profundiza en el caso y se enfrenta a la posibilidad de enviar a su padre a la cárcel.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829102902 +0200" stop="20260829111759 +0200">
+  <programme channel="rookie-blue-spa" start="20260829102901 +0200" stop="20260829111759 +0200">
     <title>S01 : E12 El Día del Juicio Final - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Son las evaluaciones de rendimiento, o Día del Juicio Final. ¿Entregará Andy su placa antes de que el sargento Frank dé su opinión? El asesinato de una desconocida conmociona a Andy.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829111800 +0200" stop="20260829120703 +0200">
+  <programme channel="rookie-blue-spa" start="20260829111800 +0200" stop="20260829120702 +0200">
     <title>S01 : E13 El desmantelamiento - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando una detención de Andy y Chris pone en peligro una operación antidroga, Andy intenta salvarla yendo de incógnito con Swarek, pero un cambio de planes pone la vida de ambos en peligro.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829120704 +0200" stop="20260829125453 +0200">
+  <programme channel="rookie-blue-spa" start="20260829120703 +0200" stop="20260829125452 +0200">
     <title>S02 : E01 Mariposas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una universitaria muere en un tiroteo, y una bala acaba en el chaleco de Andy. Esta intenta demostrar que el tiroteo no fue al azar, lo que la enfrenta al nuevo inspector de la 15.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829125454 +0200" stop="20260829134241 +0200">
+  <programme channel="rookie-blue-spa" start="20260829125453 +0200" stop="20260829134240 +0200">
     <title>S02 : E02 Lo que podría haber sido - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Todo el mundo vive su “pudo haber sido”. Andy y Gail van de incógnito como camareras para limpiar un club infestado de drogas, pero su compañera resulta ser la novia de un criminal.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829134242 +0200" stop="20260829143141 +0200">
+  <programme channel="rookie-blue-spa" start="20260829134241 +0200" stop="20260829143141 +0200">
     <title>S02 : E03 Mala luna creciente - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La luna llena se cierne sobre la ciudad. Al investigar el robo de tres cabezas cortadas de un laboratorio, Andy y Swarek siguen la pista de un hombre que ha dejado de tomar su medicación.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829143142 +0200" stop="20260829151843 +0200">
+  <programme channel="rookie-blue-spa" start="20260829143142 +0200" stop="20260829151842 +0200">
     <title>S02 : E04 Chispa y corazón - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras la 15.ª División se recupera del tiroteo al inspector Luke Callaghan, una serie de incendios provocados culmina con una lavandería incenciada.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829151844 +0200" stop="20260829160702 +0200">
+  <programme channel="rookie-blue-spa" start="20260829151843 +0200" stop="20260829160702 +0200">
     <title>S02 : E05 De encubierto - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Utilizando un concesionario de coches local, la 15.ª División lleva a cabo una operación encubierta para detener a sospechosos con órdenes de detención pendientes.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829160703 +0200" stop="20260829165524 +0200">
+  <programme channel="rookie-blue-spa" start="20260829160703 +0200" stop="20260829165523 +0200">
     <title>S02 : E06 A simple vista - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando un informante de la policía aparece asesinado, la 15 pone sus miras en la búsqueda de un eslabón débil en la banda tristemente famosa y brutal de East Jameson.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829165525 +0200" stop="20260829174237 +0200">
+  <programme channel="rookie-blue-spa" start="20260829165524 +0200" stop="20260829174236 +0200">
     <title>S02 : E07 El que se escapó - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando una mujer es brutalmente atacada de la misma manera que la fallecida policía novata Zoe Martinelli, el inspector Luke Callaghan está convencido de que se trata del mismo sospechoso.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829174238 +0200" stop="20260829183137 +0200">
+  <programme channel="rookie-blue-spa" start="20260829174237 +0200" stop="20260829183137 +0200">
     <title>S02 : E08 Monstruo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando un hombre aparentemente borracho se desploma en el granero, ponen a la 15.º División en cuarentena.</desc>
@@ -48709,32 +48294,32 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando roban el uniforme de Gail Peck, los novatos persiguen a un vigilante que se hace pasar por policía.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829214318 +0200" stop="20260829223216 +0200">
+  <programme channel="rookie-blue-spa" start="20260829214318 +0200" stop="20260829223215 +0200">
     <title>S02 : E13 La gracia de Dios - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras Swarek es brutalmente interrogado por Jamie Brennan en el sótano de una granja de Pickering, los novatos ayudan a Andy a resolver un misterio que puede revelar su ubicación.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829223217 +0200" stop="20260829232119 +0200">
+  <programme channel="rookie-blue-spa" start="20260829223216 +0200" stop="20260829232119 +0200">
     <title>S03 : E01 El primer día del resto de tu vida - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una joven desaparece del lugar donde se ha producido un accidente de tráfico, y Andy McNally la relaciona con un caso sin resolver. Andy y el resto de la 15.ª División intentan encontrarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260829232120 +0200" stop="20260830001012 +0200">
+  <programme channel="rookie-blue-spa" start="20260829232120 +0200" stop="20260830001011 +0200">
     <title>S03 : E02 Pueden retirarse - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y Swarek siguen el rastro de un adolescente tras robar y agredir a un delincuente que resulta ser el padre de su novia. Andy y Swarek deben encontrar a la pareja antes de que sea tarde.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830001013 +0200" stop="20260830005913 +0200">
+  <programme channel="rookie-blue-spa" start="20260830001012 +0200" stop="20260830005912 +0200">
     <title>S03 : E03 Buen tiro - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Dov se topa con un atraco en una tienda y dispara a un joven negro. Todo se complica en la 15 cuando la noticia llega a una comunidad muy unida. Dov debe enfrentarse a las consecuencias.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830005914 +0200" stop="20260830014727 +0200">
+  <programme channel="rookie-blue-spa" start="20260830005913 +0200" stop="20260830014726 +0200">
     <title>S03 : E04 Noche de chicas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un coche choca contra otro, matando al conductor. Jerry descubre que este ya estaba muerto. Traci y Andy descubren que la novia oculta algo y deben encontrar al asesino lo antes posible.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830014728 +0200" stop="20260830023630 +0200">
+  <programme channel="rookie-blue-spa" start="20260830014727 +0200" stop="20260830023630 +0200">
     <title>S03 : E05 Casas desordenadas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras una llamada por problemas domésticos, la vida de Andy cambia: la trabajadora social es su madre. Andy debe trabajar con ella, y Swarek, Nick, Chris y Gail buscan a la madre del caso.</desc>
@@ -48749,27 +48334,27 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Un vidente, o un estafador, entra en la 15 para ayudar a encontrar al testigo de un caso de crimen organizado, y los agentes se enfrentan a verdades sobre sí mismos y sobre sus compañeros.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830041422 +0200" stop="20260830050310 +0200">
+  <programme channel="rookie-blue-spa" start="20260830041422 +0200" stop="20260830050309 +0200">
     <title>S03 : E08 El papel de la novia - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Investigan la desaparición de estudiantes convertidas en acompañantes. Gail encaja con la descripción y la envían de incógnito. Pero Dov y Chris descubren el cadáver de una desaparecida.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830050311 +0200" stop="20260830055209 +0200">
+  <programme channel="rookie-blue-spa" start="20260830050310 +0200" stop="20260830055208 +0200">
     <title>S03 : E09 Fuera de plazo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una pista prometedora lleva a la 15 hasta el cuerpo de la mujer desaparecida y el caso da un giro peligroso: parece obra de un asesino en libertad y que podría tener a Gail en el punto de mira.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830055210 +0200" stop="20260830064111 +0200">
+  <programme channel="rookie-blue-spa" start="20260830055209 +0200" stop="20260830064110 +0200">
     <title>S03 : E10 Triste consuelo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 sigue conmocionada por la muerte de uno de los suyos. Tras robarles información confidencial, intentan resolver varios casos y buscar a un informante posiblemente descubierto.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830064112 +0200" stop="20260830072909 +0200">
+  <programme channel="rookie-blue-spa" start="20260830064111 +0200" stop="20260830072908 +0200">
     <title>S03 : E11 Las reglas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 vuelve a sus orígenes. Una amenaza de muerte a un sacerdote lleva a Andy y Nick a un capo de la droga, y se dan cuenta de que están en una zona de guerra con una relación sorprendente.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830072910 +0200" stop="20260830081811 +0200">
+  <programme channel="rookie-blue-spa" start="20260830072909 +0200" stop="20260830081811 +0200">
     <title>S03 : E12 Cada uno de nosotros - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 vuelve a sus orígenes. Una amenaza de muerte a un sacerdote lleva a Andy y Nick a un capo de la droga, y se dan cuenta de que están en una zona de guerra con una relación sorprendente.</desc>
@@ -48794,37 +48379,37 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy se asocia con la nueva novia de Swarek. Se encuentran con una PEP (Persona Emocionalmente Perturbada) y sus diferencias son puestas a prueba y uno de ellos debe apretar el gatillo.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830113300 +0200" stop="20260830122155 +0200">
+  <programme channel="rookie-blue-spa" start="20260830113300 +0200" stop="20260830122154 +0200">
     <title>S04 : E04 Los chicos no están bien - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy ansía descansar. Pero una comprobación conduce al descubrimiento de un adolescente en un maletero y deben convencerlo de que ningún dolor es eterno para evitar que cometa un error.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830122156 +0200" stop="20260830131055 +0200">
+  <programme channel="rookie-blue-spa" start="20260830122155 +0200" stop="20260830131054 +0200">
     <title>S04 : E05 Píldora de veneno - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras un arresto por drogas, Andy y Marlo están en cuarentena. Mientras, la 15 División entra en emergencia para sacar las drogas contaminadas antes de que un brote mortal se extienda.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830131056 +0200" stop="20260830135917 +0200">
+  <programme channel="rookie-blue-spa" start="20260830131055 +0200" stop="20260830135916 +0200">
     <title>S04 : E06 Esqueletos - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Al denunciarse la desaparición de una joven, pronto descubren una posible conexión con uno de los casos más angustiosos. Contrarreloj, Gail debe afrontar sus temores para encontrarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830135918 +0200" stop="20260830144817 +0200">
+  <programme channel="rookie-blue-spa" start="20260830135917 +0200" stop="20260830144817 +0200">
     <title>S04 : E07 Martes 13 - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando unos huesos encontrados abren un caso de personas desaparecidas, Swarek se reúne con su antiguo mentor para resolver el caso. Swarek se fija en él y debe decidir si seguir sus pasos.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830144818 +0200" stop="20260830153658 +0200">
+  <programme channel="rookie-blue-spa" start="20260830144818 +0200" stop="20260830153657 +0200">
     <title>S04 : E08 Para bien, para mal - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Todos, especialmente Andy, quieren un turno fácil para ir a la boda de Frank y Noelle. Pero las cosas se complican cuando secuestran un autobús con personas mayores y la novia desaparece.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830153659 +0200" stop="20260830162554 +0200">
+  <programme channel="rookie-blue-spa" start="20260830153658 +0200" stop="20260830162553 +0200">
     <title>S04 : E09 Lo que perdí - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La visita de Chris cambia cuando secuestran a su hijo al cuidado de Andy y Nick. Todos se unen para encontrarlo. Pero su vuelta no libra a Chris de una revelación impactante.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830162555 +0200" stop="20260830171454 +0200">
+  <programme channel="rookie-blue-spa" start="20260830162554 +0200" stop="20260830171454 +0200">
     <title>S04 : E10 Estás aquí - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una redada es el primer caso de homicidio de Traci y les obliga a trabajar horas extras. Swarek, Oliver, Chris y Dov van a la cabaña de Oliver para confesarse, reparar generadores y unirse.</desc>
@@ -48844,37 +48429,37 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras un ataque contra los agentes de la 15 División, Andy, Swarek y sus compañeros tienen que reunir la verdad sobre un crimen pasado para encontrar a Oliver Shaw y salvar su vida.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830194137 +0200" stop="20260830203040 +0200">
+  <programme channel="rookie-blue-spa" start="20260830194137 +0200" stop="20260830203039 +0200">
     <title>S05 : E01 En un pestañeo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras los sucesos traumáticos de la noche (Ep. 413), Andy y Dov intentan tranquilizarse en un restaurante abierto las 24 horas, pero un asalto imprevisto los pilla por sorpresa y fuera de servicio. Mientras, los cansados agentes de la División 15 intentan contener los daños colaterales bajo la vigilancia de un nuevo y duro inspector.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830203041 +0200" stop="20260830211943 +0200">
+  <programme channel="rookie-blue-spa" start="20260830203040 +0200" stop="20260830211942 +0200">
     <title>S05 : E02 Por su cuenta - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Es un día de sorpresas: Oliver es ascendido a sargento en funciones y Andy debe entrenar a Duncan Moore, el nuevo recluta de la División 15. Pero cuando Andy y Duncan responden a un homicidio en una tienda de empeños, queda claro que el novato va a ser todo un desafío para Andy.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830211944 +0200" stop="20260830220750 +0200">
+  <programme channel="rookie-blue-spa" start="20260830211943 +0200" stop="20260830220749 +0200">
     <title>S05 : E03 Los rompecorazones ganan dinero - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Se acerca la noche benéfica y el inspector Jarvis envía a los agentes de la División 15 a incautar cualquier cosa obtenida con dinero ilegal. Pero cuando Andy y Nick van a una casa de apuestas ilegal y consiguen una confesión un tanto turbia, Andy pide ayuda a Sam para descubrir quién miente, por qué miente, y dónde está escondido el dinero antes de que nadie salga herido.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830220751 +0200" stop="20260830225633 +0200">
+  <programme channel="rookie-blue-spa" start="20260830220750 +0200" stop="20260830225632 +0200">
     <title>S05 : E04 Buscado - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Descubren a un jefe mafioso ejecutado tras un tiroteo en un edificio de apartamentos y la División 15 tiene que encontrar al asesino antes de que estalle una guerra de bandas. Mientras el asesino intenta encontrar al único testigo que puede relacionarlo con el crimen, Andy y su novato, Duncan, se enfrentan a una heroica prueba a vida o muerte.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830225634 +0200" stop="20260830234513 +0200">
+  <programme channel="rookie-blue-spa" start="20260830225633 +0200" stop="20260830234512 +0200">
     <title>S05 : E05 De encubierto - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La División 15 se infiltra en un club que podría ser la tapadera de una tienda de armas, pero el comportamiento errático de Chris y su preocupación por un traficante en concreto provocan las sospechas de Dov. Andy descubre que Duncan ha presentado acusaciones graves contra ella, pero decide ayudar a Sam en un caso de personas desaparecidas con un giro un tanto tenebroso.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260830234514 +0200" stop="20260831003416 +0200">
+  <programme channel="rookie-blue-spa" start="20260830234513 +0200" stop="20260831003415 +0200">
     <title>S05 : E06 Dos verdades y una mentira - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Los agentes de la División 15 intentan encontrar al asesino de Brian Gowdy y Andy Sam viajan hasta la penitenciaria de Millburn para entrevistar a varios reclusos. Todos tienen relación con el sospechoso principal, pero uno resulta ser Jay Swarek, el escurridizo padre de Sam.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831003417 +0200" stop="20260831012320 +0200">
+  <programme channel="rookie-blue-spa" start="20260831003416 +0200" stop="20260831012320 +0200">
     <title>S05 : E07 Trato con el diablo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Es un día caótico en comisaría y Oliver tiene que preparar a Andy para defenderse en la vista de la expulsión de Duncan, que es en dos horas. Pero cuando Duncan presenta unas pruebas que culpan directamente a Andy, Oliver deberá decidir si está dispuesto a comprometer su integridad profesional, y su amistad con Andy, para salvarla.</desc>
@@ -48909,27 +48494,27 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy se plantea su futuro con Sam tras la sorprendente noticia de que Marlo está embarazada con su bebé (Ep. 512). Pero la idea de una familia perfecta de Andy cambia radicalmente cuando conoce a un descontrolado adolescente que necesita ser protegido de su conservadora familia.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831061629 +0200" stop="20260831070516 +0200">
+  <programme channel="rookie-blue-spa" start="20260831061629 +0200" stop="20260831070515 +0200">
     <title>S05 : E14 Levantamiento - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Hay un motín en un centro penitenciario para mujeres mientras Andy, Juliet, Nick y Gail están allí para trasladar a varias prisioneras. Los cuatro acaban separados en una cárcel confinada, y Andy y Juliet quedan atrapadas con una mujer desesperada por demostrar su inocencia.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831070517 +0200" stop="20260831075419 +0200">
+  <programme channel="rookie-blue-spa" start="20260831070516 +0200" stop="20260831075418 +0200">
     <title>S05 : E15 Soltar - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>El hermano desaparecido de Nick llega con nueva información sobre alguien de su trágico pasado y Nick intenta encontrarlo por su cuenta. Pero Juliet no lo pierde de vista y Nick se ve obligado a contarle los secretos de su pasado.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831075420 +0200" stop="20260831084308 +0200">
+  <programme channel="rookie-blue-spa" start="20260831075419 +0200" stop="20260831084307 +0200">
     <title>S05 : E16 Un verdadero caballero - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Traci no aparece para su primera redada y la División 15 teme que un infame traficante de armas la haya secuestrado. Pero cuando Andy descubre que el violador en serie que no atraparon (Ep. 512) ha vuelto, todos deberán colaborar para encontrar a Traci. Mientras, Traci se enfrenta a su captor e intenta escapar antes de que sea tarde.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831084309 +0200" stop="20260831093129 +0200">
+  <programme channel="rookie-blue-spa" start="20260831084308 +0200" stop="20260831093128 +0200">
     <title>S05 : E17 Cuadrangular - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La relación de Gail con su hermano Steve Peck es puesta prueba mientras buscan al pistolero que ha disparado desde un coche en un partido de béisbol comunitario. Mientras, Swarek planea una escapada con Andy a la cabaña de Gavin, pero la cosa acaba fatal de todas las maneras posibles menos una.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831093130 +0200" stop="20260831102031 +0200">
+  <programme channel="rookie-blue-spa" start="20260831093129 +0200" stop="20260831102031 +0200">
     <title>S05 : E18 El mejor - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y Sam se sorprenden al descubrir que Oliver es el principal sospechoso de la investigación de Asuntos Internos sobre la corrupción en la División 15. Y lo que es peor, solo tienen hasta la noche para encontrar a Chris Klem, el vendedor de explosivos desaparecido, y limpiar el nombre de Oliver antes de que cargue con todo.</desc>
@@ -48944,72 +48529,72 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras los agentes de la División 15 intentan pasar página tras el escándalo de corrupción, una ola de calor obliga a Jarvis a abrir la división al público para que puedan refrescarse. Andy ayudar a la embarazada Marlo a encontrar a una mujer que ha desaparecido tras una terapia en grupo, pero ni Andy ni Marlo están preparadas cuando la última se pone de parto.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831120001 +0200" stop="20260831124706 +0200">
+  <programme channel="rookie-blue-spa" start="20260831120001 +0200" stop="20260831124705 +0200">
     <title>S05 : E21 Se separa la banda - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Ahora que ha llegado el bebé de Sam y Marlo (Ep. 520), es evidente que nada podría haber preparado a Andy para este momento. Así que cuando Juliet le ofrece a Andy la oportunidad de participar en una misión encubierta de cuatro meses, esta empieza a pensárselo. Mientras, Jarvis revela la sorprendente noticia de que la División 15 se reestructurará tras el escándalo de corrupción.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831124707 +0200" stop="20260831133609 +0200">
+  <programme channel="rookie-blue-spa" start="20260831124706 +0200" stop="20260831133608 +0200">
     <title>S05 : E22 74 epifanías - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La reestructuración de la División 15 está al caer y la boda de Andy y Sam llega en el momento justo para celebrar una última fiesta todos juntos. Pero cuando un autoestopista hace desviar a Andy y acaba en una carretera sin salida, con un hombre moribundo y sin modo de pedir ayuda ni de avisar a Sam de que no ha huido, ¿será capaz de salvar la vida al hombre? ¿Llegará a tiempo a su boda?</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831133610 +0200" stop="20260831142359 +0200">
+  <programme channel="rookie-blue-spa" start="20260831133609 +0200" stop="20260831142358 +0200">
     <title>S01 : E01 Pintura fresca - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>El triunfo se convierte en humillación. Una operación de alto riesgo se tuerce cuando la agente novata Andy McNally pilla a uno de los suyos frustrando una operación encubierta.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831142400 +0200" stop="20260831151243 +0200">
+  <programme channel="rookie-blue-spa" start="20260831142359 +0200" stop="20260831151242 +0200">
     <title>S01 : E02 Mercurio en retroceso - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras los demás novatos persiguen a un preso fugado, Swarek le cuenta a Andy sus hazañas encubiertas del pasado. Juntos persiguen a un informante desaparecido en peligro y saltan chispas.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831151244 +0200" stop="20260831160041 +0200">
+  <programme channel="rookie-blue-spa" start="20260831151243 +0200" stop="20260831160040 +0200">
     <title>S01 : E03 Noche de pelea - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy debe saltarse el protocolo para ganarse la confianza de una víctima de abusos a la que el sistema ha defraudado. Mientras, los demás novatos se pelean en "La Noche de Combate".</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831160042 +0200" stop="20260831164855 +0200">
+  <programme channel="rookie-blue-spa" start="20260831160041 +0200" stop="20260831164854 +0200">
     <title>S01 : E04 Señales cruzadas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy se infiltra como prostituta. La tensión se dispara cuando Dov pone en peligro la vida de una informante y Andy tiene que infiltrarse en un arriesgado negocio de armas para salvarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831164856 +0200" stop="20260831173626 +0200">
+  <programme channel="rookie-blue-spa" start="20260831164855 +0200" stop="20260831173625 +0200">
     <title>S01 : E05 A plena luz del día - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un allanamiento de morada en un barrio de lujo moviliza a todos los novatos, pero una vez despejado el lugar, es Andy quien se queda sola y se enfrenta a un ladrón muy volátil.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831173627 +0200" stop="20260831182435 +0200">
+  <programme channel="rookie-blue-spa" start="20260831173626 +0200" stop="20260831182434 +0200">
     <title>S01 : E06 A prueba de balas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un accidente de tráfico fatal revela una verdad impactante, y el romance de Andy y el inspector Luke Callaghan se complica cuando discrepan sobre el manejo de un testigo de asesinato.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831182436 +0200" stop="20260831191338 +0200">
+  <programme channel="rookie-blue-spa" start="20260831182435 +0200" stop="20260831191338 +0200">
     <title>S01 : E07 Con los nervios de punta - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una ola de calor causa estragos en la ciudad, que se multiplican ante el temor de un violador en serie que anda suelto. Mientras, un apagón obliga a Andy a enfrentarse a un cruel agresor.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831191339 +0200" stop="20260831200141 +0200">
+  <programme channel="rookie-blue-spa" start="20260831191339 +0200" stop="20260831200140 +0200">
     <title>S01 : E08 Cuadro de honor - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y Chris investigan una paliza en un club. Cuando las pistas apuntan a un policía, deben tomar una decisión que pondrá a prueba su lealtad al cuerpo y puede hacer peligrar sus carreras.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831200142 +0200" stop="20260831205033 +0200">
+  <programme channel="rookie-blue-spa" start="20260831200141 +0200" stop="20260831205032 +0200">
     <title>S01 : E09 La novia del año - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Chris y Gail ven un coche cuya matrícula coincide con una alerta ámbar de una niña de 9 años. Mientras buscan al conductor, el interrogatorio a los padres revela pruebas inquietantes.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831205034 +0200" stop="20260831213813 +0200">
+  <programme channel="rookie-blue-spa" start="20260831205033 +0200" stop="20260831213812 +0200">
     <title>S01 : E10 Big Nickel - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La tensión entre Andy y Swarek es máxima, pero deben dejar a un lado sus sentimientos cuando el transporte de un preso fallido los obliga a buscar al fugitivo.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831213814 +0200" stop="20260831222622 +0200">
+  <programme channel="rookie-blue-spa" start="20260831213813 +0200" stop="20260831222621 +0200">
     <title>S01 : E11 Para servir o proteger - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>El padre de Andy, Tommy, expolicía, confiesa que pudo haber cometido un delito estando ebrio. Andy profundiza en el caso y se enfrenta a la posibilidad de enviar a su padre a la cárcel.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20260831222623 +0200" stop="20260831231520 +0200">
+  <programme channel="rookie-blue-spa" start="20260831222622 +0200" stop="20260831231520 +0200">
     <title>S01 : E12 El Día del Juicio Final - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Son las evaluaciones de rendimiento, o Día del Juicio Final. ¿Entregará Andy su placa antes de que el sargento Frank dé su opinión? El asesinato de una desconocida conmociona a Andy.</desc>
@@ -49774,12 +49359,12 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260829131637 +0200" stop="20260829141303 +0200">
+  <programme channel="lol-espana" start="20260829131637 +0200" stop="20260829141304 +0200">
     <title>S12 : E09 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260829141304 +0200" stop="20260829151349 +0200">
+  <programme channel="lol-espana" start="20260829141305 +0200" stop="20260829151349 +0200">
     <title>S12 : E10 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
@@ -49799,17 +49384,17 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>Pol, López y David leen en el periódico que un asesino anda suelto por su barrio.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260829171836 +0200" stop="20260829175045 +0200">
+  <programme channel="lol-espana" start="20260829171836 +0200" stop="20260829175046 +0200">
     <title>S01 : E26 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Carbonell conoce a un hombre en una discoteca y empiezan a bailar muy compenetrados.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260829175046 +0200" stop="20260829182412 +0200">
+  <programme channel="lol-espana" start="20260829175047 +0200" stop="20260829182413 +0200">
     <title>S01 : E28 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>¡Qué bonita es la Navidad! El pesebre, el árbol, los regalos, los villancicos, la familia... y las peleas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260829182413 +0200" stop="20260829185345 +0200">
+  <programme channel="lol-espana" start="20260829182414 +0200" stop="20260829185345 +0200">
     <title>S01 : E29 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>En este capítulo se descubre quienes son "realmente" los actores que dan vida a los personajes de la serie. Asistimos a la representación de lo que es una grabación en plató de uno de los capítulos y podemos ver a David haciendo de Joel Joan, a López haciendo de Jordi Sánchez, etc.</desc>
@@ -49819,26 +49404,26 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>Desde que Carbonell se casó y se fue a vivir a Porrera con Oriol, David no da una. Acostumbrado a que se lo hicieran todo, ahora tiene que espabilarse solo y no se le da muy bien.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260829192640 +0200" stop="20260829195728 +0200">
+  <programme channel="lol-espana" start="20260829192640 +0200" stop="20260829195729 +0200">
     <title>S01 : E31 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López es un desastre como asistenta así que David decide organizar un "casting" para encontrar a alguien que sea competente.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260829195729 +0200" stop="20260829222101 +0200">
+  <programme channel="lol-espana" start="20260829195730 +0200" stop="20260829222102 +0200">
     <title>El Top 10 de Vaya Semanita</title>
     <desc>No te pierdas lo mejor de "Vaya Semanita", una recopilación de los mejores sketches que han marcado una época.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260829222102 +0200" stop="20260830000736 +0200">
+  <programme channel="lol-espana" start="20260829222103 +0200" stop="20260830000737 +0200">
     <title>S08 : E05 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830000737 +0200" stop="20260830003736 +0200">
+  <programme channel="lol-espana" start="20260830000738 +0200" stop="20260830003737 +0200">
     <title>S01 : E07 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Ariadna, la hija de Mercedes, se enamora de López, que también queda prendado de ella. David le acusa de infanticida.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830003737 +0200" stop="20260830010640 +0200">
+  <programme channel="lol-espana" start="20260830003738 +0200" stop="20260830010640 +0200">
     <title>S01 : E08 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David recibe una carta del Ministerio de Defensa conforme debe ir a la mili. David pide a López que le espere y cuando regrese seguirán siendo compañeros de piso.</desc>
@@ -49853,67 +49438,67 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>David descubre que su madre tiene un amante y decide contárselo a su padre pero no sabe por donde empezar.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830020221 +0200" stop="20260830022741 +0200">
+  <programme channel="lol-espana" start="20260830020221 +0200" stop="20260830022742 +0200">
     <title>S01 : E12 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López alquila una plaza de parking. Él no tiene ni coche ni carnet de conducir pero ese parece un buen sistema para planteárselo en serio e intentar sacárselo.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830022742 +0200" stop="20260830025311 +0200">
+  <programme channel="lol-espana" start="20260830022743 +0200" stop="20260830025311 +0200">
     <title>S01 : E13 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David y López se han enamorado de Emma. Ninguno dejará que el otro la vea a solas y saque ventaja. Carbonell intenta vender a todo el mundo un viaje organizado por ella.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830025312 +0200" stop="20260830033009 +0200">
+  <programme channel="lol-espana" start="20260830025312 +0200" stop="20260830033010 +0200">
     <title>S01 : E14 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Carbonell, Ramón, Pol y Mercedes regresan del viaje. Ramón no para de contar que Pol le salvó la vida y que siempre estará en deuda con él.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830033010 +0200" stop="20260830040622 +0200">
+  <programme channel="lol-espana" start="20260830033011 +0200" stop="20260830040622 +0200">
     <title>S01 : E15 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Emma se ha ido. López y David están hechos polvo tras su marcha. Al enterarse de que el administrador del bloque busca un nuevo inquilino para la casita de madera, David y López salen desesperadamente en busca de Emma.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830040623 +0200" stop="20260830055257 +0200">
+  <programme channel="lol-espana" start="20260830040623 +0200" stop="20260830055258 +0200">
     <title>S08 : E05 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830055258 +0200" stop="20260830062300 +0200">
+  <programme channel="lol-espana" start="20260830055259 +0200" stop="20260830062301 +0200">
     <title>S03 : E01 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther y Andreu están a punto de ir de viaje de novios, pero la tienen que suspender porque Silvia tiene un accidente en casa y queda inconsciente.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830062301 +0200" stop="20260830065054 +0200">
+  <programme channel="lol-espana" start="20260830062302 +0200" stop="20260830065055 +0200">
     <title>S03 : E02 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Diana decide alquilar una habitación de su piso porque corta de euros y coge el primer inquilino que pasa: un hombre joven, que no habla y lleva una bolsa de deporte llena de cuchillos</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830065055 +0200" stop="20260830072355 +0200">
+  <programme channel="lol-espana" start="20260830065056 +0200" stop="20260830072355 +0200">
     <title>S03 : E03 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Una fuga en una tubería deja sin agua el piso de las chicas durante varios días.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830072356 +0200" stop="20260830080040 +0200">
+  <programme channel="lol-espana" start="20260830072356 +0200" stop="20260830080041 +0200">
     <title>S03 : E04 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla y Silvia tienen diarreas por culpa de algo en mal estado que comieron.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830080041 +0200" stop="20260830083611 +0200">
+  <programme channel="lol-espana" start="20260830080042 +0200" stop="20260830083612 +0200">
     <title>S03 : E05 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona, aprovechando que Esther y Andreu se han comprado una cámara de vídeo, decide grabar un cortometraje rompedor con el que quiere pasar a la posteridad.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830083612 +0200" stop="20260830090838 +0200">
+  <programme channel="lol-espana" start="20260830083613 +0200" stop="20260830090838 +0200">
     <title>S03 : E06 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Desde que Esther ha ido de casa para vivir con Andreu las chicas más justas que nunca.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830090839 +0200" stop="20260830094249 +0200">
+  <programme channel="lol-espana" start="20260830090839 +0200" stop="20260830094250 +0200">
     <title>S03 : E08 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia, Diana y Andreu deciden hacerse millonarios, y la manera más fácil desde su punto de vista es haciendo una quiniela.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830094250 +0200" stop="20260830101451 +0200">
+  <programme channel="lol-espana" start="20260830094251 +0200" stop="20260830101451 +0200">
     <title>S03 : E09 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla sale con un hombre separado que tiene un hijo y empieza a descubrir que los niños le gustan más de lo que ella pensaba. Por su parte Mariona quiere convencer Silvia ponerse ambas un piercing.</desc>
@@ -49923,72 +49508,72 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Jet Lag</sub-title>
     <desc>Las chicas están hartas de hacer lo mismo cada fin de semana, pero gracias a Silvia, este fin de semana el pasarán en una masía donde podrán disfrutar de la vida en la montaña.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830104655 +0200" stop="20260830112355 +0200">
+  <programme channel="lol-espana" start="20260830104655 +0200" stop="20260830112356 +0200">
     <title>S03 : E11 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla recibe una visita inesperada: su padre. Después de estar años sin verse el padre le dice que le queda poco tiempo para estar con ella.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830112356 +0200" stop="20260830115821 +0200">
+  <programme channel="lol-espana" start="20260830112357 +0200" stop="20260830115821 +0200">
     <title>S03 : E12 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther, que ha sido un mes en casa su madre con su hijo, vuelve a casa.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830115822 +0200" stop="20260830123635 +0200">
+  <programme channel="lol-espana" start="20260830115822 +0200" stop="20260830123636 +0200">
     <title>S03 : E13 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>A Carla le ofrecen el trabajo de su vida en Nueva York y la acepta. Cada vez son menos chicas en el piso y hacen una cena de despedida de Carla.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830123636 +0200" stop="20260830133514 +0200">
+  <programme channel="lol-espana" start="20260830123637 +0200" stop="20260830133515 +0200">
     <title>S12 : E11 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830133515 +0200" stop="20260830143620 +0200">
+  <programme channel="lol-espana" start="20260830133516 +0200" stop="20260830143620 +0200">
     <title>S12 : E13 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830143621 +0200" stop="20260830153721 +0200">
+  <programme channel="lol-espana" start="20260830143621 +0200" stop="20260830153722 +0200">
     <title>S12 : E14 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830153722 +0200" stop="20260830163750 +0200">
+  <programme channel="lol-espana" start="20260830153723 +0200" stop="20260830163750 +0200">
     <title>S12 : E15 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830163751 +0200" stop="20260830171048 +0200">
+  <programme channel="lol-espana" start="20260830163751 +0200" stop="20260830171049 +0200">
     <title>S01 : E38 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Marina quiere que David la acompañe a una expedición científica en alta mar. David, no sabe nadar pero se lo calla y se une a la expedición para no desilusionarla.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830171049 +0200" stop="20260830174126 +0200">
+  <programme channel="lol-espana" start="20260830171050 +0200" stop="20260830174127 +0200">
     <title>S01 : E39 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>"Radio Bofarull" esta a punto de cerrar por falta de audiencia. Ramón tiene una idea para salvarla: escribe un guión radiofónico sobre una fuga en la central nuclear.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830174127 +0200" stop="20260830180838 +0200">
+  <programme channel="lol-espana" start="20260830174128 +0200" stop="20260830180839 +0200">
     <title>S01 : E40 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David descubre que, para triunfar como actor, se necesita algo más que vocación. Se debe estar muy preparado. Por eso decide apuntarse a todo tipo de cursillos.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830180839 +0200" stop="20260830184024 +0200">
+  <programme channel="lol-espana" start="20260830180840 +0200" stop="20260830184025 +0200">
     <title>S01 : E41 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Lidia, exnovia de López, regresa embarazada del Amazonas y está a punto de dar a luz. Poco a poco, López se va implicando en los preparativos del parto bajo la mirada crítica de David.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830184025 +0200" stop="20260830190920 +0200">
+  <programme channel="lol-espana" start="20260830184026 +0200" stop="20260830190921 +0200">
     <title>S01 : E43 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Llega al Instituto del Treatro un nuevo profesor extranjero. Sus peculiares métodos crean polémica entre sus alumnos hasta el punto que Pol decide enfrentarse a él. David, en cambio, está encantado con sus clases.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830190921 +0200" stop="20260830193508 +0200">
+  <programme channel="lol-espana" start="20260830190922 +0200" stop="20260830193509 +0200">
     <title>S01 : E44 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>A López y a David les han embargado el piso por culpa de un crédito que López pidió para su padre y que éste no le devuelve.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830193509 +0200" stop="20260830200555 +0200">
+  <programme channel="lol-espana" start="20260830193510 +0200" stop="20260830200555 +0200">
     <title>S01 : E45 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David se queda encerrado en el lavabo. Carbonell intenta abrir la puerta pero es imposible; el inquilino anterior montó allí un refugio nuclear.</desc>
@@ -50008,27 +49593,27 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>La abuela Sunción aún vive en otra época. No entiende lo que significa vivir juntos sin estar casados o que dos amigos compartan piso para pagar el alquiler.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830213844 +0200" stop="20260830221242 +0200">
+  <programme channel="lol-espana" start="20260830213844 +0200" stop="20260830221243 +0200">
     <title>S01 : E50 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Quim Monzó pide a López que le escriba su próxima novela. Nadie debe enterarse. David quiere estrenarse como director de cine y empieza a preparar una película.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260830221243 +0200" stop="20260831000031 +0200">
+  <programme channel="lol-espana" start="20260830221244 +0200" stop="20260831000032 +0200">
     <title>S08 : E06 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831000032 +0200" stop="20260831003919 +0200">
+  <programme channel="lol-espana" start="20260831000033 +0200" stop="20260831003919 +0200">
     <title>S01 : E16 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David y López no saben qué hacer con un paquete de droga que les ha llegado por error. Si lo venden, pueden sacar mucho dinero pero si les pillan... aunque quizás deberían preocuparse por si su dueño lo reclama.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831003920 +0200" stop="20260831011131 +0200">
+  <programme channel="lol-espana" start="20260831003920 +0200" stop="20260831011132 +0200">
     <title>S01 : E17 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Emma quiere pedir el paro pero allí la convocan a un cursillo y debe pasar un examen. Carbonell y Mercedes le echarán una mano para que apruebe.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831011132 +0200" stop="20260831014750 +0200">
+  <programme channel="lol-espana" start="20260831011133 +0200" stop="20260831014750 +0200">
     <title>S01 : E18 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Mercedes intenta hablar de un tema importante con López, que la esquiva constantemente por miedo a que le eche una bronca.</desc>
@@ -50043,27 +49628,27 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>Pol decide sacar más partido del bar Mauricio y prepara varias actuaciones que sirvan de reclamo para ganar clientes. David prepara una actuación que muestre sus grandes dotes interpretativas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831025307 +0200" stop="20260831033157 +0200">
+  <programme channel="lol-espana" start="20260831025307 +0200" stop="20260831033158 +0200">
     <title>S01 : E21 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David decide montar una fiesta para celebrar la noche de Halloween. López, mucho más tradicional, prefiere celebrar la castañada.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831033158 +0200" stop="20260831041012 +0200">
+  <programme channel="lol-espana" start="20260831033159 +0200" stop="20260831041013 +0200">
     <title>S01 : E23 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Carbonell lleva a casa un gato que pertenece a un "capo" mafioso, al que le debe un favor. Deberá cuidarlo durante el fin de semana.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831041013 +0200" stop="20260831055802 +0200">
+  <programme channel="lol-espana" start="20260831041014 +0200" stop="20260831055802 +0200">
     <title>S08 : E06 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831055803 +0200" stop="20260831063136 +0200">
+  <programme channel="lol-espana" start="20260831055803 +0200" stop="20260831063137 +0200">
     <title>S01 : E01 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona llega de Madrid por sorpresa, en casa de Esther, su hermana. Ha venido a comprarse el vestido para la boda. Mientras tanto, Esther está molesta porque su ex no la llama por felicitarle el cumpleaños.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831063137 +0200" stop="20260831070447 +0200">
+  <programme channel="lol-espana" start="20260831063138 +0200" stop="20260831070447 +0200">
     <title>S01 : E03 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia tiene un carácter de mil demonios. En el trabajo, le advierten: o cambia, o en la calle. Esther está muy contenta de tener su hermana en casa. Mariona ha decidido no volver a Madrid.</desc>
@@ -50073,52 +49658,52 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia ha de hacer de canguro del hijo de una amiga. Entre todas, le ayudan a hacer prácticas de maternidad con un muñeco. Por otra parte, Carla tiene varios amantes y es obligada a tomar una decisión. Ha de elegir uno. ¿Cuál será el afortunado?</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831073757 +0200" stop="20260831081215 +0200">
+  <programme channel="lol-espana" start="20260831073757 +0200" stop="20260831081216 +0200">
     <title>S01 : E04 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther y Carla hacen una apuesta. Deben conseguir que la Diana tenga una aventura. La aparición de un cliente en el bar y la ayuda de una vidente precipitarán las cosas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831081216 +0200" stop="20260831084250 +0200">
+  <programme channel="lol-espana" start="20260831081217 +0200" stop="20260831084250 +0200">
     <title>S01 : E05 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia, Mariona, Esther, Carla y también la Diana se preparan para una cena. Hace un año que viven juntas y han decidido celebrarlo. Como quien no quiere la cosa, se empiezan a decir las verdades y a confesarse los secretos. La noche acabará mal.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831084251 +0200" stop="20260831091514 +0200">
+  <programme channel="lol-espana" start="20260831084251 +0200" stop="20260831091515 +0200">
     <title>S01 : E06 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Víctor, un amigo de Esther, aparece por sorpresa. Carla se enamora al acto, aunque intente evitarlo. Mariona y Silvia no salen de la habitación desde hace tres días.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831091515 +0200" stop="20260831095311 +0200">
+  <programme channel="lol-espana" start="20260831091516 +0200" stop="20260831095312 +0200">
     <title>S01 : E07 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Diana tiene dolor de garganta. Esther y Carla intentan hacerle de médicos. La cosa se complicará. A la vez, Silvia y Mariona han decidido cortar su relación sentimental. Las consecuencias serán imprevisibles.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831095312 +0200" stop="20260831102511 +0200">
+  <programme channel="lol-espana" start="20260831095313 +0200" stop="20260831102512 +0200">
     <title>S01 : E09 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Diana recibe una llamada: su amiga del alma ha tenido un accidente fatal. La Diana, aunque lo intenta, no recuerda de quién están hablando.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831102512 +0200" stop="20260831105452 +0200">
+  <programme channel="lol-espana" start="20260831102513 +0200" stop="20260831105452 +0200">
     <title>S01 : E10 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Por fin han abierto en la ciudad un burdel para mujeres. Esther, Carla y Diana van. Mariona no, porque está enamorada. El único problema es que no sabe de quién.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831105453 +0200" stop="20260831113030 +0200">
+  <programme channel="lol-espana" start="20260831105453 +0200" stop="20260831113031 +0200">
     <title>S01 : E11 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Diana es invitada a una cena de ex alumnos. Las otras le aconsejan como ir a una cena de este tipo. Mientras tanto, Silvia y Carla se aburren y no saben qué hacer. Esther pasa una crisis con Andreu. Está harta de tener un novio. Ella quiere un amante.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831113031 +0200" stop="20260831120129 +0200">
+  <programme channel="lol-espana" start="20260831113032 +0200" stop="20260831120130 +0200">
     <title>S01 : E12 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla ha perdido las lentillas, y lo tiene claro: no quiere salir a la calle con gafas. Es el cumpleaños de Mariona y nadie se acuerda. Esther y Andreu han llegado al final de su relación.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831120130 +0200" stop="20260831130230 +0200">
+  <programme channel="lol-espana" start="20260831120131 +0200" stop="20260831130231 +0200">
     <title>S12 : E14 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831130231 +0200" stop="20260831140259 +0200">
+  <programme channel="lol-espana" start="20260831130232 +0200" stop="20260831140259 +0200">
     <title>S12 : E15 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
@@ -50148,31 +49733,31 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>Emma presenta una amiga suya, Lola, a David y éste se queda embobado. Con la ayuda de Carbonell monta una fiesta en el piso para poder invitarla. Por otro lado, a López le cae un "encargo" de sus jefes de la radio: hacer de canguro de su hijo. La fiesta será el punto de encuentro para sorpresa de uno y enfado del otro.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831174854 +0200" stop="20260831181919 +0200">
+  <programme channel="lol-espana" start="20260831174854 +0200" stop="20260831181920 +0200">
     <title>S01 : E36 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David y Marina ya salen juntos y están muy enamorados. Los amigos de David no entienden esta relación (Marina es tan interesante...).</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831181920 +0200" stop="20260831185143 +0200">
+  <programme channel="lol-espana" start="20260831181921 +0200" stop="20260831185143 +0200">
     <title>S01 : E37 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López se encuentra casualmente con un antiguo amigo que ahora es manager musical. Para recordar los viejos tiempos, éste le propone relanzar su carrera de "rumbero" juvenil.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831185144 +0200" stop="20260831192441 +0200">
+  <programme channel="lol-espana" start="20260831185144 +0200" stop="20260831192442 +0200">
     <title>S01 : E38 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Marina quiere que David la acompañe a una expedición científica en alta mar. David, no sabe nadar pero se lo calla y se une a la expedición para no desilusionarla.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831192442 +0200" stop="20260831195520 +0200">
+  <programme channel="lol-espana" start="20260831192443 +0200" stop="20260831195520 +0200">
     <title>S01 : E39 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>"Radio Bofarull" esta a punto de cerrar por falta de audiencia. Ramón tiene una idea para salvarla: escribe un guión radiofónico sobre una fuga en la central nuclear.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831195521 +0200" stop="20260831221852 +0200">
+  <programme channel="lol-espana" start="20260831195521 +0200" stop="20260831221853 +0200">
     <title>El Top 10 de Vaya Semanita</title>
     <desc>No te pierdas lo mejor de "Vaya Semanita", una recopilación de los mejores sketches que han marcado una época.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260831221853 +0200" stop="20260901000329 +0200">
+  <programme channel="lol-espana" start="20260831221854 +0200" stop="20260901000330 +0200">
     <title>S08 : E07 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
