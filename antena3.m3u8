@@ -1,16 +1,16 @@
 #EXTM3U
-#TIMESTAMP: 2026-08-28 14:48:01
+#TIMESTAMP: 2026-08-28 14:50:02
 #EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/dcf64808b1c5edbdd8c38e677d4ceb0b1594aff7_ES_1787921341_1787950081/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Reserved for local use",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://atres-live.atresmedia.com/dcf64808b1c5edbdd8c38e677d4ceb0b1594aff7_ES_1787921341_1787950081/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_qaa=128000.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="audio_ads",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ads",URI="https://atres-live.atresmedia.com/dcf64808b1c5edbdd8c38e677d4ceb0b1594aff7_ES_1787921341_1787950081/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_ads=128000.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/dcf64808b1c5edbdd8c38e677d4ceb0b1594aff7_ES_1787921341_1787950081/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-textstream_spa=0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/a1a926452cb31f6e450d3907e25ac629a706baa5_ES_1787921462_1787950202/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Reserved for local use",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://atres-live.atresmedia.com/a1a926452cb31f6e450d3907e25ac629a706baa5_ES_1787921462_1787950202/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_qaa=128000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="audio_ads",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ads",URI="https://atres-live.atresmedia.com/a1a926452cb31f6e450d3907e25ac629a706baa5_ES_1787921462_1787950202/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_ads=128000.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/a1a926452cb31f6e450d3907e25ac629a706baa5_ES_1787921462_1787950202/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-textstream_spa=0.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=622000,AVERAGE-BANDWIDTH=565000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=640x360,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/dcf64808b1c5edbdd8c38e677d4ceb0b1594aff7_ES_1787921341_1787950081/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=405000.m3u8
+https://atres-live.atresmedia.com/a1a926452cb31f6e450d3907e25ac629a706baa5_ES_1787921462_1787950202/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=405000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1304000,AVERAGE-BANDWIDTH=1186000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=854x480,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/dcf64808b1c5edbdd8c38e677d4ceb0b1594aff7_ES_1787921341_1787950081/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=990000.m3u8
+https://atres-live.atresmedia.com/a1a926452cb31f6e450d3907e25ac629a706baa5_ES_1787921462_1787950202/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=990000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1829000,AVERAGE-BANDWIDTH=1663000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/dcf64808b1c5edbdd8c38e677d4ceb0b1594aff7_ES_1787921341_1787950081/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=1440000.m3u8
+https://atres-live.atresmedia.com/a1a926452cb31f6e450d3907e25ac629a706baa5_ES_1787921462_1787950202/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=1440000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=3298000,AVERAGE-BANDWIDTH=2998000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/dcf64808b1c5edbdd8c38e677d4ceb0b1594aff7_ES_1787921341_1787950081/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=2700000.m3u8
+https://atres-live.atresmedia.com/a1a926452cb31f6e450d3907e25ac629a706baa5_ES_1787921462_1787950202/hlsts/live/antena3_usp/antena3_usp.isml/antena3_usp-audio_spa=128000-video=2700000.m3u8
 
