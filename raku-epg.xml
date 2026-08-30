@@ -6540,9 +6540,13 @@
     <title>Noticias en 30 minutos</title>
     <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
-  <programme channel="actualidad-360" start="20260901180001 +0200" stop="20260901183000 +0200">
-    <title>Deutsche Welle</title>
-    <desc>Noticias, reportajes y artículos de fondo sobre los temas de mayor relevancia internacional</desc>
+  <programme channel="actualidad-360" start="20260901180001 +0200" stop="20260901181500 +0200">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+  </programme>
+  <programme channel="actualidad-360" start="20260901181501 +0200" stop="20260901183000 +0200">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
   <programme channel="actualidad-360" start="20260901183001 +0200" stop="20260901184500 +0200">
     <title>Noticias en 30 minutos</title>
@@ -6616,9 +6620,13 @@
     <title>Noticias en 30 minutos</title>
     <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
-  <programme channel="actualidad-360" start="20260901230001 +0200" stop="20260901233000 +0200">
-    <title>Deutsche Welle</title>
-    <desc>Noticias, reportajes y artículos de fondo sobre los temas de mayor relevancia internacional</desc>
+  <programme channel="actualidad-360" start="20260901230001 +0200" stop="20260901231500 +0200">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+  </programme>
+  <programme channel="actualidad-360" start="20260901231501 +0200" stop="20260901233000 +0200">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
   <programme channel="actualidad-360" start="20260901233001 +0200" stop="20260901234500 +0200">
     <title>Noticias en 30 minutos</title>
@@ -6916,9 +6924,13 @@
     <title>Noticias en 30 minutos</title>
     <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
-  <programme channel="actualidad-360" start="20260902180001 +0200" stop="20260902183000 +0200">
-    <title>Deutsche Welle</title>
-    <desc>Noticias, reportajes y artículos de fondo sobre los temas de mayor relevancia internacional</desc>
+  <programme channel="actualidad-360" start="20260902180001 +0200" stop="20260902181500 +0200">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+  </programme>
+  <programme channel="actualidad-360" start="20260902181501 +0200" stop="20260902183000 +0200">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
   <programme channel="actualidad-360" start="20260902183001 +0200" stop="20260902184500 +0200">
     <title>Noticias en 30 minutos</title>
@@ -6992,9 +7004,13 @@
     <title>Noticias en 30 minutos</title>
     <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
-  <programme channel="actualidad-360" start="20260902230001 +0200" stop="20260902233000 +0200">
-    <title>Deutsche Welle</title>
-    <desc>Noticias, reportajes y artículos de fondo sobre los temas de mayor relevancia internacional</desc>
+  <programme channel="actualidad-360" start="20260902230001 +0200" stop="20260902231500 +0200">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
+  </programme>
+  <programme channel="actualidad-360" start="20260902231501 +0200" stop="20260902233000 +0200">
+    <title>Noticias en 30 minutos</title>
+    <desc>La última hora de todo lo que sucede en España y el mundo.</desc>
   </programme>
   <programme channel="actualidad-360" start="20260902233001 +0200" stop="20260902234500 +0200">
     <title>Noticias en 30 minutos</title>
@@ -34570,25 +34586,9 @@ seguidores...</desc>
     <sub-title>Fame to Table</sub-title>
     <desc>Chef and restaurateur Melba Wilson schools Matthew on the art of her legendary shrimp and grits.</desc>
   </programme>
-  <programme channel="fashion-tv" start="20260829233001 +0200" stop="20260830000000 +0200">
+  <programme channel="fashion-tv" start="20260829233001 +0200" stop="20260830020000 +0200">
     <title>EDITOR'S PICK</title>
     <desc>Get the ultimate insider's guide! EDITOR'S PICK showcases exclusive trends, coveted items, and expert advice straight from the forefront of style and culture. Find your next favorite!</desc>
-  </programme>
-  <programme channel="fashion-tv" start="20260830000001 +0200" stop="20260830003000 +0200">
-    <title>GLAMOUR LINE</title>
-    <desc>Dial into ultimate style! GLAMOUR LINE features trending looks, expert beauty advice, and the most dazzling moments from the fashion world. Get connected to glamour now!</desc>
-  </programme>
-  <programme channel="fashion-tv" start="20260830003001 +0200" stop="20260830010000 +0200">
-    <title>GLAMOUR LINE</title>
-    <desc>Dial into ultimate style! GLAMOUR LINE features trending looks, expert beauty advice, and the most dazzling moments from the fashion world. Get connected to glamour now!</desc>
-  </programme>
-  <programme channel="fashion-tv" start="20260830010001 +0200" stop="20260830013000 +0200">
-    <title>THE HIGHLIGHT REEL</title>
-    <desc>Relive the ultimate glamour! THE HIGHLIGHT REEL brings you the most unforgettable moments from luxury fashion events and red carpet extravaganzas. Catch every dazzling detail and celebrity look!</desc>
-  </programme>
-  <programme channel="fashion-tv" start="20260830013001 +0200" stop="20260830020000 +0200">
-    <title>THE HIGHLIGHT REEL</title>
-    <desc>Relive the ultimate glamour! THE HIGHLIGHT REEL brings you the most unforgettable moments from luxury fashion events and red carpet extravaganzas. Catch every dazzling detail and celebrity look!</desc>
   </programme>
   <programme channel="fashion-tv" start="20260830020001 +0200" stop="20260830023000 +0200">
     <title>GLAM ZONE</title>
