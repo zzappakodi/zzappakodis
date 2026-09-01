@@ -168,10 +168,6 @@
     <display-name lang="es">Stingray: Remember the 80’s</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/32a49d06-f203-4b4a-829c-4d1f66bf6a03.jpeg"/>
   </channel>
-  <channel id="stingray-hit-list">
-    <display-name lang="es">Stingray: Hitlist</display-name>
-    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg"/>
-  </channel>
   <channel id="stingray-greatest-hits">
     <display-name lang="es">Stingray Greatest Hits</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6d183d7f-50c9-40f6-825f-e3d70f97247d.jpeg"/>
@@ -483,6 +479,10 @@
   <channel id="top-movies-rakuten-tv">
     <display-name lang="es">Pelis Top - Rakuten TV</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg"/>
+  </channel>
+  <channel id="stingray-hit-list">
+    <display-name lang="es">Stingray Hit List</display-name>
+    <icon src="https://images.rakuten.tv/channels/stingray-hit-list.png"/>
   </channel>
   <channel id="hard-knocks-fighting-championship">
     <display-name lang="es">Hard Knocks Fighting Championship</display-name>
@@ -13231,12 +13231,12 @@
     <sub-title>Cómo Resolver Un Crimen</sub-title>
     <desc>El 1 de diciembre de 2005, Dominique Aubry, una rica viuda de 58 años, aparece ahorcada en su barcaza de Neuilly.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260902065609 +0200" stop="20260902082126 +0200">
+  <programme channel="todo-crimen" start="20260902065609 +0200" stop="20260902082125 +0200">
     <title>S01 : E03 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>Sacar a la luz huesos que se encuentran bajo tierra y cerrar historias de personas desaparecidas durante la Guerra Civil.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260902082127 +0200" stop="20260902093209 +0200">
+  <programme channel="todo-crimen" start="20260902082126 +0200" stop="20260902093209 +0200">
     <title>S01 : E04 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>El 22 de septiembre de 2013 el cuerpo de asunta serna de 12 años fue encontrado en una pista forestal de un municipio de la coruña.</desc>
@@ -13256,12 +13256,12 @@
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Los adolescentes Tamara y Leo se ven obligados a casarse cuando Tamara queda embarazada, pero la presión de criar una familia los separa.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260902123621 +0200" stop="20260902134811 +0200">
+  <programme channel="todo-crimen" start="20260902123621 +0200" stop="20260902134810 +0200">
     <title>S01 : E01 Los 7 Pecados Capitals - Los 7 Pecados Capitals</title>
     <sub-title>Los 7 Pecados Capitals</sub-title>
     <desc>Koldo Larrañaga asesinó a Begoña Rubio en su despacho de abogada de Vitoria, donde dejó varias pruebas incriminatorias.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260902134812 +0200" stop="20260902144646 +0200">
+  <programme channel="todo-crimen" start="20260902134811 +0200" stop="20260902144646 +0200">
     <title>S02 : E10 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>Abril de 1958. Una familia regresa a casa después de salir del cine cuando encuentran, en mitad de la calle, un taxi estacionado con el contacto puesto, las luces encendidas y una puerta abierta.</desc>
@@ -13276,12 +13276,12 @@
     <sub-title>El Lector de Huesos</sub-title>
     <desc>Sacar a la luz huesos que se encuentran bajo tierra y cerrar historias de personas desaparecidas durante la Guerra Civil.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260902173608 +0200" stop="20260902184651 +0200">
+  <programme channel="todo-crimen" start="20260902173608 +0200" stop="20260902184650 +0200">
     <title>S01 : E04 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>El 22 de septiembre de 2013 el cuerpo de asunta serna de 12 años fue encontrado en una pista forestal de un municipio de la coruña.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260902184652 +0200" stop="20260902200043 +0200">
+  <programme channel="todo-crimen" start="20260902184651 +0200" stop="20260902200043 +0200">
     <title>S01 : E05 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>El periodista dani álvarez y el antropólogo forense paco etxeberria se adentrarán en un escalofriante caso de estafa y asesinato.</desc>
@@ -13301,17 +13301,17 @@
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Crystal Johnson ansía amor, pero su paranoia y su inclinación por la violencia son profundas y la llevan a explotar.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260902224247 +0200" stop="20260902234122 +0200">
+  <programme channel="todo-crimen" start="20260902224247 +0200" stop="20260902234121 +0200">
     <title>S02 : E10 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>Abril de 1958. Una familia regresa a casa después de salir del cine cuando encuentran, en mitad de la calle, un taxi estacionado con el contacto puesto, las luces encendidas y una puerta abierta.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260902234123 +0200" stop="20260903010526 +0200">
+  <programme channel="todo-crimen" start="20260902234122 +0200" stop="20260903010525 +0200">
     <title>S02 : E11 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>La noche del 26 de agosto de 2011 los gritos de la inquilina del apartamento 717 estremecieron a los vecinos de los edificios Pullman, en Mallorca.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903010527 +0200" stop="20260903023043 +0200">
+  <programme channel="todo-crimen" start="20260903010526 +0200" stop="20260903023043 +0200">
     <title>S01 : E03 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>Sacar a la luz huesos que se encuentran bajo tierra y cerrar historias de personas desaparecidas durante la Guerra Civil.</desc>
@@ -13321,22 +13321,22 @@
     <sub-title>El Lector de Huesos</sub-title>
     <desc>El 22 de septiembre de 2013 el cuerpo de asunta serna de 12 años fue encontrado en una pista forestal de un municipio de la coruña.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903034127 +0200" stop="20260903045519 +0200">
+  <programme channel="todo-crimen" start="20260903034127 +0200" stop="20260903045518 +0200">
     <title>S01 : E05 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>El periodista dani álvarez y el antropólogo forense paco etxeberria se adentrarán en un escalofriante caso de estafa y asesinato.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903045520 +0200" stop="20260903055805 +0200">
+  <programme channel="todo-crimen" start="20260903045519 +0200" stop="20260903055805 +0200">
     <title>S01 : E09 Cómo Resolver Un Crimen - Cómo Resolver Un Crimen</title>
     <sub-title>Cómo Resolver Un Crimen</sub-title>
     <desc>El 8 de noviembre de 1999 la policía de Estrasburgo recibe una sorprendente llamada de urgencia del doctor Jean-Louis Muller, un patólogo forense muy conocido en la región.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903055806 +0200" stop="20260903070157 +0200">
+  <programme channel="todo-crimen" start="20260903055806 +0200" stop="20260903070156 +0200">
     <title>S01 : E10 Cómo Resolver Un Crimen - Cómo Resolver Un Crimen</title>
     <sub-title>Cómo Resolver Un Crimen</sub-title>
     <desc>El 18 de enero de 2011, Laetitia Perrais, una camarera en prácticas de 18 años, desaparece tras el servicio nocturno en un hotel de Pornic</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903070158 +0200" stop="20260903075653 +0200">
+  <programme channel="todo-crimen" start="20260903070157 +0200" stop="20260903075653 +0200">
     <title>S01 : E09 Secretos de los Museos - Secretos de los Museos</title>
     <sub-title>Secretos de los Museos</sub-title>
     <desc>Dentro de los museos de Pergamon y Neues Berlín.</desc>
@@ -13346,17 +13346,17 @@
     <sub-title>Memoria Negra</sub-title>
     <desc>Noura Hitchou es asesinada a plena luz del día al regresar a casa tras finalizar su jornada laboral. Tres días después es detenido Rachid Bennis, su ex-pareja, como culpable del crimen. El homicida había permanecido oculto junto con uno de los hijos que tenía en común con la víctima al que había secuestrado.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903090646 +0200" stop="20260903095124 +0200">
+  <programme channel="todo-crimen" start="20260903090646 +0200" stop="20260903095123 +0200">
     <title>S01 : E01 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>En septiembre de 1996 el radiólogo alemán Rudgerer Oyntzen asesinó, durante unas vacaciones en Mallorca, a sus dos hijos, de 6 y 8 años, mediante una inyección letal. Un crimen minuciosamente planificado por Oyntzen, quién llego a escribir un diario detallando los últimos minutos de vida de sus hijos.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903095125 +0200" stop="20260903105951 +0200">
+  <programme channel="todo-crimen" start="20260903095124 +0200" stop="20260903105950 +0200">
     <title>S01 : E08 Los 7 Pecados Capitals - Los 7 Pecados Capitals</title>
     <sub-title>Los 7 Pecados Capitals</sub-title>
     <desc>'Los 7 Pecados Capitales' aborda los casos de sucesos más conocidos de Euskadi y de otras comunidades desde el punto de vista de la psicología forense. Disciplina que nos ayuda a descubrir los pecados capitales ocultos en cada caso.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903105952 +0200" stop="20260903120208 +0200">
+  <programme channel="todo-crimen" start="20260903105951 +0200" stop="20260903120208 +0200">
     <title>S01 : E01 Cómo Resolver Un Crimen - Cómo Resolver Un Crimen</title>
     <sub-title>Cómo Resolver Un Crimen</sub-title>
     <desc>Al enfrentarse a un crimen, la única alternativa del investigador es hacer que las pistas hablen.</desc>
@@ -13371,12 +13371,12 @@
     <sub-title>Secretos de los Museos</sub-title>
     <desc>Dentro de los museos vaticanos.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903135059 +0200" stop="20260903144538 +0200">
+  <programme channel="todo-crimen" start="20260903135059 +0200" stop="20260903144537 +0200">
     <title>S02 : E13 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>El 24 de agosto de 1882 Ana Ensenyat moriría en su domicilio del municipio de Andratx, Mallorca, tras ser envenenada con arsénico.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903144539 +0200" stop="20260903154503 +0200">
+  <programme channel="todo-crimen" start="20260903144538 +0200" stop="20260903154503 +0200">
     <title>S02 : E14 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>Una noche de junio de 1906 dos policías que realizaban la ronda de noche cerca de la Porta del Camp en Palma, descubrieron el cadáver de una mujer que había sido apuñalada.</desc>
@@ -13401,12 +13401,12 @@
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Después de dos relaciones fallidas, Michelle Covington es conquistada por un antiguo compañero de clase de la secundaria.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903191630 +0200" stop="20260903200852 +0200">
+  <programme channel="todo-crimen" start="20260903191630 +0200" stop="20260903200851 +0200">
     <title>S04 : E08 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Una joven marcada por traumas de la infancia lucha por reconstruir su vida. Conoce al hombre de sus sueños, pero una vez comprometidos, la relación de la pareja se desmorona.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260903200853 +0200" stop="20260903212333 +0200">
+  <programme channel="todo-crimen" start="20260903200852 +0200" stop="20260903212333 +0200">
     <title>S01 : E01 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>El 8 de Octubre de 2011 José Bretón asesinó en Córdoba a sus hijos Ruth y José y los incineró en una hoguera.</desc>
@@ -13426,22 +13426,22 @@
     <sub-title>Los 7 Pecados Capitals</sub-title>
     <desc>Agresiones homófobas y violencia contra los homosexuales desde el asesinato en 1979 de Vicente Vadillo 'Francis' en 1979 por el policía nacional Antonio Caba Laguna.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904005954 +0200" stop="20260904015450 +0200">
+  <programme channel="todo-crimen" start="20260904005954 +0200" stop="20260904015449 +0200">
     <title>S01 : E08 Secretos de los Museos - Secretos de los Museos</title>
     <sub-title>Secretos de los Museos</sub-title>
     <desc>Dentro del Museo Nacional de Antropología Ciudad de México.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904015451 +0200" stop="20260904024946 +0200">
+  <programme channel="todo-crimen" start="20260904015450 +0200" stop="20260904024945 +0200">
     <title>S01 : E09 Secretos de los Museos - Secretos de los Museos</title>
     <sub-title>Secretos de los Museos</sub-title>
     <desc>Dentro de los museos de Pergamon y Neues Berlín.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904024947 +0200" stop="20260904034155 +0200">
+  <programme channel="todo-crimen" start="20260904024946 +0200" stop="20260904034154 +0200">
     <title>S04 : E07 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Después de dos relaciones fallidas, Michelle Covington es conquistada por un antiguo compañero de clase de la secundaria.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904034156 +0200" stop="20260904043417 +0200">
+  <programme channel="todo-crimen" start="20260904034155 +0200" stop="20260904043417 +0200">
     <title>S04 : E08 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Una joven marcada por traumas de la infancia lucha por reconstruir su vida. Conoce al hombre de sus sueños, pero una vez comprometidos, la relación de la pareja se desmorona.</desc>
@@ -13481,12 +13481,12 @@
     <sub-title>Cómo Resolver Un Crimen</sub-title>
     <desc>El domingo 22 de julio de 2001, una bicicleta averiada, propiedad de Karine Schaaff, de 16 años, aparece abandonada al borde de una carretera en Moselle.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904124316 +0200" stop="20260904133538 +0200">
+  <programme channel="todo-crimen" start="20260904124316 +0200" stop="20260904133537 +0200">
     <title>S04 : E08 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Una joven marcada por traumas de la infancia lucha por reconstruir su vida. Conoce al hombre de sus sueños, pero una vez comprometidos, la relación de la pareja se desmorona.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904133539 +0200" stop="20260904144328 +0200">
+  <programme channel="todo-crimen" start="20260904133538 +0200" stop="20260904144328 +0200">
     <title>S01 : E03 Ási Se Escriben Un Crimen - Ási Se Escriben Un Crimen</title>
     <sub-title>Ási Se Escriben Un Crimen</sub-title>
     <desc>En este episodio repasamos tres casos de chicas desaparecidas en Bizkaia y que generaron una gran intranquilidad en la sociedad vasca: Laura Orue (1999), Virginia Acebes (1999) y Aintzane Garay (2005).Un repaso a los hechos que marcaron a toda una comunidad.</desc>
@@ -13511,12 +13511,12 @@
     <sub-title>El Lector de Huesos</sub-title>
     <desc>Miriam, toñi y desiree, las niñas de alcaser, valencia, fueron secuestradas, torturadas, asesinadas y enterradas en una fosa en 1992.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904184815 +0200" stop="20260904200946 +0200">
+  <programme channel="todo-crimen" start="20260904184815 +0200" stop="20260904200945 +0200">
     <title>S01 : E08 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>Capitulo sobre las consecuencias de las bombas.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904200947 +0200" stop="20260904210231 +0200">
+  <programme channel="todo-crimen" start="20260904200946 +0200" stop="20260904210231 +0200">
     <title>S02 : E08 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Carol Singh emigra a Nueva York desde Surinam con la esperanza de alcanzar el sueño americano, que incluye casarse.</desc>
@@ -13526,12 +13526,12 @@
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Después de una exitosa carrera como contrabandista de cocaína en el glamoroso Fort Lauderdale de los años 80, Donna Buchanan se involucra con un hombre mayor llamado Charlie.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904215404 +0200" stop="20260904224852 +0200">
+  <programme channel="todo-crimen" start="20260904215404 +0200" stop="20260904224851 +0200">
     <title>S03 : E02 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Diane se enamora del carismático político Joe Reilly, pero tan pronto como dicen "Sí, acepto", Joe revela su tirano abusivo interior.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260904224853 +0200" stop="20260904234817 +0200">
+  <programme channel="todo-crimen" start="20260904224852 +0200" stop="20260904234817 +0200">
     <title>S02 : E14 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>Una noche de junio de 1906 dos policías que realizaban la ronda de noche cerca de la Porta del Camp en Palma, descubrieron el cadáver de una mujer que había sido apuñalada.</desc>
@@ -25166,102 +25166,6 @@
   <programme channel="stingray-remember-the-80-s" start="20260904200001 +0200" stop="20260905000000 +0200">
     <title>Stingray Remember the '80s</title>
     <desc>Relive the decade of perms and shoulder pads! The unmistakable synth pop sound of artists such as Michael Jackson, George Michael, and Whitney Houston is bound to remind you of all your greatest '80s memories!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260901000001 +0200" stop="20260901040000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260901040001 +0200" stop="20260901080000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260901080001 +0200" stop="20260901120000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260901120001 +0200" stop="20260901160000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260901160001 +0200" stop="20260901200000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260901200001 +0200" stop="20260902000000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260902000001 +0200" stop="20260902040000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260902040001 +0200" stop="20260902080000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260902080001 +0200" stop="20260902120000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260902120001 +0200" stop="20260902160000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260902160001 +0200" stop="20260902200000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260902200001 +0200" stop="20260903000000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260903000001 +0200" stop="20260903040000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260903040001 +0200" stop="20260903080000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260903080001 +0200" stop="20260903120000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260903120001 +0200" stop="20260903160000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260903160001 +0200" stop="20260903200000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260903200001 +0200" stop="20260904000000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260904000001 +0200" stop="20260904040000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260904040001 +0200" stop="20260904080000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260904080001 +0200" stop="20260904120000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260904120001 +0200" stop="20260904160000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260904160001 +0200" stop="20260904200000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
-  </programme>
-  <programme channel="stingray-hit-list" start="20260904200001 +0200" stop="20260905000000 +0200">
-    <title>Stingray Hit List</title>
-    <desc>Tune in for today's hits and a preview of tomorrow's sensations. You'll know what will be the next chart-topper before everyone else!</desc>
   </programme>
   <programme channel="stingray-greatest-hits" start="20260901000001 +0200" stop="20260901040000 +0200">
     <title>Stingray Greatest Hits</title>
@@ -41935,43 +41839,39 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>The Historic Inaugural U23 Season | All Goals From 2025/26</title>
     <desc>The most defining moments of the campaign, from the goals to the most intense emotions.</desc>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260901194451 +0200" stop="20260901204729 +0200">
+  <programme channel="inter-24-7-eng" start="20260901194451 +0200" stop="20260901210750 +0200">
     <title>Inter Weekly - All The Insights Ahead Of Cagliari - Inter | 2026/27</title>
     <desc>Inside the black and blue week: the weekend matchday of the first team, the UCL midweek encounter, the Inter Women fixture as well as the Under 23 and the Youth League, plus exclusive interviews.</desc>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260901204730 +0200" stop="20260901215415 +0200">
-    <title>Serie A | Cagliari - Inter | 2026/2027</title>
-    <desc>Relive the Serie A match Cagliari - Inter of the 2026/2027 season.</desc>
+  <programme channel="inter-24-7-eng" start="20260901210751 +0200" stop="20260901221436 +0200">
+    <title>Serie A Cagliari-Inter 2025/2026 - 1St Half</title>
+    <desc>Relive the Serie A match Cagliari-Inter of the 2025/2026 season</desc>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260901215416 +0200" stop="20260901230348 +0200">
+  <programme channel="inter-24-7-eng" start="20260901221437 +0200" stop="20260901232059 +0200">
     <title>Serie A Cagliari-Inter 2025/2026 - 2Nd Half</title>
     <desc>Relive the Serie A match Cagliari-Inter of the 2025/2026 season</desc>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260901230349 +0200" stop="20260902001651 +0200">
+  <programme channel="inter-24-7-eng" start="20260901232100 +0200" stop="20260902003402 +0200">
     <title>Inter Weekly - All The Insights Ahead Of Pisa - Inter</title>
     <desc>Inside the black and blue week: the weekend matchday of the first team, the UCL midweek encounter, the Inter Women fixture as well as the Under 23 and the Youth League, plus exclusive interviews.</desc>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260902001652 +0200" stop="20260902003000 +0200">
-    <title>Challenge Zone With Betsson Sport |Ep. 02</title>
-    <desc>In this episode: Bisseck &amp; Sučić VS Çalhanoğlu &amp; Akanji Who came out on top?</desc>
-  </programme>
-  <programme channel="inter-24-7-eng" start="20260902003001 +0200" stop="20260902013738 +0200">
+  <programme channel="inter-24-7-eng" start="20260902003403 +0200" stop="20260902014141 +0200">
     <title>Serie A Bologna - Inter 2025/2026 1St Half</title>
     <desc>Inter held to a draw: 3-3 at Bologna.</desc>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260902013739 +0200" stop="20260902024319 +0200">
+  <programme channel="inter-24-7-eng" start="20260902014142 +0200" stop="20260902024721 +0200">
     <title>Serie A Bologna - Inter 2025/2026 2Nd Half</title>
     <desc>Inter held to a draw: 3-3 at Bologna.</desc>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260902024320 +0200" stop="20260902033656 +0200">
+  <programme channel="inter-24-7-eng" start="20260902024722 +0200" stop="20260902034059 +0200">
     <title>Serie A 2023/2024 |Inter - Atalanta | The Journey To The Second Star</title>
     <desc>Relive 2023/2024 season top moments</desc>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260902033657 +0200" stop="20260902044130 +0200">
+  <programme channel="inter-24-7-eng" start="20260902034100 +0200" stop="20260902044532 +0200">
     <title>Inter Weekly - All The Insights Ahead Of Inter - Como</title>
     <desc>Inside the black and blue week: the weekend matchday of the first team, the UCL midweek encounter, the Inter Women fixture as well as the Under 23 and the Youth League, plus exclusive interviews.</desc>
   </programme>
-  <programme channel="inter-24-7-eng" start="20260902044131 +0200" stop="20260902045418 +0200">
+  <programme channel="inter-24-7-eng" start="20260902044533 +0200" stop="20260902045418 +0200">
     <title>On Board | Karólína Lea Vilhjálmsdóttir</title>
     <desc>Inter fans will have the chance to get to know our Icelandic midfielder Karólína Lea Vilhjálmsdóttir in the first episode of On Board Women.</desc>
   </programme>
@@ -61123,6 +61023,102 @@ correo. Ella intenta compaginar su vida amorosa con su marido rico pero en banca
   <programme channel="top-movies-rakuten-tv" start="20260904223244 +0200" stop="20260905005315 +0200">
     <title>Llamadas a espiar</title>
     <desc>A comienzos de la Segunda Guerra Mundial, con Reino Unido llegando a la desesperación, Churchill ordena a su nueva agencia de espionaje que reclute y entrene a mujeres espía.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260901000000 +0200" stop="20260901040000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260901040000 +0200" stop="20260901080000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260901080000 +0200" stop="20260901120000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260901120000 +0200" stop="20260901160000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260901160000 +0200" stop="20260901200000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260901200000 +0200" stop="20260902000000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260902000000 +0200" stop="20260902040000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260902040000 +0200" stop="20260902080000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260902080000 +0200" stop="20260902120000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260902120000 +0200" stop="20260902160000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260902160000 +0200" stop="20260902200000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260902200000 +0200" stop="20260903000000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260903000000 +0200" stop="20260903040000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260903040000 +0200" stop="20260903080000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260903080000 +0200" stop="20260903120000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260903120000 +0200" stop="20260903160000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260903160000 +0200" stop="20260903200000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260903200000 +0200" stop="20260904000000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260904000000 +0200" stop="20260904040000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260904040000 +0200" stop="20260904080000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260904080000 +0200" stop="20260904120000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260904120000 +0200" stop="20260904160000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260904160000 +0200" stop="20260904200000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="stingray-hit-list" start="20260904200000 +0200" stop="20260905000000 +0200">
+    <title>Emisión Stingray Hit List</title>
+    <desc>Programación continua para Stingray Hit List.</desc>
   </programme>
   <programme channel="hard-knocks-fighting-championship" start="20260901000000 +0200" stop="20260901040000 +0200">
     <title>Emisión Hard Knocks Fighting Championship</title>
