@@ -790,7 +790,7 @@ https://telemedina-tivify.fastlive.tcscdn.net/telemedina.m3u8
 https://telemino-tivify.fastlive.tcscdn.net/laregionlive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Almeria_24h_TV" tvg-name="Almeria 24h TV" tvg-logo="http://192.168.1.98:8080/logos/Almeria%2024h%20TV.png" group-title="Cajón de Sastre",Almeria 24h TV
-https://gcm-tivify.fastlive.tcscdn.net/master.m3u8
+http://almeria24htv-tivify.fastlive.tcscdn.net/live/smil:almeria24h.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AhoraTV" tvg-name="AhoraTV" tvg-logo="http://192.168.1.98:8080/logos/AhoraTV.png" group-title="Cajón de Sastre",AhoraTV
 https://ahoratv-tivify.fastlive.tcscdn.net/hls/cam5.m3u8
