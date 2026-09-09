@@ -1,7 +1,7 @@
 *.xml
 *.gz
 *.m3u
-*.m3u8
+#*.m3u8
 sueno.m3u8
 videos_canal56.m3u
 Latino4.txt
