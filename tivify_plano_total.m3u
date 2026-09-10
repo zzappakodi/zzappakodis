@@ -869,6 +869,3 @@ https://canalcosta-tivify.fastlive.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Rebelde" tvg-name="Rebelde" tvg-logo="http://192.168.1.98:8080/logos/Rebelde.png" group-title="Cajón de Sastre",Rebelde
 https://rebelde-tivify.ssai.tcscdn.net/master.m3u8
-
-#EXTINF:-1 tvg-id="Stingray_Himnos_del_futbol" tvg-name="Stingray Himnos del futbol" tvg-logo="http://192.168.1.98:8080/logos/Stingray%20Himnos%20del%20futbol.png" group-title="Música",Stingray Himnos del futbol
-https://tcs.g-mana.live/media/412dc618-37f2-49d9-9341-3f2382513d14/master.m3u8
