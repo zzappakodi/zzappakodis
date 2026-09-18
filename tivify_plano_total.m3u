@@ -112,7 +112,7 @@ https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
 https://live.tvup.edge2befaster.io/antena3hd/antena3hd.mpd
 
 #EXTINF:-1 tvg-id="VOTV" tvg-name="VOTV" tvg-logo="http://192.168.1.98:8080/logos/VOTV.png" group-title="Cajón de Sastre",VOTV
-https://live.tvup.edge2befaster.io/votv/votv.mpd
+https://live.tvup.edge2befaster.io/votv/votv.m3u8
 
 #EXTINF:-1 tvg-id="France_24_ES" tvg-name="France 24 ES" tvg-logo="http://192.168.1.98:8080/logos/France%2024%20ES.png" group-title="Cajón de Sastre",France 24 ES
 https://tvup-fti-france24.c456.transparentedge.io/live/F24_ES_HI_HLS/playlist.m3u8
@@ -265,7 +265,7 @@ https://live-tcsand.c511.transparentedge.io/bmf/bmf.mpd
 https://live.tvup.edge2befaster.io/eltorotv/eltorotv.mpd
 
 #EXTINF:-1 tvg-id="Vallès_Visio" tvg-name="Vallès Visio" tvg-logo="http://192.168.1.98:8080/logos/Vall%C3%A8s%20Visio.png" group-title="Cajón de Sastre",Vallès Visio
-https://live.tvup.edge2befaster.io/vallesvisio/vallesvisio.mpd
+https://live.tvup.edge2befaster.io/vallesvisio/vallesvisio.m3u8
 
 #EXTINF:-1 tvg-id="Televisio_LHospitalet" tvg-name="Televisio LHospitalet" tvg-logo="http://192.168.1.98:8080/logos/Televisio%20LHospitalet.png" group-title="TDT & Canales Locales",Televisio LHospitalet
 https://live.tvup.edge2befaster.io/tvhospitalet/tvhospitalet.mpd
@@ -274,7 +274,7 @@ https://live.tvup.edge2befaster.io/tvhospitalet/tvhospitalet.mpd
 https://live.tvup.edge2befaster.io/bdnbadalona/bdnbadalona.mpd
 
 #EXTINF:-1 tvg-id="7TV_Andalucia" tvg-name="7TV Andalucia" tvg-logo="http://192.168.1.98:8080/logos/7TV%20Andalucia.png" group-title="TDT & Canales Locales",7TV Andalucia
-https://live.tvup.edge2befaster.io/7andalucia/7andalucia.mpd
+https://live.tvup.edge2befaster.io/7andalucia/7andalucia.m3u8
 
 #EXTINF:-1 tvg-id="La_8_Mediterraneo" tvg-name="La 8 Mediterraneo" tvg-logo="http://192.168.1.98:8080/logos/La%208%20Mediterraneo.png" group-title="Cajón de Sastre",La 8 Mediterraneo
 https://live.tvup.edge2befaster.io/la8mediterraneo/la8mediterraneo.mpd
@@ -787,7 +787,7 @@ https://telemedina-tivify.fastlive.tcscdn.net/telemedina.m3u8
 https://telemino-tivify.fastlive.tcscdn.net/laregionlive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Almeria_24h_TV" tvg-name="Almeria 24h TV" tvg-logo="http://192.168.1.98:8080/logos/Almeria%2024h%20TV.png" group-title="Cajón de Sastre",Almeria 24h TV
-https://broadcast1.radioponiente.org/almeria24h_aac/index.m3u8
+https://almeria24htv-tivify.fastlive.tcscdn.net/almeria24h_aac/index.m3u8
 
 #EXTINF:-1 tvg-id="AhoraTV" tvg-name="AhoraTV" tvg-logo="http://192.168.1.98:8080/logos/AhoraTV.png" group-title="Cajón de Sastre",AhoraTV
 https://ahoratv-tivify.fastlive.tcscdn.net/hls/cam5.m3u8
