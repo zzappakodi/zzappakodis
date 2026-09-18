@@ -1308,383 +1308,7 @@
     <title>Arts24</title>
     <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
   </programme>
-  <programme channel="france-24-en" start="20260920020001 +0200" stop="20260920021000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920021001 +0200" stop="20260920022500 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920022501 +0200" stop="20260920023000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920023001 +0200" stop="20260920024500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920024501 +0200" stop="20260920030000 +0200">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920030001 +0200" stop="20260920031500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920031501 +0200" stop="20260920033000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920033001 +0200" stop="20260920034500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920034501 +0200" stop="20260920040000 +0200">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920040001 +0200" stop="20260920041500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920041501 +0200" stop="20260920043000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920043001 +0200" stop="20260920044500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920044501 +0200" stop="20260920050000 +0200">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920050001 +0200" stop="20260920051500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920051501 +0200" stop="20260920053000 +0200">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the African continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920053001 +0200" stop="20260920054500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920054501 +0200" stop="20260920060000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920060001 +0200" stop="20260920061500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920061501 +0200" stop="20260920062100 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920062101 +0200" stop="20260920063000 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920063001 +0200" stop="20260920064500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920064501 +0200" stop="20260920065100 +0200">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920065101 +0200" stop="20260920070000 +0200">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920070001 +0200" stop="20260920072000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920072001 +0200" stop="20260920073000 +0200">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920073001 +0200" stop="20260920080000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920080001 +0200" stop="20260920083000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920083001 +0200" stop="20260920090000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920090001 +0200" stop="20260920091500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920091501 +0200" stop="20260920093000 +0200">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920093001 +0200" stop="20260920100000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920100001 +0200" stop="20260920101500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920101501 +0200" stop="20260920102000 +0200">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920102001 +0200" stop="20260920103000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920103001 +0200" stop="20260920104500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920104501 +0200" stop="20260920110000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920110001 +0200" stop="20260920111500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920111501 +0200" stop="20260920113000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920113001 +0200" stop="20260920114500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920114501 +0200" stop="20260920120000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920120001 +0200" stop="20260920121500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920121501 +0200" stop="20260920123000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920123001 +0200" stop="20260920124500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920124501 +0200" stop="20260920125000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920125001 +0200" stop="20260920130000 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920130001 +0200" stop="20260920131500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920131501 +0200" stop="20260920133000 +0200">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920133001 +0200" stop="20260920134500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920134501 +0200" stop="20260920140000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920140001 +0200" stop="20260920141300 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920141301 +0200" stop="20260920143000 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920143001 +0200" stop="20260920144300 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920144301 +0200" stop="20260920145500 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920145501 +0200" stop="20260920150000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920150001 +0200" stop="20260920151000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920151001 +0200" stop="20260920151500 +0200">
-    <title>Tech 24</title>
-    <desc>The latest trends in the world of high-tech and the impact of digital revolutions on everyday life.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920151501 +0200" stop="20260920153000 +0200">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920153001 +0200" stop="20260920154000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920154001 +0200" stop="20260920155200 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920155201 +0200" stop="20260920160000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920160001 +0200" stop="20260920161500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920161501 +0200" stop="20260920162100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920162101 +0200" stop="20260920163000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920163001 +0200" stop="20260920164500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920164501 +0200" stop="20260920170000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920170001 +0200" stop="20260920171500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920171501 +0200" stop="20260920173000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920173001 +0200" stop="20260920174500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920174501 +0200" stop="20260920180000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920180001 +0200" stop="20260920181500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920181501 +0200" stop="20260920183000 +0200">
-    <title>Spotlight</title>
-    <desc>Guests from around the globe go beyond the headlines on the stories that matter.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920183001 +0200" stop="20260920184500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920184501 +0200" stop="20260920190000 +0200">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920190001 +0200" stop="20260920191400 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920191401 +0200" stop="20260920193000 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920193001 +0200" stop="20260920194400 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920194401 +0200" stop="20260920200000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920200001 +0200" stop="20260920201600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920201601 +0200" stop="20260920203000 +0200">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920203001 +0200" stop="20260920204600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920204601 +0200" stop="20260920210000 +0200">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the African continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920210001 +0200" stop="20260920211500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920211501 +0200" stop="20260920212100 +0200">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920212101 +0200" stop="20260920213000 +0200">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920213001 +0200" stop="20260920214500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920214501 +0200" stop="20260920220000 +0200">
-    <title>The Reporter's Week</title>
-    <desc>From the 4 corners of the world, the week's news as seen by France 24 reporters</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920220001 +0200" stop="20260920221000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920221001 +0200" stop="20260920223000 +0200">
-    <title>Revisited</title>
-    <desc>France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920223001 +0200" stop="20260920224500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920224501 +0200" stop="20260920230000 +0200">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920230001 +0200" stop="20260920231600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920231601 +0200" stop="20260920233000 +0200">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920233001 +0200" stop="20260920234600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260920234601 +0200" stop="20260921000000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260921000001 +0200" stop="20260921001500 +0200">
+  <programme channel="france-24-en" start="20260920020001 +0200" stop="20260921001500 +0200">
     <title>News</title>
     <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
@@ -39788,55 +39412,7 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Korea</title>
     <desc>Shannon and Shayne score perfect waves in South Korea.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260918020001 +0200" stop="20260918023000 +0200">
-    <title>Drama Amongst the Kids</title>
-    <desc>The boys are all dealing with different trials at camp while working through injuries and infighting.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918023001 +0200" stop="20260918030000 +0200">
-    <title>Humility and Life Lessons</title>
-    <desc>An injury continues to frustrate Jovon, but Tony Hawk pops in to cheer him up. Mike Frazier also shows up.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918030001 +0200" stop="20260918033000 +0200">
-    <title>Junkyard Dogs</title>
-    <desc>Jeff King &amp; Crew visit a truck recycling facility where they turn old truck pieces into shredable obstacles...</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918033001 +0200" stop="20260918040000 +0200">
-    <title>Shredabago</title>
-    <desc>Jeff King and the crew hit the road for a family vacation Built To Shred style.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918040001 +0200" stop="20260918043000 +0200">
-    <title>Alaska (pt. 3)</title>
-    <desc>The third part of snowboarding in Alaska with Victoria Jealouse, Jeremy Jones, and Johan Olofsson.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918043001 +0200" stop="20260918050000 +0200">
-    <title>Mark Landvik and Markku Koski</title>
-    <desc>Alaska's Mark Landvik, and Finland's Markku Koski, show the perks of being a pro snowboarder.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918050001 +0200" stop="20260918053000 +0200">
-    <title>Buffalo Pregnancy Test</title>
-    <desc>Danny and the Dingo become Costa Rican ranchers, dancers, and croc hunters.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918053001 +0200" stop="20260918060000 +0200">
-    <title>Ladies Night</title>
-    <desc>Danny, Dingo and crew search for Costa Rica's most dangerous animals: sharks, crocodiles, and the local gir...</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918060001 +0200" stop="20260918063000 +0200">
-    <title>Cowboy Kenny Bartra</title>
-    <desc>Join token hottie Rachael as M80 meets up with "The Cowboy" Kenny Bartram in his home of Stillwater, OK.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918063001 +0200" stop="20260918070000 +0200">
-    <title>Travis Pastrana</title>
-    <desc>Join token hottie Layla as M80 catches up with Travis Pastrana in his hometown of Annapolis, MD. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918070001 +0200" stop="20260918073000 +0200">
-    <title>Rollercoaster</title>
-    <desc>Romain Febvre and Thibault Benistant deliver unforgettable performances at home in front of their fans.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918073001 +0200" stop="20260918074500 +0200">
-    <title>Legends of Les Gets</title>
-    <desc>Norco Race returns to legendary Les Gets trails, reliving history and pushing for greatness.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260918074501 +0200" stop="20260918090000 +0200">
+  <programme channel="fuel-tv-new" start="20260918020001 +0200" stop="20260918090000 +0200">
     <title>Every Day is a Saturday: Poor Boyz</title>
     <desc>A candid account of what it takes to get from point A to point B in freeride skiing.</desc>
   </programme>
@@ -42152,56 +41728,52 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta del resumen del partido de la UEFA Champions League 2026-27 entre Barça y Feyenoord</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260918205342 +0200" stop="20260918215414 +0200">
+  <programme channel="top-barca-es" start="20260918205342 +0200" stop="20260918215544 +0200">
     <title>S200910 : E90 TODOS LOS GOLES | Temporada 200910 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Disfruta de todos los goles del Barça en la temporada 200910</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260918215415 +0200" stop="20260918222544 +0200">
-    <title>HIGHLIGHTS | Barça - Racing | la Liga 2026/2027</title>
-    <desc>HIGHLIGHTS | Barça - Racing | la Liga 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260918215545 +0200" stop="20260918223139 +0200">
+    <title>S202627 : E05 HIGHLIGHTS | FC Barcelona - Racing | La Liga 2026-27 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta de los mejores momentos del partido de la liga 2026-27 entre FC Barcelona y Racing de Santander</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260918222545 +0200" stop="20260918225729 +0200">
-    <title>S201112 : E04 EL 9 | Quini | El hechizo de "El Brujo" - El 9</title>
-    <sub-title>El 9</sub-title>
-    <desc>La historia de Quini durante sus años en Barcelona</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20260918225730 +0200" stop="20260918234243 +0200">
+  <programme channel="top-barca-es" start="20260918223140 +0200" stop="20260918231653 +0200">
     <title>S202526 : E16 TODOS LOS GOLES | Lamine Yamal - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Lamine como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260918234244 +0200" stop="20260919001828 +0200">
+  <programme channel="top-barca-es" start="20260918231654 +0200" stop="20260918235239 +0200">
     <title>S202223 : E06 EL ÁLBUM | Deco - El Álbum</title>
     <sub-title>El Álbum</sub-title>
     <desc>Descubre la historia de Deco durante sus años en Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260919001829 +0200" stop="20260919020855 +0200">
+  <programme channel="top-barca-es" start="20260918235240 +0200" stop="20260919014305 +0200">
     <title>S202627 : E06 PARTIDO COMPLETO | Barça - Racing de Santander | La Liga 2026-27 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta del partido de la liga 2026-27 entre Barça y Racing de Santander</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260919020856 +0200" stop="20260919025528 +0200">
+  <programme channel="top-barca-es" start="20260919014306 +0200" stop="20260919022938 +0200">
     <title>S202526 : E29 TODOS LOS GOLES | Ewa Pajor - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Ewa Pajor con la camiseta blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260919025529 +0200" stop="20260919033134 +0200">
+  <programme channel="top-barca-es" start="20260919022939 +0200" stop="20260919030544 +0200">
     <title>S202627 : E03 HIGHLIGHTS | FC Barcelona - Atlético de Madrid | Liga F 2026-27 - Liga F</title>
     <sub-title>Liga F</sub-title>
     <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Barça y Atlético de Madrid</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260919033135 +0200" stop="20260919041432 +0200">
+  <programme channel="top-barca-es" start="20260919030545 +0200" stop="20260919034843 +0200">
     <title>S202526 : E53 ORÍGENES | Pedri - Orígenes</title>
     <sub-title>Orígenes</sub-title>
     <desc>Descubre los primeros pasos de Pedri en el mundo del futbol antes de llegar al Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260919041433 +0200" stop="20260919044322 +0200">
+  <programme channel="top-barca-es" start="20260919034844 +0200" stop="20260919041732 +0200">
     <title>S202425 : E23 HIGHLIGHTS | Sevilla - Barça | La Liga 2024-25 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta del resumen del partido de la liga 2024-25 entre Sevilla y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260919044323 +0200" stop="20260919064625 +0200">
+  <programme channel="top-barca-es" start="20260919041733 +0200" stop="20260919064625 +0200">
     <title>S201011 : E90 HIGHLIGHTS | El camino a la UEFA Champions League 201011 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta de todo el camino del Barça hasta levantar la Champions en Wembley</desc>
