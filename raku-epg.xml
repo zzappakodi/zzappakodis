@@ -40135,39 +40135,7 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Russia</title>
     <desc>Shayne McIntyre &amp; friends go undercover in Russia dodging bears, tanks, and bullets in search of new waves.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20260922020001 +0200" stop="20260922033000 +0200">
-    <title>Romance</title>
-    <desc>High-octane snowmobile action in remote terrain.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260922033001 +0200" stop="20260922045000 +0200">
-    <title>Small World - Level 1</title>
-    <desc>A fresh look at skiing's hidden corners, Small World celebrates movement, freedom, and snow.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260922045001 +0200" stop="20260922052000 +0200">
-    <title>Mission Accomplished</title>
-    <desc>Behind the Gate follows the MXGP paddock to Türkiye for a demanding round under title pressure.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260922052001 +0200" stop="20260922060000 +0200">
-    <title>Monster Army Movie 15</title>
-    <desc>Young Monster Army athletes push limits with raw talent, progression and action.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260922060001 +0200" stop="20260922063000 +0200">
-    <title>Washougal National</title>
-    <desc>Behind the scenes and into the riders' lives, as they train and battle in the AMA Championship 12-race seri...</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260922063001 +0200" stop="20260922070000 +0200">
-    <title>Unadilla National</title>
-    <desc>A THE MOTO episode with Tyla Rattray chasing Dean Wilson and the return of Ryan Dungey's old rival.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260922070001 +0200" stop="20260922073000 +0200">
-    <title>Backyard Babylon</title>
-    <desc>The Built to Shred crew enjoys a backyard session Tony Hawk and Rune Glifberg.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260922073001 +0200" stop="20260922074500 +0200">
-    <title>The Life We Chose</title>
-    <desc>Behind the scenes of the Norco Race Division during the UCI Downhill World Cup in Fort William, Scotland. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20260922074501 +0200" stop="20260922090000 +0200">
+  <programme channel="fuel-tv-new" start="20260922020001 +0200" stop="20260922090000 +0200">
     <title>Surf Próprio</title>
     <desc>The tale of surfing in São Tomé through the eyes of local kids and the country's greatest surfer, Jejé Camb...</desc>
   </programme>
@@ -42619,191 +42587,202 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta del partido de la liga 2026-27 entre Sevilla y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923011513 +0200" stop="20260923024326 +0200">
+  <programme channel="top-barca-es" start="20260923011513 +0200" stop="20260923021326 +0200">
     <title>S201617 : E02 DOCUMENTAL | Dream Team | El sueño que cambió el futbol - Documental</title>
     <sub-title>Documental</sub-title>
     <desc>Descubre la historia del Dream Team de Johan Cruyff</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923024327 +0200" stop="20260923032807 +0200">
+  <programme channel="top-barca-es" start="20260923021327 +0200" stop="20260923025807 +0200">
     <title>S202122 : E02 EL ÁLBUM | Ronaldinho - El Álbum</title>
     <sub-title>El Álbum</sub-title>
     <desc>Ronaldinho recuerda con nosotros su álbum de fotos particular de sus años en Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923032808 +0200" stop="20260923041739 +0200">
+  <programme channel="top-barca-es" start="20260923025808 +0200" stop="20260923034739 +0200">
     <title>S202526 : E20 TODOS LOS GOLES | Ronaldinho - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Ronaldinho en el FC Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923041740 +0200" stop="20260923044605 +0200">
+  <programme channel="top-barca-es" start="20260923034740 +0200" stop="20260923041605 +0200">
     <title>S202627 : E04 HIGHLIGHTS Alavés Femenino - FC Barcelona | Liga F 2026-27 - Liga F</title>
     <sub-title>Liga F</sub-title>
     <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Alavés Femenino y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923044606 +0200" stop="20260923063714 +0200">
+  <programme channel="top-barca-es" start="20260923041606 +0200" stop="20260923060714 +0200">
     <title>S202627 : E06 PARTIDO COMPLETO | Sevilla - Barça | La Liga 2026-27 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta del partido de la liga 2026-27 entre Sevilla y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923063715 +0200" stop="20260923070900 +0200">
+  <programme channel="top-barca-es" start="20260923060715 +0200" stop="20260923063900 +0200">
     <title>S201112 : E04 EL 9 | Quini | El hechizo de "El Brujo" - El 9</title>
     <sub-title>El 9</sub-title>
     <desc>La historia de Quini durante sus años en Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923070901 +0200" stop="20260923075905 +0200">
+  <programme channel="top-barca-es" start="20260923063901 +0200" stop="20260923073035 +0200">
     <title>S202526 : E41 TODOS LOS GOLES | Leo Messi | Parte 7 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923075906 +0200" stop="20260923083035 +0200">
-    <title>HIGHLIGHTS | Sevilla - Barça | La Liga 2026/2027</title>
-    <desc>HIGHLIGHTS | Sevilla - Barça | La Liga 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260923073036 +0200" stop="20260923075900 +0200">
+    <title>S202627 : E04 HIGHLIGHTS Alavés Femenino - FC Barcelona | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Alavés Femenino y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923083036 +0200" stop="20260923091123 +0200">
+  <programme channel="top-barca-es" start="20260923075901 +0200" stop="20260923083949 +0200">
     <title>S202223 : E01 EL ÁLBUM | Rafa Márquez - El Álbum</title>
     <sub-title>El Álbum</sub-title>
     <desc>Rafa Márquez recuerda con nosotros su etapa en el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923091124 +0200" stop="20260923101501 +0200">
+  <programme channel="top-barca-es" start="20260923083950 +0200" stop="20260923094457 +0200">
     <title>S202526 : E18 TODOS LOS GOLES | Raphinha - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Raphinha con el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923101502 +0200" stop="20260923121631 +0200">
-    <title>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</title>
-    <desc>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260923094458 +0200" stop="20260923113046 +0200">
+    <title>PARTIDO COMPLETO | Alavés Femenino - Barça | Copa de la reina 2025/2026</title>
+    <desc>Revive el partido de octavos de final de la copa de la reina 2025/2026 entre Alavés y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923121632 +0200" stop="20260923132712 +0200">
+  <programme channel="top-barca-es" start="20260923113047 +0200" stop="20260923124126 +0200">
     <title>S202526 : E33 TODOS LOS GOLES | Claudia Pina - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Claudia Pina como jugadora del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923132713 +0200" stop="20260923142037 +0200">
+  <programme channel="top-barca-es" start="20260923124127 +0200" stop="20260923131722 +0200">
     <title>S202627 : E05 HIGHLIGHTS | FC Barcelona - Racing | La Liga 2026-27 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta de los mejores momentos del partido de la liga 2026-27 entre FC Barcelona y Racing de Santander</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923142038 +0200" stop="20260923151807 +0200">
+  <programme channel="top-barca-es" start="20260923131723 +0200" stop="20260923134547 +0200">
+    <title>S202627 : E04 HIGHLIGHTS Alavés Femenino - FC Barcelona | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Alavés Femenino y Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20260923134548 +0200" stop="20260923144447 +0200">
     <title>S202526 : E01 ORÍGENES | Fermín López - Orígenes</title>
     <sub-title>Orígenes</sub-title>
     <desc>Los origenes de Fermín López antes de llegar al primer equipo blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923151808 +0200" stop="20260923171937 +0200">
-    <title>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</title>
-    <desc>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260923144448 +0200" stop="20260923163036 +0200">
+    <title>PARTIDO COMPLETO | Alavés Femenino - Barça | Copa de la reina 2025/2026</title>
+    <desc>Revive el partido de octavos de final de la copa de la reina 2025/2026 entre Alavés y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923171938 +0200" stop="20260923180451 +0200">
+  <programme channel="top-barca-es" start="20260923163037 +0200" stop="20260923171550 +0200">
     <title>S202526 : E16 TODOS LOS GOLES | Lamine Yamal - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Lamine como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923180452 +0200" stop="20260923190134 +0200">
+  <programme channel="top-barca-es" start="20260923171551 +0200" stop="20260923181404 +0200">
     <title>S201617 : E02 DOCUMENTAL | Dream Team | El sueño que cambió el futbol - Documental</title>
     <sub-title>Documental</sub-title>
     <desc>Descubre la historia del Dream Team de Johan Cruyff</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923190135 +0200" stop="20260923193304 +0200">
-    <title>HIGHLIGHTS | Sevilla - Barça | La Liga 2026/2027</title>
-    <desc>HIGHLIGHTS | Sevilla - Barça | La Liga 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260923181405 +0200" stop="20260923184225 +0200">
+    <title>S202627 : E02 HIGHLIGHTS  | Elche – Barça  | La Liga 202627 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta de los mejores momentos del partido de la liga 202627 entre Elche y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923193305 +0200" stop="20260923203536 +0200">
+  <programme channel="top-barca-es" start="20260923184226 +0200" stop="20260923194627 +0200">
     <title>S202526 : E21 TODOS LOS GOLES | Rivaldo - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Rivaldo en el FC Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923203537 +0200" stop="20260923223706 +0200">
-    <title>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</title>
-    <desc>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260923194628 +0200" stop="20260923213216 +0200">
+    <title>PARTIDO COMPLETO | Alavés Femenino - Barça | Copa de la reina 2025/2026</title>
+    <desc>Revive el partido de octavos de final de la copa de la reina 2025/2026 entre Alavés y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923223707 +0200" stop="20260923232841 +0200">
+  <programme channel="top-barca-es" start="20260923213217 +0200" stop="20260923222351 +0200">
     <title>S202526 : E41 TODOS LOS GOLES | Leo Messi | Parte 7 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923232842 +0200" stop="20260923235135 +0200">
-    <title>S202122 : E03 EL ÁLBUM | Javier Mascherano - El Álbum</title>
-    <sub-title>El Álbum</sub-title>
-    <desc>Javcier Mascherano recuerda con nosotros su álbum de fotos particular de sus años en Barcelona</desc>
+  <programme channel="top-barca-es" start="20260923222352 +0200" stop="20260923234346 +0200">
+    <title>S202627 : E01 LA MASIA | FC Barcelona U10 - Joanenc | Liga - La Masia</title>
+    <sub-title>La Masia</sub-title>
+    <desc>Disfruta del partido de liga entre el Barça U-10 y el Joanenc</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260923235136 +0200" stop="20260924002305 +0200">
-    <title>HIGHLIGHTS | Alavés Femenino - Barça | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | Alavés Femenino - Barça | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260923234347 +0200" stop="20260924001212 +0200">
+    <title>S202627 : E04 HIGHLIGHTS Alavés Femenino - FC Barcelona | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Alavés Femenino y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924002306 +0200" stop="20260924025215 +0200">
+  <programme channel="top-barca-es" start="20260924001213 +0200" stop="20260924024122 +0200">
     <title>S201415 : E13 HIGHLIGHTS | El camino a la Champions 2015 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta de los mejores momentos de todos los partidos de la Champions League 201415</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924025216 +0200" stop="20260924034742 +0200">
+  <programme channel="top-barca-es" start="20260924024123 +0200" stop="20260924033649 +0200">
     <title>S202526 : E30 TODOS LOS GOLES | Neymar - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Neymar como blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924034743 +0200" stop="20260924044232 +0200">
+  <programme channel="top-barca-es" start="20260924033650 +0200" stop="20260924043309 +0200">
     <title>S202526 : E54 TODOS LOS GOLES | Caroline Graham Hansen - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Caroline Graham Hansen como jugadora blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924044233 +0200" stop="20260924064402 +0200">
-    <title>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</title>
-    <desc>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260924043310 +0200" stop="20260924061858 +0200">
+    <title>PARTIDO COMPLETO | Alavés Femenino - Barça | Copa de la reina 2025/2026</title>
+    <desc>Revive el partido de octavos de final de la copa de la reina 2025/2026 entre Alavés y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924064403 +0200" stop="20260924075313 +0200">
+  <programme channel="top-barca-es" start="20260924061859 +0200" stop="20260924072939 +0200">
     <title>S202526 : E33 TODOS LOS GOLES | Claudia Pina - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Claudia Pina como jugadora del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924075314 +0200" stop="20260924095443 +0200">
-    <title>LA MASIA | Juvenil A - Gimnàstic Manresa | Lliga</title>
-    <desc>LA MASIA | Juvenil A - Gimnàstic Manresa | Lliga</desc>
+  <programme channel="top-barca-es" start="20260924072940 +0200" stop="20260924093037 +0200">
+    <title>S202627 : E02 LA MASIA | FC Barcelona Juvenil A - Gimnàstic Manresa | Liga 2026-27 - La Masia</title>
+    <sub-title>La Masia</sub-title>
+    <desc>Disfruta del partido de la liga juvenil entre Barça y Gimnàstic Manresa</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924095444 +0200" stop="20260924103925 +0200">
+  <programme channel="top-barca-es" start="20260924093038 +0200" stop="20260924101518 +0200">
     <title>S202122 : E02 EL ÁLBUM | Ronaldinho - El Álbum</title>
     <sub-title>El Álbum</sub-title>
     <desc>Ronaldinho recuerda con nosotros su álbum de fotos particular de sus años en Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924103926 +0200" stop="20260924112727 +0200">
+  <programme channel="top-barca-es" start="20260924101519 +0200" stop="20260924110451 +0200">
     <title>S202526 : E20 TODOS LOS GOLES | Ronaldinho - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Ronaldinho en el FC Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924112728 +0200" stop="20260924115857 +0200">
-    <title>HIGHLIGHTS | Sevilla - Barça | La Liga 2026/2027</title>
-    <desc>HIGHLIGHTS | Sevilla - Barça | La Liga 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260924110452 +0200" stop="20260924114539 +0200">
+    <title>S202223 : E01 EL ÁLBUM | Rafa Márquez - El Álbum</title>
+    <sub-title>El Álbum</sub-title>
+    <desc>Rafa Márquez recuerda con nosotros su etapa en el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924115858 +0200" stop="20260924130405 +0200">
+  <programme channel="top-barca-es" start="20260924114540 +0200" stop="20260924125047 +0200">
     <title>S202526 : E18 TODOS LOS GOLES | Raphinha - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Raphinha con el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924130406 +0200" stop="20260924133802 +0200">
+  <programme channel="top-barca-es" start="20260924125048 +0200" stop="20260924132614 +0200">
     <title>S202627 : E01 HIGHLIGHTS | Barça - Feyenoord | UEFA Champions League 2026-27 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta del resumen del partido de la UEFA Champions League 2026-27 entre Barça y Feyenoord</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924133803 +0200" stop="20260924153932 +0200">
-    <title>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</title>
-    <desc>FULL MATCH | Alavés Femenino - Barça | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260924132615 +0200" stop="20260924151203 +0200">
+    <title>PARTIDO COMPLETO | Alavés Femenino - Barça | Copa de la reina 2025/2026</title>
+    <desc>Revive el partido de octavos de final de la copa de la reina 2025/2026 entre Alavés y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924153933 +0200" stop="20260924161049 +0200">
+  <programme channel="top-barca-es" start="20260924151204 +0200" stop="20260924154321 +0200">
     <title>S200405 : E01 EL 9 | El misterio Larsson - El 9</title>
     <sub-title>El 9</sub-title>
     <desc>La historia de Henrik Larsson y sus años en Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924161050 +0200" stop="20260924170004 +0200">
+  <programme channel="top-barca-es" start="20260924154322 +0200" stop="20260924163406 +0200">
     <title>S202627 : E03 TODOS LOS GOLES | Leo Messi Parte 3 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924170005 +0200" stop="20260924173134 +0200">
-    <title>HIGHLIGHTS | Alavés Femenino - Barça | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | Alavés Femenino - Barça | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20260924163407 +0200" stop="20260924170231 +0200">
+    <title>S202627 : E04 HIGHLIGHTS Alavés Femenino - FC Barcelona | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Alavés Femenino y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924173135 +0200" stop="20260924184357 +0200">
+  <programme channel="top-barca-es" start="20260924170232 +0200" stop="20260924181454 +0200">
     <title>S202627 : E60 HIGHLIGHTS | Top 10 años 90 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta de los mejores goles de la década de los 90</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260924184358 +0200" stop="20260924190449 +0200">
+  <programme channel="top-barca-es" start="20260924181455 +0200" stop="20260924190449 +0200">
     <title>S202526 : E44 TODOS LOS GOLES | Dani Olmo - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Dani Olmo como jugador blaugrana</desc>
