@@ -166,7 +166,7 @@ https://live.tvup.edge2befaster.io/energy6/energy6.mpd
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="7_Region_de_Murcia" tvg-name="7 Region de Murcia" tvg-logo="http://192.168.1.98:8080/logos/7%20Region%20de%20Murcia.png" group-title="Cajón de Sastre",7 Region de Murcia
-https://live.tvup.edge2befaster.io/7rmhd/7rmhd.mpd
+https://live.tvup.edge2befaster.io/7rmhd/7rmhd.m3u8
 
 #EXTINF:-1 tvg-id="Canal_Cocina" tvg-name="Canal Cocina" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Cocina.png" group-title="Cajón de Sastre",Canal Cocina
 https://live.tvup.edge2befaster.io/canal-cocina/canal-cocina.mpd
