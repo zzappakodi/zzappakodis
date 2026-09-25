@@ -1312,383 +1312,7 @@
     <title>Arts24</title>
     <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
   </programme>
-  <programme channel="france-24-en" start="20260927020001 +0200" stop="20260927021000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927021001 +0200" stop="20260927022500 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927022501 +0200" stop="20260927023000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927023001 +0200" stop="20260927024500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927024501 +0200" stop="20260927030000 +0200">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927030001 +0200" stop="20260927031500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927031501 +0200" stop="20260927033000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927033001 +0200" stop="20260927034500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927034501 +0200" stop="20260927040000 +0200">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927040001 +0200" stop="20260927041500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927041501 +0200" stop="20260927043000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927043001 +0200" stop="20260927044500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927044501 +0200" stop="20260927050000 +0200">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927050001 +0200" stop="20260927051500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927051501 +0200" stop="20260927053000 +0200">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the African continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927053001 +0200" stop="20260927054500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927054501 +0200" stop="20260927060000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927060001 +0200" stop="20260927061500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927061501 +0200" stop="20260927062100 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927062101 +0200" stop="20260927063000 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927063001 +0200" stop="20260927064600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927064601 +0200" stop="20260927065200 +0200">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927065201 +0200" stop="20260927070000 +0200">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927070001 +0200" stop="20260927072000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927072001 +0200" stop="20260927073000 +0200">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927073001 +0200" stop="20260927080000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927080001 +0200" stop="20260927083000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927083001 +0200" stop="20260927090000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927090001 +0200" stop="20260927091500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927091501 +0200" stop="20260927093000 +0200">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927093001 +0200" stop="20260927100000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927100001 +0200" stop="20260927101600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927101601 +0200" stop="20260927102100 +0200">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927102101 +0200" stop="20260927103000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927103001 +0200" stop="20260927104500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927104501 +0200" stop="20260927110000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927110001 +0200" stop="20260927111500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927111501 +0200" stop="20260927113000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927113001 +0200" stop="20260927114500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927114501 +0200" stop="20260927120000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927120001 +0200" stop="20260927121500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927121501 +0200" stop="20260927123000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927123001 +0200" stop="20260927124500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927124501 +0200" stop="20260927125000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927125001 +0200" stop="20260927130000 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927130001 +0200" stop="20260927131500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927131501 +0200" stop="20260927133000 +0200">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927133001 +0200" stop="20260927134500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927134501 +0200" stop="20260927140000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927140001 +0200" stop="20260927141300 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927141301 +0200" stop="20260927143000 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927143001 +0200" stop="20260927144300 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927144301 +0200" stop="20260927145500 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927145501 +0200" stop="20260927150000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927150001 +0200" stop="20260927151000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927151001 +0200" stop="20260927151500 +0200">
-    <title>Tech 24</title>
-    <desc>The latest trends in the world of high-tech and the impact of digital revolutions on everyday life.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927151501 +0200" stop="20260927153000 +0200">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927153001 +0200" stop="20260927154000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927154001 +0200" stop="20260927155200 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927155201 +0200" stop="20260927160000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927160001 +0200" stop="20260927161500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927161501 +0200" stop="20260927162100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927162101 +0200" stop="20260927163000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927163001 +0200" stop="20260927164500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927164501 +0200" stop="20260927170000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927170001 +0200" stop="20260927171500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927171501 +0200" stop="20260927173000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927173001 +0200" stop="20260927174500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927174501 +0200" stop="20260927180000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927180001 +0200" stop="20260927181500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927181501 +0200" stop="20260927183000 +0200">
-    <title>Spotlight</title>
-    <desc>Guests from around the globe go beyond the headlines on the stories that matter.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927183001 +0200" stop="20260927184500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927184501 +0200" stop="20260927190000 +0200">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927190001 +0200" stop="20260927191500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927191501 +0200" stop="20260927193000 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927193001 +0200" stop="20260927194500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927194501 +0200" stop="20260927200000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927200001 +0200" stop="20260927201600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927201601 +0200" stop="20260927203000 +0200">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927203001 +0200" stop="20260927204600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927204601 +0200" stop="20260927210000 +0200">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the African continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927210001 +0200" stop="20260927211500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927211501 +0200" stop="20260927212100 +0200">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927212101 +0200" stop="20260927213000 +0200">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927213001 +0200" stop="20260927214500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927214501 +0200" stop="20260927220000 +0200">
-    <title>The Reporter's Week</title>
-    <desc>From the 4 corners of the world, the week's news as seen by France 24 reporters</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927220001 +0200" stop="20260927221000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927221001 +0200" stop="20260927223000 +0200">
-    <title>Revisited</title>
-    <desc>France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927223001 +0200" stop="20260927224500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927224501 +0200" stop="20260927230000 +0200">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927230001 +0200" stop="20260927231600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927231601 +0200" stop="20260927233000 +0200">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927233001 +0200" stop="20260927234600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260927234601 +0200" stop="20260928000000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20260928000001 +0200" stop="20260928001500 +0200">
+  <programme channel="france-24-en" start="20260927020001 +0200" stop="20260928001500 +0200">
     <title>News</title>
     <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
@@ -12674,12 +12298,12 @@
     <sub-title>Ási Se Escriben Un Crimen</sub-title>
     <desc>En este episodio repasamos tres casos de chicas desaparecidas en Bizkaia y que generaron una gran intranquilidad en la sociedad vasca: Laura Orue (1999), Virginia Acebes (1999) y Aintzane Garay (2005).Un repaso a los hechos que marcaron a toda una comunidad.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260926111358 +0200" stop="20260926122109 +0200">
+  <programme channel="todo-crimen" start="20260926111358 +0200" stop="20260926122108 +0200">
     <title>S01 : E04 Cómo Resolver Un Crimen - Cómo Resolver Un Crimen</title>
     <sub-title>Cómo Resolver Un Crimen</sub-title>
     <desc>El 12 de abril de 2003, Xavier Flactif, su pareja Graziella y sus tres hijos desaparecen repentinamente en la Alta Saboya.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260926122110 +0200" stop="20260926131330 +0200">
+  <programme channel="todo-crimen" start="20260926122109 +0200" stop="20260926131330 +0200">
     <title>S03 : E08 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>La ex estrella de atletismo Fatimah Leday se une al ejército y está destinada en Irak, donde conoce a un soldado encantador llamado Carlton.</desc>
@@ -12724,22 +12348,22 @@
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Diane se enamora del carismático político Joe Reilly, pero tan pronto como dicen "Sí, acepto", Joe revela su tirano abusivo interior.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260926220004 +0200" stop="20260926231859 +0200">
+  <programme channel="todo-crimen" start="20260926220004 +0200" stop="20260926231858 +0200">
     <title>S01 : E12 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>El cadáver del ciudadano alemán Günter Ulrich es localizado en el fondo de un pozo sellado en la finca de Las Siete Casas, al este de la isla de Mallorca. El cuerpo presentaba síntomas de una muerte violenta. Desaparecido 5 años antes, Günter había tenido negocios inmobiliarios relacionados con el turismo.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260926231900 +0200" stop="20260927000158 +0200">
+  <programme channel="todo-crimen" start="20260926231859 +0200" stop="20260927000158 +0200">
     <title>S01 : E13 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>Año 1987. La aparición del cadáver de ciudadano alemán Winfred Brandt inicia una investigación que llevará a la resolución del misterioso caso de los restos humanos aparecidos en dos playas de la isla de Mallorca. Unas muertes relacionadas entre sí y que esconden múltiples incógnitas.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260927000159 +0200" stop="20260927004744 +0200">
+  <programme channel="todo-crimen" start="20260927000159 +0200" stop="20260927004743 +0200">
     <title>S01 : E14 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>Noviembre del año 1997. Manfred Meisel, el llamado Rey de la Cerveza, es asesinado en su domicilio junto a su hijo Patrick, de ocho años, y Claudia Leinsten, una empleada del empresario alemán. Un triple asesinato sin resolver, ejecutado por sicarios y envuelto en múltiples incógnitas.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260927004745 +0200" stop="20260927020823 +0200">
+  <programme channel="todo-crimen" start="20260927004744 +0200" stop="20260927020823 +0200">
     <title>S01 : E09 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>Paco Etxeberria, con la colaboración de la Unidad de Policía Científica de la Ertzaintza, recreará una catástrofe aérea.</desc>
@@ -12784,12 +12408,12 @@
     <sub-title>Los 7 Pecados Capitals</sub-title>
     <desc>Asesinato de Javier Ardines, concejal de IU en Llanes el 16 de agosto de 2018, encargado por el marido de su amante a dos sicarios.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260927104728 +0200" stop="20260927115310 +0200">
+  <programme channel="todo-crimen" start="20260927104728 +0200" stop="20260927115309 +0200">
     <title>S01 : E05 Cómo Resolver Un Crimen - Cómo Resolver Un Crimen</title>
     <sub-title>Cómo Resolver Un Crimen</sub-title>
     <desc>El 11 de mayo de 1995, Marc Van Beers, un abogado fiscalista de Bruselas de 36 años, muere en un accidente de tráfico durante su luna de miel. Su esposa Aurore sale ilesa de la tragedia.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260927115311 +0200" stop="20260927124547 +0200">
+  <programme channel="todo-crimen" start="20260927115310 +0200" stop="20260927124547 +0200">
     <title>S03 : E09 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Jamie Santos es una chica salvaje que se niega a ser domada. Conoce a Jonathan y rápidamente se obsesiona hasta el punto de alejarlo.</desc>
@@ -12824,12 +12448,12 @@
     <sub-title>Cómo Resolver Un Crimen</sub-title>
     <desc>El 29 de junio de 2012, Marina Ciampi, de 52 años, aparece muerta en su casa de Marsella.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260927181715 +0200" stop="20260927190952 +0200">
+  <programme channel="todo-crimen" start="20260927181715 +0200" stop="20260927190951 +0200">
     <title>S03 : E09 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Jamie Santos es una chica salvaje que se niega a ser domada. Conoce a Jonathan y rápidamente se obsesiona hasta el punto de alejarlo.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260927190953 +0200" stop="20260927200221 +0200">
+  <programme channel="todo-crimen" start="20260927190952 +0200" stop="20260927200221 +0200">
     <title>S03 : E10 Wives With Knives (español) - Wives With Knives (español)</title>
     <sub-title>Wives With Knives (español)</sub-title>
     <desc>Yekaterina Petrov, una hermosa inmigrante letona, pierde a su madre y se sumerge en la deslumbrante escena de clubes nocturnos de Miami.</desc>
@@ -12924,12 +12548,12 @@
     <sub-title>Memoria Negra</sub-title>
     <desc>El cadáver del ciudadano alemán Günter Ulrich es localizado en el fondo de un pozo sellado en la finca de Las Siete Casas, al este de la isla de Mallorca. El cuerpo presentaba síntomas de una muerte violenta. Desaparecido 5 años antes, Günter había tenido negocios inmobiliarios relacionados con el turismo.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260928155148 +0200" stop="20260928162934 +0200">
+  <programme channel="todo-crimen" start="20260928155148 +0200" stop="20260928162933 +0200">
     <title>S01 : E02 Memoria Negra - Memoria Negra</title>
     <sub-title>Memoria Negra</sub-title>
     <desc>Febrero de 2013. Un joven de 18 años mata a su madre en Palma golpeándola salvajemente con una marcuerna. Fue el final de una cruel historia de maltrato familiar reflejada en un diario localizado por los investigadores y escrito por la víctima, María Luisa Perún, durante sus últimos meses de vida.</desc>
   </programme>
-  <programme channel="todo-crimen" start="20260928162935 +0200" stop="20260928175011 +0200">
+  <programme channel="todo-crimen" start="20260928162934 +0200" stop="20260928175011 +0200">
     <title>S01 : E02 El Lector de Huesos - El Lector de Huesos</title>
     <sub-title>El Lector de Huesos</sub-title>
     <desc>Dani Álvarez se adentra en el caso que más ha marcado a Paco Etxeberria, tanto personal como profesionalmente.</desc>
@@ -16979,12 +16603,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Las chispas vuelan cuando Joe descubre que Gord ha aceptado un trabajo con una aerolínea rival.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260926185357 +0200" stop="20260926195010 +0200">
+  <programme channel="ice-pilots-es" start="20260926185357 +0200" stop="20260926195009 +0200">
     <title>S03 : E09 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Tratando de dejar su huella en Buffalo, Duane consigue dos contratos más de Electra.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260926195011 +0200" stop="20260926204417 +0200">
+  <programme channel="ice-pilots-es" start="20260926195010 +0200" stop="20260926204417 +0200">
     <title>S03 : E10 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>La decisión de Duane de dejar al equipo de Electra sin supervisión mientras pasa tiempo en casa pone en peligro.</desc>
@@ -17099,12 +16723,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Joe y Mikey viajan a Inglaterra para traer un nuevo avión a casa.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260927170407 +0200" stop="20260927180032 +0200">
+  <programme channel="ice-pilots-es" start="20260927170407 +0200" stop="20260927180031 +0200">
     <title>S05 : E12 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Joe vuela con los Snowbirds durante el espectáculo aéreo de Hamilton y luego enseña a Mikey a volar.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260927180033 +0200" stop="20260927185502 +0200">
+  <programme channel="ice-pilots-es" start="20260927180032 +0200" stop="20260927185502 +0200">
     <title>S06 : E01 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Un incendio en el motor y una serie de fallas mecánicas hacen que Buffalo se apresure para realizar sus entregas de Navidad.</desc>
@@ -17124,12 +16748,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Joe se va a realizar pruebas médicas en la Clínica Mayo en Phoenix, Arizona.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260927214039 +0200" stop="20260927223509 +0200">
+  <programme channel="ice-pilots-es" start="20260927214039 +0200" stop="20260927223508 +0200">
     <title>S06 : E06 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Mikey decide involucrar a Buffalo en un salto de paracaidistas para conmemorar el 70º aniversario del Día D.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260927223510 +0200" stop="20260927233145 +0200">
+  <programme channel="ice-pilots-es" start="20260927223509 +0200" stop="20260927233145 +0200">
     <title>S06 : E07 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Los mejores pilotos de Buffalo, tanto novatos como veteranos, viajan a California para combates aéreos en aviones de combate reales.</desc>
@@ -17194,12 +16818,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Joe pelea una demanda de Transport Canada contra la aerolínea.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260928110241 +0200" stop="20260928115648 +0200">
+  <programme channel="ice-pilots-es" start="20260928110241 +0200" stop="20260928115647 +0200">
     <title>S02 : E02 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cuando un incendio mortal destruye un puesto de avanzada en el norte una semana antes de Navidad.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260928115649 +0200" stop="20260928125301 +0200">
+  <programme channel="ice-pilots-es" start="20260928115648 +0200" stop="20260928125301 +0200">
     <title>S02 : E03 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>La maldición del -40 golpea a los pilotos de Buffalo, Devan y Scott, en un vuelo por correo de alimentos.</desc>
@@ -17234,12 +16858,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cuando las tormentas eléctricas y un motor tembloroso amenazan un alquiler de DC-3 a Whitehorse.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260928182613 +0200" stop="20260928192020 +0200">
+  <programme channel="ice-pilots-es" start="20260928182613 +0200" stop="20260928192019 +0200">
     <title>S02 : E12 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Joe y Mikey se dirigen a Coventry, Inglaterra, para explorar la posible compra de un turbohélice Electra.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20260928192021 +0200" stop="20260928201427 +0200">
+  <programme channel="ice-pilots-es" start="20260928192020 +0200" stop="20260928201427 +0200">
     <title>S02 : E13 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Mientras entrena a los capitanes de bombas de agua para la próxima temporada de extinción de incendios.</desc>
@@ -36200,293 +35824,271 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Gipsy Kings</sub-title>
     <desc>En Mallorca Fali comienza su trabajo como churrero, aunque sin mucho éxito, cosa que desespera al Gordo que con la ayuda de Kiki quiere buscar la manera de despedirlo. Joaquín por su parte, recibe las pruebas de ADN que revelan un resultado de lo más inesperado.</desc>
   </programme>
-  <programme channel="nascar" start="20260925000000 +0200" stop="20260925005959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925010000 +0200" stop="20260925015959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925020000 +0200" stop="20260925025959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925030000 +0200" stop="20260925035959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925040000 +0200" stop="20260925045959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925050000 +0200" stop="20260925055959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925060000 +0200" stop="20260925065959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925070000 +0200" stop="20260925075959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925080000 +0200" stop="20260925085959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925090000 +0200" stop="20260925095959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925100000 +0200" stop="20260925105959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925110000 +0200" stop="20260925115959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925120000 +0200" stop="20260925125959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925130000 +0200" stop="20260925135959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925140000 +0200" stop="20260925145959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925150000 +0200" stop="20260925155959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925160000 +0200" stop="20260925165959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925170000 +0200" stop="20260925175959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925180000 +0200" stop="20260925185959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925190000 +0200" stop="20260925195959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925200000 +0200" stop="20260925205959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925210000 +0200" stop="20260925215959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925220000 +0200" stop="20260925225959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260925230000 +0200" stop="20260925235959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926000000 +0200" stop="20260926005959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926010000 +0200" stop="20260926015959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926020000 +0200" stop="20260926025959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926030000 +0200" stop="20260926035959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926040000 +0200" stop="20260926045959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926050000 +0200" stop="20260926055959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926060000 +0200" stop="20260926065959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926070000 +0200" stop="20260926075959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926080000 +0200" stop="20260926085959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926090000 +0200" stop="20260926095959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926100000 +0200" stop="20260926105959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926110000 +0200" stop="20260926115959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926120000 +0200" stop="20260926125959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926130000 +0200" stop="20260926135959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926140000 +0200" stop="20260926145959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926150000 +0200" stop="20260926155959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926160000 +0200" stop="20260926165959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926170000 +0200" stop="20260926175959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926180000 +0200" stop="20260926185959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926190000 +0200" stop="20260926195959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926200000 +0200" stop="20260926205959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926210000 +0200" stop="20260926215959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926220000 +0200" stop="20260926225959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260926230000 +0200" stop="20260926235959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927000000 +0200" stop="20260927005959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927010000 +0200" stop="20260927015959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927020000 +0200" stop="20260927025959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927030000 +0200" stop="20260927035959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927040000 +0200" stop="20260927045959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927050000 +0200" stop="20260927055959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927060000 +0200" stop="20260927065959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927070000 +0200" stop="20260927075959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927080000 +0200" stop="20260927085959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927090000 +0200" stop="20260927095959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927100000 +0200" stop="20260927105959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927110000 +0200" stop="20260927115959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927120000 +0200" stop="20260927125959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927130000 +0200" stop="20260927135959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927140000 +0200" stop="20260927145959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927150000 +0200" stop="20260927155959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927160000 +0200" stop="20260927165959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927170000 +0200" stop="20260927175959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927180000 +0200" stop="20260927185959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927190000 +0200" stop="20260927195959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927200000 +0200" stop="20260927205959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927210000 +0200" stop="20260927215959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927220000 +0200" stop="20260927225959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260927230000 +0200" stop="20260927235959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928000000 +0200" stop="20260928005959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928010000 +0200" stop="20260928015959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928020000 +0200" stop="20260928025959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928030000 +0200" stop="20260928035959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928040000 +0200" stop="20260928045959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928050000 +0200" stop="20260928055959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928060000 +0200" stop="20260928065959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928070000 +0200" stop="20260928075959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928080000 +0200" stop="20260928085959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928090000 +0200" stop="20260928095959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928100000 +0200" stop="20260928105959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928110000 +0200" stop="20260928115959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928120000 +0200" stop="20260928125959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928130000 +0200" stop="20260928135959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928140000 +0200" stop="20260928145959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928150000 +0200" stop="20260928155959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928160000 +0200" stop="20260928165959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928170000 +0200" stop="20260928175959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928180000 +0200" stop="20260928185959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928190000 +0200" stop="20260928195959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928200000 +0200" stop="20260928205959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928210000 +0200" stop="20260928215959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928220000 +0200" stop="20260928225959 +0200">
-    <title>NASCAR</title>
-  </programme>
-  <programme channel="nascar" start="20260928230000 +0200" stop="20260928235959 +0200">
-    <title>NASCAR</title>
+  <programme channel="nascar" start="20260924231527 +0200" stop="20260925020614 +0200">
+    <title>S2026 : E29 NASCAR Cup Series Full Race Replay - 2026 Bass Pro Shops Night Race at Bristol Motor Speedway</title>
+    <sub-title>2026 Bass Pro Shops Night Race at Bristol Motor Speedway</sub-title>
+    <desc>Relive the 2026 Bass Pro Shops Night Race at Bristol Motor Speedway in this NASCAR Cup race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925020615 +0200" stop="20260925024626 +0200">
+    <title>S2026 : E31 NASCAR Inside The Race: Letarte's Lab - Was the Risk Worth It? Hocevar, Blaney &amp; Bristol</title>
+    <sub-title>Was the Risk Worth It? Hocevar, Blaney &amp; Bristol</sub-title>
+    <desc>Bristol delivered what we expect from The Chase- contact, controversy, risk, reward and a wild final restart.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925024627 +0200" stop="20260925031914 +0200">
+    <title>S02 : E13 Radioactive - Best of the 2026 NASCAR Cup Series Chase</title>
+    <sub-title>Best of the 2026 NASCAR Cup Series Chase</sub-title>
+    <desc>Radioactive showcases the best radio chatter of the 2026 NASCAR Cup Series Chase.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925031915 +0200" stop="20260925050905 +0200">
+    <title>S2026 : E23 eNASCAR Coca-Cola iRacing Series Replay - 2026 iRacing Championship Series from Kansas</title>
+    <sub-title>2026 iRacing Championship Series from Kansas</sub-title>
+    <desc>Relive the 2026 Kansas race in this eNASCAR Coca-Cola iRacing Series replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925050906 +0200" stop="20260925071758 +0200">
+    <title>S2018 : E32 NASCAR Classics: Cup Series - 2018 Hollywood Casino 400 at Kansas Speedway</title>
+    <sub-title>2018 Hollywood Casino 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 6th race of the 2018 Playoffs in this Cup Series race replay from Kansas Speedway.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925071759 +0200" stop="20260925083946 +0200">
+    <title>S2022 : E19 NASCAR Classics: Truck Series - 2022 Kansas Lottery 200 at Kansas Speedway</title>
+    <sub-title>2022 Kansas Lottery 200 at Kansas Speedway</sub-title>
+    <desc>Relive the 2022 Kansas Lottery 200 at Kansas Speedway in this NASCAR Truck Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925083947 +0200" stop="20260925093506 +0200">
+    <title>S2005 : E30 Beyond The Wheel - 2005 Banquet 400 at Kansas Speedway</title>
+    <sub-title>2005 Banquet 400 at Kansas Speedway</sub-title>
+    <desc>Beyond the Wheel goes behind-the-scenes for the 2005 Kansas race.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925093507 +0200" stop="20260925100629 +0200">
+    <title>S02 : E13 Radioactive - Best of the 2026 NASCAR Cup Series Chase</title>
+    <sub-title>Best of the 2026 NASCAR Cup Series Chase</sub-title>
+    <desc>Radioactive showcases the best radio chatter of the 2026 NASCAR Cup Series Chase.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925100630 +0200" stop="20260925103533 +0200">
+    <title>S2006 : E29 7 DAYS - Clint Bowyer, Kansas</title>
+    <sub-title>Clint Bowyer, Kansas</sub-title>
+    <desc>Go behind-the-scenes with NASCAR driver, Clint Bowyer, as he prepares for the 2006 race at Kansas</desc>
+  </programme>
+  <programme channel="nascar" start="20260925103534 +0200" stop="20260925130000 +0200">
+    <title>S2020 : E33 NASCAR Classics: Cup Series - 2020 Hollywood Casinos 400 at Kansas Speedway</title>
+    <sub-title>2020 Hollywood Casinos 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2020 Hollywood Casinos 400 at Kansas Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925130001 +0200" stop="20260925160143 +0200">
+    <title>The Morning Drive</title>
+    <desc>SiriusXM NASCAR Radio's Mike Bagley and Pete Pistone dive into the world of NASCAR on 'The Morning Drive.'</desc>
+  </programme>
+  <programme channel="nascar" start="20260925160144 +0200" stop="20260925164155 +0200">
+    <title>S2026 : E31 NASCAR Inside The Race: Letarte's Lab - Was the Risk Worth It? Hocevar, Blaney &amp; Bristol</title>
+    <sub-title>Was the Risk Worth It? Hocevar, Blaney &amp; Bristol</sub-title>
+    <desc>Bristol delivered what we expect from The Chase- contact, controversy, risk, reward and a wild final restart.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925164156 +0200" stop="20260925170451 +0200">
+    <title>S2026 : E55 SPEED - What Really Happened Between Pato O'Ward and Christian Lundgaard?</title>
+    <sub-title>What Really Happened Between Pato O'Ward and Christian Lundgaard?</sub-title>
+    <desc>INDYCAR superstar Pato O’Ward joins Will Buxton and Kevin Harvick for a wide-ranging discussion.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925170452 +0200" stop="20260925192719 +0200">
+    <title>S2021 : E31 NASCAR Classics: O'Reilly Auto Parts Series - 2021 Kansas Lottery 300 at Kansas Speedway</title>
+    <sub-title>2021 Kansas Lottery 300 at Kansas Speedway</sub-title>
+    <desc>Relive the 2021 Kensas Lottery 300 at Kansas Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925192720 +0200" stop="20260925194414 +0200">
+    <title>S2001 : E06 Sights &amp; Sounds - 2001 Kansas in Widescreen HD</title>
+    <sub-title>2001 Kansas in Widescreen HD</sub-title>
+    <desc>Sights and Sounds features original trackside camera and audio recordings captured in 2001 at Kansas.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925194415 +0200" stop="20260925222136 +0200">
+    <title>S2023 : E26 NASCAR Classics: O'Reilly Auto Parts Series - The 2023 Kansas Lottery 300 at Kansas Speedway</title>
+    <sub-title>The 2023 Kansas Lottery 300 at Kansas Speedway</sub-title>
+    <desc>Relive the 2023 Kansas Lottery 300 at Kansas Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260925222137 +0200" stop="20260926004514 +0200">
+    <title>S2024 : E27 NASCAR Classics: O'Reilly Auto Parts Series - 2024 Kansas Lottery 300 at Kansas Speedway</title>
+    <sub-title>2024 Kansas Lottery 300 at Kansas Speedway</sub-title>
+    <desc>Relive the 2024 Kansas Lottery 300 at Kansas Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260926004515 +0200" stop="20260926031050 +0200">
+    <title>S2019 : E32 NASCAR Classics: Cup Series - 2019 Hollywood Casino 400 at Kansas Speedway</title>
+    <sub-title>2019 Hollywood Casino 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 6th race of the 2019 Playoffs in this Cup Series race replay from Kansas Speedway.</desc>
+  </programme>
+  <programme channel="nascar" start="20260926031051 +0200" stop="20260926053112 +0200">
+    <title>S2026 : E29 Driver Cam - Joey Logano, Bristol Motor Speedway September 2026</title>
+    <sub-title>Joey Logano, Bristol Motor Speedway September 2026</sub-title>
+    <desc>The in-car camera view and scanner for Joey Logano and the 22 team from the 2026 Bass Pro Shops Night Race</desc>
+  </programme>
+  <programme channel="nascar" start="20260926053113 +0200" stop="20260926060000 +0200">
+    <title>NASCAR Flybys</title>
+    <desc>Experience the sights and sounds of NASCAR in this 30-minute compilation of flybys</desc>
+  </programme>
+  <programme channel="nascar" start="20260926060001 +0200" stop="20260926071615 +0200">
+    <title>S01 : E30 Radioactive - Best of Kansas Fall Races</title>
+    <sub-title>Best of Kansas Fall Races</sub-title>
+    <desc>Radioactive showcases the best race chatter of the NASCAR Cup Series fall races at Kansas Speedway</desc>
+  </programme>
+  <programme channel="nascar" start="20260926071616 +0200" stop="20260926095808 +0200">
+    <title>S2022 : E28 NASCAR Classics: Cup Series - 2022 Hollywood Casino 400 at Kansas Speedway</title>
+    <sub-title>2022 Hollywood Casino 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2022 Hollywood Casino 400 at Kansas Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260926095809 +0200" stop="20260926101907 +0200">
+    <title>NASCAR Burnouts</title>
+    <desc>Experience the sights and sounds of NASCAR victory in this 30-minute compilation of burnouts</desc>
+  </programme>
+  <programme channel="nascar" start="20260926101908 +0200" stop="20260926132000 +0200">
+    <title>S2024 : E30 NASCAR Classics: Cup Series - 2024 Hollywood Casino 400 at Kansas Speedway</title>
+    <sub-title>2024 Hollywood Casino 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2024 Hollywood Casino 400 at Kansas Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260926132001 +0200" stop="20260926154512 +0200">
+    <title>S2026 : E09 NASCAR Cup Series Full Race Replay - 2026 AdventHealth 400 at Kansas Speedway</title>
+    <sub-title>2026 AdventHealth 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2026 AdventHealth 400 at Kansas Speedway in this NASCAR Cup race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260926154513 +0200" stop="20260926183741 +0200">
+    <title>S2024 : E12 NASCAR Classics: Cup Series - 2024 Advent Health 400 at Kansas Speedway</title>
+    <sub-title>2024 Advent Health 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2024 Advent Health at 400 Kansas Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260926183742 +0200" stop="20260926195356 +0200">
+    <title>S01 : E30 Radioactive - Best of Kansas Fall Races</title>
+    <sub-title>Best of Kansas Fall Races</sub-title>
+    <desc>Radioactive showcases the best race chatter of the NASCAR Cup Series fall races at Kansas Speedway</desc>
+  </programme>
+  <programme channel="nascar" start="20260926195357 +0200" stop="20260926214500 +0200">
+    <title>S2025 : E01 NASCAR Advance Auto Parts Weekly Series - 2025 Valley Star Credit Union 300 at Martinsville Speedway</title>
+    <sub-title>2025 Valley Star Credit Union 300 at Martinsville Speedway</sub-title>
+    <desc>Relive the 2025 Valley Star 300 at Martinsville Speedway in this NASCAR Weekly Touring Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260926214501 +0200" stop="20260927044500 +0200">
+    <title>Live: ValleyStar Credit Union 300 from Martinsville</title>
+    <desc>Watch the ValleyStar Credit Union 300 from Martinsville LIVE Sept. 26 on The NASCAR Channel.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927044501 +0200" stop="20260927073729 +0200">
+    <title>S2024 : E12 NASCAR Classics: Cup Series - 2024 Advent Health 400 at Kansas Speedway</title>
+    <sub-title>2024 Advent Health 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2024 Advent Health at 400 Kansas Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927073730 +0200" stop="20260927095727 +0200">
+    <title>S2021 : E31 NASCAR Classics: O'Reilly Auto Parts Series - 2021 Kansas Lottery 300 at Kansas Speedway</title>
+    <sub-title>2021 Kansas Lottery 300 at Kansas Speedway</sub-title>
+    <desc>Relive the 2021 Kensas Lottery 300 at Kansas Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927095728 +0200" stop="20260927110303 +0200">
+    <title>S2022 : E25 NASCAR Classics: O'Reilly Auto Parts Series - 2022 Kansas Lottery 300 at Kansas Speedway</title>
+    <sub-title>2022 Kansas Lottery 300 at Kansas Speedway</sub-title>
+    <desc>Relive the 2022 Kansas Lottery 300 at Kansas Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927110304 +0200" stop="20260927115707 +0200">
+    <title>S2005 : E30 Beyond The Wheel - 2005 Banquet 400 at Kansas Speedway</title>
+    <sub-title>2005 Banquet 400 at Kansas Speedway</sub-title>
+    <desc>Beyond the Wheel goes behind-the-scenes for the 2005 Kansas race.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927115708 +0200" stop="20260927133013 +0200">
+    <title>S2023 : E19 NASCAR Classics: Truck Series - 2023 Kansas Lottery 200 at Kansas Speedway</title>
+    <sub-title>2023 Kansas Lottery 200 at Kansas Speedway</sub-title>
+    <desc>Relive the 2023 Kansas Lottery 200 at Kansas Speedway in this NASCAR Truck Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927133014 +0200" stop="20260927160450 +0200">
+    <title>S2023 : E26 NASCAR Classics: O'Reilly Auto Parts Series - The 2023 Kansas Lottery 300 at Kansas Speedway</title>
+    <sub-title>The 2023 Kansas Lottery 300 at Kansas Speedway</sub-title>
+    <desc>Relive the 2023 Kansas Lottery 300 at Kansas Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927160451 +0200" stop="20260927183933 +0200">
+    <title>S2023 : E28 NASCAR Classics: Cup Series - 2023 Hollywood Casino 400 at Kansas Speedway</title>
+    <sub-title>2023 Hollywood Casino 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2023 Hollywood Casino 400 at Kansas Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927183934 +0200" stop="20260927190546 +0200">
+    <title>S2006 : E25 Beyond The Wheel - 2006 Banquet 400 at Kansas Speedway</title>
+    <sub-title>2006 Banquet 400 at Kansas Speedway</sub-title>
+    <desc>Beyond the Wheel goes behind-the-scenes for the 2006 fall race at Kansas.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927190547 +0200" stop="20260927220309 +0200">
+    <title>S2024 : E30 NASCAR Classics: Cup Series - 2024 Hollywood Casino 400 at Kansas Speedway</title>
+    <sub-title>2024 Hollywood Casino 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2024 Hollywood Casino 400 at Kansas Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927220310 +0200" stop="20260927222604 +0200">
+    <title>S2026 : E55 SPEED - What Really Happened Between Pato O'Ward and Christian Lundgaard?</title>
+    <sub-title>What Really Happened Between Pato O'Ward and Christian Lundgaard?</sub-title>
+    <desc>INDYCAR superstar Pato O’Ward joins Will Buxton and Kevin Harvick for a wide-ranging discussion.</desc>
+  </programme>
+  <programme channel="nascar" start="20260927222605 +0200" stop="20260928012855 +0200">
+    <title>S2025 : E31 NASCAR Classics: Cup Series - 2025 Hollywood Casino 400 at Kansas Speedway</title>
+    <sub-title>2025 Hollywood Casino 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2025 Hollywood Casino 400 from Kansas Speedway in this Cup Series race replay</desc>
+  </programme>
+  <programme channel="nascar" start="20260928012856 +0200" stop="20260928041943 +0200">
+    <title>S2026 : E29 NASCAR Cup Series Full Race Replay - 2026 Bass Pro Shops Night Race at Bristol Motor Speedway</title>
+    <sub-title>2026 Bass Pro Shops Night Race at Bristol Motor Speedway</sub-title>
+    <desc>Relive the 2026 Bass Pro Shops Night Race at Bristol Motor Speedway in this NASCAR Cup race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260928041944 +0200" stop="20260928065932 +0200">
+    <title>S2001 : E03 NASCAR Classics: Cup Series - 2001 UAW-Daimler Chrysler 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2001 UAW-Daimler Chrysler 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2001 UAW-Daimler Chrysler 400 at Las Vegas Motor Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260928065933 +0200" stop="20260928090716 +0200">
+    <title>S2014 : E03 NASCAR Classics: Cup Series - 2014 Kobalt Tools 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2014 Kobalt Tools 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2014 Kobalt Tools 400 at Las Vegas Motor Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260928090717 +0200" stop="20260928092755 +0200">
+    <title>S2021 : E04 NASCAR Originals - The Strange Case of L.W. Wright</title>
+    <sub-title>The Strange Case of L.W. Wright</sub-title>
+    <desc>The story of how a con man tricked his way into starting the 1982 Winston 500 at Talladega and then vanished</desc>
+  </programme>
+  <programme channel="nascar" start="20260928092756 +0200" stop="20260928105318 +0200">
+    <title>S2020 : E02 NASCAR Classics: Truck Series - 2020 Strat 200 at Las Vegas Motor Speedway</title>
+    <sub-title>2020 Strat 200 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2020 Strat 200 at Las Vegas Motor Speedway in this NASCAR Truck Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260928105319 +0200" stop="20260928130000 +0200">
+    <title>S2020 : E27 NASCAR Classics: O'Reilly Auto Parts Series - 2020 Alsco 300 at Las Vegas Motor Speedway</title>
+    <sub-title>2020 Alsco 300 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2020 Alsco 300 at Las Vegas Motor Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260928130001 +0200" stop="20260928160158 +0200">
+    <title>S01 : E01 SiriusXM NASCAR - The Morning Drive</title>
+    <sub-title>The Morning Drive</sub-title>
+    <desc>SiriusXM NASCAR Radio's Mike Bagley and Pete Pistone dive into the world of NASCAR on 'The Morning Drive.'</desc>
+  </programme>
+  <programme channel="nascar" start="20260928160159 +0200" stop="20260928161928 +0200">
+    <title>S01 : E01 NASCAR Truck Series Extended Highlights - Truck Series Extended Highlights</title>
+    <sub-title>Truck Series Extended Highlights</sub-title>
+    <desc>Relive the NASCAR Truck Series weekend in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20260928161929 +0200" stop="20260928164659 +0200">
+    <title>S01 : E02 NASCAR Cup Series Extended Highlights - Cup Series Extended Highlights</title>
+    <sub-title>Cup Series Extended Highlights</sub-title>
+    <desc>Relive the NASCAR Cup Series weekend in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20260928164700 +0200" stop="20260928171646 +0200">
+    <title>S2006 : E03 7 DAYS - Lee Spencer, Las Vegas</title>
+    <sub-title>Lee Spencer, Las Vegas</sub-title>
+    <desc>Go behind-the-scenes with NASCAR reporter, Lee Spencer as she prepares for the 2006 race at Las Vegas</desc>
+  </programme>
+  <programme channel="nascar" start="20260928171647 +0200" stop="20260928201055 +0200">
+    <title>S2001 : E28 NASCAR Classics: Cup Series - 2001 Protection One 400 at Kansas Speedway</title>
+    <sub-title>2001 Protection One 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2001 Protection One 400 at Kansas Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20260928201056 +0200" stop="20260928203427 +0200">
+    <title>S2026 : E10 Best Of NASCAR - Las Vegas Motor Speedway</title>
+    <sub-title>Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the best NASCAR Cup Series moments from Las Vegas Motor Speedway</desc>
+  </programme>
+  <programme channel="nascar" start="20260928203428 +0200" stop="20260928212636 +0200">
+    <title>S01 : E33 Radioactive - Best of Las Vegas Fall Races</title>
+    <sub-title>Best of Las Vegas Fall Races</sub-title>
+    <desc>Radioactive showcases the best race chatter of NASCAR Cup Series fall races at Las Vegas Motor Speedway</desc>
+  </programme>
+  <programme channel="nascar" start="20260928212637 +0200" stop="20260929002350 +0200">
+    <title>S2018 : E27 NASCAR Classics: Cup Series - 2018 SouthPoint Casino 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2018 SouthPoint Casino 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the first race of the 2018 Playoffs in this Cup Series race replay from Las Vegas Motor Speedway.</desc>
   </programme>
   <programme channel="tennis-plus" start="20260924235349 +0200" stop="20260925022359 +0200">
     <title>S2025 : E57 AO25 Women's Third Round - Badosa v Kostyuk - Australian Open Full Match</title>
