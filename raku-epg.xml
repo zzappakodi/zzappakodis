@@ -10203,12 +10203,12 @@
     <sub-title>Planeta Selva</sub-title>
     <desc>Uno de los bosques más extraordinarios del mundo crece en conos volcánicos, entre rocas y cenizas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260928225909 +0200" stop="20260928233815 +0200">
+  <programme channel="planeta-salvaje" start="20260928225909 +0200" stop="20260928233816 +0200">
     <title>S01 : E16 Planeta Selva - Planeta Selva</title>
     <sub-title>Planeta Selva</sub-title>
     <desc>Los ríos del hemisferio Norte están flanqueados de forma natural de un bosque adaptado a las inundaciones periódicas.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260928233816 +0200" stop="20260929004305 +0200">
+  <programme channel="planeta-salvaje" start="20260928233817 +0200" stop="20260929004305 +0200">
     <title>S01 : E02 Mississippi - Mississippi</title>
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
@@ -10231,12 +10231,12 @@
     <sub-title>Mundos de Agua</sub-title>
     <desc>El ciclo del agua marca los tiempos de la vida en todo el planeta. Fluye formando nubes, lluvias, nieves, ríos o mares.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260929032134 +0200" stop="20260929035422 +0200">
+  <programme channel="planeta-salvaje" start="20260929032134 +0200" stop="20260929035423 +0200">
     <title>S01 : E01 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Los animales comemos para sobrevivir, es el instinto más básico, el más fundamental.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260929035423 +0200" stop="20260929042644 +0200">
+  <programme channel="planeta-salvaje" start="20260929035424 +0200" stop="20260929042644 +0200">
     <title>S01 : E02 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Los insectos... su número y diversidad los convierten en los verdaderos dueños de la Tierra.</desc>
@@ -10255,11 +10255,11 @@
     <title>Soy el Mejor Ciervo Ibérico</title>
     <desc>Rodado durante los últimos tres años, este documental cuenta la historia del peculiar romance que cada otoño invade el bosque mediterráneo. El ciervo rojo inicia su particular celo emitiendo un sonido estremecedor que se cuela por todo el bosque. Para los ciervos comienza un tiempo para amar, defender y luchar. Durante casi un mes, perpetuarse será su única razón de vivir, su único objetivo, su única opción.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260929073353 +0200" stop="20260929080520 +0200">
+  <programme channel="planeta-salvaje" start="20260929073353 +0200" stop="20260929080521 +0200">
     <title>Los Últimos Dragones Urbanos</title>
     <desc>En la ciudad de Oviedo, al norte de España, habitan varias poblaciones muy singulares de salamandras, muchas de las cuales han permanecido aisladas desde la fundación de la ciudad en el siglo VIII. En este documental se narra su historia, las leyendas que rodean a este animal desde la antigüedad, así como las singularidades de estas poblaciones que han conseguido sobrevivir en la ciudad sin cursos de agua, elemento esencial en la reproducción de la mayoría de anfibios.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20260929080521 +0200" stop="20260929091141 +0200">
+  <programme channel="planeta-salvaje" start="20260929080522 +0200" stop="20260929091141 +0200">
     <title>S01 : E03 Conexión Salvaje - Conexión Salvaje</title>
     <sub-title>Conexión Salvaje</sub-title>
     <desc>El paraíso es un pasillo estrecho, largo y montañoso.</desc>
@@ -42475,48 +42475,40 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Todos los goles</sub-title>
     <desc>Los mejores goles dle Barça durante la década de los 2000</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260927112853 +0200" stop="20260927120040 +0200">
+  <programme channel="top-barca-es" start="20260927112853 +0200" stop="20260927120210 +0200">
     <title>S202627 : E06 HIGHLIGHTS | Sevilla - FC Barcelona La Liga 2026-27 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta de los mejores momentos del partido entre Sevilla y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260927120041 +0200" stop="20260927130210 +0200">
-    <title>LA MASIA | Barça SUB 13 - Morente</title>
-    <desc>LA MASIA | Barça SUB 13 - Morente</desc>
+  <programme channel="top-barca-es" start="20260927120211 +0200" stop="20260927133023 +0200">
+    <title>S202627 : E03 LA MASIA | FC Barceloina Sub 13 - La Floresta | Liga 2026-27 - La Masia</title>
+    <sub-title>La Masia</sub-title>
+    <desc>Disfruta de los mejorespartidos de los equipos de La Masia</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260927130211 +0200" stop="20260927140654 +0200">
-    <title>S199394 : E10 TODOS LOS GOLES | Temporada 1993-94 - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles del Barça en la temporada 1993-94</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20260927140655 +0200" stop="20260927144221 +0200">
+  <programme channel="top-barca-es" start="20260927133024 +0200" stop="20260927140550 +0200">
     <title>S202627 : E01 HIGHLIGHTS | Barça - Feyenoord | UEFA Champions League 2026-27 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta del resumen del partido de la UEFA Champions League 2026-27 entre Barça y Feyenoord</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260927144222 +0200" stop="20260927151411 +0200">
+  <programme channel="top-barca-es" start="20260927140551 +0200" stop="20260927143740 +0200">
     <title>S202627 : E07 EL 9 | Javier Saviola | El gol en tiempos difíciles - El  9</title>
     <sub-title>El  9</sub-title>
     <desc>Recuerda los años de Javier Saviola en el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260927151412 +0200" stop="20260927154715 +0200">
+  <programme channel="top-barca-es" start="20260927143741 +0200" stop="20260927151044 +0200">
     <title>S201112 : E08 HIGHLIGHTS | Barça - Bayer Leverkussen | Champions 201112 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta de los mejores momentos del partido de la Champions League 201112 entre Barça y Bayer Leverkussen</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260927154716 +0200" stop="20260927163848 +0200">
+  <programme channel="top-barca-es" start="20260927151045 +0200" stop="20260927160217 +0200">
     <title>S202526 : E06 TODOS LOS GOLES | Leo Messi | Parte 6 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi</desc>
   </programme>
-  <programme channel="top-barca-es" start="20260927163849 +0200" stop="20260927171035 +0200">
+  <programme channel="top-barca-es" start="20260927160218 +0200" stop="20260927181206 +0200">
     <title>S202627 : E06 HIGHLIGHTS | Sevilla - FC Barcelona La Liga 2026-27 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta de los mejores momentos del partido entre Sevilla y Barça</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20260927171036 +0200" stop="20260927181206 +0200">
-    <title>LA MASIA | Barça SUB 15 - At.Segre</title>
-    <desc>LA MASIA | Barça SUB 15 - At.Segre</desc>
   </programme>
   <programme channel="top-barca-es" start="20260927181207 +0200" stop="20260927185504 +0200">
     <title>S202526 : E53 ORÍGENES | Pedri - Orígenes</title>
@@ -48716,12 +48708,12 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>Mercedes intenta hablar de un tema importante con López, que la esquiva constantemente por miedo a que le eche una bronca.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260927183910 +0200" stop="20260927191047 +0200">
+  <programme channel="lol-espana" start="20260927183910 +0200" stop="20260927191046 +0200">
     <title>S01 : E19 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Mercedes decide darse un tiempo de reflexión y descanso después de su ruptura sentimental. Se va de la radio y nombra a López nuevo director.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260927191048 +0200" stop="20260927194425 +0200">
+  <programme channel="lol-espana" start="20260927191047 +0200" stop="20260927194425 +0200">
     <title>S01 : E20 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Pol decide sacar más partido del bar Mauricio y prepara varias actuaciones que sirvan de reclamo para ganar clientes. David prepara una actuación que muestre sus grandes dotes interpretativas.</desc>
@@ -48756,22 +48748,22 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>La abuela Sunción aún vive en otra época. No entiende lo que significa vivir juntos sin estar casados o que dos amigos compartan piso para pagar el alquiler.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928001357 +0200" stop="20260928004756 +0200">
+  <programme channel="lol-espana" start="20260928001357 +0200" stop="20260928004755 +0200">
     <title>S01 : E50 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Quim Monzó pide a López que le escriba su próxima novela. Nadie debe enterarse. David quiere estrenarse como director de cine y empieza a preparar una película.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928004757 +0200" stop="20260928012524 +0200">
+  <programme channel="lol-espana" start="20260928004756 +0200" stop="20260928012523 +0200">
     <title>S01 : E51 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López se va de viaje a Cuba y regresa con una cubana. Está decidido a casarse con ella para que obtenga la nacionalidad española pero David se enamora perdidamente de ella. Los dos acabarán peleándose para acompañarla al altar.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928012525 +0200" stop="20260928015614 +0200">
+  <programme channel="lol-espana" start="20260928012524 +0200" stop="20260928015613 +0200">
     <title>S01 : E52 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Una compañía de teatro alternativo contrata a David como actor. Empiezan a tener problemas cuando les niegan la subvención que habían pedido y no saben de donde sacar el dinero para acabar de montar el espectáculo.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928015615 +0200" stop="20260928022924 +0200">
+  <programme channel="lol-espana" start="20260928015614 +0200" stop="20260928022924 +0200">
     <title>S01 : E53 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David y López son un par de pesimistas y deciden espabilar a Emma porque creen que vive en un mundo feliz e irreal.</desc>
@@ -48801,12 +48793,12 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Jet Lag</sub-title>
     <desc>La compañía aérea Fly Fly atraviesa una grave crisis económica y el director ha decidido hacer una reducción de plantilla.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928060835 +0200" stop="20260928063924 +0200">
+  <programme channel="lol-espana" start="20260928060835 +0200" stop="20260928063923 +0200">
     <title>S02 : E02 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla, Silvia y Esther han quedado en paro. Carla decide encontrar un trabajo mejor de la que tenía.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928063925 +0200" stop="20260928070549 +0200">
+  <programme channel="lol-espana" start="20260928063924 +0200" stop="20260928070549 +0200">
     <title>S02 : E03 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther y Silvia se encuentran con un pasajero extremadamente desagradable, maleducado, llamativo, huraño insoportable que les está dando el viaje.</desc>
@@ -48816,12 +48808,12 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona recibe la visita de su ex novio que está muy contento y a punto de casarse con una chica catalana.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928073713 +0200" stop="20260928080636 +0200">
+  <programme channel="lol-espana" start="20260928073713 +0200" stop="20260928080635 +0200">
     <title>S02 : E05 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Un director de televisión ha elegido el bar de Mario para rodar el anuncio publicitario de una nueva marca de cervezas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928080637 +0200" stop="20260928084050 +0200">
+  <programme channel="lol-espana" start="20260928080636 +0200" stop="20260928084050 +0200">
     <title>S02 : E06 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona ve que el sofá, el lugar donde ella duerme, ha desaparecido porque Esther ha decidido hacerlo tapizar y tiene que ir a vivir con la Diana.</desc>
@@ -48831,17 +48823,17 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Jet Lag</sub-title>
     <desc>Esther está harta de hacer todas las tareas de la casa y quiere coger una mujer de la limpieza.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928091357 +0200" stop="20260928094905 +0200">
+  <programme channel="lol-espana" start="20260928091357 +0200" stop="20260928094904 +0200">
     <title>S02 : E08 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia está a punto de recibir la visita de una antigua profesora suya que ahora se ha convertido en una novelista de renombre mundial y que ella lo admira profundamente desde que era pequeña.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928094906 +0200" stop="20260928102420 +0200">
+  <programme channel="lol-espana" start="20260928094905 +0200" stop="20260928102419 +0200">
     <title>S02 : E09 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia tiene una crisis porque toma conciencia de su edad. De vez se siente grande, y eso no le gusta nada.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928102421 +0200" stop="20260928105038 +0200">
+  <programme channel="lol-espana" start="20260928102420 +0200" stop="20260928105038 +0200">
     <title>S02 : E11 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther le hace un ultimátum a Andreu: o se casan, o cortan. La razón? Se ha quedado embarazada.</desc>
@@ -48871,12 +48863,12 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928141716 +0200" stop="20260928151801 +0200">
+  <programme channel="lol-espana" start="20260928141716 +0200" stop="20260928151800 +0200">
     <title>S12 : E10 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260928151802 +0200" stop="20260928161656 +0200">
+  <programme channel="lol-espana" start="20260928151801 +0200" stop="20260928161656 +0200">
     <title>S12 : E12 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
@@ -48935,12 +48927,12 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>Ángel, el guardia urbano de la playa, busca a Emma para devolverle el zapato que perdió en verano y para decirle que la quiere.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929015341 +0200" stop="20260929022724 +0200">
+  <programme channel="lol-espana" start="20260929015341 +0200" stop="20260929022723 +0200">
     <title>S01 : E61 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>La abuela de David no puede dormir, está hiperactiva. El médico que va a visitarla le receta unas "hierbas" de maría. Todos deciden aprovechar la ocasión.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929022725 +0200" stop="20260929030223 +0200">
+  <programme channel="lol-espana" start="20260929022724 +0200" stop="20260929030223 +0200">
     <title>S01 : E62 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Oriol, el padre de López, se jubila y se instala en casa de los chicos. La alegría de la jubilación le dura poco, en casa se aburre y esto le envejece prematuramente.</desc>
@@ -48955,32 +48947,32 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>Para librarse de una multa, Emma dice que es la novia de Ángel, el guardia. Pero Ángel se entera de su mentira y decide que va a pagárselas todas juntas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929042619 +0200" stop="20260929060643 +0200">
+  <programme channel="lol-espana" start="20260929042619 +0200" stop="20260929060642 +0200">
     <title>S08 : E36 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929060644 +0200" stop="20260929063646 +0200">
+  <programme channel="lol-espana" start="20260929060643 +0200" stop="20260929063645 +0200">
     <title>S03 : E01 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther y Andreu están a punto de ir de viaje de novios, pero la tienen que suspender porque Silvia tiene un accidente en casa y queda inconsciente.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929063647 +0200" stop="20260929070440 +0200">
+  <programme channel="lol-espana" start="20260929063646 +0200" stop="20260929070439 +0200">
     <title>S03 : E02 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Diana decide alquilar una habitación de su piso porque corta de euros y coge el primer inquilino que pasa: un hombre joven, que no habla y lleva una bolsa de deporte llena de cuchillos</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929070441 +0200" stop="20260929073740 +0200">
+  <programme channel="lol-espana" start="20260929070440 +0200" stop="20260929073740 +0200">
     <title>S03 : E03 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Una fuga en una tubería deja sin agua el piso de las chicas durante varios días.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929073741 +0200" stop="20260929081426 +0200">
+  <programme channel="lol-espana" start="20260929073741 +0200" stop="20260929081425 +0200">
     <title>S03 : E04 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla y Silvia tienen diarreas por culpa de algo en mal estado que comieron.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929081427 +0200" stop="20260929084652 +0200">
+  <programme channel="lol-espana" start="20260929081426 +0200" stop="20260929084652 +0200">
     <title>S03 : E06 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Desde que Esther ha ido de casa para vivir con Andreu las chicas más justas que nunca.</desc>
@@ -48990,12 +48982,12 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Jet Lag</sub-title>
     <desc>Esther va de parte y todo el mundo debe ponerse a su disposición. Carla y Silvia son las encargadas de comprarle la canastilla.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929091842 +0200" stop="20260929095253 +0200">
+  <programme channel="lol-espana" start="20260929091842 +0200" stop="20260929095252 +0200">
     <title>S03 : E08 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia, Diana y Andreu deciden hacerse millonarios, y la manera más fácil desde su punto de vista es haciendo una quiniela.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929095254 +0200" stop="20260929102454 +0200">
+  <programme channel="lol-espana" start="20260929095253 +0200" stop="20260929102454 +0200">
     <title>S03 : E09 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla sale con un hombre separado que tiene un hijo y empieza a descubrir que los niños le gustan más de lo que ella pensaba. Por su parte Mariona quiere convencer Silvia ponerse ambas un piercing.</desc>
@@ -49005,12 +48997,12 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Jet Lag</sub-title>
     <desc>Las chicas están hartas de hacer lo mismo cada fin de semana, pero gracias a Silvia, este fin de semana el pasarán en una masía donde podrán disfrutar de la vida en la montaña.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929105658 +0200" stop="20260929113359 +0200">
+  <programme channel="lol-espana" start="20260929105658 +0200" stop="20260929113358 +0200">
     <title>S03 : E11 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla recibe una visita inesperada: su padre. Después de estar años sin verse el padre le dice que le queda poco tiempo para estar con ella.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929113400 +0200" stop="20260929121213 +0200">
+  <programme channel="lol-espana" start="20260929113359 +0200" stop="20260929121213 +0200">
     <title>S03 : E13 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>A Carla le ofrecen el trabajo de su vida en Nueva York y la acepta. Cada vez son menos chicas en el piso y hacen una cena de despedida de Carla.</desc>
@@ -49020,27 +49012,27 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929131053 +0200" stop="20260929140948 +0200">
+  <programme channel="lol-espana" start="20260929131053 +0200" stop="20260929140947 +0200">
     <title>S12 : E12 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929140949 +0200" stop="20260929151053 +0200">
+  <programme channel="lol-espana" start="20260929140948 +0200" stop="20260929151053 +0200">
     <title>S12 : E13 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929151054 +0200" stop="20260929161155 +0200">
+  <programme channel="lol-espana" start="20260929151054 +0200" stop="20260929161154 +0200">
     <title>S12 : E14 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929161156 +0200" stop="20260929164522 +0200">
+  <programme channel="lol-espana" start="20260929161155 +0200" stop="20260929164521 +0200">
     <title>S01 : E28 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>¡Qué bonita es la Navidad! El pesebre, el árbol, los regalos, los villancicos, la familia... y las peleas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929164523 +0200" stop="20260929171454 +0200">
+  <programme channel="lol-espana" start="20260929164522 +0200" stop="20260929171454 +0200">
     <title>S01 : E29 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>En este capítulo se descubre quienes son "realmente" los actores que dan vida a los personajes de la serie. Asistimos a la representación de lo que es una grabación en plató de uno de los capítulos y podemos ver a David haciendo de Joel Joan, a López haciendo de Jordi Sánchez, etc.</desc>
@@ -49065,12 +49057,12 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>Emma presenta una amiga suya, Lola, a David y éste se queda embobado. Con la ayuda de Carbonell monta una fiesta en el piso para poder invitarla. Por otro lado, a López le cae un "encargo" de sus jefes de la radio: hacer de canguro de su hijo. La fiesta será el punto de encuentro para sorpresa de uno y enfado del otro.</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929193120 +0200" stop="20260929200146 +0200">
+  <programme channel="lol-espana" start="20260929193120 +0200" stop="20260929200145 +0200">
     <title>S01 : E36 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David y Marina ya salen juntos y están muy enamorados. Los amigos de David no entienden esta relación (Marina es tan interesante...).</desc>
   </programme>
-  <programme channel="lol-espana" start="20260929200147 +0200" stop="20260929203409 +0200">
+  <programme channel="lol-espana" start="20260929200146 +0200" stop="20260929203409 +0200">
     <title>S01 : E37 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López se encuentra casualmente con un antiguo amigo que ahora es manager musical. Para recordar los viejos tiempos, éste le propone relanzar su carrera de "rumbero" juvenil.</desc>
