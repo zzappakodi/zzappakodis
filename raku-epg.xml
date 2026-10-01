@@ -96,10 +96,6 @@
     <display-name lang="es">El Conquistador</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/3779a116-fc8f-4720-8656-1a8eef566691.jpeg"/>
   </channel>
-  <channel id="cops-en-espanol">
-    <display-name lang="es">Cops En Español</display-name>
-    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ba80c0fa-a357-4a50-927b-12e34ad75737.jpeg"/>
-  </channel>
   <channel id="jade-fever-es">
     <display-name lang="es">La fiebre del jade</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4223433c-d101-452c-aced-2453b33d3126.jpeg"/>
@@ -479,6 +475,10 @@
   <channel id="top-movies-rakuten-tv">
     <display-name lang="es">Pelis Top - Rakuten TV</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg"/>
+  </channel>
+  <channel id="cops-en-espanol">
+    <display-name lang="es">Cops En Espanol</display-name>
+    <icon src="https://images.rakuten.tv/channels/cops-en-espanol.png"/>
   </channel>
   <channel id="stingray-hit-list">
     <display-name lang="es">Stingray Hit List</display-name>
@@ -14332,1226 +14332,6 @@
     <title>S20 : E10 El Conquistador del Fin del Mundo - El Conquistador del Fin del Mundo</title>
     <sub-title>El Conquistador del Fin del Mundo</sub-title>
     <desc>El episodio arranca con el juego de inmunidad "Aizkokaris": cada equipo debe talar un árbol, cortar un tronco a medida y elevarlo. Los Piches (azules) se imponen con gran protagonismo de Lobo, mientras los Cóndores (verdes) pierden.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20260930235827 +0200" stop="20261001002107 +0200">
-    <title>S30 : E15 Falsos amigos - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales atrapan a un hombre en una operación encubierta, pero aun así no admite su crimen.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001002112 +0200" stop="20261001004452 +0200">
-    <title>S30 : E16 Dónde esconderse - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>El tiempo es indispensable cuando los oficiales intentan atrapar a un sospechoso por robo de vehículo armado.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001004457 +0200" stop="20261001010907 +0200">
-    <title>S30 : E17 Cargado y en marcha - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Alguien con un corazón roto maneja peligrosamente intentando escapar de la policía y de su pena.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001010913 +0200" stop="20261001013253 +0200">
-    <title>S30 : E18 No es nada personal - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Es como una especie de reunión cuando la policía alcanza a alguien que reconoce.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001013258 +0200" stop="20261001015638 +0200">
-    <title>S30 : E19 Correr y disparar - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre buscado por la ley huye y la policía lo persigue manteniéndose muy de cerca.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001015643 +0200" stop="20261001022023 +0200">
-    <title>S30 : E20 Enfrentar la música - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se ven obligados a usar guantes cuando detienen a un sospechoso con condición grave de la piel.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001022029 +0200" stop="20261001024409 +0200">
-    <title>S30 : E21 Gato miedoso - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía somete a un hombre poco predecible que está convencido de que un animal salvaje lo está siguiendo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001024414 +0200" stop="20261001030754 +0200">
-    <title>S30 : E22 Dinero falso y látigo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un barrio tranquilo se convierte en el escenario de una peligrosa persecución entre varios carros. Un sujeto cuenta con mala suerte y trata de ocultar su culpabilidad al deshacerse de algunas prendas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001030759 +0200" stop="20261001033209 +0200">
-    <title>S30 : E23 Sólo postres - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso deja su helado sin comenzar a comerlo cuando le encuentran más que golosinas en su bolsillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001033215 +0200" stop="20261001035555 +0200">
-    <title>S30 : E24 Comprador nocturno - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un vecino vigilante llama a la policía cuando ve que están robando en la licorería de abajo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001035600 +0200" stop="20261001042010 +0200">
-    <title>S30 : E25 Abrazarte - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía busca la bicicleta robada de un joven y encuentran a un hombre deshecho pasando un mal tiempo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001042016 +0200" stop="20261001044426 +0200">
-    <title>S30 : E26 El fugitivo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un ciclista casi desnudo provoca una carrera loca por toda la vecindad cuando los oficiales corren tras de él.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001044431 +0200" stop="20261001050841 +0200">
-    <title>S30 : E27 ¿De quién es el arma? - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>A un hombre con grandes aspiraciones se le dificulta explicar por qué sus huellas están en un arma.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001050847 +0200" stop="20261001053257 +0200">
-    <title>S30 : E28 Oveja negra - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un pollero tiene una explicación poco clara de los objetos descubiertos en su carro.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001053302 +0200" stop="20261001055712 +0200">
-    <title>S30 : E29 Magia - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se sospecha que un hombre conduce ebrio, y él dice que sólo salió a comprar un bocadillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001055717 +0200" stop="20261001062057 +0200">
-    <title>S30 : E30 Cambio de corazón - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mamá joven con problemas tiene una segunda oportunidad para rehacer su vida.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001062103 +0200" stop="20261001064513 +0200">
-    <title>S30 : E31 Beso y maquillaje - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre nervioso que conduce no logra evadir a la policía y se disculpa raramente con su novia.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001064518 +0200" stop="20261001070858 +0200">
-    <title>S30 : E32 Mejilla a mejilla - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se captura en video a un hombre escondiendo artículos en un lugar no muy bueno.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001070904 +0200" stop="20261001073114 +0200">
-    <title>S30 : E33 En humo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>El último esfuerzo de un hombre desesperado para huir de los oficiales termina en llamas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001073119 +0200" stop="20261001075458 +0200">
-    <title>S31 : E01 Sentir el calor - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se asombran con la elección de vestimenta de un presunto pirómano, o más bien la falta de ropa.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001075503 +0200" stop="20261001081913 +0200">
-    <title>S31 : E02 En ninguna parte - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>A un sospechoso poco astuto se le desmiente cuando su víctima presenta video de una cámara de seguridad.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001081919 +0200" stop="20261001084329 +0200">
-    <title>S31 : E03 Claves del éxito - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales animan a una mujer que quiere control sobre su vida con una plática que llega al alma.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001084334 +0200" stop="20261001090744 +0200">
-    <title>S31 : E04 Negación - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un esposo amargado tiene una reacción negativa cuando su esposa descubre sus actividades en el internet.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001090749 +0200" stop="20261001093129 +0200">
-    <title>S31 : E05 Baño relámpago - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>El caos sigue después de que el gerente del club nocturno enfrenta al empleado quien robó su dinero.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001093135 +0200" stop="20261001095514 +0200">
-    <title>S31 : E06 Los hechos de la vida - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un ladrón conocido acaba con la buena voluntad de la policía al ser encontrado con bienes robados.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001095519 +0200" stop="20261001101858 +0200">
-    <title>S31 : E07 Compañía de los tres - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un entrometido compañero de casa es mala influencia e impide a la pareja casada dejar atrás sus malos hábitos.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001101903 +0200" stop="20261001104243 +0200">
-    <title>S31 : E08 Por la ventana - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un incendio en la cocina rápidamente expande por toda la casa y deja a un hombre atrapado en el último piso.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001104249 +0200" stop="20261001110659 +0200">
-    <title>S31 : E09 Goma quemada - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Varios intentos para detener a un vehículo fugitivo al final valen la pena.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001110704 +0200" stop="20261001113044 +0200">
-    <title>S31 : E10 Poner fin al ciclo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se decepcionan una vez más cuando se topan con una persona que vuelve a infringir la ley.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001113049 +0200" stop="20261001115459 +0200">
-    <title>S31 : E11 Pase de autobús - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los problemas matrimoniales se descontrolan cuando un marido recoge a su esposa de la cárcel.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001115505 +0200" stop="20261001121915 +0200">
-    <title>S31 : E12 Lento y bajo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso lento y perezoso se rinde cuando se da cuenta de que no puede escapar de la ley.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001121920 +0200" stop="20261001124330 +0200">
-    <title>S31 : E13 Rodar y robar - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Es mentira tras mentira cuando los oficiales alcanzan a un ladrón de tiendas que habla mucho.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001124335 +0200" stop="20261001130715 +0200">
-    <title>S31 : E14 Completos extraños - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La pasajera de un auto en persecución caótica jura que no conoce al chofer, pero sus registros la desmienten.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001130721 +0200" stop="20261001133101 +0200">
-    <title>S31 : E15 A plena vista - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una cuestionable cita de pareja termina con el volcamiento de un automóvil y ambos esposados.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001133106 +0200" stop="20261001135516 +0200">
-    <title>S31 : E16 Problemas inventados - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía recurre al análisis forense cuando dos sospechosos niegan ser dueños de un paquete de cigarrillos.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001135521 +0200" stop="20261001141931 +0200">
-    <title>S31 : E17 Sincerarse - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre angustiado quiere confrontar a su esposa por sus acusaciones atrevidas y graves.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001141937 +0200" stop="20261001144317 +0200">
-    <title>S31 : E18 Manicura para un corazón roto - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer excéntrica comete una violación a las normas de tránsito mientras se dirige al salón de belleza.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001144322 +0200" stop="20261001150732 +0200">
-    <title>S31 : E19 ¿Cuál es mi edad de nuevo? - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una conductora se mete en graves problemas por no saber contar.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001150738 +0200" stop="20261001153148 +0200">
-    <title>S31 : E20 No en mi patio trasero - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una pelea insignificante entre vecinos intensifica cuando uno recurre a la venganza.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001153153 +0200" stop="20261001155603 +0200">
-    <title>S31 : E21 Fórmula para el desastre - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre angustiado no puede soportar más a su relación volátil con su novia.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001155608 +0200" stop="20261001162018 +0200">
-    <title>S31 : E22 Bueno al volante - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se asombran cuando encuentran en el asiento trasero al hijo del conductor que chocó y se fugó.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001162024 +0200" stop="20261001164434 +0200">
-    <title>S31 : E23 Mentiras piadosas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre ingenuo se mete en una situación peligrosa cuando trata de ganar dinero fácil.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001164439 +0200" stop="20261001170819 +0200">
-    <title>S31 : E24 Bajo mi pulgar - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una pelea domestica entre primos se descontrola cuando alguien saca un cuchillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001170825 +0200" stop="20261001173235 +0200">
-    <title>S31 : E25 Lleva un palo grande - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre violento amenaza a sus vecinos y luego lanza su ira hacia los oficiales.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001173240 +0200" stop="20261001175650 +0200">
-    <title>S31 : E26 Azúcar y especias - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre se niega a dar su verdadero nombre, pero los oficiales encuentran una pista a plena vista.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001175655 +0200" stop="20261001182105 +0200">
-    <title>S31 : E27 Mujer arrinconada - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer buscada por la ley da un nombre falso a los oficiales, pero su hermano revela la verdad sin querer.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001182111 +0200" stop="20261001184451 +0200">
-    <title>S31 : E28 Vidriado y confundido - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un ciclista desafiante recuerda una versión diferente de lo ocurrido antes de que lo arrestaran.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001184456 +0200" stop="20261001190836 +0200">
-    <title>S31 : E29 Volverse loco - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer excéntrica acusa a un hombre de querer robarle el pelo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001190841 +0200" stop="20261001193051 +0200">
-    <title>S31 : E30 El mensaje soplón - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso de asalto despierta toscamente con un mensaje de voz que prueba su culpabilidad.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001193057 +0200" stop="20261001195507 +0200">
-    <title>S31 : E31 Triple amenaza - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una discusión fuerte se agranda y pasa a mayores cuando una mujer comienza a quebrar ventanas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001195512 +0200" stop="20261001201922 +0200">
-    <title>S31 : E32 Objetos perdidos - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una familia se llena de alegría cuando un oficial recupera de forma segura a su cachorro robado.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001201927 +0200" stop="20261001204337 +0200">
-    <title>S31 : E33 Todo en la familia - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una lucha frenética entre hermanos enfurecidos termina con un apuñalamiento.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001204342 +0200" stop="20261001210752 +0200">
-    <title>S32 : E01 Huellas de mis lágrimas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer en libertad condicional se estresa y asusta cuando se da cuenta de lo que hay en su automóvil.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001210758 +0200" stop="20261001213208 +0200">
-    <title>S32 : E02 Onza de confianza - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La dueña de una tienda se asombra cuando un delincuente fugitivo se esconde en su tienda.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001213213 +0200" stop="20261001215623 +0200">
-    <title>S32 : E03 Figura paterna - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre con un pasado delictivo jura mejorar por su hijo pequeño.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001215628 +0200" stop="20261001221908 +0200">
-    <title>S32 : E04 Como lo veas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un entregador de pizza con mala suerte llama a la policía después de que le roban.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001221913 +0200" stop="20261001224323 +0200">
-    <title>S32 : E05 ¡No valla es mía! - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales reaccionan rápidamente y capturan a un sospechoso con antecedentes por el robo de identidad.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001224329 +0200" stop="20261001230625 +0200">
-    <title>S32 : E06 Camión loco - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Hay chispas por todas partes cundo un camionero se fuga en alta velocidad con su familia dentro.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001230630 +0200" stop="20261001233056 +0200">
-    <title>S32 : E07 Mamá te ama - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una madre protectora intenta esconder a su hija de los policías y las consecuencias. Un conductor de transporte compartido es detenido cuando su pasajero levanta las sospechas de los oficiales.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001233101 +0200" stop="20261001235457 +0200">
-    <title>S32 : E08 Enrojecido - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se reporta una pelea y cuando llegan los policías encuentran evidencia de una discusión sangrienta.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261001235502 +0200" stop="20261002001858 +0200">
-    <title>S32 : E09 Sin aliento - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso de robo buscado por la ley se cansa y rinde después de saltar demasiadas bardas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002001904 +0200" stop="20261002004300 +0200">
-    <title>S32 : E10 Error en el asiento delantero - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un pasajero sin coordinación en un automóvil atrae la atención de la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002004305 +0200" stop="20261002010701 +0200">
-    <title>S32 : E11 Una pizca de sal - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los condimentos que escoge un hombre levantan una alerta roja y sospechas a la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002010706 +0200" stop="20261002013102 +0200">
-    <title>S32 : E12 Orientación parental - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>De mala suerte una familia despierta abruptamente cuando un conductor ebrio se estrella en su casa.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002013107 +0200" stop="20261002015503 +0200">
-    <title>S32 : E13 Lidiar con los problemas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un conductor medio vacilón hace bromas para minimizar y quitarle importancia a su error.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002015509 +0200" stop="20261002021835 +0200">
-    <title>S32 : E14 Arrepentimiento instantáneo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un motociclista arrepentido y apenado casi se mata después de estrellarse en una carretera oscura.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002021840 +0200" stop="20261002024220 +0200">
-    <title>S30 : E21 Gato miedoso - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía somete a un hombre poco predecible que está convencido de que un animal salvaje lo está siguiendo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002024225 +0200" stop="20261002030605 +0200">
-    <title>S30 : E22 Dinero falso y látigo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un barrio tranquilo se convierte en el escenario de una peligrosa persecución entre varios carros. Un sujeto cuenta con mala suerte y trata de ocultar su culpabilidad al deshacerse de algunas prendas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002030611 +0200" stop="20261002033021 +0200">
-    <title>S30 : E23 Sólo postres - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso deja su helado sin comenzar a comerlo cuando le encuentran más que golosinas en su bolsillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002033026 +0200" stop="20261002035406 +0200">
-    <title>S30 : E24 Comprador nocturno - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un vecino vigilante llama a la policía cuando ve que están robando en la licorería de abajo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002035412 +0200" stop="20261002041822 +0200">
-    <title>S30 : E25 Abrazarte - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía busca la bicicleta robada de un joven y encuentran a un hombre deshecho pasando un mal tiempo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002041827 +0200" stop="20261002044237 +0200">
-    <title>S30 : E26 El fugitivo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un ciclista casi desnudo provoca una carrera loca por toda la vecindad cuando los oficiales corren tras de él.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002044242 +0200" stop="20261002050652 +0200">
-    <title>S30 : E27 ¿De quién es el arma? - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>A un hombre con grandes aspiraciones se le dificulta explicar por qué sus huellas están en un arma.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002050658 +0200" stop="20261002053108 +0200">
-    <title>S30 : E28 Oveja negra - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un pollero tiene una explicación poco clara de los objetos descubiertos en su carro.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002053113 +0200" stop="20261002055523 +0200">
-    <title>S30 : E29 Magia - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se sospecha que un hombre conduce ebrio, y él dice que sólo salió a comprar un bocadillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002055528 +0200" stop="20261002061908 +0200">
-    <title>S30 : E30 Cambio de corazón - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mamá joven con problemas tiene una segunda oportunidad para rehacer su vida.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002061914 +0200" stop="20261002064324 +0200">
-    <title>S30 : E31 Beso y maquillaje - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre nervioso que conduce no logra evadir a la policía y se disculpa raramente con su novia.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002064329 +0200" stop="20261002070709 +0200">
-    <title>S30 : E32 Mejilla a mejilla - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se captura en video a un hombre escondiendo artículos en un lugar no muy bueno.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002070715 +0200" stop="20261002072925 +0200">
-    <title>S30 : E33 En humo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>El último esfuerzo de un hombre desesperado para huir de los oficiales termina en llamas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002072930 +0200" stop="20261002075309 +0200">
-    <title>S31 : E01 Sentir el calor - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se asombran con la elección de vestimenta de un presunto pirómano, o más bien la falta de ropa.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002075314 +0200" stop="20261002081724 +0200">
-    <title>S31 : E02 En ninguna parte - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>A un sospechoso poco astuto se le desmiente cuando su víctima presenta video de una cámara de seguridad.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002081730 +0200" stop="20261002084140 +0200">
-    <title>S31 : E03 Claves del éxito - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales animan a una mujer que quiere control sobre su vida con una plática que llega al alma.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002084145 +0200" stop="20261002090555 +0200">
-    <title>S31 : E04 Negación - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un esposo amargado tiene una reacción negativa cuando su esposa descubre sus actividades en el internet.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002090601 +0200" stop="20261002092941 +0200">
-    <title>S31 : E05 Baño relámpago - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>El caos sigue después de que el gerente del club nocturno enfrenta al empleado quien robó su dinero.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002092946 +0200" stop="20261002095325 +0200">
-    <title>S31 : E06 Los hechos de la vida - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un ladrón conocido acaba con la buena voluntad de la policía al ser encontrado con bienes robados.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002095330 +0200" stop="20261002101709 +0200">
-    <title>S31 : E07 Compañía de los tres - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un entrometido compañero de casa es mala influencia e impide a la pareja casada dejar atrás sus malos hábitos.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002101714 +0200" stop="20261002104054 +0200">
-    <title>S31 : E08 Por la ventana - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un incendio en la cocina rápidamente expande por toda la casa y deja a un hombre atrapado en el último piso.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002104100 +0200" stop="20261002110510 +0200">
-    <title>S31 : E09 Goma quemada - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Varios intentos para detener a un vehículo fugitivo al final valen la pena.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002110515 +0200" stop="20261002112855 +0200">
-    <title>S31 : E10 Poner fin al ciclo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se decepcionan una vez más cuando se topan con una persona que vuelve a infringir la ley.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002112900 +0200" stop="20261002115310 +0200">
-    <title>S31 : E11 Pase de autobús - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los problemas matrimoniales se descontrolan cuando un marido recoge a su esposa de la cárcel.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002115316 +0200" stop="20261002121726 +0200">
-    <title>S31 : E12 Lento y bajo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso lento y perezoso se rinde cuando se da cuenta de que no puede escapar de la ley.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002121731 +0200" stop="20261002124141 +0200">
-    <title>S31 : E13 Rodar y robar - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Es mentira tras mentira cuando los oficiales alcanzan a un ladrón de tiendas que habla mucho.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002124147 +0200" stop="20261002130527 +0200">
-    <title>S31 : E14 Completos extraños - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La pasajera de un auto en persecución caótica jura que no conoce al chofer, pero sus registros la desmienten.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002130532 +0200" stop="20261002132912 +0200">
-    <title>S31 : E15 A plena vista - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una cuestionable cita de pareja termina con el volcamiento de un automóvil y ambos esposados.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002132917 +0200" stop="20261002135327 +0200">
-    <title>S31 : E16 Problemas inventados - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía recurre al análisis forense cuando dos sospechosos niegan ser dueños de un paquete de cigarrillos.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002135333 +0200" stop="20261002141743 +0200">
-    <title>S31 : E17 Sincerarse - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre angustiado quiere confrontar a su esposa por sus acusaciones atrevidas y graves.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002141748 +0200" stop="20261002144128 +0200">
-    <title>S31 : E18 Manicura para un corazón roto - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer excéntrica comete una violación a las normas de tránsito mientras se dirige al salón de belleza.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002144133 +0200" stop="20261002150543 +0200">
-    <title>S31 : E19 ¿Cuál es mi edad de nuevo? - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una conductora se mete en graves problemas por no saber contar.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002150549 +0200" stop="20261002152959 +0200">
-    <title>S31 : E20 No en mi patio trasero - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una pelea insignificante entre vecinos intensifica cuando uno recurre a la venganza.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002153004 +0200" stop="20261002155414 +0200">
-    <title>S31 : E21 Fórmula para el desastre - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre angustiado no puede soportar más a su relación volátil con su novia.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002155419 +0200" stop="20261002161829 +0200">
-    <title>S31 : E22 Bueno al volante - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se asombran cuando encuentran en el asiento trasero al hijo del conductor que chocó y se fugó.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002161835 +0200" stop="20261002164245 +0200">
-    <title>S31 : E23 Mentiras piadosas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre ingenuo se mete en una situación peligrosa cuando trata de ganar dinero fácil.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002164250 +0200" stop="20261002170630 +0200">
-    <title>S31 : E24 Bajo mi pulgar - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una pelea domestica entre primos se descontrola cuando alguien saca un cuchillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002170636 +0200" stop="20261002173046 +0200">
-    <title>S31 : E25 Lleva un palo grande - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre violento amenaza a sus vecinos y luego lanza su ira hacia los oficiales.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002173051 +0200" stop="20261002175501 +0200">
-    <title>S31 : E26 Azúcar y especias - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre se niega a dar su verdadero nombre, pero los oficiales encuentran una pista a plena vista.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002175506 +0200" stop="20261002181916 +0200">
-    <title>S31 : E27 Mujer arrinconada - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer buscada por la ley da un nombre falso a los oficiales, pero su hermano revela la verdad sin querer.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002181922 +0200" stop="20261002184302 +0200">
-    <title>S31 : E28 Vidriado y confundido - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un ciclista desafiante recuerda una versión diferente de lo ocurrido antes de que lo arrestaran.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002184307 +0200" stop="20261002190647 +0200">
-    <title>S31 : E29 Volverse loco - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer excéntrica acusa a un hombre de querer robarle el pelo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002190653 +0200" stop="20261002192903 +0200">
-    <title>S31 : E30 El mensaje soplón - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso de asalto despierta toscamente con un mensaje de voz que prueba su culpabilidad.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002192908 +0200" stop="20261002195318 +0200">
-    <title>S31 : E31 Triple amenaza - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una discusión fuerte se agranda y pasa a mayores cuando una mujer comienza a quebrar ventanas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002195323 +0200" stop="20261002201733 +0200">
-    <title>S31 : E32 Objetos perdidos - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una familia se llena de alegría cuando un oficial recupera de forma segura a su cachorro robado.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002201738 +0200" stop="20261002204148 +0200">
-    <title>S31 : E33 Todo en la familia - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una lucha frenética entre hermanos enfurecidos termina con un apuñalamiento.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002204154 +0200" stop="20261002210604 +0200">
-    <title>S32 : E01 Huellas de mis lágrimas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer en libertad condicional se estresa y asusta cuando se da cuenta de lo que hay en su automóvil.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002210609 +0200" stop="20261002213019 +0200">
-    <title>S32 : E02 Onza de confianza - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La dueña de una tienda se asombra cuando un delincuente fugitivo se esconde en su tienda.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002213024 +0200" stop="20261002215434 +0200">
-    <title>S32 : E03 Figura paterna - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre con un pasado delictivo jura mejorar por su hijo pequeño.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002215439 +0200" stop="20261002221719 +0200">
-    <title>S32 : E04 Como lo veas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un entregador de pizza con mala suerte llama a la policía después de que le roban.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002221725 +0200" stop="20261002224135 +0200">
-    <title>S32 : E05 ¡No valla es mía! - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales reaccionan rápidamente y capturan a un sospechoso con antecedentes por el robo de identidad.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002224140 +0200" stop="20261002230436 +0200">
-    <title>S32 : E06 Camión loco - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Hay chispas por todas partes cundo un camionero se fuga en alta velocidad con su familia dentro.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002230441 +0200" stop="20261002232907 +0200">
-    <title>S32 : E07 Mamá te ama - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una madre protectora intenta esconder a su hija de los policías y las consecuencias. Un conductor de transporte compartido es detenido cuando su pasajero levanta las sospechas de los oficiales.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002232912 +0200" stop="20261002235308 +0200">
-    <title>S32 : E08 Enrojecido - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se reporta una pelea y cuando llegan los policías encuentran evidencia de una discusión sangrienta.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261002235314 +0200" stop="20261003001710 +0200">
-    <title>S32 : E09 Sin aliento - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso de robo buscado por la ley se cansa y rinde después de saltar demasiadas bardas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003001715 +0200" stop="20261003004111 +0200">
-    <title>S32 : E10 Error en el asiento delantero - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un pasajero sin coordinación en un automóvil atrae la atención de la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003004116 +0200" stop="20261003010512 +0200">
-    <title>S32 : E11 Una pizca de sal - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los condimentos que escoge un hombre levantan una alerta roja y sospechas a la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003010517 +0200" stop="20261003012913 +0200">
-    <title>S32 : E12 Orientación parental - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>De mala suerte una familia despierta abruptamente cuando un conductor ebrio se estrella en su casa.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003012919 +0200" stop="20261003015315 +0200">
-    <title>S32 : E13 Lidiar con los problemas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un conductor medio vacilón hace bromas para minimizar y quitarle importancia a su error.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003015320 +0200" stop="20261003021646 +0200">
-    <title>S32 : E14 Arrepentimiento instantáneo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un motociclista arrepentido y apenado casi se mata después de estrellarse en una carretera oscura.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003021651 +0200" stop="20261003023916 +0200">
-    <title>S27 : E33 Cuidado con lo que pides - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre furioso le ruega a la policía que le dispare.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003023921 +0200" stop="20261003030131 +0200">
-    <title>S28 : E01 Como gatos y perros - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un intruso en propiedad privada armado usa a un cachorro como escudo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003030137 +0200" stop="20261003032347 +0200">
-    <title>S28 : E02 Sentado en la oscuridad - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se atrapa a un sospechoso que intenta huir escondiéndose en un lugar obvio.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003032352 +0200" stop="20261003034602 +0200">
-    <title>S28 : E03 El juego de la culpa - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso culpa a un extraño por lo que hay en su billetera.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003034607 +0200" stop="20261003040817 +0200">
-    <title>S28 : E04 Amor fraternal - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La mamá de dos hombres llama a la policía cuando uno de ellos amenaza al otro con un cuchillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003040823 +0200" stop="20261003043033 +0200">
-    <title>S28 : E05 Es mi parrilla - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una tía enojada trata, pero no logra desalojar al sobrino y a su novia embarazada.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003043038 +0200" stop="20261003045248 +0200">
-    <title>S28 : E06 Conducir y correr - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre corre a través de una ducha para no ser rastreado por la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003045253 +0200" stop="20261003051503 +0200">
-    <title>S28 : E07 Como uña y carne - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía persigue a un par de ladrones de autos por la ciudad y hacia los arbustos.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003051509 +0200" stop="20261003053719 +0200">
-    <title>S28 : E08 La promesa - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una joven mujer intenta evadir la cárcel haciendo promesas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003053724 +0200" stop="20261003055934 +0200">
-    <title>S28 : E09 Callejón sin salida - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso se arriesga en un barranco después de que él y los oficiales llegan a donde ya no hay salida.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003055939 +0200" stop="20261003062149 +0200">
-    <title>S28 : E10 Cuatro delitos graves y un pinchazo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Para conseguir la atención de un conductor despistado, la policía se ve obligada a desactivar su auto.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003062154 +0200" stop="20261003064404 +0200">
-    <title>S28 : E11 Fiesta de pantalones - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Cuando se interroga a un grupo peculiar de personas, rápidamente se echan la culpa unos a otros.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003064410 +0200" stop="20261003070620 +0200">
-    <title>S28 : E12 Movimiento suave - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un presunto ladrón de cobre se hace el tonto cuando los policías lo alcanzan.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003070625 +0200" stop="20261003072835 +0200">
-    <title>S28 : E13 Camino a la cárcel - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un motociclista le da el nombre de su hermano a los oficiales con la esperanza de no ir a la cárcel.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003072840 +0200" stop="20261003075050 +0200">
-    <title>S28 : E14 Tipos deshonestos - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía encuentra a un hombre sospechosamente sudado en una calle oscura que esta para dar miedo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003075055 +0200" stop="20261003081305 +0200">
-    <title>S28 : E15 Luchas por perder - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre extremadamente peleonero se niega a rendirse a los oficiales.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003081310 +0200" stop="20261003083520 +0200">
-    <title>S28 : E16 Mamá todavía te ama a ti - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Hay muchos sentimientos encontrados cuando una mamá enfrenta a su hijo esposado.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003083526 +0200" stop="20261003085736 +0200">
-    <title>S28 : E17 Los jóvenes y los imprudentes" - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un joven es obligado a ponerse a trabajar después de cometer un error muy caro.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003085741 +0200" stop="20261003091951 +0200">
-    <title>S28 : E18 Demasiados cocineros - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una discusión durante la cena termina con una llamada a la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003091956 +0200" stop="20261003094206 +0200">
-    <title>S28 : E19 Por segunda vez - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se llevan una sorpresa cuando reconocen a un delincuente reincidente.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003094211 +0200" stop="20261003100421 +0200">
-    <title>S28 : E20 Fiesta en una caja - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un tipo sospechoso acusa a los policías de ser un grupo del cual no se puede confiar.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003100426 +0200" stop="20261003102636 +0200">
-    <title>S28 : E21 En el arbusto - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales hacen todo lo que pueden para obtener la verdad de un par de sospechosos evasivos.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003102642 +0200" stop="20261003104852 +0200">
-    <title>S28 : E22 Innegablemente sospechoso - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una joven pareja en un coche estacionado le parece sospechosa a los policías.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003104857 +0200" stop="20261003111107 +0200">
-    <title>S28 : E23 Aquí no hay nada que ver - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se pone rara la situación cuando un hombre agitado trata de revelar todo a la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003111112 +0200" stop="20261003113322 +0200">
-    <title>S28 : E24 Amigos de la biblia - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un joven provoca una persecución peligrosa, pero no enseña ni un poco de remordimiento cuando lo capturan.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003113328 +0200" stop="20261003115538 +0200">
-    <title>S28 : E25 Temblando como un mezclador de pintura - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una persecución de auto termina con una llamada a los paramédicos.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003115543 +0200" stop="20261003121753 +0200">
-    <title>S28 : E26 Un mal amor - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Malas decisiones en un estacionamiento inspiran un momento de aprendizaje sobre la vida.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003121758 +0200" stop="20261003124008 +0200">
-    <title>S28 : E27 No llores sobre la leche derramada - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una pelea sobre un poco de leche toma un giro violento.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003124013 +0200" stop="20261003130223 +0200">
-    <title>S28 : E28 Delito en la puerta principal - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un buen ciudadano observa que dos personas quieren robar el correo, y el los impide.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003130229 +0200" stop="20261003132439 +0200">
-    <title>S28 : E29 ¿Qué hay en la caja? - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una pelea entre pareja llama la atención y los oficiales descubren una orden judicial que está pendiente.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003132444 +0200" stop="20261003134654 +0200">
-    <title>S28 : E30 Problema en el paraiso - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales hacen todo lo que pueden para resolver un conflicto entre recién casados.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003134659 +0200" stop="20261003140909 +0200">
-    <title>S28 : E31 Robo de autos - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los agentes detienen a varios sospechosos después de ubicar a un par de vehículos robados.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003140914 +0200" stop="20261003143124 +0200">
-    <title>S28 : E32 Sin casco no puede manejar - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La falta de equipo de seguridad llama la atención y es causa para una infracción.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003143130 +0200" stop="20261003145340 +0200">
-    <title>S28 : E33 Un camino esquistio - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un policía muy pronto comprende que se le va a dificultar interrogar a una mujer evasiva.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003145345 +0200" stop="20261003151555 +0200">
-    <title>S29 : E01 De sesenta a cero - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sujeto que lleva pocos días preso culpa a su mamá cuando la policía lo interroga sobre su pasado.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003151600 +0200" stop="20261003153810 +0200">
-    <title>S29 : E02 La primera llamada - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer en mal estado de nutrición hace una llamada para reportar que se siente rodeada de fantasmas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003153815 +0200" stop="20261003160025 +0200">
-    <title>S29 : E03 Patadas y gritos - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales sospechan de varias personas que se encuentran en el asiento trasero de un coche estacionado.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003160031 +0200" stop="20261003162241 +0200">
-    <title>S29 : E04 Emociones mezcladas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una pelea entre familia termina en una fuerte agresión causando daño físico y vuelan partes de cuerpo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003162246 +0200" stop="20261003164456 +0200">
-    <title>S29 : E05 Mejor seguro que arrepentido - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un oficial se ve obligado a tomar una decisión increíble cuando un hombre armado se niega a obedecer.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003164501 +0200" stop="20261003170711 +0200">
-    <title>S29 : E06 Dinero divertido - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales entran en una persecución y descubren una pista sobre el fugitivo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003170716 +0200" stop="20261003173056 +0200">
-    <title>S29 : E07 Pantalones abajo, golpe al suelo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Cuando un oficial responde a un disturbio, el sospechoso se delata inmediatamente.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003173102 +0200" stop="20261003175512 +0200">
-    <title>S29 : E08 Invasión británica - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre asustado trata de llamar la atención de los oficiales y toma un rumbo equivocado.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003175517 +0200" stop="20261003181927 +0200">
-    <title>S29 : E09 Un, dos, árbol - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una persecución a alta velocidad termina abruptamente cuando el sospechoso hace un giro equivocado.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003181933 +0200" stop="20261003184343 +0200">
-    <title>S29 : E10 Llamada al despertar - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un delincuente intenta convencer a la policía de que es una buena persona y de que no ha cometido un crimen.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003184348 +0200" stop="20261003190758 +0200">
-    <title>S29 : E11 Pasando el rato - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer asustada simplemente no logra mantener la calma mientras es detenida por la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003190803 +0200" stop="20261003193213 +0200">
-    <title>S29 : E12 Sácame de aca, jefe - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Las cosas empeoran para un conductor cuando su pasajero comienza a hablar.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003193219 +0200" stop="20261003195629 +0200">
-    <title>S29 : E13 Gracias por nada, mamá - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Cuando una madre prefiere a la violencia, la abuela llama a la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003195634 +0200" stop="20261003202014 +0200">
-    <title>S29 : E14 Despistado - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un retén común y corriente provoca que un oficial sospeche de dos ancianos de cometer una actividad criminal.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003202020 +0200" stop="20261003204400 +0200">
-    <title>S29 : E15 Crimen organizado - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Hay muchos sentimientos encontrados durante una pelea incluyendo alcohol y a una mascota.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003204405 +0200" stop="20261003210815 +0200">
-    <title>S29 : E16 Si no lo veo no lo creo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales descubren objetos interesantes en el vehículo de un padre de familia cuando hacen un registro.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003210820 +0200" stop="20261003213200 +0200">
-    <title>S29 : E17 Dos casas más abajo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre no sabe lo que le espera cuando trata de ayudar a su vecino.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003213206 +0200" stop="20261003215616 +0200">
-    <title>S29 : E18 Un faro - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre muy hábil se deshace de todos los altos y hace todo lo posible para evadir a la policía.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003215621 +0200" stop="20261003222001 +0200">
-    <title>S29 : E19 Entre la espada y la pared - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una persecución de vehículos a alta velocidad cambia de rumbo cuando el conductor huye a pie.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003222007 +0200" stop="20261003224417 +0200">
-    <title>S29 : E20 Lunes maniático - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un delincuente que se escapa de la cárcel busca refugio con su abuela.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003224422 +0200" stop="20261003230802 +0200">
-    <title>S29 : E21 Arma de frente, rifle en la parte trasera - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales encuentran a un hombre que dice padecer de un trastorno que causa que el corra y escape.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003230807 +0200" stop="20261003233147 +0200">
-    <title>S29 : E22 Tensión del momento - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un novio celoso le cuenta a la policía su versión de los hechos, pero no puede ceñirse a su historia.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003233152 +0200" stop="20261003235602 +0200">
-    <title>S29 : E23 Galletas y contrabando - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales encuentran una sorprendente variedad de objetos en el vehículo de un sospechoso.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261003235608 +0200" stop="20261004001948 +0200">
-    <title>S29 : E24 La noche es larga - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Cuando la policía cuestiona a un trío bastante interesante, se vuelve en asunto de dos contra uno.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004001953 +0200" stop="20261004004403 +0200">
-    <title>S29 : E25 Pelea en bikini - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre está convencido que si no fuera por su novia él se habría salido con la suya.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004004409 +0200" stop="20261004010819 +0200">
-    <title>S29 : E26 Un hombre sin plan - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un joven a la mala tiene que madurar y comprender cuando los oficiales lo encuentran infringiendo la ley.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004010824 +0200" stop="20261004013204 +0200">
-    <title>S29 : E27 La verdad es clave - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un padre y una hija se sorprenden cuando cruzan camino con un hombre con un desarmador en mano.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004013210 +0200" stop="20261004015620 +0200">
-    <title>S29 : E28 Mamá es la que sabe - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales protegen a una madre muy trabajadora de un par de personas que visitan sin invitación.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004015625 +0200" stop="20261004022005 +0200">
-    <title>S29 : E29 La pura verdad - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso de robo encuentra paz confesando sus acciones.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004022010 +0200" stop="20261004024350 +0200">
-    <title>S30 : E21 Gato miedoso - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía somete a un hombre poco predecible que está convencido de que un animal salvaje lo está siguiendo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004024356 +0200" stop="20261004030736 +0200">
-    <title>S30 : E22 Dinero falso y látigo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un barrio tranquilo se convierte en el escenario de una peligrosa persecución entre varios carros. Un sujeto cuenta con mala suerte y trata de ocultar su culpabilidad al deshacerse de algunas prendas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004030741 +0200" stop="20261004033151 +0200">
-    <title>S30 : E23 Sólo postres - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso deja su helado sin comenzar a comerlo cuando le encuentran más que golosinas en su bolsillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004033157 +0200" stop="20261004035537 +0200">
-    <title>S30 : E24 Comprador nocturno - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un vecino vigilante llama a la policía cuando ve que están robando en la licorería de abajo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004035542 +0200" stop="20261004041952 +0200">
-    <title>S30 : E25 Abrazarte - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía busca la bicicleta robada de un joven y encuentran a un hombre deshecho pasando un mal tiempo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004041957 +0200" stop="20261004044407 +0200">
-    <title>S30 : E26 El fugitivo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un ciclista casi desnudo provoca una carrera loca por toda la vecindad cuando los oficiales corren tras de él.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004044413 +0200" stop="20261004050823 +0200">
-    <title>S30 : E27 ¿De quién es el arma? - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>A un hombre con grandes aspiraciones se le dificulta explicar por qué sus huellas están en un arma.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004050828 +0200" stop="20261004053238 +0200">
-    <title>S30 : E28 Oveja negra - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un pollero tiene una explicación poco clara de los objetos descubiertos en su carro.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004053244 +0200" stop="20261004055654 +0200">
-    <title>S30 : E29 Magia - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se sospecha que un hombre conduce ebrio, y él dice que sólo salió a comprar un bocadillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004055659 +0200" stop="20261004062039 +0200">
-    <title>S30 : E30 Cambio de corazón - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mamá joven con problemas tiene una segunda oportunidad para rehacer su vida.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004062044 +0200" stop="20261004064454 +0200">
-    <title>S30 : E31 Beso y maquillaje - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre nervioso que conduce no logra evadir a la policía y se disculpa raramente con su novia.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004064500 +0200" stop="20261004070840 +0200">
-    <title>S30 : E32 Mejilla a mejilla - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se captura en video a un hombre escondiendo artículos en un lugar no muy bueno.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004070845 +0200" stop="20261004073055 +0200">
-    <title>S30 : E33 En humo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>El último esfuerzo de un hombre desesperado para huir de los oficiales termina en llamas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004073100 +0200" stop="20261004075439 +0200">
-    <title>S31 : E01 Sentir el calor - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se asombran con la elección de vestimenta de un presunto pirómano, o más bien la falta de ropa.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004075445 +0200" stop="20261004081855 +0200">
-    <title>S31 : E02 En ninguna parte - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>A un sospechoso poco astuto se le desmiente cuando su víctima presenta video de una cámara de seguridad.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004081900 +0200" stop="20261004084310 +0200">
-    <title>S31 : E03 Claves del éxito - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales animan a una mujer que quiere control sobre su vida con una plática que llega al alma.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004084315 +0200" stop="20261004090725 +0200">
-    <title>S31 : E04 Negación - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un esposo amargado tiene una reacción negativa cuando su esposa descubre sus actividades en el internet.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004090731 +0200" stop="20261004093111 +0200">
-    <title>S31 : E05 Baño relámpago - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>El caos sigue después de que el gerente del club nocturno enfrenta al empleado quien robó su dinero.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004093116 +0200" stop="20261004095455 +0200">
-    <title>S31 : E06 Los hechos de la vida - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un ladrón conocido acaba con la buena voluntad de la policía al ser encontrado con bienes robados.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004095501 +0200" stop="20261004101840 +0200">
-    <title>S31 : E07 Compañía de los tres - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un entrometido compañero de casa es mala influencia e impide a la pareja casada dejar atrás sus malos hábitos.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004101845 +0200" stop="20261004104225 +0200">
-    <title>S31 : E08 Por la ventana - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un incendio en la cocina rápidamente expande por toda la casa y deja a un hombre atrapado en el último piso.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004104230 +0200" stop="20261004110640 +0200">
-    <title>S31 : E09 Goma quemada - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Varios intentos para detener a un vehículo fugitivo al final valen la pena.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004110645 +0200" stop="20261004113025 +0200">
-    <title>S31 : E10 Poner fin al ciclo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se decepcionan una vez más cuando se topan con una persona que vuelve a infringir la ley.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004113031 +0200" stop="20261004115441 +0200">
-    <title>S31 : E11 Pase de autobús - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los problemas matrimoniales se descontrolan cuando un marido recoge a su esposa de la cárcel.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004115446 +0200" stop="20261004121856 +0200">
-    <title>S31 : E12 Lento y bajo - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso lento y perezoso se rinde cuando se da cuenta de que no puede escapar de la ley.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004121902 +0200" stop="20261004124312 +0200">
-    <title>S31 : E13 Rodar y robar - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Es mentira tras mentira cuando los oficiales alcanzan a un ladrón de tiendas que habla mucho.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004124317 +0200" stop="20261004130657 +0200">
-    <title>S31 : E14 Completos extraños - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La pasajera de un auto en persecución caótica jura que no conoce al chofer, pero sus registros la desmienten.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004130702 +0200" stop="20261004133042 +0200">
-    <title>S31 : E15 A plena vista - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una cuestionable cita de pareja termina con el volcamiento de un automóvil y ambos esposados.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004133048 +0200" stop="20261004135458 +0200">
-    <title>S31 : E16 Problemas inventados - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La policía recurre al análisis forense cuando dos sospechosos niegan ser dueños de un paquete de cigarrillos.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004135503 +0200" stop="20261004141913 +0200">
-    <title>S31 : E17 Sincerarse - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre angustiado quiere confrontar a su esposa por sus acusaciones atrevidas y graves.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004141918 +0200" stop="20261004144258 +0200">
-    <title>S31 : E18 Manicura para un corazón roto - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer excéntrica comete una violación a las normas de tránsito mientras se dirige al salón de belleza.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004144304 +0200" stop="20261004150714 +0200">
-    <title>S31 : E19 ¿Cuál es mi edad de nuevo? - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una conductora se mete en graves problemas por no saber contar.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004150719 +0200" stop="20261004153129 +0200">
-    <title>S31 : E20 No en mi patio trasero - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una pelea insignificante entre vecinos intensifica cuando uno recurre a la venganza.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004153135 +0200" stop="20261004155545 +0200">
-    <title>S31 : E21 Fórmula para el desastre - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre angustiado no puede soportar más a su relación volátil con su novia.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004155550 +0200" stop="20261004162000 +0200">
-    <title>S31 : E22 Bueno al volante - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales se asombran cuando encuentran en el asiento trasero al hijo del conductor que chocó y se fugó.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004162005 +0200" stop="20261004164415 +0200">
-    <title>S31 : E23 Mentiras piadosas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre ingenuo se mete en una situación peligrosa cuando trata de ganar dinero fácil.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004164421 +0200" stop="20261004170801 +0200">
-    <title>S31 : E24 Bajo mi pulgar - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una pelea domestica entre primos se descontrola cuando alguien saca un cuchillo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004170806 +0200" stop="20261004173216 +0200">
-    <title>S31 : E25 Lleva un palo grande - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre violento amenaza a sus vecinos y luego lanza su ira hacia los oficiales.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004173221 +0200" stop="20261004175631 +0200">
-    <title>S31 : E26 Azúcar y especias - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre se niega a dar su verdadero nombre, pero los oficiales encuentran una pista a plena vista.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004175637 +0200" stop="20261004182047 +0200">
-    <title>S31 : E27 Mujer arrinconada - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer buscada por la ley da un nombre falso a los oficiales, pero su hermano revela la verdad sin querer.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004182052 +0200" stop="20261004184432 +0200">
-    <title>S31 : E28 Vidriado y confundido - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un ciclista desafiante recuerda una versión diferente de lo ocurrido antes de que lo arrestaran.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004184438 +0200" stop="20261004190818 +0200">
-    <title>S31 : E29 Volverse loco - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer excéntrica acusa a un hombre de querer robarle el pelo.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004190823 +0200" stop="20261004193033 +0200">
-    <title>S31 : E30 El mensaje soplón - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso de asalto despierta toscamente con un mensaje de voz que prueba su culpabilidad.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004193038 +0200" stop="20261004195448 +0200">
-    <title>S31 : E31 Triple amenaza - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una discusión fuerte se agranda y pasa a mayores cuando una mujer comienza a quebrar ventanas.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004195453 +0200" stop="20261004201903 +0200">
-    <title>S31 : E32 Objetos perdidos - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una familia se llena de alegría cuando un oficial recupera de forma segura a su cachorro robado.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004201909 +0200" stop="20261004204319 +0200">
-    <title>S31 : E33 Todo en la familia - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una lucha frenética entre hermanos enfurecidos termina con un apuñalamiento.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004204324 +0200" stop="20261004210734 +0200">
-    <title>S32 : E01 Huellas de mis lágrimas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una mujer en libertad condicional se estresa y asusta cuando se da cuenta de lo que hay en su automóvil.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004210739 +0200" stop="20261004213149 +0200">
-    <title>S32 : E02 Onza de confianza - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>La dueña de una tienda se asombra cuando un delincuente fugitivo se esconde en su tienda.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004213155 +0200" stop="20261004215605 +0200">
-    <title>S32 : E03 Figura paterna - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un hombre con un pasado delictivo jura mejorar por su hijo pequeño.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004215610 +0200" stop="20261004221850 +0200">
-    <title>S32 : E04 Como lo veas - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un entregador de pizza con mala suerte llama a la policía después de que le roban.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004221855 +0200" stop="20261004224305 +0200">
-    <title>S32 : E05 ¡No valla es mía! - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Los oficiales reaccionan rápidamente y capturan a un sospechoso con antecedentes por el robo de identidad.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004224310 +0200" stop="20261004230606 +0200">
-    <title>S32 : E06 Camión loco - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Hay chispas por todas partes cundo un camionero se fuga en alta velocidad con su familia dentro.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004230611 +0200" stop="20261004233037 +0200">
-    <title>S32 : E07 Mamá te ama - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Una madre protectora intenta esconder a su hija de los policías y las consecuencias. Un conductor de transporte compartido es detenido cuando su pasajero levanta las sospechas de los oficiales.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004233043 +0200" stop="20261004235439 +0200">
-    <title>S32 : E08 Enrojecido - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Se reporta una pelea y cuando llegan los policías encuentran evidencia de una discusión sangrienta.</desc>
-  </programme>
-  <programme channel="cops-en-espanol" start="20261004235444 +0200" stop="20261005001840 +0200">
-    <title>S32 : E09 Sin aliento - Cops en Español</title>
-    <sub-title>Cops en Español</sub-title>
-    <desc>Un sospechoso de robo buscado por la ley se cansa y rinde después de saltar demasiadas bardas.</desc>
   </programme>
   <programme channel="jade-fever-es" start="20261001014941 +0200" stop="20261001021727 +0200">
     <title>S05 : E12 La Fiebre del Jade - La Fiebre del Jade</title>
@@ -41937,94 +40717,97 @@ seguidores...</desc>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Hristo Stoichkov como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001140159 +0200" stop="20261001143643 +0200">
+  <programme channel="top-barca-es" start="20261001140159 +0200" stop="20261001143813 +0200">
     <title>S199495 : E10 TODOS LOS GOLES | Temporada 1994-95 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles del Barça en la temporada 1994-95</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001143644 +0200" stop="20261001150813 +0200">
-    <title>HIGHLIGHTS | Logroño UTD - Femení A | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | Logroño UTD - Femení A | Liga F 2026/2027</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261001150814 +0200" stop="20261001155327 +0200">
+  <programme channel="top-barca-es" start="20261001143814 +0200" stop="20261001152327 +0200">
     <title>S202526 : E16 TODOS LOS GOLES | Lamine Yamal - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Lamine como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001155328 +0200" stop="20261001164500 +0200">
+  <programme channel="top-barca-es" start="20261001152328 +0200" stop="20261001161500 +0200">
     <title>S202526 : E06 TODOS LOS GOLES | Leo Messi | Parte 6 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001164501 +0200" stop="20261001172549 +0200">
+  <programme channel="top-barca-es" start="20261001161501 +0200" stop="20261001165549 +0200">
     <title>S202223 : E01 EL ÁLBUM | Rafa Márquez - El Álbum</title>
     <sub-title>El Álbum</sub-title>
     <desc>Rafa Márquez recuerda con nosotros su etapa en el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001172550 +0200" stop="20261001175736 +0200">
+  <programme channel="top-barca-es" start="20261001165550 +0200" stop="20261001172736 +0200">
     <title>S202627 : E04 HIGHLIGHTS | València - Barça | La Liga 202627 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta de los mejores momentos del partido de la liga 202627 entre València y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001175737 +0200" stop="20261001182142 +0200">
+  <programme channel="top-barca-es" start="20261001172737 +0200" stop="20261001175312 +0200">
     <title>S202526 : E55 TODOS LOS GOLES | Pedri - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de los grandes jugadores de la historia del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001182143 +0200" stop="20261001185312 +0200">
-    <title>HIGHLIGHTS | Logroño UTD - Femení A | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | Logroño UTD - Femení A | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261001175313 +0200" stop="20261001182043 +0200">
+    <title>S202627 : E05 HIGHLIGHTS | Logroño United - FC Barcelona | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Logroño United y FC Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001185313 +0200" stop="20261001193611 +0200">
+  <programme channel="top-barca-es" start="20261001182044 +0200" stop="20261001190342 +0200">
     <title>S202526 : E53 ORÍGENES | Pedri - Orígenes</title>
     <sub-title>Orígenes</sub-title>
     <desc>Descubre los primeros pasos de Pedri en el mundo del futbol antes de llegar al Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001193612 +0200" stop="20261001200815 +0200">
+  <programme channel="top-barca-es" start="20261001190343 +0200" stop="20261001193546 +0200">
     <title>S200910 : E01 HIGHLIGHTS | Barça - Arsenal | Champions League 200910 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta de los mejores momentos del partido de la Champions League 200910 entre Barça y Arsenal</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001200816 +0200" stop="20261001211129 +0200">
+  <programme channel="top-barca-es" start="20261001193547 +0200" stop="20261001204030 +0200">
     <title>S199394 : E10 TODOS LOS GOLES | Temporada 1993-94 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles del Barça en la temporada 1993-94</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001211130 +0200" stop="20261001231259 +0200">
-    <title>FULLMATCH | Logroño Utd - Femení A | Liga F 2026/2027</title>
-    <desc>FULLMATCH | Logroño Utd - Femení A | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261001204031 +0200" stop="20261001223243 +0200">
+    <title>S202627 : E05 PARTIDO COMPLETO | Logroñés United - FC Barcelona | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del partido de la Liga F 2026-27 entre el Logroñes United y el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001231300 +0200" stop="20261001234052 +0200">
+  <programme channel="top-barca-es" start="20261001223244 +0200" stop="20261001230035 +0200">
     <title>S202627 : E01 HIGHLIGHTS | Barça – Athletic Club  | La Liga 202627 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta de los mejores momentos del partido de la liga 202627 entre Barça y Athletic Club</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261001234053 +0200" stop="20261002015421 +0200">
+  <programme channel="top-barca-es" start="20261001230036 +0200" stop="20261002011404 +0200">
     <title>S202627 : E05 LA MASIA | FC Barcelona Sub-18 - FB Reus | Liga 2026-27 - La Masia</title>
     <sub-title>La Masia</sub-title>
     <desc>Disfruta del partido de liga entre el FC Barcelona Sub 18 y el FB Reus</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261002015422 +0200" stop="20261002044447 +0200">
+  <programme channel="top-barca-es" start="20261002011405 +0200" stop="20261002014135 +0200">
+    <title>S202627 : E05 HIGHLIGHTS | Logroño United - FC Barcelona | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Logroño United y FC Barcelona</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261002014136 +0200" stop="20261002043201 +0200">
     <title>S200809 : E01 HIGHLIGHTS | Camino a la Champions 2009 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Los mejores momentos del camino del Barça hasta conseguir la Champions League de 2009</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261002044448 +0200" stop="20261002052014 +0200">
+  <programme channel="top-barca-es" start="20261002043202 +0200" stop="20261002050728 +0200">
     <title>S202627 : E01 HIGHLIGHTS | Barça - Feyenoord | UEFA Champions League 2026-27 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta del resumen del partido de la UEFA Champions League 2026-27 entre Barça y Feyenoord</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261002052015 +0200" stop="20261002055204 +0200">
+  <programme channel="top-barca-es" start="20261002050729 +0200" stop="20261002053918 +0200">
     <title>S202627 : E07 EL 9 | Javier Saviola | El gol en tiempos difíciles - El  9</title>
     <sub-title>El  9</sub-title>
     <desc>Recuerda los años de Javier Saviola en el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261002055205 +0200" stop="20261002062508 +0200">
+  <programme channel="top-barca-es" start="20261002053919 +0200" stop="20261002061222 +0200">
     <title>S201112 : E08 HIGHLIGHTS | Barça - Bayer Leverkussen | Champions 201112 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta de los mejores momentos del partido de la Champions League 201112 entre Barça y Bayer Leverkussen</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261002062509 +0200" stop="20261002071511 +0200">
+  <programme channel="top-barca-es" start="20261002061223 +0200" stop="20261002071511 +0200">
     <title>S202526 : E06 TODOS LOS GOLES | Leo Messi | Parte 6 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi</desc>
@@ -62064,6 +60847,102 @@ secuestrado a su hermana de 13 años.</desc>
   <programme channel="top-movies-rakuten-tv" start="20261004222721 +0200" stop="20261005000249 +0200">
     <title>Zona de caza</title>
     <desc>Una madre huye de su marido mafioso y de sus peligrosos sicarios que intentan darle caza. Desesperada por encontrar un escondite para ella y sus hijos, se refugia en la cabaña del bosque de un excursionista llamado Jake.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261001000000 +0200" stop="20261001040000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261001040000 +0200" stop="20261001080000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261001080000 +0200" stop="20261001120000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261001120000 +0200" stop="20261001160000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261001160000 +0200" stop="20261001200000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261001200000 +0200" stop="20261002000000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261002000000 +0200" stop="20261002040000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261002040000 +0200" stop="20261002080000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261002080000 +0200" stop="20261002120000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261002120000 +0200" stop="20261002160000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261002160000 +0200" stop="20261002200000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261002200000 +0200" stop="20261003000000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261003000000 +0200" stop="20261003040000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261003040000 +0200" stop="20261003080000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261003080000 +0200" stop="20261003120000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261003120000 +0200" stop="20261003160000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261003160000 +0200" stop="20261003200000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261003200000 +0200" stop="20261004000000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261004000000 +0200" stop="20261004040000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261004040000 +0200" stop="20261004080000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261004080000 +0200" stop="20261004120000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261004120000 +0200" stop="20261004160000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261004160000 +0200" stop="20261004200000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
+  </programme>
+  <programme channel="cops-en-espanol" start="20261004200000 +0200" stop="20261005000000 +0200">
+    <title>Emisión Cops En Espanol</title>
+    <desc>Programación continua para Cops En Espanol.</desc>
   </programme>
   <programme channel="stingray-hit-list" start="20261001000000 +0200" stop="20261001040000 +0200">
     <title>Emisión Stingray Hit List</title>
