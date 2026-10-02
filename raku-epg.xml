@@ -1308,383 +1308,7 @@
     <title>Arts24</title>
     <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
   </programme>
-  <programme channel="france-24-en" start="20261004020001 +0200" stop="20261004021000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004021001 +0200" stop="20261004022500 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004022501 +0200" stop="20261004023000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004023001 +0200" stop="20261004024500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004024501 +0200" stop="20261004030000 +0200">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004030001 +0200" stop="20261004031500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004031501 +0200" stop="20261004033000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004033001 +0200" stop="20261004034500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004034501 +0200" stop="20261004040000 +0200">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004040001 +0200" stop="20261004041500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004041501 +0200" stop="20261004043000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004043001 +0200" stop="20261004044500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004044501 +0200" stop="20261004050000 +0200">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004050001 +0200" stop="20261004051500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004051501 +0200" stop="20261004053000 +0200">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the African continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004053001 +0200" stop="20261004054500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004054501 +0200" stop="20261004060000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004060001 +0200" stop="20261004061500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004061501 +0200" stop="20261004062100 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004062101 +0200" stop="20261004063000 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004063001 +0200" stop="20261004064600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004064601 +0200" stop="20261004065200 +0200">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004065201 +0200" stop="20261004070000 +0200">
-    <title>Fashion</title>
-    <desc>All the best of Parisian catwalks and behind the scenes at the big names in Haute Couture.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004070001 +0200" stop="20261004072000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004072001 +0200" stop="20261004073000 +0200">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004073001 +0200" stop="20261004080000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004080001 +0200" stop="20261004083000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004083001 +0200" stop="20261004090000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004090001 +0200" stop="20261004091500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004091501 +0200" stop="20261004093000 +0200">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004093001 +0200" stop="20261004100000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004100001 +0200" stop="20261004101500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004101501 +0200" stop="20261004102000 +0200">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004102001 +0200" stop="20261004103000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004103001 +0200" stop="20261004104500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004104501 +0200" stop="20261004110000 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004110001 +0200" stop="20261004111500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004111501 +0200" stop="20261004113000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004113001 +0200" stop="20261004114500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004114501 +0200" stop="20261004120000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004120001 +0200" stop="20261004121500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004121501 +0200" stop="20261004123000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004123001 +0200" stop="20261004124500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004124501 +0200" stop="20261004125000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004125001 +0200" stop="20261004130000 +0200">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004130001 +0200" stop="20261004131500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004131501 +0200" stop="20261004133000 +0200">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004133001 +0200" stop="20261004134500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004134501 +0200" stop="20261004140000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004140001 +0200" stop="20261004141300 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004141301 +0200" stop="20261004143000 +0200">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004143001 +0200" stop="20261004144300 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004144301 +0200" stop="20261004145500 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004145501 +0200" stop="20261004150000 +0200">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004150001 +0200" stop="20261004151000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004151001 +0200" stop="20261004151500 +0200">
-    <title>Tech 24</title>
-    <desc>The latest trends in the world of high-tech and the impact of digital revolutions on everyday life.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004151501 +0200" stop="20261004153000 +0200">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004153001 +0200" stop="20261004154000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004154001 +0200" stop="20261004155200 +0200">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004155201 +0200" stop="20261004160000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004160001 +0200" stop="20261004161500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004161501 +0200" stop="20261004162100 +0200">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004162101 +0200" stop="20261004163000 +0200">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004163001 +0200" stop="20261004164500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004164501 +0200" stop="20261004170000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004170001 +0200" stop="20261004171500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004171501 +0200" stop="20261004173000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004173001 +0200" stop="20261004174500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004174501 +0200" stop="20261004180000 +0200">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004180001 +0200" stop="20261004181500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004181501 +0200" stop="20261004183000 +0200">
-    <title>Spotlight</title>
-    <desc>Guests from around the globe go beyond the headlines on the stories that matter.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004183001 +0200" stop="20261004184500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004184501 +0200" stop="20261004190000 +0200">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004190001 +0200" stop="20261004191500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004191501 +0200" stop="20261004193000 +0200">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004193001 +0200" stop="20261004194500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004194501 +0200" stop="20261004200000 +0200">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004200001 +0200" stop="20261004201600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004201601 +0200" stop="20261004203000 +0200">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004203001 +0200" stop="20261004204600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004204601 +0200" stop="20261004210000 +0200">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the African continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004210001 +0200" stop="20261004211500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004211501 +0200" stop="20261004212100 +0200">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004212101 +0200" stop="20261004213000 +0200">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004213001 +0200" stop="20261004214500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004214501 +0200" stop="20261004220000 +0200">
-    <title>The Reporter's Week</title>
-    <desc>From the 4 corners of the world, the week's news as seen by France 24 reporters</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004220001 +0200" stop="20261004221000 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004221001 +0200" stop="20261004223000 +0200">
-    <title>Revisited</title>
-    <desc>France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004223001 +0200" stop="20261004224500 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004224501 +0200" stop="20261004230000 +0200">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004230001 +0200" stop="20261004231600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004231601 +0200" stop="20261004233000 +0200">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004233001 +0200" stop="20261004234600 +0200">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261004234601 +0200" stop="20261005000000 +0200">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261005000001 +0200" stop="20261005001500 +0200">
+  <programme channel="france-24-en" start="20261004020001 +0200" stop="20261005001500 +0200">
     <title>News</title>
     <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
@@ -15836,17 +15460,17 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Buffalo se mete en el negocio de las acrobacias aéreas cuando el veterano piloto Arnie vuela el DC-4.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261003103913 +0200" stop="20261003113319 +0200">
+  <programme channel="ice-pilots-es" start="20261003103913 +0200" stop="20261003113320 +0200">
     <title>S03 : E03 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Crítico de las muchas paradas y arranques en el programa de Electra, y frustrado con el drama constante en Buffalo.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261003113320 +0200" stop="20261003122727 +0200">
+  <programme channel="ice-pilots-es" start="20261003113321 +0200" stop="20261003122728 +0200">
     <title>S03 : E04 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Frustrada por su falta de vuelo y atrapada en una rutina como conductora de mensajería.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261003122728 +0200" stop="20261003132135 +0200">
+  <programme channel="ice-pilots-es" start="20261003122729 +0200" stop="20261003132135 +0200">
     <title>S03 : E05 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cuando una avería en el ferry provoca una escasez de gasolina en Yellowknife.</desc>
@@ -15861,17 +15485,17 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Las chispas vuelan cuando Joe descubre que Gord ha aceptado un trabajo con una aerolínea rival.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261003151158 +0200" stop="20261003160810 +0200">
+  <programme channel="ice-pilots-es" start="20261003151158 +0200" stop="20261003160811 +0200">
     <title>S03 : E09 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Tratando de dejar su huella en Buffalo, Duane consigue dos contratos más de Electra.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261003160811 +0200" stop="20261003170218 +0200">
+  <programme channel="ice-pilots-es" start="20261003160812 +0200" stop="20261003170219 +0200">
     <title>S03 : E10 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>La decisión de Duane de dejar al equipo de Electra sin supervisión mientras pasa tiempo en casa pone en peligro.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261003170219 +0200" stop="20261003175832 +0200">
+  <programme channel="ice-pilots-es" start="20261003170220 +0200" stop="20261003175832 +0200">
     <title>S03 : E11 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El mecánico Jimmy es enviado a un campamento minero del norte para crear una pista de aterrizaje de hielo en un lago remoto.</desc>
@@ -15886,17 +15510,17 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cuando Yellowknife y la comunidad de aviación del norte se ven sacudidos por tres accidentes en el espacio de un mes...</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261003194855 +0200" stop="20261003204519 +0200">
+  <programme channel="ice-pilots-es" start="20261003194855 +0200" stop="20261003204520 +0200">
     <title>S04 : E02 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Joe recibe una visita negativa de Transport Canada cuando los inspectores amenazan con cerrar la aerolínea.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261003204520 +0200" stop="20261003214145 +0200">
+  <programme channel="ice-pilots-es" start="20261003204521 +0200" stop="20261003214146 +0200">
     <title>S04 : E03 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Abrumado por la responsabilidad de entrenar a un nuevo rampie y luchando por salir de la caseta del perro de Joe.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261003214146 +0200" stop="20261003223605 +0200">
+  <programme channel="ice-pilots-es" start="20261003214147 +0200" stop="20261003223605 +0200">
     <title>S04 : E04 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Después de tomar el mando de un puente aéreo intenso y lidiar con la carga de Electra más fea que jamás haya visto.</desc>
@@ -15911,17 +15535,17 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cuando los compradores surcoreanos vienen a Buffalo para ver un bombardero de agua.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004002652 +0200" stop="20261004012110 +0200">
+  <programme channel="ice-pilots-es" start="20261004002652 +0200" stop="20261004012111 +0200">
     <title>S04 : E08 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Buffalo tiene que llevar un bombardero de agua CL-215 a los compradores de Corea.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004012111 +0200" stop="20261004021530 +0200">
+  <programme channel="ice-pilots-es" start="20261004012112 +0200" stop="20261004021531 +0200">
     <title>S04 : E09 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>En Corea del Sur, Cory y Justin se encuentran con el barco que entrega el avión bombardero acuático de Buffalo a nuevos compradores allí.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004021531 +0200" stop="20261004031156 +0200">
+  <programme channel="ice-pilots-es" start="20261004021532 +0200" stop="20261004031156 +0200">
     <title>S04 : E11 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El aeropuerto Narsarsuaq de Groenlandia, conocido como uno de los enfoques más peligrosos del mundo.</desc>
@@ -15936,22 +15560,22 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Justin y Cory están varados en Croacia mientras intentan completar la entrega de dos bombarderos de agua CL-215 a Turquía.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004050037 +0200" stop="20261004055701 +0200">
+  <programme channel="ice-pilots-es" start="20261004050037 +0200" stop="20261004055702 +0200">
     <title>S05 : E01 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Mikey se une con Chris Hadfield a bordo de la Estación Espacial Internacional.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004055702 +0200" stop="20261004065120 +0200">
+  <programme channel="ice-pilots-es" start="20261004055703 +0200" stop="20261004065120 +0200">
     <title>S05 : E02 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El copiloto novato David enfrenta una pista de aterrizaje remota en el Ártico con tren de aterrizaje defectuoso.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004065121 +0200" stop="20261004074744 +0200">
+  <programme channel="ice-pilots-es" start="20261004065121 +0200" stop="20261004074745 +0200">
     <title>S05 : E04 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Una ola de frío provoca enormes desafíos.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004074745 +0200" stop="20261004084410 +0200">
+  <programme channel="ice-pilots-es" start="20261004074746 +0200" stop="20261004084410 +0200">
     <title>S05 : E05 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El Electra regresa de las reparaciones, y la tripulación lo lleva de vuelta a la pista de hielo de donde despegó antes del aterrizaje forzoso del año pasado.</desc>
@@ -15961,17 +15585,17 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Frente a la ira de Joe, Rod y Cory viajan al Reino Unido para realizar reparaciones urgentes en un avión cisterna de agua.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004094037 +0200" stop="20261004103455 +0200">
+  <programme channel="ice-pilots-es" start="20261004094037 +0200" stop="20261004103456 +0200">
     <title>S05 : E07 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Mikey se entrena para sobrevivir en el Alto Ártico con los Rangers Canadienses. La Fuerza Aérea invade el hangar de Chuck.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004103456 +0200" stop="20261004113121 +0200">
+  <programme channel="ice-pilots-es" start="20261004103457 +0200" stop="20261004113122 +0200">
     <title>S05 : E09 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cory, Chuck y Brian observan cómo una unidad de energía de 5,000 libras cae al suelo, dañando el Electra y dejándolo fuera de servicio.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004113122 +0200" stop="20261004122541 +0200">
+  <programme channel="ice-pilots-es" start="20261004113123 +0200" stop="20261004122541 +0200">
     <title>S05 : E10 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El copiloto Graeme comete errores en sus aterrizajes de entrenamiento con el Electra. Chris se estresa por su chequeo de vuelo en el C-46.</desc>
@@ -15981,12 +15605,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Joe y Mikey viajan a Inglaterra para traer un nuevo avión a casa.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004132208 +0200" stop="20261004141835 +0200">
+  <programme channel="ice-pilots-es" start="20261004132208 +0200" stop="20261004141836 +0200">
     <title>S05 : E13 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Ice Pilots NWT celebra un hito con una mirada a los últimos cinco años, un vistazo detrás de cámaras y reflexiones de la tripulación de Buffalo.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004141836 +0200" stop="20261004151306 +0200">
+  <programme channel="ice-pilots-es" start="20261004141837 +0200" stop="20261004151306 +0200">
     <title>S06 : E01 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Un incendio en el motor y una serie de fallas mecánicas hacen que Buffalo se apresure para realizar sus entregas de Navidad.</desc>
@@ -16001,17 +15625,17 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Problemas en el motor afectan al nuevo Electra de Buffalo, ZFE, y un enfrentamiento entre Joe y Transport Canada amenaza con cerrar la aerolínea.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004170413 +0200" stop="20261004180048 +0200">
+  <programme channel="ice-pilots-es" start="20261004170413 +0200" stop="20261004180049 +0200">
     <title>S06 : E05 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El piloto novato Jeff casi se sale de la pista.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004180049 +0200" stop="20261004185518 +0200">
+  <programme channel="ice-pilots-es" start="20261004180050 +0200" stop="20261004185519 +0200">
     <title>S06 : E06 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Mikey decide involucrar a Buffalo en un salto de paracaidistas para conmemorar el 70º aniversario del Día D.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004185519 +0200" stop="20261004195155 +0200">
+  <programme channel="ice-pilots-es" start="20261004185520 +0200" stop="20261004195155 +0200">
     <title>S06 : E07 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Los mejores pilotos de Buffalo, tanto novatos como veteranos, viajan a California para combates aéreos en aviones de combate reales.</desc>
@@ -16031,17 +15655,17 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Una racha de mala suerte hace que el 66 grados cumpleaños del piloto en jefe Arnie huya del infierno y amenaza con estropear su sorpresa de cumpleaños traviesa. El ayudante de rampa Jeremy está desesperado por ascender en los rangos, pero una novata podría arrojar una llave en sus planes, después de que la tripulación trabaja toda la noche para convertir el DC-4 en un tanque de gas volador.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004224500 +0200" stop="20261004234312 +0200">
+  <programme channel="ice-pilots-es" start="20261004224500 +0200" stop="20261004234313 +0200">
     <title>S01 : E04 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cuando una falla de energía deja a Rankin Inlet expuesto a los elementos brutales del norte, el capitán Justin corre para entregar un generador de emergencia. El ayudante de rampa Jeremy intenta adelantarse a la compañera de trabajo Audrey entrenando a un nuevo empleado de la India para reemplazarlo. Y cuando la recesión pisa los talones de Joe, intenta negociar un acuerdo de $ 7 millones.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261004234313 +0200" stop="20261005004126 +0200">
+  <programme channel="ice-pilots-es" start="20261004234314 +0200" stop="20261005004127 +0200">
     <title>S01 : E05 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El mecánico Cory corre contra el reloj para convertir dos bombas de agua de corto alcance en aviones transatlánticos para el viaje épico a Turquía. Depende del ingeniero Adam sacar a la tripulación del C-46 de un atasco en una pista de aterrizaje remota en menos 40. Y cuando el capitán Devan y el copiloto Scott encuentran la amenaza de la cizalladura del viento en el famoso Bear Rock.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005004127 +0200" stop="20261005013940 +0200">
+  <programme channel="ice-pilots-es" start="20261005004128 +0200" stop="20261005013940 +0200">
     <title>S01 : E07 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Un furioso Joe lucha contra una suspensión federal que le impedirá transportar pasajeros por primera vez en 20 años. También es un revés para Jeremy y las otras rampas, que empeora con una lesión inesperada. Para el equipo de waterbomber de Turquía, finalmente es una oportunidad.</desc>
@@ -16061,12 +15685,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Las tripulaciones C-46 y DC-4 compiten contra el deshielo primaveral para volar equipos mineros a una pista de aterrizaje en un lago congelado. Jeremy intenta alcanzar a sus compañeros rampies Audrey y Wilf. Y en el último tramo a Turquía, Arnie y Justin se enfrentan a algunos volcanes serios y al intenso tráfico aéreo del Mediterráneo.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005043010 +0200" stop="20261005052616 +0200">
+  <programme channel="ice-pilots-es" start="20261005043010 +0200" stop="20261005052617 +0200">
     <title>S01 : E12 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cuando su esposo renuncia después de un reventón con Joe, Kelly se pone en una posición terrible. ¿Se quedará en Buffalo o se irá? Scott recibe la noticia de que debe retirarse del vuelo para que otro copiloto pueda acelerar el paso al capitán. Él hace todo lo posible para asegurar una nueva carta, pero su rival también quiere volar el nuevo trabajo.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005052617 +0200" stop="20261005062430 +0200">
+  <programme channel="ice-pilots-es" start="20261005052618 +0200" stop="20261005062430 +0200">
     <title>S01 : E13 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Después de la amarga partida de su esposo de Buffalo, Kelly tiene una confrontación que decide si ella también renunciará. Jeremy comete un error que podría terminar con su carrera en Buffalo. La escasez de gasolina de aviación trae una dosis de realidad aleccionadora a los McBryans. Y después de una visita de su madre, el destino le lanza a Scott una inesperada bola curva.</desc>
@@ -16081,12 +15705,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cuando un incendio mortal destruye un puesto de avanzada en el norte una semana antes de Navidad.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005081453 +0200" stop="20261005091105 +0200">
+  <programme channel="ice-pilots-es" start="20261005081453 +0200" stop="20261005091106 +0200">
     <title>S02 : E03 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>La maldición del -40 golpea a los pilotos de Buffalo, Devan y Scott, en un vuelo por correo de alimentos.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005091106 +0200" stop="20261005100719 +0200">
+  <programme channel="ice-pilots-es" start="20261005091107 +0200" stop="20261005100719 +0200">
     <title>S02 : E05 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Un enlace de ferry vital está caído, por lo que Buffalo organiza una campaña total para transportar 100,000 libras de productos.</desc>
@@ -16096,17 +15720,17 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El mecánico crujiente Chuck lidera la lucha para preparar a los Electra para una misión de socorro en casos de desastre en Haití.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005110128 +0200" stop="20261005115534 +0200">
+  <programme channel="ice-pilots-es" start="20261005110128 +0200" stop="20261005115535 +0200">
     <title>S02 : E07 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Una misión de varias paradas al Extremo Norte tiene a Devan, Scott y Adam enfrentando una serie de obstáculos de nudillos blancos.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005115535 +0200" stop="20261005125148 +0200">
+  <programme channel="ice-pilots-es" start="20261005115536 +0200" stop="20261005125149 +0200">
     <title>S02 : E08 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Los jóvenes pilotos AJ y Andrew tienen la oportunidad de su vida de volar el magnífico DC-3.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005125149 +0200" stop="20261005134556 +0200">
+  <programme channel="ice-pilots-es" start="20261005125150 +0200" stop="20261005134556 +0200">
     <title>S02 : E10 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El piloto principal Arnie aterriza el DC-3 en una franja de arena casera en un refugio remoto.</desc>
@@ -16141,12 +15765,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Frustrada por su falta de vuelo y atrapada en una rutina como conductora de mensajería.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005191250 +0200" stop="20261005200656 +0200">
+  <programme channel="ice-pilots-es" start="20261005191250 +0200" stop="20261005200657 +0200">
     <title>S03 : E05 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Cuando una avería en el ferry provoca una escasez de gasolina en Yellowknife.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005200657 +0200" stop="20261005210310 +0200">
+  <programme channel="ice-pilots-es" start="20261005200658 +0200" stop="20261005210310 +0200">
     <title>S03 : E06 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Duane consigue un contrato enorme para el Electra y ejerce una enorme presión sobre el mecánico Adam.</desc>
@@ -16161,12 +15785,12 @@
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>Tratando de dejar su huella en Buffalo, Duane consigue dos contratos más de Electra.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005225333 +0200" stop="20261005234739 +0200">
+  <programme channel="ice-pilots-es" start="20261005225333 +0200" stop="20261005234740 +0200">
     <title>S03 : E10 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>La decisión de Duane de dejar al equipo de Electra sin supervisión mientras pasa tiempo en casa pone en peligro.</desc>
   </programme>
-  <programme channel="ice-pilots-es" start="20261005234740 +0200" stop="20261006004353 +0200">
+  <programme channel="ice-pilots-es" start="20261005234741 +0200" stop="20261006004354 +0200">
     <title>S03 : E11 Pilotos del Ártico (Ice Pilots) - Pilotos del Ártico (Ice Pilots)</title>
     <sub-title>Pilotos del Ártico (Ice Pilots)</sub-title>
     <desc>El mecánico Jimmy es enviado a un campamento minero del norte para crear una pista de aterrizaje de hielo en un lago remoto.</desc>
@@ -35157,57 +34781,87 @@ seguidores...</desc>
     <sub-title>2018 Pennzoil 400 at Las Vegas Motor Speedway</sub-title>
     <desc>Relive the 2018 Pennzoil 400 at Las Vegas Motor Speedway in this Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261004044016 +0200" stop="20261004060119 +0200">
+  <programme channel="nascar" start="20261004044016 +0200" stop="20261004070728 +0200">
     <title>S2019 : E27 NASCAR Classics: Cup Series - 2019 South Point 400 at Las Vegas Motor Speedway</title>
     <sub-title>2019 South Point 400 at Las Vegas Motor Speedway</sub-title>
     <desc>Relive the first race of the 2019 Playoffs in this Cup Series race replay from Las Vegas Motor Speedway.</desc>
   </programme>
-  <programme channel="nascar" start="20261004060120 +0200" stop="20261004083142 +0200">
-    <title>S2026 : E10 NASCAR Cup Series Full Race Replay - 2026 Jack Link's 500 at Talladega Superspeedway</title>
-    <sub-title>2026 Jack Link's 500 at Talladega Superspeedway</sub-title>
-    <desc>Relive the 2026 Jack Link's 500 at Talladega Superspeedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261004070729 +0200" stop="20261004091936 +0200">
+    <title>S2020 : E30 NASCAR Classics: Cup Series - 2020 South Point 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2020 South Point 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2020 South Point 400 at Las Vegas Motor Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261004083143 +0200" stop="20261004105746 +0200">
-    <title>S2026 : E11 NASCAR Cup Series Full Race Replay - 2026 Würth 400 at Texas Motor Speedway</title>
-    <sub-title>2026 Würth 400 at Texas Motor Speedway</sub-title>
-    <desc>Relive the 2026 Würth 400 at Texas Motor Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261004091937 +0200" stop="20261004112725 +0200">
+    <title>S2021 : E30 NASCAR Classics: Cup Series - 2021 South Point 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2021 South Point 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2021 South Point 400 at Las Vegas Motor Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261004105747 +0200" stop="20261004125433 +0200">
-    <title>S2026 : E12 NASCAR Cup Series Full Race Replay - 2026 Go Bowling at The Glen at Watkins Glen International</title>
-    <sub-title>2026 Go Bowling at The Glen at Watkins Glen International</sub-title>
-    <desc>Relive the 2026 Go Bowling at The Glen at Watkins Glen International in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261004112726 +0200" stop="20261004140340 +0200">
+    <title>S2022 : E33 NASCAR Classics: Cup Series - 2022 South Point 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2022 South Point 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2022 South Point 400 at Las Vegas Motor Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261004125434 +0200" stop="20261004172042 +0200">
-    <title>S2026 : E13 NASCAR Cup Series Full Race Replay - 2026 Coca-Cola 600 at Charlotte Motor Speedway</title>
-    <sub-title>2026 Coca-Cola 600 at Charlotte Motor Speedway</sub-title>
-    <desc>Relive the 2026 Coca-Cola 600 at Charlotte Motor Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261004140341 +0200" stop="20261004162737 +0200">
+    <title>S2023 : E33 NASCAR Classics: Cup Series - 2023 South Point 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2023 South Point 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2023 South Point 400 at Las Vegas Motor Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261004172043 +0200" stop="20261004205312 +0200">
-    <title>S2026 : E14 NASCAR Cup Series Full Race Replay - 2026 Cracker Barrel 400 at Nashville Superspeedway</title>
-    <sub-title>2026 Cracker Barrel 400 at Nashville Superspeedway</sub-title>
-    <desc>Relive the 2026 Cracker Barrel 400 at Nashville Superspeedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261004162738 +0200" stop="20261004185657 +0200">
+    <title>S2024 : E33 NASCAR Classics: Cup Series - 2024 South Point 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2024 South Point 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2024 South Point 400 at Las Vegas Motor Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261004205313 +0200" stop="20261005000326 +0200">
-    <title>S2026 : E15 NASCAR Cup Series Full Race Replay - 2026 FireKeepers Casino 400 at Michigan International Speedway</title>
-    <sub-title>2026 FireKeepers Casino 400 at Michigan International Speedway</sub-title>
-    <desc>Relive the 2026 FireKeepers Casino 400 at Michigan International Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261004185658 +0200" stop="20261004192029 +0200">
+    <title>S2026 : E10 Best Of NASCAR - Las Vegas Motor Speedway</title>
+    <sub-title>Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the best NASCAR Cup Series moments from Las Vegas Motor Speedway</desc>
   </programme>
-  <programme channel="nascar" start="20261005000327 +0200" stop="20261005023201 +0200">
-    <title>S2026 : E16 NASCAR Cup Series Full Race Replay - 2026 Great American Getaway 400 at Pocono Raceway</title>
-    <sub-title>2026 Great American Getaway 400 at Pocono Raceway</sub-title>
-    <desc>Relive the 2026 NASCAR Cup Series Race at Pocono Raceway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261004192030 +0200" stop="20261004201238 +0200">
+    <title>S01 : E33 Radioactive - Best of Las Vegas Fall Races</title>
+    <sub-title>Best of Las Vegas Fall Races</sub-title>
+    <desc>Radioactive showcases the best race chatter of NASCAR Cup Series fall races at Las Vegas Motor Speedway</desc>
   </programme>
-  <programme channel="nascar" start="20261005023202 +0200" stop="20261005044624 +0200">
-    <title>S2026 : E50 NASCAR Cup Series Full Race Replay - 2026 Cook Out Clash at Bowman Gray Stadium</title>
-    <sub-title>2026 Cook Out Clash at Bowman Gray Stadium</sub-title>
-    <desc>Relive the 2026 Cook Out Clash at Bowman Gray Stadium in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261004201239 +0200" stop="20261004210709 +0200">
+    <title>S2025 : E01 RISING - Inside the Future of NASCAR</title>
+    <sub-title>Inside the Future of NASCAR</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
   </programme>
-  <programme channel="nascar" start="20261005044625 +0200" stop="20261005080304 +0200">
-    <title>S2026 : E51 NASCAR Cup Series Full Race Replay - 2026 America 250 Florida Duels at Daytona International Speedway</title>
-    <sub-title>2026 America 250 Florida Duels at Daytona International Speedway</sub-title>
-    <desc>Relive the 2026 America 250 Florida Duels at Daytona International Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261004210710 +0200" stop="20261004220142 +0200">
+    <title>S2025 : E02 RISING - Finding Balance in NASCAR’s Chaos</title>
+    <sub-title>Finding Balance in NASCAR’s Chaos</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
   </programme>
-  <programme channel="nascar" start="20261005080305 +0200" stop="20261005093522 +0200">
+  <programme channel="nascar" start="20261004220143 +0200" stop="20261004225604 +0200">
+    <title>S2025 : E03 RISING - Carson Hocevar Sparks NASCAR Controversy</title>
+    <sub-title>Carson Hocevar Sparks NASCAR Controversy</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
+  </programme>
+  <programme channel="nascar" start="20261004225605 +0200" stop="20261004235034 +0200">
+    <title>S2025 : E04 RISING - Victory, Heartbreak &amp; One Last Chance</title>
+    <sub-title>Victory, Heartbreak &amp; One Last Chance</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
+  </programme>
+  <programme channel="nascar" start="20261004235035 +0200" stop="20261005004504 +0200">
+    <title>S2025 : E05 RISING - For the Love of NASCAR</title>
+    <sub-title>For the Love of NASCAR</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
+  </programme>
+  <programme channel="nascar" start="20261005004505 +0200" stop="20261005031946 +0200">
+    <title>S2025 : E33 NASCAR Classics: Cup Series - 2025 South Point Casino 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2025 South Point Casino 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2025 South Point Casino 400 from Las Vegas Motor Speedway in this Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261005031947 +0200" stop="20261005053121 +0200">
+    <title>S2026 : E05 NASCAR Cup Series Full Race Replay - 2026 Pennzoil 400 at Las Vegas Motor Speedway</title>
+    <sub-title>2026 Pennzoil 400 at Las Vegas Motor Speedway</sub-title>
+    <desc>Relive the 2026 Pennzoil 400 at Las Vegas Motor Speedway in this NASCAR Cup race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261005053122 +0200" stop="20261005080305 +0200">
+    <title>S2026 : E30 NASCAR Cup Series Full Race Replay - 2026 Hollywood Casino 400 at Kansas Speedway</title>
+    <sub-title>2026 Hollywood Casino 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 2026 Hollywood Casino 400 at Kansas Speedway in this NASCAR Cup race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261005080306 +0200" stop="20261005093522 +0200">
     <title>S2026 : E20 ARCA Menards Series Full Race Replay - 2026 Kwikset 150 at Kansas Speedway</title>
     <sub-title>2026 Kwikset 150 at Kansas Speedway</sub-title>
     <desc>Relive the 2026 Kwikset 150 at Kansas Speedway in this NASCAR ARCA Menards Series race replay.</desc>
@@ -38299,55 +37953,7 @@ seguidores...</desc>
     <title>Nicaragua</title>
     <desc>S&amp;S explore Nicaragua to discover the beauty and tragedy of a nation trying to rebuild itself from its past...</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261002020001 +0200" stop="20261002023000 +0200">
-    <title>The Big Trip</title>
-    <desc>Frankie, Johnny and Jacob leave their homes and families behind to pursue the dream of becoming pro skaters...</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002023001 +0200" stop="20261002030000 +0200">
-    <title>Camp Kick-Off</title>
-    <desc>The young skaters arrive at the Camp and meet their new counselors that you may know from previous seasons.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002030001 +0200" stop="20261002033000 +0200">
-    <title>Heavy Equipment</title>
-    <desc>The Built to Shred team and host Jeff King rent a heavy equipment facility to shred.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002033001 +0200" stop="20261002040000 +0200">
-    <title>Over A Barrel</title>
-    <desc>Jeff and crew build a 20-foot-tall wine-barrel pipe for Nyjah Huston, Curren Caples and others to shred.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002040001 +0200" stop="20261002043000 +0200">
-    <title>Chas and Crepel Show</title>
-    <desc>Chas Guldemond sessions the North Shore of Lake Tahoe's snowboard parks, with France's Mathieu Crepel.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002043001 +0200" stop="20261002050000 +0200">
-    <title>Torstein Horgmo</title>
-    <desc>Session into the Norwegian future and shred with snowboarder Torstein Horgmo.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002050001 +0200" stop="20261002053000 +0200">
-    <title>The US Open</title>
-    <desc>The Grenade Team leaves Spain for Stratton Mountains, VT, but learns they have no place to stay. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002053001 +0200" stop="20261002060000 +0200">
-    <title>The Grenade Games</title>
-    <desc>Fresh off the US Open win, the Grenade crew heads to Whistler for the 5th annual Grenade Games.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002060001 +0200" stop="20261002063000 +0200">
-    <title>Caribbean</title>
-    <desc>Shannon and Shayne pmove to the Caribbean and run into Jimmy Buffett and a bunch of Roxy girls.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002063001 +0200" stop="20261002070000 +0200">
-    <title>Doug Parsons</title>
-    <desc>Doug Parsons tears up Reche Canyon, while Travis Pastrana debuts double backflips at home.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002070001 +0200" stop="20261002073000 +0200">
-    <title>Slab City</title>
-    <desc>Skaters shred Slab City, Larry Linkogle attempts a moto wallride over a warehouse door.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002073001 +0200" stop="20261002074500 +0200">
-    <title>Legends of Les Gets</title>
-    <desc>Norco Race returns to legendary Les Gets trails, reliving history and pushing for greatness.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261002074501 +0200" stop="20261002090000 +0200">
+  <programme channel="fuel-tv-new" start="20261002020001 +0200" stop="20261002090000 +0200">
     <title>Every Day is a Saturday: Poor Boyz</title>
     <desc>A candid account of what it takes to get from point A to point B in freeride skiing.</desc>
   </programme>
