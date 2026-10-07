@@ -6074,7 +6074,7 @@
     <desc>Salazar mantuvo a Portugal fuera de la guerra usando la neutralidad como arma diplomática.</desc>
   </programme>
   <programme channel="historia-y-vida" start="20261007034101 +0200" stop="20261007044200 +0200">
-    <title>S03 : E01 La Historia al Descubierto - ¿Vietnam, Una Guerra Fabricada por Estados Unidos? - La Historia al Descubierto</title>
+    <title>S03 : E01 La Historia al Descubierto - Vietnam, ¿una Guerra Fabricada por Estados Unidos? - La Historia al Descubierto</title>
     <sub-title>La Historia al Descubierto</sub-title>
     <desc>La guerra de Vietnam fue también un conflicto fratricida que desgarró familias y traumatizó a ambos bandos.</desc>
   </programme>
@@ -6104,7 +6104,7 @@
     <desc>Salazar mantuvo a Portugal fuera de la guerra usando la neutralidad como arma diplomática.</desc>
   </programme>
   <programme channel="historia-y-vida" start="20261007092401 +0200" stop="20261007102500 +0200">
-    <title>S03 : E01 La Historia al Descubierto - ¿Vietnam, Una Guerra Fabricada por Estados Unidos? - La Historia al Descubierto</title>
+    <title>S03 : E01 La Historia al Descubierto - Vietnam, ¿una Guerra Fabricada por Estados Unidos? - La Historia al Descubierto</title>
     <sub-title>La Historia al Descubierto</sub-title>
     <desc>La guerra de Vietnam fue también un conflicto fratricida que desgarró familias y traumatizó a ambos bandos.</desc>
   </programme>
@@ -6134,7 +6134,7 @@
     <desc>Salazar mantuvo a Portugal fuera de la guerra usando la neutralidad como arma diplomática.</desc>
   </programme>
   <programme channel="historia-y-vida" start="20261007150601 +0200" stop="20261007160700 +0200">
-    <title>S03 : E01 La Historia al Descubierto - ¿Vietnam, Una Guerra Fabricada por Estados Unidos? - La Historia al Descubierto</title>
+    <title>S03 : E01 La Historia al Descubierto - Vietnam, ¿una Guerra Fabricada por Estados Unidos? - La Historia al Descubierto</title>
     <sub-title>La Historia al Descubierto</sub-title>
     <desc>La guerra de Vietnam fue también un conflicto fratricida que desgarró familias y traumatizó a ambos bandos.</desc>
   </programme>
@@ -9220,12 +9220,12 @@
     <sub-title>Menú Salvaje</sub-title>
     <desc>Sentarse a comer en la mesa siempre requiere cierto grado de orden y civilidad, de buenos modales y cortesía.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261009095306 +0200" stop="20261009102601 +0200">
+  <programme channel="planeta-salvaje" start="20261009095306 +0200" stop="20261009102600 +0200">
     <title>S01 : E26 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Comer es una parte fundamental de la vida de todos los animales. Sus dietas pueden variar enormemente - carne, frutas, hierba, pescado - pero todos tienen algo en común.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261009102602 +0200" stop="20261009113052 +0200">
+  <programme channel="planeta-salvaje" start="20261009102601 +0200" stop="20261009113052 +0200">
     <title>S01 : E02 Las Islas Canarias - Las Islas Canarias</title>
     <sub-title>Las Islas Canarias</sub-title>
     <desc>El mundo de las montañas de fuego destaca lo que se necesita para sobrevivir en un hábitat implacable, centrándose en el frágil equilibrio de la vida en el límite, en paisajes crudos de espectacular belleza.</desc>
@@ -9300,11 +9300,11 @@
     <title>Soy el Mejor Ciervo Ibérico</title>
     <desc>Rodado durante los últimos tres años, este documental cuenta la historia del peculiar romance que cada otoño invade el bosque mediterráneo. El ciervo rojo inicia su particular celo emitiendo un sonido estremecedor que se cuela por todo el bosque. Para los ciervos comienza un tiempo para amar, defender y luchar. Durante casi un mes, perpetuarse será su única razón de vivir, su único objetivo, su única opción.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261010013240 +0200" stop="20261010020408 +0200">
+  <programme channel="planeta-salvaje" start="20261010013240 +0200" stop="20261010020407 +0200">
     <title>Los Últimos Dragones Urbanos</title>
     <desc>En la ciudad de Oviedo, al norte de España, habitan varias poblaciones muy singulares de salamandras, muchas de las cuales han permanecido aisladas desde la fundación de la ciudad en el siglo VIII. En este documental se narra su historia, las leyendas que rodean a este animal desde la antigüedad, así como las singularidades de estas poblaciones que han conseguido sobrevivir en la ciudad sin cursos de agua, elemento esencial en la reproducción de la mayoría de anfibios.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261010020409 +0200" stop="20261010031034 +0200">
+  <programme channel="planeta-salvaje" start="20261010020408 +0200" stop="20261010031034 +0200">
     <title>S01 : E01 Conexión Salvaje - Conexión Salvaje</title>
     <sub-title>Conexión Salvaje</sub-title>
     <desc>Con el cierre geológico del Istmo de Panamá hace 4 millones de años, los dos océanos más grandes del planeta quedaron separados.</desc>
@@ -37360,15 +37360,7 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Island of Mauritius</title>
     <desc>S&amp;S travel to the Indian Ocean to explore the island of Mauritius, home to one of the best waves in the wor...</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261007020001 +0200" stop="20261007023000 +0200">
-    <title>Slice of Life</title>
-    <desc>The campers get ready for the Big Pizza Jam. Jacob goes to the Dew Tour event with his uncle.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261007023001 +0200" stop="20261007030000 +0200">
-    <title>Wide World of Woodward</title>
-    <desc>As Woodward's adventures are coming to an end, and it's time to visit other nearby camps.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261007030001 +0200" stop="20261007102000 +0200">
+  <programme channel="fuel-tv-new" start="20261007020001 +0200" stop="20261007102000 +0200">
     <title>Day 1</title>
     <desc>Follow Day 1 of Rockstar Energy Open 2026 live on FUEL TV.</desc>
   </programme>
@@ -44220,1015 +44212,533 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Los asesinatos de Midsomer</sub-title>
     <desc>Llaman a Barnaby y Troy para investigar cuando el juez local, aparece muerto en su casa de Martyr Warren.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261006233406 +0200" stop="20261007000443 +0200">
-    <title>S01 : E04 German Touring Car Championship 1992 - Classic Races</title>
-    <sub-title>Classic Races</sub-title>
-    <desc>The Deutsche Tourenwagen Meisterschaft was one of the most important racing series in German motorsports. It was difficult, tough and well-known for its die-hard battles between the international competitors. We present the highlights of the 1992 race.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007000444 +0200" stop="20261007002941 +0200">
-    <title>S01 : E02 Ferry Porsche - Motorheads</title>
-    <sub-title>Motorheads</sub-title>
-    <desc>After the Second World War, following in his father's footsteps who had been responsible for the development of the classic Volkswagen, Ferry Porsche laid the foundation for the brand's sports car models like the 356 and later the Porsche 911.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007002942 +0200" stop="20261007005701 +0200">
-    <title>S01 : E03 Walter Röhrl - Motorheads</title>
-    <sub-title>Motorheads</sub-title>
-    <desc>One cannot talk about rally sports without mentioning the name Walter Röhrl. From an early age, Röhrl showed his talent in rally sports and won the European, World and other international rally championships several times in his career.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007005702 +0200" stop="20261007015344 +0200">
-    <title>S01 : E11 Audi Quattro - Triumph of an Idea, 1980 - Classic Races</title>
-    <sub-title>Classic Races</sub-title>
-    <desc>With the launch of the four-wheel drive 4WD in 1980, Audi changed the rally world. The company's advanced engineering not only improved the handling of the rally cars, but also confronted the drivers with new challenges.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007015345 +0200" stop="20261007021939 +0200">
-    <title>S01 : E01 Amphicar 770 - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>The Amphicar 770 is a rare classic and a unique vehicle. It may not be the fastest car on the street, but it’s ready to be used on the water as well and drives like a motorboat.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007021940 +0200" stop="20261007024652 +0200">
-    <title>S01 : E02 MG TC - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>The MG TC is a sporty, but also extremely spartan car with technology from the late 1940s. We accompanied the owner of a MG TC on his way to pass the TÜV, the German technical certification test.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007024653 +0200" stop="20261007031701 +0200">
-    <title>S03 : E62 Auction Classics - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>Nowadays the gull-winged classic DeLorean is an automotive investment. Also: 100 dream cars under the hammer at a classic car auction in Switzerland. And: modern classics with investment potential like the Mercedes 190E 2.3 16V.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007031702 +0200" stop="20261007034646 +0200">
-    <title>S02 : E41 Vintage Cars Worldwide - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>In Thailand a Mercedes 190 SL and other souped-up classics take part in the Bangkok Classic Car Ride. Plus: an Oldsmobile convertible on Venezuela's most beautiful island. And: classic cars from the US as a tourist attraction in Cuba.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007034647 +0200" stop="20261007041653 +0200">
-    <title>S01 : E12 Animal-like Cars - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>In Los Angeles, Dean Malay put the Hollywood appeal of the Volkswagen Beetle Convertible to the test. Also: at the BMW Design Night the Bavarian manufacturer showcased its newest creations. And: the Stuck brothers with the Lexus IS-F at the test track.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007041654 +0200" stop="20261007044530 +0200">
-    <title>S01 : E07 To the Top! - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>The Audi Sport Quattro S1 was a rally legend. We checked how the company's series vehicle A1 Quattro fares in comparison. Also: the Stuck brothers take the Ford Focus ST to the test track. And: the spacey, but cute electric microcar Renault Twizy.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007044531 +0200" stop="20261007051531 +0200">
-    <title>S01 : E33 Pickups - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>In Europe pickups are mainly used commercially. In the US these trucks are as common as SUVs. We compared the Volkswagen Amarok to the Toyota Hilux. Also: current US pickups, the Chevrolet Colorado and GMC's Sierra and Canyon.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007051532 +0200" stop="20261007054516 +0200">
-    <title>S01 : E24 Tuned SUVs - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>SUVs usually are rather impressive right out of the factory, but there are many tuning and customizing options. In this episode we present Kelleners BMW X5, the Mercedes Brabus B63 and the Porsche Cayenne tuned by Techart.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007054517 +0200" stop="20261007061531 +0200">
-    <title>S01 : E33 Eurocopter - Made in ...</title>
-    <sub-title>Made in ...</sub-title>
-    <desc>The Eurocopter EC 135 is the most successful and best-selling helicopter in the world and a multi-talent. Whether as a VIP shuttle, in air rescue or for the police. This all-rounder is even used for military tasks.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007061532 +0200" stop="20261007064504 +0200">
-    <title>S01 : E23 Unimog - Made in ...</title>
-    <sub-title>Made in ...</sub-title>
-    <desc>It is a synonym and a touchstone for four-wheel drive movement. It is the symbol for quality of commercial vehicle constructions worldwide. Mercedes-Benz manufactured for the 60th birthday a new Unimog.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007064505 +0200" stop="20261007070932 +0200">
-    <title>S01 : E01 Ferruccio Lamborghini - Motorheads</title>
-    <sub-title>Motorheads</sub-title>
-    <desc>In 1964, Ferruccio Lamborghini set himself the goal to build the best sports cars in the world, a bold move, being located only a few kilometers from Ferrari.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007070933 +0200" stop="20261007073728 +0200">
-    <title>S01 : E06 Alois Ruf - Motorheads</title>
-    <sub-title>Motorheads</sub-title>
-    <desc>Alois Ruf is the founder of a small, but well-known car manufacturing company in Bavaria that specialises in building their own vision of street legal super sports cars on the foundation of Porsche bodys.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007073729 +0200" stop="20261007080608 +0200">
-    <title>S01 : E35 Offroad Minis - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>Small 4x4's are on the rise, as it doesn't need to be size that matters when it comes to having fun in the city or off-road. We take a look at mini SUVs, the Fiat's 500 X, the Cross Polo and Cross up! by Volkswagen and BMW's X1 XDrive.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007080609 +0200" stop="20261007083530 +0200">
-    <title>S01 : E18 Land Rover Special - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>The Land Rover Defender is one of the oldest offroad car models. We took a look at this iconic vehicle and 70 years of Land Rover history. Also: we took the Range Rover Evoque, the most recent model of the British brand, to the legendary Silk Road.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007083531 +0200" stop="20261007090239 +0200">
-    <title>S02 : E47 Close to the ground - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>In their 4 series BMW took into account that sporty vehicles need a low center of gravity. In the manufacturer's range of vehicles this model is closest to the asphalt. We compared the BMW 435i and Porsche's Cayman S and took a look at the Alfa Romeo 4C.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007090240 +0200" stop="20261007092910 +0200">
-    <title>S02 : E49 Athletes on stilts - Power SUVs - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>Since the rising popularity of SUVs compact models have become a new trend, so the manufacturers started offering more models and pushing their performance. We took a look at the competitors Audi RS Q3, Mercedes-AMG GLA 45 and Porsche Macan Turbo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007092911 +0200" stop="20261007095747 +0200">
-    <title>S01 : E32 Stereotypes on Two Wheels - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>Scooters, stereotypes on two wheels? It doesn't always have to be a classic Vespa! We take a look at three alternatives: Kymco's big scooter xciting 500 i that feels like riding on a sofa, Piaggio's three-wheeler MP3 500 with two front wheels that promises more dynamic driving pleasure and the powerful electric scooter e-max from China.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007095748 +0200" stop="20261007102708 +0200">
-    <title>S01 : E38 Trikes - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>Whether taking it easy and cruising, or firing it up and drifting - trikes, scooters and three-wheeled bike conversions all have their own charm and driving dynamics, especially the trikes. We take a closer look at four rather exotic motorcycles: the Rewaco RF1 Turbo, Piaggio's MP3 and bike conversions for the Suzuki 800 Intruder and the Triumph Rocket III Touring.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007102709 +0200" stop="20261007105643 +0200">
-    <title>S03 : E152 La Dolce Vita - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>With the Alfieri, Maserati in 2014 celebrated their anniversary with the introduction of a beautiful grand tourer. In remembrance and as part of the three-day celebration, Maserati organised a cruise from Bologna to Torino with some of their most iconic cars.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007105644 +0200" stop="20261007112627 +0200">
-    <title>S01 : E19 Fiat Dino - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>The Fiat Dino Spider is one of the most beautiful cabriolets of the 1960s. Its impeccable design was created by Pininfarina, and only 525 units were built. Under its hood growls a Ferrari V6 engine.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007112628 +0200" stop="20261007115753 +0200">
-    <title>S02 : E45 50 Years Corvette Stingray - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>1963 saw the launch of the Chevrolet Corvette Stingray, the brand's answer to established sports car models by Jaguar, Maserati and others. Many consider it to be the most exciting sports car of all time. We pay tribute to this classic.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007115754 +0200" stop="20261007122639 +0200">
-    <title>S02 : E34 The Advantages of All-wheel Drive - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>Testowaliśmy model Mazdy CX-5 z napędem na wszystkie koła w warunkach terenowych. Co oferuje trzecia generacja BMW tzw. SAV X5? I także: kompaktowe SUV Kia, Sportage.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007122640 +0200" stop="20261007125757 +0200">
-    <title>S03 : E60 Typically German - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>What are the characteristics of a typical German car? Do stereotypes like functionality, reliability but also a certain dullness paint a realistic picture? Also, we explored if the Volkswagen Golf GTE could bring new impulses to the brand's model range.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007125758 +0200" stop="20261007132349 +0200">
-    <title>S02 : E118 Batman's Dreams: Supercars in Acceleration - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The clash of the convertibles, the Nissan 370 Z in comparison to Porsche's Boxster S. Also: the exclusive one-off high-performance sports car Maybach Exelero. And: a dream of a sports car, a vehicle of superlatives, the Bugatti Veyron Vitesse.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007132350 +0200" stop="20261007134934 +0200">
-    <title>S02 : E129 Jaguar F-Type - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Jaguar found their way back to the world of sports cars. The F-Type is able to take on the competition like the BMW Z4. We also took a closer look at two other competitors, the Porsche Boxster S and Nissan's 370 Z.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007134935 +0200" stop="20261007141525 +0200">
-    <title>S01 : E10 The Ten Most Fuel-efficient Cars - Top 10 Show</title>
-    <sub-title>Top 10 Show</sub-title>
-    <desc>Not everyone can afford to pay vast sums of money for fuel. We present our top 10 most economical cars in terms of fuel consumption.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007141526 +0200" stop="20261007143959 +0200">
-    <title>S01 : E30 The Best Beastly Car Names - Top 10 Show</title>
-    <sub-title>Top 10 Show</sub-title>
-    <desc>Car models are named after all sorts of things, from countries to ancient deities to animals. We take a look at the top 10 cars named after animals.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007144000 +0200" stop="20261007151046 +0200">
-    <title>S01 : E09 The Ambulance - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>Stunt coordinator Domi’s latest idea for the Stunt Heroes team involves an old ambulance that is prepared so that the stuntman can jump right through the ambulance with his car.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007151047 +0200" stop="20261007153935 +0200">
-    <title>S01 : E11 The Pile-Up - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>Fog, darkness and a pileup involving multiple cars, the Stunt Heroes want to recreate such a scene as part of a stunt with burning people, a fireman who arrives late at the scene and a car that flies through the air.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007153936 +0200" stop="20261007160524 +0200">
-    <title>S02 : E129 Jaguar F-Type - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Jaguar found their way back to the world of sports cars. The F-Type is able to take on the competition like the BMW Z4. We also took a closer look at two other competitors, the Porsche Boxster S and Nissan's 370 Z.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007160525 +0200" stop="20261007163349 +0200">
-    <title>S03 : E173 Maserati Ghibli - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>With the Ghibli, Maserati advanced into a more affordable market segment. But the competition is strong. In addition: taking the Maserati GranCabrio MC on a cruise through the Alps.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007163350 +0200" stop="20261007165743 +0200">
-    <title>S01 : E38 The Most Beautiful Vintage Cars - Top 10 Show</title>
-    <sub-title>Top 10 Show</sub-title>
-    <desc>Istnieją klasyczne samochody, które są niezaprzeczalnymi pięknościami pod względem projektu i wyglądu. Przedstawiamy naszą listę 10 najpiękniejszych klasycznych samochodów.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007165744 +0200" stop="20261007172402 +0200">
-    <title>S01 : E13 The Most Successful Cars in the 24h Race - Top 10 Show</title>
-    <sub-title>Top 10 Show</sub-title>
-    <desc>24-hour races are one of the toughest tests for man and machine in motor racing. We present the most successful cars in this racing category in our Top 10 list.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007172403 +0200" stop="20261007174848 +0200">
-    <title>S02 : E117 Million-Dollar Toys from the Middle East - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The McLaren MP4 12C Spider, one of many high-performance sports cars featured at the Doha Motor Show in Qatar. Also: the creations of manufacturers like Lamborghini, Bertone or Porsche but also the first Arab super sports car, the Lykan HyperSport.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007174849 +0200" stop="20261007181643 +0200">
-    <title>S01 : E94 Audi at Le Mans - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>At the 2012 Le Mans 24 Hours, Audi entered the R18 e-tron quattro for the first time. Also: the Porsche Cayenne GTS, the model between the S and the Turbo. And: the Mercedes-Benz CLS Shooting Brake.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007181644 +0200" stop="20261007184733 +0200">
-    <title>S02 : E54 Sporty Fords - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>The 1955 Ford Thunderbird is part of Henry Ford's motorsports legacy. In addition: the Ford Capri from the May car tuning company is as fast as a 1970s Porsche. And: the Ford Mustang, the progenitor of the so-called pony car.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007184734 +0200" stop="20261007191658 +0200">
-    <title>S02 : E104 Lamborghini - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Sant'Agata Bolognese, the home of the iconic Italian sports car manufacturer Lamborghini, is the perfect place to take a look under the hood of the different Gallardo models. Also: cruising through Rome in an Aventador LP700-4.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007191659 +0200" stop="20261007194506 +0200">
-    <title>S02 : E38 Scrapyard Gold - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>It is not too unusual to find hidden gems of automotive history in a perfect condition in barns or scrap yards. Also: the MGC GT Sebring, that was built for the 12 Hours of Sebring race.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007194507 +0200" stop="20261007201510 +0200">
-    <title>S03 : E71 Mobility in Eastern Europe - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>W latach 50. XX wieku firmy takie jak Tatra z Czechosłowacji wprowadziły zaawansowane, wręcz pionierskie automobily. Klientela była ekskluzywna, dlatego teraz te opływowe samochody są wielkimi rarytasami. Odnaleźliśmy właściciela Tatr T87 z 1937 roku.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007201511 +0200" stop="20261007204230 +0200">
-    <title>S02 : E51 Open Air Concert - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>As an homage to driving top-down we took a look at three of the most beautiful convertibles. The animalistic sound of the Audi S3 convertible's 4-cylinder is astonishing. But what about the Nissan 370 Z Roadster? Or Porsche's Boxster GTS?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007204231 +0200" stop="20261007211259 +0200">
-    <title>S01 : E17 Topless on the road - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>Convertibles suggest to the feeling of freedom while driving a car. We took a look at what Opel's Cascada and Adam convertible models had to offer. Also: what does the BMW 3 series Gran Turismo have in common with its bigger brother from the 5 series?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007211300 +0200" stop="20261007214046 +0200">
-    <title>S02 : E124 Special: 24h of Le Mans - Track Days - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Two weeks before the start of the 24 hours of Le Mans, all teams are busy testing their cars on the traditional long distance track in France. Bad weather, accidents and a lot of tension, we documented the official test days in 2013.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007214047 +0200" stop="20261007221029 +0200">
-    <title>S03 : E190 V8 Power - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>We took a look at Mercedes-Benz's first convertible model in their S-class. Also: for the Chevrolet Camaro's 50th anniversary in 2016 the brand released the sixth generation of their classic. And: a mountain cruise with the Corvette C7 convertible.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007221030 +0200" stop="20261007223831 +0200">
-    <title>S01 : E12 Episode 12 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Once again it was time for the VLN Endurance Racing Championship. While the drivers were doing their test laps, we had a look behind the scenes and explored what went on in the pit lanes.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007223832 +0200" stop="20261007230120 +0200">
-    <title>S01 : E16 Episode 16 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>In this episode we invite you to witness the progress of driver Uwe Nittle as he got ready for qualifying at the Truck Grand Prix.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007230121 +0200" stop="20261007233233 +0200">
-    <title>S01 : E01 Chevy Camaro vs Mercedes SLS AMG - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>Mylene Gomera and Saif Hattawi invite car freaks from the Middle East to show off their souped-up vehicles on the "Walk" at Jumeirah Beach in Dubai. In this episode, a Chevrolet Camaro competes against a Mercedes SLS AMG.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261007233234 +0200" stop="20261008000317 +0200">
-    <title>S01 : E02 BMW X5 vs Mercedes SLK 230 - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>If you like souped-up and luxuriously equipped vehicles, Jumeirah Beach in Dubai is the place to be. There, the cars are judged and there is also something to win. This episode features a BMW X5 and a Mercedes SLK 230.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008000318 +0200" stop="20261008003139 +0200">
-    <title>S03 : E160 Road Stars - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The Silvretta Hochalpenstrasse in Austria is the ideal playground for the lightweight power packs Lotus Elise and Roding Roadster. Also: the elegant but still very powerful Porsche 911 Targa 4S.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008003140 +0200" stop="20261008010227 +0200">
-    <title>S02 : E106 Porsche to the Max - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The Techart Grand GT by Porsche's house tuner is a souped-up Panamera. But the off-the-shelf GTS model also has its treats. Patrick Simon took this monster to the track. In addition: Ruf's anniversary model RT 35. And: the 911 Carrera 4.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008010228 +0200" stop="20261008012949 +0200">
-    <title>S01 : E05 BMW X6M vs Nissan Patrol - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>Na plaży Jumeirah w Dubaju właściciele samochodów mogą ocenić swoje zmodyfikowane pojazdy w trzech kategoriach i wygrać nocleg w hotelu Sofitel. Tym razem biorą w nim udział BMW X6M, Ford F250 i Nissan Patrol.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008012950 +0200" stop="20261008020005 +0200">
-    <title>S01 : E03 Nova SS vs Honda Accord - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>On Put Your Car On TV, car fans from the Middle East can have their darlings rated in terms of speed, style and sound. Included this time: a Nova SS, a special Honda Accord and a car clad in crystals.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008020006 +0200" stop="20261008022707 +0200">
-    <title>S01 : E15 Episode 15 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>We present the highlights of last week. The 24 hour race was exciting, as usual. In addition, we explored the 'Strong Man Run' and took a look at the tourist drivers</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008022708 +0200" stop="20261008025511 +0200">
-    <title>S01 : E12 Episode 12 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Ponownie nadszedł czas na Mistrzostwa Wytrzymałościowe VLN. Podczas gdy kierowcy wykonywali swoje testowe okrążenia, przyjrzeliśmy się kulisy i zbadaliśmy, co się działo w pit stopach.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008025512 +0200" stop="20261008032507 +0200">
-    <title>S01 : E26 Porsche Special - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>Porsche is a world-famous brand and a household name when it comes to sports cars. For over 70 years fans have been attracted to Porsche automobiles. But when was the big rise of the brand and when was their first car created?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008032508 +0200" stop="20261008035323 +0200">
-    <title>S03 : E66 Space Savers - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>The Volkswagen Samba transforms from pack mule into high-priced classic. And: a former letter box with 37 seats. The 1962 'Graf and Stift' post bus now takes tourists to their hotel.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008035324 +0200" stop="20261008042443 +0200">
-    <title>S01 : E10 Changing the model - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>BMW weszło w biznes mobilności elektrycznej z modelami ActiveE i i3. Odwiedziliśmy biuro technologiczne firmy w Dolinie Krzemowej. A także: bracia Stuck na torze testowym z Mercedesem C 63 AMG. I: Audi A3 Sportback.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008042444 +0200" stop="20261008045236 +0200">
-    <title>S02 : E52 The big journey - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>The Mercedes-AMG E63 S is a wolf in sheep's clothing. This station wagon has more power than the Nissan GTR 'Godzilla'. Also: the Porsche Panamera GTS feels at home on the motorway and on the race track. And: Audi's powerful all-purpose executive car RS6.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008045237 +0200" stop="20261008052010 +0200">
-    <title>S01 : E01 Pikes Peak - Classic Races</title>
-    <sub-title>Classic Races</sub-title>
-    <desc>The Pikes Peak Hill Climb is a rather unique type of car race in the mountains of Colorado, USA. It's exciting, tough and dangerous, and in 1987, two-time world rally champion Walter Roehrl took his Audi Sport Quattro S1 to the top.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008052011 +0200" stop="20261008055049 +0200">
-    <title>S01 : E16 Rally Sport 1983 - Classic Races</title>
-    <sub-title>Classic Races</sub-title>
-    <desc>In 1983 Audi introduced the Quattro 4x4 drive to the rally world, adding a new dimension to rally racing. The races became tougher and more brutal. The strain on drivers, vehicles and mechanics alike was extremely intense.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008055050 +0200" stop="20261008061857 +0200">
-    <title>S02 : E38 Scrapyard Gold - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>It is not too unusual to find hidden gems of automotive history in a perfect condition in barns or scrap yards. Also: the MGC GT Sebring, that was built for the 12 Hours of Sebring race.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008061858 +0200" stop="20261008064923 +0200">
-    <title>S02 : E47 British Sportscar Rarities - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>In the early 20th century people used to travel in vehicles like the Morgan Threewheeler, a mixture between motorcycle and car, thus avoiding the British tax on cars. We got hold of a 1936 Morgan Threewheeler and went for a ride.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008064924 +0200" stop="20261008072026 +0200">
-    <title>S01 : E15 Le Mans 1952 - Classic Races</title>
-    <sub-title>Classic Races</sub-title>
-    <desc>The year 1952 saw several premieres at the legendary 24-hour endurance race of Le Mans. After 22 years Mercedes-Benz returned to the famous circuit, and Ferrari started to use factory works team cars for the first time.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008072027 +0200" stop="20261008074454 +0200">
-    <title>S01 : E01 Ferruccio Lamborghini - Motorheads</title>
-    <sub-title>Motorheads</sub-title>
-    <desc>In 1964, Ferruccio Lamborghini set himself the goal to build the best sports cars in the world, a bold move, being located only a few kilometers from Ferrari.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008074455 +0200" stop="20261008081214 +0200">
-    <title>S01 : E03 Walter Röhrl - Motorheads</title>
-    <sub-title>Motorheads</sub-title>
-    <desc>One cannot talk about rally sports without mentioning the name Walter Röhrl. From an early age, Röhrl showed his talent in rally sports and won the European, World and other international rally championships several times in his career.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008081215 +0200" stop="20261008084252 +0200">
-    <title>S01 : E04 German Touring Car Championship 1992 - Classic Races</title>
-    <sub-title>Classic Races</sub-title>
-    <desc>Niemieckie Mistrzostwa Samochodów Turystycznych były jedną z najważniejszych serii wyścigowych w niemieckim motorsporcie. Były trudne, wymagające i dobrze znane z dzikich zmagań między międzynarodowymi rywalami. Przedstawiamy najważniejsze wydarzenia wyścigu z 1992 roku.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008084253 +0200" stop="20261008093933 +0200">
-    <title>S01 : E11 Audi Quattro - Triumph of an Idea, 1980 - Classic Races</title>
-    <sub-title>Classic Races</sub-title>
-    <desc>With the launch of the four-wheel drive 4WD in 1980, Audi changed the rally world. The company's advanced engineering not only improved the handling of the rally cars, but also confronted the drivers with new challenges.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008093934 +0200" stop="20261008100528 +0200">
-    <title>S01 : E01 Amphicar 770 - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>The Amphicar 770 is a rare classic and a unique vehicle. It may not be the fastest car on the street, but it’s ready to be used on the water as well and drives like a motorboat.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008100529 +0200" stop="20261008103243 +0200">
-    <title>S01 : E02 MG TC - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>The MG TC is a sporty, but also extremely spartan car with technology from the late 1940s. We accompanied the owner of a MG TC on his way to pass the TÜV, the German technical certification test.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008103244 +0200" stop="20261008110254 +0200">
-    <title>S03 : E62 Auction Classics - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>Nowadays the gull-winged classic DeLorean is an automotive investment. Also: 100 dream cars under the hammer at a classic car auction in Switzerland. And: modern classics with investment potential like the Mercedes 190E 2.3 16V.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008110255 +0200" stop="20261008113239 +0200">
-    <title>S02 : E41 Vintage Cars Worldwide - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>In Thailand a Mercedes 190 SL and other souped-up classics take part in the Bangkok Classic Car Ride. Plus: an Oldsmobile convertible on Venezuela's most beautiful island. And: classic cars from the US as a tourist attraction in Cuba.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008113240 +0200" stop="20261008120246 +0200">
-    <title>S01 : E12 Animal-like Cars - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>In Los Angeles, Dean Malay put the Hollywood appeal of the Volkswagen Beetle Convertible to the test. Also: at the BMW Design Night the Bavarian manufacturer showcased its newest creations. And: the Stuck brothers with the Lexus IS-F at the test track.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008120247 +0200" stop="20261008123125 +0200">
-    <title>S01 : E07 To the Top! - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>Audi Sport Quattro S1 to legenda rajdów. Sprawdziliśmy, jak wypada samochód seryjny A1 Quattro w porównaniu z nim. Ponadto bracia Stuck testują Forda Focusa ST na torze wyścigowym. A także: kosmiczny, ale uroczy elektryczny mikrosamochód Renault Twizy.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008123126 +0200" stop="20261008130128 +0200">
-    <title>S01 : E33 Pickups - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>In Europe pickups are mainly used commercially. In the US these trucks are as common as SUVs. We compared the Volkswagen Amarok to the Toyota Hilux. Also: current US pickups, the Chevrolet Colorado and GMC's Sierra and Canyon.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008130129 +0200" stop="20261008133113 +0200">
-    <title>S01 : E24 Tuned SUVs - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>SUVs usually are rather impressive right out of the factory, but there are many tuning and customizing options. In this episode we present Kelleners BMW X5, the Mercedes Brabus B63 and the Porsche Cayenne tuned by Techart.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008133114 +0200" stop="20261008140128 +0200">
-    <title>S01 : E33 Eurocopter - Made in ...</title>
-    <sub-title>Made in ...</sub-title>
-    <desc>The Eurocopter EC 135 is the most successful and best-selling helicopter in the world and a multi-talent. Whether as a VIP shuttle, in air rescue or for the police. This all-rounder is even used for military tasks.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008140129 +0200" stop="20261008143101 +0200">
-    <title>S01 : E23 Unimog - Made in ...</title>
-    <sub-title>Made in ...</sub-title>
-    <desc>It is a synonym and a touchstone for four-wheel drive movement. It is the symbol for quality of commercial vehicle constructions worldwide. Mercedes-Benz manufactured for the 60th birthday a new Unimog.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008143102 +0200" stop="20261008145529 +0200">
-    <title>S01 : E01 Ferruccio Lamborghini - Motorheads</title>
-    <sub-title>Motorheads</sub-title>
-    <desc>W 1964 roku Ferruccio Lamborghini postawił sobie za cel stworzenie najlepszych samochodów sportowych na świecie, co było odważnym krokiem, ponieważ znajdował się zaledwie kilka kilometrów od Ferrari.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008145530 +0200" stop="20261008152327 +0200">
-    <title>S01 : E06 Alois Ruf - Motorheads</title>
-    <sub-title>Motorheads</sub-title>
-    <desc>Alois Ruf is the founder of a small, but well-known car manufacturing company in Bavaria that specialises in building their own vision of street legal super sports cars on the foundation of Porsche bodys.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008152328 +0200" stop="20261008155207 +0200">
-    <title>S01 : E35 Offroad Minis - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>Small 4x4's are on the rise, as it doesn't need to be size that matters when it comes to having fun in the city or off-road. We take a look at mini SUVs, the Fiat's 500 X, the Cross Polo and Cross up! by Volkswagen and BMW's X1 XDrive.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008155208 +0200" stop="20261008162127 +0200">
-    <title>S01 : E18 Land Rover Special - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>The Land Rover Defender is one of the oldest offroad car models. We took a look at this iconic vehicle and 70 years of Land Rover history. Also: we took the Range Rover Evoque, the most recent model of the British brand, to the legendary Silk Road.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008162128 +0200" stop="20261008164836 +0200">
-    <title>S02 : E47 Close to the ground - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>In their 4 series BMW took into account that sporty vehicles need a low center of gravity. In the manufacturer's range of vehicles this model is closest to the asphalt. We compared the BMW 435i and Porsche's Cayman S and took a look at the Alfa Romeo 4C.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008164837 +0200" stop="20261008171505 +0200">
-    <title>S02 : E49 Athletes on stilts - Power SUVs - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>Since the rising popularity of SUVs compact models have become a new trend, so the manufacturers started offering more models and pushing their performance. We took a look at the competitors Audi RS Q3, Mercedes-AMG GLA 45 and Porsche Macan Turbo.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008171506 +0200" stop="20261008174342 +0200">
-    <title>S01 : E32 Stereotypes on Two Wheels - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>Scooters, stereotypes on two wheels? It doesn't always have to be a classic Vespa! We take a look at three alternatives: Kymco's big scooter xciting 500 i that feels like riding on a sofa, Piaggio's three-wheeler MP3 500 with two front wheels that promises more dynamic driving pleasure and the powerful electric scooter e-max from China.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008174343 +0200" stop="20261008181303 +0200">
-    <title>S01 : E38 Trikes - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>Niezależnie od tego, czy relaksujesz się i cruisujesz, czy przyspieszasz i driftujesz - trójkołowce, skutery i przekształcenia rowerów na trzy koła mają swój urok i dynamikę jazdy, zwłaszcza trójkołowce. Przyglądamy się czterem dość egzotycznym motocyklom: Rewaco RF1 Turbo, MP3 Piaggio oraz przekształceniom rowerów dla Suzukiego 800 Intruder i Triumph Rocket III Touring.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008181304 +0200" stop="20261008184249 +0200">
-    <title>S01 : E19 Fiat Dino - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>The Fiat Dino Spider is one of the most beautiful cabriolets of the 1960s. Its impeccable design was created by Pininfarina, and only 525 units were built. Under its hood growls a Ferrari V6 engine.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008184250 +0200" stop="20261008191415 +0200">
-    <title>S02 : E45 50 Years Corvette Stingray - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>1963 saw the launch of the Chevrolet Corvette Stingray, the brand's answer to established sports car models by Jaguar, Maserati and others. Many consider it to be the most exciting sports car of all time. We pay tribute to this classic.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008191416 +0200" stop="20261008194335 +0200">
-    <title>S03 : E79 Classic Technology Carriers - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>Śledziliśmy restaurację unikalnego pojazdu badawczego Bayer K67, pierwszego w świecie samochodu wykonanego w całości z plastiku, opracowanego w 1967 roku przez gigantyczną firmę farmaceutyczną Bayer.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008194336 +0200" stop="20261008201421 +0200">
-    <title>S03 : E78 Iconic Racing Classics - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>Cars like the Ford GT 40, the Jaguar D-Type or the Mercedes 300 SL wrote history on the race track and now break records at auctions. A sumptuously restored 300 SL will start at the most famous classic car rally in the world, the Mille Miglia.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008201422 +0200" stop="20261008204344 +0200">
-    <title>S01 : E22 Cruising - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>We explored how the Z4 Roadster feels as a cabriolet. Also: the small company Boom Trikes Automotive have become Europe's leading trike manufacturer. And: cruising through Los Angeles in a Volkswagen Beetle convertible.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008204345 +0200" stop="20261008211350 +0200">
-    <title>S02 : E29 Diesel Engines - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>It's all about Diesel this time. We compared the BMW 120d and the 125i. In addition: Audi's diesel-hybrid model R18 e-tron quattro dominated the endurance race in Le Mans. And: the diesel-powered Jaguar XF Sport Brake.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008211351 +0200" stop="20261008214214 +0200">
-    <title>S01 : E96 Red Bull Show Run - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Red Bull takes a Formula One car on a city tour to promote the New Jersey Grand Prix. Also: Bentley proves that a V8 engine can also set elegant accents. And: McLaren presents the MP4-12 C Spider.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008214215 +0200" stop="20261008220852 +0200">
-    <title>S01 : E81 Porsche Cayman R - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Not only Porsche fans will like the sportiest Cayman model. Also: with the Juke-R, Nissan combined a GT-R sports car and a crossover. And: the BMW G-Power is the fastest station wagon on this planet.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008220853 +0200" stop="20261008224025 +0200">
-    <title>S01 : E04 The Graduate - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>A vehicle jumps at full speed over four cars, which explode one after the other. It’s a matter of precision and timing for the Stunt Heroes. Also, up-and-coming stuntwoman Tina has to prove her skills.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008224026 +0200" stop="20261008231124 +0200">
-    <title>S01 : E05 The Very First Time - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>The team is shooting a car rollover. Stunt coordinator Carl wants to go all out. He adds an exciting shootout to the mix. Also, he has a surprise for his boss. During the rollover he wants him to sit in the passenger seat, for the very first time.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008231125 +0200" stop="20261008233826 +0200">
-    <title>S01 : E15 Episode 15 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>We present the highlights of last week. The 24 hour race was exciting, as usual. In addition, we explored the 'Strong Man Run' and took a look at the tourist drivers</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261008233827 +0200" stop="20261009000201 +0200">
-    <title>S01 : E19 Episode 19 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>The roaring sounds of engines and exhausts usually dominate the Nuerburgring, but we focused on something a bit quieter this time. How about taking part in a 15 mile bike ride around the ring, or perhaps a 16 mile run?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009000202 +0200" stop="20261009003241 +0200">
-    <title>S03 : E193 Open Air Feeling - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The Mercedes-AMG C43 was supposed to act as the entry-level model to the brand's cabriolet world. With the 718 Boxster, Porsche offers a convertible at a competitive price as well.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009003242 +0200" stop="20261009010056 +0200">
-    <title>S02 : E109 Hot Supercars - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Aston Martin V8 Vantage, Porsche 918 Spyder, Bentley Mulsanne, Audi R8 V10 or Bugatti Veyron Grand Sport Super Vitesse. These cars aren't really comparable as each vehicle is unique in its elegance and performance.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009010057 +0200" stop="20261009012734 +0200">
-    <title>S01 : E84 Kelleners KS1 RS - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The BMW One M Coupe from the former race-driver Ralf Kelleners: the KS1 RS is one of the highlights in 2012. Also: another big score from Porsche, the beautiful 911 cabriolet. And: the Bentley Continental GT V8 is a dream car.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009012735 +0200" stop="20261009015633 +0200">
-    <title>S01 : E29 Enduro Park Hechlingen - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>The BMW Enduro Park Hechlingen in Bavaria offers off-road driving pleasure both for beginners and pros alike on 26 hectares. We take a look at what this exciting place has to offer for enduro enthusiasts. Also: what does the inexpensive Hyosung ST 700 i from South Korea have to offer? And: the big-wheeled scooter from Taiwan, the Kymco People GT 300i.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009015634 +0200" stop="20261009022228 +0200">
-    <title>S01 : E30 Triumph Thunderbird - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>The parallel twin-cylinder Triumph Thunderbird. Is the powerful 1.6 litre bike able to gain a foothold outside of the British Isles? Also: Harley-Davidson's black chopper Sportster 883 Iron, a starter bike for purists. And: Bike &amp;amp; Music, a spectacle for motorbike and stunt enthusiasts at Europe's biggest motorway rest area in Geiselwind, Germany.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009022229 +0200" stop="20261009024605 +0200">
-    <title>S01 : E19 Episode 19 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>The roaring sounds of engines and exhausts usually dominate the Nuerburgring, but we focused on something a bit quieter this time. How about taking part in a 15 mile bike ride around the ring, or perhaps a 16 mile run?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009024606 +0200" stop="20261009031339 +0200">
-    <title>S01 : E14 Episode 14 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Czwarty wyścig sezonu VLN jest zazwyczaj postrzegany jako próba generalna przed 24-godzinnym wyścigiem. Dla najlepszych zespołów i najlepszych kierowców to ostatnia okazja na dokładne testy.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009031340 +0200" stop="20261009034145 +0200">
-    <title>S02 : E38 Scrapyard Gold - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>It is not too unusual to find hidden gems of automotive history in a perfect condition in barns or scrap yards. Also: the MGC GT Sebring, that was built for the 12 Hours of Sebring race.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009034146 +0200" stop="20261009041147 +0200">
-    <title>S03 : E71 Mobility in Eastern Europe - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>In the 1950s, companies like Tatra from Czechoslovakia introduced advanced, even pioneering automobiles. The clientele was exclusive, which is why now these streamlined cars are big rarities. We tracked down the owner of a 1937 Tatra T87.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009041148 +0200" stop="20261009043905 +0200">
-    <title>S02 : E51 Open Air Concert - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>As an homage to driving top-down we took a look at three of the most beautiful convertibles. The animalistic sound of the Audi S3 convertible's 4-cylinder is astonishing. But what about the Nissan 370 Z Roadster? Or Porsche's Boxster GTS?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009043906 +0200" stop="20261009050934 +0200">
-    <title>S01 : E17 Topless on the road - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>Convertibles suggest to the feeling of freedom while driving a car. We took a look at what Opel's Cascada and Adam convertible models had to offer. Also: what does the BMW 3 series Gran Turismo have in common with its bigger brother from the 5 series?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009050935 +0200" stop="20261009053719 +0200">
-    <title>S02 : E124 Special: 24h of Le Mans - Track Days - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Two weeks before the start of the 24 hours of Le Mans, all teams are busy testing their cars on the traditional long distance track in France. Bad weather, accidents and a lot of tension, we documented the official test days in 2013.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009053720 +0200" stop="20261009060700 +0200">
-    <title>S03 : E190 V8 Power - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>We took a look at Mercedes-Benz's first convertible model in their S-class. Also: for the Chevrolet Camaro's 50th anniversary in 2016 the brand released the sixth generation of their classic. And: a mountain cruise with the Corvette C7 convertible.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009060701 +0200" stop="20261009063502 +0200">
-    <title>S01 : E12 Episode 12 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Once again it was time for the VLN Endurance Racing Championship. While the drivers were doing their test laps, we had a look behind the scenes and explored what went on in the pit lanes.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009063503 +0200" stop="20261009065751 +0200">
-    <title>S01 : E16 Episode 16 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>In this episode we invite you to witness the progress of driver Uwe Nittle as he got ready for qualifying at the Truck Grand Prix.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009065752 +0200" stop="20261009072902 +0200">
-    <title>S01 : E01 Chevy Camaro vs Mercedes SLS AMG - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>Mylene Gomera and Saif Hattawi invite car freaks from the Middle East to show off their souped-up vehicles on the "Walk" at Jumeirah Beach in Dubai. In this episode, a Chevrolet Camaro competes against a Mercedes SLS AMG.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009072903 +0200" stop="20261009075946 +0200">
-    <title>S01 : E02 BMW X5 vs Mercedes SLK 230 - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>If you like souped-up and luxuriously equipped vehicles, Jumeirah Beach in Dubai is the place to be. There, the cars are judged and there is also something to win. This episode features a BMW X5 and a Mercedes SLK 230.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009075947 +0200" stop="20261009082810 +0200">
-    <title>S03 : E160 Road Stars - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The Silvretta Hochalpenstrasse in Austria is the ideal playground for the lightweight power packs Lotus Elise and Roding Roadster. Also: the elegant but still very powerful Porsche 911 Targa 4S.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009082811 +0200" stop="20261009085858 +0200">
-    <title>S02 : E106 Porsche to the Max - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Techart Grand GT, tuning od Porsche, to wzmocniona wersja Panamery. Jednak standardowy model GTS również ma swoje atuty. Patrick Simon zabrał tego potwora na tor. Dodatkowo: jubileuszowy model Ruf RT 35. A także: 911 Carrera 4.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009085859 +0200" stop="20261009092620 +0200">
-    <title>S01 : E05 BMW X6M vs Nissan Patrol - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>At Jumeirah Beach in Dubai, car owners can have their souped-up vehicles judged in three categories and win an overnight stay at the Sofitel Hotel. This time, a BMW X6M, a Ford F250 and a Nissan Patrol are in the running.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009092621 +0200" stop="20261009095439 +0200">
-    <title>S02 : E119 Open-top Top Dog - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>A cruise over the Alps to Italy in a Maserati GranCabrio MC. In addition: a Brit with a fiery temperament, the Jaguar XK-RS convertible with 550 hp. And: Mercedes AMG's SL models, uncompromising performance.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009095440 +0200" stop="20261009102958 +0200">
-    <title>S01 : E08 Lexus GSF vs McLaren MP4-12C - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>The competition for the coolest souped-up cars in the Middle East continues. The prize is an overnight stay for two at the Sofitel Jumeirah Beach. This time, the spotlight is on a Lexus GSF, a Ford Mustang and a McLaren MP4-12C.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009102959 +0200" stop="20261009110522 +0200">
-    <title>S01 : E07 Mercedes SLS vs Audi R8 - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>Mylene Gomera and Saif Hattawi once again invite the owners of the most extraordinary cars to Dubai, where they award points for speed, style and sound. This time, they will be joined by a limited edition Mercedes SLS and an Audi R8.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009110523 +0200" stop="20261009112859 +0200">
-    <title>S01 : E19 Episode 19 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>The roaring sounds of engines and exhausts usually dominate the Nuerburgring, but we focused on something a bit quieter this time. How about taking part in a 15 mile bike ride around the ring, or perhaps a 16 mile run?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009112900 +0200" stop="20261009115358 +0200">
-    <title>S01 : E21 Episode 21 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>In this episode, we focused on Phoenix Racing, the successful team from the Eifel Region that rocked the DTM.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009115359 +0200" stop="20261009122344 +0200">
-    <title>S01 : E19 Fiat Dino - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>Fiat Dino Spider to jeden z najpiękniejszych kabrioletów lat 60. Jego nienaganny design został stworzony przez Pininfarinę, a zbudowano tylko 525 egzemplarzy. Pod jego maską ryczy silnik V6 Ferrari.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009122345 +0200" stop="20261009125324 +0200">
-    <title>S02 : E60 French Classics - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>French manufacturers have also built milestones in automotive history in the past, including lesser-known brands such as Delage and Talbot, but also vehicles from Peugeot, Renault and Citroen.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009125325 +0200" stop="20261009132407 +0200">
-    <title>S03 : E56 Turbo Diesel Power - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>We took a look at Audi's latest generation of TDI engines and their RS5 TDI Concept. In addition we compared the advantages and disadvantages of the two main fossil fuels for cars, gasoline and diesel. And: the 2014 Porsche Cayenne Diesel.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009132408 +0200" stop="20261009135200 +0200">
-    <title>S02 : E52 The big journey - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>The Mercedes-AMG E63 S is a wolf in sheep's clothing. This station wagon has more power than the Nissan GTR 'Godzilla'. Also: the Porsche Panamera GTS feels at home on the motorway and on the race track. And: Audi's powerful all-purpose executive car RS6.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009135201 +0200" stop="20261009141830 +0200">
-    <title>S01 : E73 McLaren MP4 12C GT3 - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>McLaren's MP4 12C GT3 is as fast as a Formula One car. We explored how this super sports car came to be. Also: the German company Mechatronik specializes in restoring rare and classic cars like the Mercedes W111.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009141831 +0200" stop="20261009144604 +0200">
-    <title>S01 : E74 Supercars of the Frankfurt Motor Show - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>We took a look at the IAA Frankfurt 2011 highlights, like the new Porsche 911, Mercedes' SLS AMG Roadster, the Bentley Continental Convertible, a 1,100 hp monster from Croatia and others.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009144605 +0200" stop="20261009151640 +0200">
-    <title>S01 : E02 Salto Mortale - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>Bohaterowie Kaskaderzy stają przed nową misją: wykonanie salt na w powietrzu z kaskaderem za kierownicą kombi. Kaskaderzy Daniel i Lars prezentują znakomitą choreografię walki w spektakularnych scenach jazdy.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009151641 +0200" stop="20261009154806 +0200">
-    <title>S01 : E03 The Remote Control - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>Stuntman Tobi operates an Artega GT at full speed via remote control. This is just a warm-up before the big stunt, in which he drives a car up a steep ramp at 68 mph. The question is: How high can remote-controlled cars fly?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009154807 +0200" stop="20261009161157 +0200">
-    <title>S01 : E10 Episode 10 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Christian Menzel asked our presenter Miriam to participate in a driver safety training where he showed tips and tricks on what to do in emergency situations.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009161158 +0200" stop="20261009163759 +0200">
-    <title>S01 : E11 Episode 11 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Spring finally melted away the snow on the track and racing life returned to the Nuerburgring. Drivers with gasoline in their veins started chasing their cars around the ring again.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009163800 +0200" stop="20261009170538 +0200">
-    <title>S02 : E148 Drift! - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The Subaru BRZ provides a great feel for the road. In addition: the BMW 235i RS has a great rear wheel performance. And: the Porsche Cayman GTS is a car that makes you smile from the moment you step on the gas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009170539 +0200" stop="20261009173216 +0200">
-    <title>S01 : E80 Ferrari FF - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The Ferrari Four, also called Ferrari FF, is the first four-wheel family car from Maranello. Also: the BMW M5 shines both as a family and business car. And: the Mercedes-Benz SL is a roadster drivers' dream.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009173217 +0200" stop="20261009180152 +0200">
-    <title>S01 : E31 BMW F 800 R - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>Stunt world champion Chris Pfeiffer test drives the BMW F 800 R and explains why he is rather excited about the performance and handling of this robust and agile roadster. Also: a look behind the scenes of German helmet manufacturer Schuberth Helme's testing and development procedures. And: German actor Jürgen Vogel puts his new Ducati 1198 SP to the test at the Nürburgring.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009180153 +0200" stop="20261009183234 +0200">
-    <title>S01 : E40 Harley Sportster 1972 - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>Harley-Davidson add three additions to their model range of bikes: the motorized wheelie bike Sportster 72, the versatile Switchback Dyna, and the bad-boy ride „Softail Slim“. Also: two German bikers take a dusty adventure ride through Mexico on their BMW's. And: the Triumph Speedmaster, the British answer to Harley-Davidson's cruiser.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009183235 +0200" stop="20261009185733 +0200">
-    <title>S01 : E21 Episode 21 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>In this episode, we focused on Phoenix Racing, the successful team from the Eifel Region that rocked the DTM.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009185734 +0200" stop="20261009192537 +0200">
-    <title>S01 : E12 Episode 12 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Once again it was time for the VLN Endurance Racing Championship. While the drivers were doing their test laps, we had a look behind the scenes and explored what went on in the pit lanes.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009192538 +0200" stop="20261009195302 +0200">
-    <title>S03 : E162 Plug and Drive Deluxe - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>In 2014, Mercedes-Benz presented their first Plug-in Hybrid, the S500. When it comes to Bentley, a V8 engine means down-sizing. We took a look at the brand's Flying Spur model with a smaller engine. And: the 6th generation Maserati Quattroporte.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009195303 +0200" stop="20261009202204 +0200">
-    <title>S03 : E165 Tracktools - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Do you want to feel like a racing driver without being limited to a race track? If so, the British manufacturer Radical is the right choice, as the company builds race cars with road approval. Their RXC is a powerful and agile racer.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009202205 +0200" stop="20261009204923 +0200">
-    <title>S01 : E88 Mercedes-AMG G63 - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Racedriver Karim Al-Azhari presents his favorite car, a Ford GT. Also: a real monster on the road, the Mercedes-AMG G63. And: BMW's vision of open-top electric cars, the i8 Spyder concept car.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009204924 +0200" stop="20261009211447 +0200">
-    <title>S01 : E20 The Ugliest Cars - Top 10 Show</title>
-    <sub-title>Top 10 Show</sub-title>
-    <desc>The world of automobiles is also full of contrasts. There are fast and slow, beautiful and less beautiful models. We present our top 10 ugliest cars in the world.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009211448 +0200" stop="20261009214044 +0200">
-    <title>S01 : E29 The Very Best Car Nicknames - Top 10 Show</title>
-    <sub-title>Top 10 Show</sub-title>
-    <desc>Finding the right name for a car model often poses a challenge for the manufacturers' marketing departments. We take a look at our Top 10 of the best car names.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009214045 +0200" stop="20261009220806 +0200">
-    <title>S01 : E05 BMW X6M vs Nissan Patrol - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>At Jumeirah Beach in Dubai, car owners can have their souped-up vehicles judged in three categories and win an overnight stay at the Sofitel Hotel. This time, a BMW X6M, a Ford F250 and a Nissan Patrol are in the running.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009220807 +0200" stop="20261009224330 +0200">
-    <title>S01 : E07 Mercedes SLS vs Audi R8 - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>Mylene Gomera i Saif Hattawi ponownie zapraszają właścicieli najbardziej niezwykłych samochodów do Dubaju, gdzie przyznają punkty za prędkość, styl i brzmienie. Tym razem dołączą do nich limitowana edycja Mercedes SLS oraz Audi R8.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009224331 +0200" stop="20261009231320 +0200">
-    <title>S02 : E120 When Sports Meets Indulgence - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Luxury class grand tourers with four doors. Porsche introduced their Panamera as a Plugin Hybrid or equipped with new turbo engines. BMW responded with their M6 Gran Coupe. German engineering at its finest.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009231321 +0200" stop="20261009234410 +0200">
-    <title>S02 : E132 Hypercars - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>McLaren MP4 12C, Porsche 911 Turbo S i Mercedes SLS AMG GT to super sportowe samochody, które nie mają sobie równych. Wciskamy pedał w podłogę w tych ekscytujących i potężnych maszynach.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261009234411 +0200" stop="20261010000801 +0200">
-    <title>S01 : E10 Episode 10 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Christian Menzel asked our presenter Miriam to participate in a driver safety training where he showed tips and tricks on what to do in emergency situations.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010000802 +0200" stop="20261010003403 +0200">
-    <title>S01 : E11 Episode 11 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Wiosna w końcu stopiła śnieg na torze, a życie wyścigowe powróciło na Nürburgring. Kierowcy z benzyną w żyłach znów zaczęli gonić swoje samochody po torze.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010003404 +0200" stop="20261010010252 +0200">
-    <title>S02 : E21 Fire! - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>It's getting hot in this episode of Stunt Heroes. Stuntman Paul will be engulfed by flames as everything around him blows up in this dangerous fire stunt. The Action Concept team carefully prepares for this heated scene.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010010253 +0200" stop="20261010013127 +0200">
-    <title>S02 : E28 Alarm in the gravel pit - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>Bohaterowie kaskaderzy przekształcili żwirownię w swoje plac zabaw do kaskaderki. Tym razem motocykl bez kierowcy skacze przez rampę, testowany jest katapult dla ludzi, a w scenie walki próbowane jest nowe uderzenie przewrotne.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010013128 +0200" stop="20261010020240 +0200">
-    <title>S01 : E01 Chevy Camaro vs Mercedes SLS AMG - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>Mylene Gomera i Saif Hattawi zapraszają miłośników samochodów z Bliskiego Wschodu do zaprezentowania swoich zmodyfikowanych pojazdów na "Walk" w Jumeirah Beach w Dubaju. W tym odcinku Chevrolet Camaro rywalizuje z Mercedesem SLS AMG.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010020241 +0200" stop="20261010023324 +0200">
-    <title>S01 : E02 BMW X5 vs Mercedes SLK 230 - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>If you like souped-up and luxuriously equipped vehicles, Jumeirah Beach in Dubai is the place to be. There, the cars are judged and there is also something to win. This episode features a BMW X5 and a Mercedes SLK 230.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010023325 +0200" stop="20261010025916 +0200">
-    <title>S02 : E118 Batman's Dreams: Supercars in Acceleration - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The clash of the convertibles, the Nissan 370 Z in comparison to Porsche's Boxster S. Also: the exclusive one-off high-performance sports car Maybach Exelero. And: a dream of a sports car, a vehicle of superlatives, the Bugatti Veyron Vitesse.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010025917 +0200" stop="20261010032639 +0200">
-    <title>S02 : E144 Lifestyle SUVs - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>In Morocco, you can find the dream landscapes from 1001 nights. We took the Porsche Macan Turbo through the city of Marrakesh and its beautiful countryside. In addition: the BMW X 6M, one of the pioneers in the SUV coupe segment.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010032640 +0200" stop="20261010035625 +0200">
-    <title>S01 : E19 Fiat Dino - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>Fiat Dino Spider to jeden z najpiękniejszych kabrioletów lat 60. Jego nienaganny design został stworzony przez Pininfarinę, a zbudowano tylko 525 egzemplarzy. Pod jego maską ryczy silnik V6 Ferrari.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010035626 +0200" stop="20261010042605 +0200">
-    <title>S02 : E60 French Classics - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>French manufacturers have also built milestones in automotive history in the past, including lesser-known brands such as Delage and Talbot, but also vehicles from Peugeot, Renault and Citroen.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010042606 +0200" stop="20261010045648 +0200">
-    <title>S03 : E56 Turbo Diesel Power - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>Przyjrzeliśmy się najnowszej generacji silników TDI Audi oraz ich koncepcji RS5 TDI. Ponadto porównaliśmy zalety i wady dwóch głównych paliw kopalnych dla samochodów, benzyny i oleju napędowego. A także: 2014 Porsche Cayenne Diesel.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010045649 +0200" stop="20261010052441 +0200">
-    <title>S02 : E52 The big journey - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>The Mercedes-AMG E63 S is a wolf in sheep's clothing. This station wagon has more power than the Nissan GTR 'Godzilla'. Also: the Porsche Panamera GTS feels at home on the motorway and on the race track. And: Audi's powerful all-purpose executive car RS6.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010052442 +0200" stop="20261010055111 +0200">
-    <title>S01 : E73 McLaren MP4 12C GT3 - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>McLaren's MP4 12C GT3 is as fast as a Formula One car. We explored how this super sports car came to be. Also: the German company Mechatronik specializes in restoring rare and classic cars like the Mercedes W111.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010055112 +0200" stop="20261010061845 +0200">
-    <title>S01 : E74 Supercars of the Frankfurt Motor Show - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Przyjrzeliśmy się najważniejszym wydarzeniom IAA Frankfurt 2011, takim jak nowy Porsche 911, Roadster SLS AMG od Mercedesa, Bentley Continental Convertible, potwór o mocy 1100 KM z Chorwacji i inne.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010061846 +0200" stop="20261010064921 +0200">
-    <title>S01 : E02 Salto Mortale - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>The Stunt Heroes face a new mission: performing a front-flip through the air with a stuntman behind the wheel of an estate wagon. Stuntmen Daniel and Lars display a brilliant fight choreography in some spectacular driving scenes.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010064922 +0200" stop="20261010072047 +0200">
-    <title>S01 : E03 The Remote Control - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>Stuntman Tobi operates an Artega GT at full speed via remote control. This is just a warm-up before the big stunt, in which he drives a car up a steep ramp at 68 mph. The question is: How high can remote-controlled cars fly?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010072048 +0200" stop="20261010074438 +0200">
-    <title>S01 : E10 Episode 10 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Christian Menzel asked our presenter Miriam to participate in a driver safety training where he showed tips and tricks on what to do in emergency situations.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010074439 +0200" stop="20261010081040 +0200">
-    <title>S01 : E11 Episode 11 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Spring finally melted away the snow on the track and racing life returned to the Nuerburgring. Drivers with gasoline in their veins started chasing their cars around the ring again.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010081041 +0200" stop="20261010083817 +0200">
-    <title>S02 : E148 Drift! - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The Subaru BRZ provides a great feel for the road. In addition: the BMW 235i RS has a great rear wheel performance. And: the Porsche Cayman GTS is a car that makes you smile from the moment you step on the gas.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010083818 +0200" stop="20261010090457 +0200">
-    <title>S01 : E80 Ferrari FF - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The Ferrari Four, also called Ferrari FF, is the first four-wheel family car from Maranello. Also: the BMW M5 shines both as a family and business car. And: the Mercedes-Benz SL is a roadster drivers' dream.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010090458 +0200" stop="20261010093137 +0200">
-    <title>S01 : E90 Techart Cayenne Turbo Magnum - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Techart przekształca Porsche Cayenne Turbo w prawdziwego potwora o mocy ponad 600 KM. Ponadto: Nissan wystartuje w 24 godzinach Le Mans z samochodem przypominającym Batmobil. A także: BMW 6 serii Gran Coupe.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010093138 +0200" stop="20261010100113 +0200">
-    <title>S01 : E31 BMW F 800 R - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>Stunt world champion Chris Pfeiffer test drives the BMW F 800 R and explains why he is rather excited about the performance and handling of this robust and agile roadster. Also: a look behind the scenes of German helmet manufacturer Schuberth Helme's testing and development procedures. And: German actor Jürgen Vogel puts his new Ducati 1198 SP to the test at the Nürburgring.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010100114 +0200" stop="20261010103155 +0200">
-    <title>S01 : E40 Harley Sportster 1972 - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>Harley-Davidson add three additions to their model range of bikes: the motorized wheelie bike Sportster 72, the versatile Switchback Dyna, and the bad-boy ride „Softail Slim“. Also: two German bikers take a dusty adventure ride through Mexico on their BMW's. And: the Triumph Speedmaster, the British answer to Harley-Davidson's cruiser.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010103156 +0200" stop="20261010105919 +0200">
-    <title>S01 : E20 Episode 20 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>At the old-timer grand prix at the Nuerburgring you for example can see the Mercedes S with 160 horsepower that lead Rudolf Caracciola to victory in the 1927 opening race.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010105920 +0200" stop="20261010112418 +0200">
-    <title>S01 : E21 Episode 21 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>In this episode, we focused on Phoenix Racing, the successful team from the Eifel Region that rocked the DTM.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010112419 +0200" stop="20261010115205 +0200">
-    <title>S01 : E07 Porsche Carrera RS - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>In the early 1970s the Porsche Carrera RS was the fastest and most agile production sports car in Germany. Today the RS is a Porsche classic with highest acclaim.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010115206 +0200" stop="20261010122211 +0200">
-    <title>S03 : E82 Saalbach Classic 2014 - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>At the 2014 Saalbach Classic rally 80 teams raced their automobile rarities through the Austrian Alps. In addition: rally legend Walter Röhrl in a Porsche 911 RSR at the Cologne-Ahrweiler rally. And: the infamous Group B vehicle category.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010122212 +0200" stop="20261010125335 +0200">
-    <title>S01 : E08 Ready for Action - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>Behind the scenes of some of the exciting stunts at Action Concept, the biggest action movie production company in Europe. Also: Johannes and Ferdinand Stuck with the BMW Alpina D5 Twin Turbo at the test track. And: the Volkswagen Up city car.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010125336 +0200" stop="20261010132412 +0200">
-    <title>S01 : E21 All New! - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>Following the Porsche 911's anniversary we take a look back at this iconic model's history. Also: the world's first series-produced plug-in hybrid with a diesel engine, the Volvo V60. And: safety measures in the car world, from seatbelts to crash tests.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010132413 +0200" stop="20261010135134 +0200">
-    <title>S01 : E05 BMW X6M vs Nissan Patrol - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>At Jumeirah Beach in Dubai, car owners can have their souped-up vehicles judged in three categories and win an overnight stay at the Sofitel Hotel. This time, a BMW X6M, a Ford F250 and a Nissan Patrol are in the running.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010135135 +0200" stop="20261010142658 +0200">
-    <title>S01 : E07 Mercedes SLS vs Audi R8 - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>Mylene Gomera and Saif Hattawi once again invite the owners of the most extraordinary cars to Dubai, where they award points for speed, style and sound. This time, they will be joined by a limited edition Mercedes SLS and an Audi R8.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010142659 +0200" stop="20261010145648 +0200">
-    <title>S02 : E120 When Sports Meets Indulgence - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Luxury class grand tourers with four doors. Porsche introduced their Panamera as a Plugin Hybrid or equipped with new turbo engines. BMW responded with their M6 Gran Coupe. German engineering at its finest.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010145649 +0200" stop="20261010152738 +0200">
-    <title>S02 : E132 Hypercars - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The Mc Laren MP4 12C, the Porsche 911 Turbo S and the Mercedes SLS AMG GT are super sports cars that are second to none. We put the pedal to the metal in these exciting and powerful driving machines.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010152739 +0200" stop="20261010155129 +0200">
-    <title>S01 : E10 Episode 10 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Christian Menzel asked our presenter Miriam to participate in a driver safety training where he showed tips and tricks on what to do in emergency situations.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010155130 +0200" stop="20261010161731 +0200">
-    <title>S01 : E11 Episode 11 - Trackmasters</title>
-    <sub-title>Trackmasters</sub-title>
-    <desc>Spring finally melted away the snow on the track and racing life returned to the Nuerburgring. Drivers with gasoline in their veins started chasing their cars around the ring again.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010161732 +0200" stop="20261010164620 +0200">
-    <title>S02 : E21 Fire! - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>It's getting hot in this episode of Stunt Heroes. Stuntman Paul will be engulfed by flames as everything around him blows up in this dangerous fire stunt. The Action Concept team carefully prepares for this heated scene.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010164621 +0200" stop="20261010171457 +0200">
-    <title>S02 : E28 Alarm in the gravel pit - Stunt Heroes</title>
-    <sub-title>Stunt Heroes</sub-title>
-    <desc>The Stunt Heroes turned a gravel quarry into their own stunt playground. This time, a motorbike without a driver flies over a ramp, a catapult for humans is tested and a new rollover punch is tried out in a fight scene.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010171458 +0200" stop="20261010174610 +0200">
-    <title>S01 : E01 Chevy Camaro vs Mercedes SLS AMG - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>Mylene Gomera i Saif Hattawi zapraszają miłośników samochodów z Bliskiego Wschodu do zaprezentowania swoich zmodyfikowanych pojazdów na "Walk" w Jumeirah Beach w Dubaju. W tym odcinku Chevrolet Camaro rywalizuje z Mercedesem SLS AMG.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010174611 +0200" stop="20261010181654 +0200">
-    <title>S01 : E02 BMW X5 vs Mercedes SLK 230 - Pon tu coche en TV</title>
-    <sub-title>Pon tu coche en TV</sub-title>
-    <desc>If you like souped-up and luxuriously equipped vehicles, Jumeirah Beach in Dubai is the place to be. There, the cars are judged and there is also something to win. This episode features a BMW X5 and a Mercedes SLK 230.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010181655 +0200" stop="20261010184244 +0200">
-    <title>S02 : E118 Batman's Dreams: Supercars in Acceleration - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Konfrontacja kabrioletów, Nissan 370 Z w porównaniu do Porsche Boxster S. A także: ekskluzywny jednorazowy supersamochód wysokiej wydajności Maybach Exelero. I: marzenie o supersamochodzie, pojazd superlatyw, Bugatti Veyron Vitesse.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010184245 +0200" stop="20261010190952 +0200">
-    <title>S03 : E156 Sports SUVs - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>Three extraordinarily sporty SUVs are the Porsche Macan Turbo, the Mercedes GLA 45 AMG and the Audi RSQ3. Each of these is able to easily cope with each season of the year and, in regards to performance, could be mistaken for a sports car.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010190953 +0200" stop="20261010193442 +0200">
-    <title>S02 : E117 Million-Dollar Toys from the Middle East - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>The McLaren MP4 12C Spider, one of many high-performance sports cars featured at the Doha Motor Show in Qatar. Also: the creations of manufacturers like Lamborghini, Bertone or Porsche but also the first Arab super sports car, the Lykan HyperSport.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010193443 +0200" stop="20261010200446 +0200">
-    <title>S03 : E71 Mobility in Eastern Europe - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>W latach 50. XX wieku firmy takie jak Tatra z Czechosłowacji wprowadziły zaawansowane, wręcz pionierskie automobily. Klientela była ekskluzywna, dlatego teraz te opływowe samochody są wielkimi rarytasami. Odnaleźliśmy właściciela Tatr T87 z 1937 roku.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010200447 +0200" stop="20261010203354 +0200">
-    <title>S02 : E31 Women and their Classic Cars - Classic Ride</title>
-    <sub-title>Classic Ride</sub-title>
-    <desc>A small group of car enthusiastic ladies offers resistance in the otherwise man dominated classic car world. One of them is Johanna. The 24-year-old loves her 1969 Corvette more than everything.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010203355 +0200" stop="20261010210317 +0200">
-    <title>S01 : E22 Cruising - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>We explored how the Z4 Roadster feels as a cabriolet. Also: the small company Boom Trikes Automotive have become Europe's leading trike manufacturer. And: cruising through Los Angeles in a Volkswagen Beetle convertible.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010210318 +0200" stop="20261010213326 +0200">
-    <title>S03 : E57 Lightweight Cars - El coche perfecto</title>
-    <sub-title>El coche perfecto</sub-title>
-    <desc>The BMW i8 was one of the first sports cars with some sort of a green image. In addition we took two fly-weight sports cars, the Lotus Elise and the Roding Roadster, to one of the most beautiful alpine pass roads.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010213327 +0200" stop="20261010220410 +0200">
-    <title>S02 : E20 SUV Brothers - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>Three brothers from the same Volkswagen production platform: the Skoda Kodiaq provides room for seven people, the Volkswagen Tiguan is a bit more expensive but offers a broader range of engines, and Seat infuse the SUV segment with Spanish passion.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010220411 +0200" stop="20261010223353 +0200">
-    <title>S02 : E08 Totally Jeep - 4x4</title>
-    <sub-title>4x4</sub-title>
-    <desc>In 2016, the readers of the German "Off Road" magazine once again awarded the Jeep Wrangler as their favourite 4x4. Also: at the "Meet'n'Jeep" Jeep enthusiasts drive their treasures through slush and mud. Also: test driving the Jeep Cherokee.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010223354 +0200" stop="20261010230057 +0200">
-    <title>S01 : E28 Blacktrail E-Bike - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>The Blacktrail by PG Bikes is the fastest and lightest E-bike in the world, but also the most expensive. What's behind this exciting power package from Regensburg, Germany? Also: is BMW's new flagship bike, the K 1600 GT with 6 cylinders really worth its price and is it able to stand up to the competition by Honda, Kawasaki and Benelli?</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010230058 +0200" stop="20261010233031 +0200">
-    <title>S01 : E31 BMW F 800 R - Motocicletas</title>
-    <sub-title>Motocicletas</sub-title>
-    <desc>Mistrz stuntów Chris Pfeiffer testuje BMW F 800 R i wyjaśnia, dlaczego jest bardzo podekscytowany osiągami i prowadzeniem tego solidnego i zwinnego roadstera. Dodatkowo: spojrzenie za kulisy testów i procedur rozwojowych niemieckiego producenta kasków Schuberth Helme. A także: niemiecki aktor Jürgen Vogel testuje swoją nową Ducati 1198 SP na Nürburgringu.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010233032 +0200" stop="20261010235659 +0200">
-    <title>S01 : E73 McLaren MP4 12C GT3 - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>McLaren's MP4 12C GT3 is as fast as a Formula One car. We explored how this super sports car came to be. Also: the German company Mechatronik specializes in restoring rare and classic cars like the Mercedes W111.</desc>
-  </programme>
-  <programme channel="wedotv-amor" start="20261010235700 +0200" stop="20261011002433 +0200">
-    <title>S01 : E74 Supercars of the Frankfurt Motor Show - Supercoches</title>
-    <sub-title>Supercoches</sub-title>
-    <desc>We took a look at the IAA Frankfurt 2011 highlights, like the new Porsche 911, Mercedes' SLS AMG Roadster, the Bentley Continental Convertible, a 1,100 hp monster from Croatia and others.</desc>
+  <programme channel="wedotv-amor" start="20261006235848 +0200" stop="20261007005022 +0200">
+    <title>Abigail - S03:E028 - Episode 28</title>
+    <desc>Abigail le comenta sin piedad a Carlota su deseo de llevarse a Cheito y Mariana durante un año a Puerto Rico. Daniel sigiloso se hace presente en la habitación de Maria Clara mientras ésta duerme.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007005023 +0200" stop="20261007014124 +0200">
+    <title>Abigail - S03:E029 - Episode 29</title>
+    <desc>María Clara vive momentos de terror tratando de librarse del fuego que la rodea. Mariana logra escapar de Látigo corriendo hacia la calle. Carlos Alfredo recibe una amenaza de muerte a Abigail por parte de Látigo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007014125 +0200" stop="20261007023249 +0200">
+    <title>S01 : E117 Corazón Traicionado - S01:E117 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto tiene un momento cercano con Norma, Lorena ya le contó todo y él quiere saber los detalles. Norma le relata todo lo que sabe y las ganas que tiene de irse lejos por el terror que está viviendo. Él le promete que nada le pasará, que la protegerá; Gertrudis los encuentra juntos y se impacta</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007023250 +0200" stop="20261007032415 +0200">
+    <title>S01 : E117 Corazón Traicionado - S01:E117 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto tiene un momento cercano con Norma, Lorena ya le contó todo y él quiere saber los detalles. Norma le relata todo lo que sabe y las ganas que tiene de irse lejos por el terror que está viviendo. Él le promete que nada le pasará, que la protegerá; Gertrudis los encuentra juntos y se impacta</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007032416 +0200" stop="20261007042002 +0200">
+    <title>S01 : E50 El Desprecio - S01:E50 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Clara y Raúl están explicándole a Rafael que las cosas no pueden ser como él desea. Llega Gabriel a buscar a Clara para un viaje importante.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007042003 +0200" stop="20261007051434 +0200">
+    <title>S01 : E51 El Desprecio - S01:E51 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Bernice observa fijamente una navaja, si Israel no le permite ser feliz al lado del hombre que ama, no le interesa seguir viviendo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007051435 +0200" stop="20261007061014 +0200">
+    <title>S01 : E99 Te Tengo en Salsa - S01:E99 - Te Tengo en Salsa</title>
+    <sub-title>Te Tengo en Salsa</sub-title>
+    <desc>César Román desea felicidad a los nuevos esposos, pero Santiago -la nota discordante- al brindar por una felicidad que dure hasta que Salvatore Perroni los destruya en el juicio.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007061015 +0200" stop="20261007070626 +0200">
+    <title>S01 : E01 La Trepadora - S01:E001 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria Guanipa, asegura ante Genara que es la dueña y señora de Catarrana. Hilario Guanipa ordena a sus peones derribar la alambrada que delimita su hacienda porque midieron mal los linderos. Yosmir y Eugenia Alcoy del Casal, la hija menor de Fernanda, se conocen casualmente, pero el encuentro es desafortunado para el muchacho. Pablo va a dar un paseo a caballo, pero el animal sale a toda carrera sin que él pueda controlarlo. Victoria le da alcance al caballo donde va Pablo y lo detiene la pareja se simpatiza de inmediato, él se presenta como Pablo Martínez. Pablo advierte a Felipe que nadie debe saber que él es realmente Nicolás Del Casal.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007070627 +0200" stop="20261007080007 +0200">
+    <title>S01 : E98 Piel Salvaje - S01:E98 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Patricia aterrada, porque Celso quiere matar a su hijo Gregorio. Fausto molesto ordena vigilarla. Camila, cuenta a la Madre Isabel su tristeza por no haber conocido a su mamá ni en fotos. Se comunica con su primo Henry y éste le informa una dirección a la que decide asistir y también Max acude a una extraña llamada. Elda, recibe flores de Alfredo, teme que Luciano la descubra.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007080008 +0200" stop="20261007085132 +0200">
+    <title>S01 : E117 Corazón Traicionado - S01:E117 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto tiene un momento cercano con Norma, Lorena ya le contó todo y él quiere saber los detalles. Norma le relata todo lo que sabe y las ganas que tiene de irse lejos por el terror que está viviendo. Él le promete que nada le pasará, que la protegerá; Gertrudis los encuentra juntos y se impacta</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007085133 +0200" stop="20261007094557 +0200">
+    <title>S01 : E118 Corazón Traicionado - S01:E118 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Omar y su Jefe exigen hacer la reconstrucción de los hechos - Patricia habla con Lorena y le pide que le dé una nueva oportunidad a Alberto, pues sabe que ellos aún se aman - Claudio narra la supuesta forma en que sucedieron las cosas, el día de la muerte de Paco; pero Norma no aguanta más tanta falsedad e interrumpe la reconstrucción gritando que todo lo que Claudio dijo es una gran mentira.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007094558 +0200" stop="20261007104028 +0200">
+    <title>S01 : E51 El Desprecio - S01:E51 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Bernice observa fijamente una navaja, si Israel no le permite ser feliz al lado del hombre que ama, no le interesa seguir viviendo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007104029 +0200" stop="20261007113638 +0200">
+    <title>S01 : E52 El Desprecio - S01:E52 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Clara Inés conversa por teléfono con Cirilo. Sin querer Raúl escucha cuando ella menciona que su hermana Bernice intentó suicidarse.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007113639 +0200" stop="20261007123250 +0200">
+    <title>S01 : E01 La Trepadora - S01:E001 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria Guanipa, asegura ante Genara que es la dueña y señora de Catarrana. Hilario Guanipa ordena a sus peones derribar la alambrada que delimita su hacienda porque midieron mal los linderos. Yosmir y Eugenia Alcoy del Casal, la hija menor de Fernanda, se conocen casualmente, pero el encuentro es desafortunado para el muchacho. Pablo va a dar un paseo a caballo, pero el animal sale a toda carrera sin que él pueda controlarlo. Victoria le da alcance al caballo donde va Pablo y lo detiene la pareja se simpatiza de inmediato, él se presenta como Pablo Martínez. Pablo advierte a Felipe que nadie debe saber que él es realmente Nicolás Del Casal.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007123251 +0200" stop="20261007132335 +0200">
+    <title>S01 : E02 La Trepadora - S01:E002 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria que está desnuda explica a Pablo (Nicolás) por qué se quedó sin ropa; el joven le da su camisa para que pueda salir del río. Hilario aprovecha cualquier oportunidad para galantear a Florencia. Por órdenes de Hilario, Zambrano a compaña a Pablo y Felipe en la cacería, pues debe vigilarlos. Victoria reta a Pablo a demostrar su puntería; él quiere como premio un beso de ella. Rosendo asegura a Florencia que a Hilario Guanipa a veces es mejor tenerlo lejos.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007132336 +0200" stop="20261007141217 +0200">
+    <title>S01 : E99 Piel Salvaje - S01:E99 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Fernando amenaza a Jeli con quitarle al niño, pero Leandro le advierte que él es su padre. Fausto espera a su hijo Gregorio, lo golpea, lo bota de la casa y decide quitarle todas sus pertenencias y beneficios. Ezequiel opta por encerrar a Julia; Gregorio viene a llevarse a su esposa, los encuentra Celso, enfurecido y drogado, y los ataca hiriendo a la joven.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007141218 +0200" stop="20261007150327 +0200">
+    <title>S01 : E100 Piel Salvaje - S01:E100 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Celso desquiciado veja y se burla de Fausto, éste dispara al pecho del amante que cae al instante. Fausto va hacia su oficina, diciendo a todos que no ha pasado nada. Camila, en el lugar de los hechos, trata de convencer a Patricia que huya pues todo indica que ella es la asesina de Celso.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007150328 +0200" stop="20261007155429 +0200">
+    <title>Abigail - S03:E029 - Episode 29</title>
+    <desc>María Clara vive momentos de terror tratando de librarse del fuego que la rodea. Mariana logra escapar de Látigo corriendo hacia la calle. Carlos Alfredo recibe una amenaza de muerte a Abigail por parte de Látigo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007155430 +0200" stop="20261007164558 +0200">
+    <title>Abigail - S03:E030 - Episode 30</title>
+    <desc>María Begoña sin piedad le pregunta a su gemela si sigue enamorada de Carlos Fernando. Mariana desgarrada le suplica a su madre que le cuente toda la verdad a su padre. Abigail está desconsolada con el desprecio de Carlos Alfredo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007164559 +0200" stop="20261007173723 +0200">
+    <title>S01 : E117 Corazón Traicionado - S01:E117 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto tiene un momento cercano con Norma, Lorena ya le contó todo y él quiere saber los detalles. Norma le relata todo lo que sabe y las ganas que tiene de irse lejos por el terror que está viviendo. Él le promete que nada le pasará, que la protegerá; Gertrudis los encuentra juntos y se impacta</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007173724 +0200" stop="20261007182849 +0200">
+    <title>S01 : E117 Corazón Traicionado - S01:E117 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto tiene un momento cercano con Norma, Lorena ya le contó todo y él quiere saber los detalles. Norma le relata todo lo que sabe y las ganas que tiene de irse lejos por el terror que está viviendo. Él le promete que nada le pasará, que la protegerá; Gertrudis los encuentra juntos y se impacta</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007182850 +0200" stop="20261007192320 +0200">
+    <title>S01 : E51 El Desprecio - S01:E51 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Bernice observa fijamente una navaja, si Israel no le permite ser feliz al lado del hombre que ama, no le interesa seguir viviendo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007192321 +0200" stop="20261007201930 +0200">
+    <title>S01 : E52 El Desprecio - S01:E52 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Clara Inés conversa por teléfono con Cirilo. Sin querer Raúl escucha cuando ella menciona que su hermana Bernice intentó suicidarse.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007201931 +0200" stop="20261007211756 +0200">
+    <title>S01 : E01 La Trepadora - S01:E001 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria Guanipa, asegura ante Genara que es la dueña y señora de Catarrana. Hilario Guanipa ordena a sus peones derribar la alambrada que delimita su hacienda porque midieron mal los linderos. Yosmir y Eugenia Alcoy del Casal, la hija menor de Fernanda, se conocen casualmente, pero el encuentro es desafortunado para el muchacho. Pablo va a dar un paseo a caballo, pero el animal sale a toda carrera sin que él pueda controlarlo. Victoria le da alcance al caballo donde va Pablo y lo detiene la pareja se simpatiza de inmediato, él se presenta como Pablo Martínez. Pablo advierte a Felipe que nadie debe saber que él es realmente Nicolás Del Casal.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007211757 +0200" stop="20261007221056 +0200">
+    <title>S01 : E02 La Trepadora - S01:E002 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria que está desnuda explica a Pablo (Nicolás) por qué se quedó sin ropa; el joven le da su camisa para que pueda salir del río. Hilario aprovecha cualquier oportunidad para galantear a Florencia. Por órdenes de Hilario, Zambrano a compaña a Pablo y Felipe en la cacería, pues debe vigilarlos. Victoria reta a Pablo a demostrar su puntería; él quiere como premio un beso de ella. Rosendo asegura a Florencia que a Hilario Guanipa a veces es mejor tenerlo lejos.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007221057 +0200" stop="20261007225937 +0200">
+    <title>S01 : E99 Piel Salvaje - S01:E99 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Fernando amenaza a Jeli con quitarle al niño, pero Leandro le advierte que él es su padre. Fausto espera a su hijo Gregorio, lo golpea, lo bota de la casa y decide quitarle todas sus pertenencias y beneficios. Ezequiel opta por encerrar a Julia; Gregorio viene a llevarse a su esposa, los encuentra Celso, enfurecido y drogado, y los ataca hiriendo a la joven.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007225938 +0200" stop="20261007235047 +0200">
+    <title>S01 : E100 Piel Salvaje - S01:E100 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Celso desquiciado veja y se burla de Fausto, éste dispara al pecho del amante que cae al instante. Fausto va hacia su oficina, diciendo a todos que no ha pasado nada. Camila, en el lugar de los hechos, trata de convencer a Patricia que huya pues todo indica que ella es la asesina de Celso.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261007235048 +0200" stop="20261008004149 +0200">
+    <title>Abigail - S03:E029 - Episode 29</title>
+    <desc>María Clara vive momentos de terror tratando de librarse del fuego que la rodea. Mariana logra escapar de Látigo corriendo hacia la calle. Carlos Alfredo recibe una amenaza de muerte a Abigail por parte de Látigo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008004150 +0200" stop="20261008013318 +0200">
+    <title>Abigail - S03:E030 - Episode 30</title>
+    <desc>María Begoña sin piedad le pregunta a su gemela si sigue enamorada de Carlos Fernando. Mariana desgarrada le suplica a su madre que le cuente toda la verdad a su padre. Abigail está desconsolada con el desprecio de Carlos Alfredo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008013319 +0200" stop="20261008022443 +0200">
+    <title>S01 : E117 Corazón Traicionado - S01:E117 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto tiene un momento cercano con Norma, Lorena ya le contó todo y él quiere saber los detalles. Norma le relata todo lo que sabe y las ganas que tiene de irse lejos por el terror que está viviendo. Él le promete que nada le pasará, que la protegerá; Gertrudis los encuentra juntos y se impacta</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008022444 +0200" stop="20261008031609 +0200">
+    <title>S01 : E117 Corazón Traicionado - S01:E117 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto tiene un momento cercano con Norma, Lorena ya le contó todo y él quiere saber los detalles. Norma le relata todo lo que sabe y las ganas que tiene de irse lejos por el terror que está viviendo. Él le promete que nada le pasará, que la protegerá; Gertrudis los encuentra juntos y se impacta</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008031610 +0200" stop="20261008041040 +0200">
+    <title>S01 : E51 El Desprecio - S01:E51 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Bernice observa fijamente una navaja, si Israel no le permite ser feliz al lado del hombre que ama, no le interesa seguir viviendo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008041041 +0200" stop="20261008050650 +0200">
+    <title>S01 : E52 El Desprecio - S01:E52 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Clara Inés conversa por teléfono con Cirilo. Sin querer Raúl escucha cuando ella menciona que su hermana Bernice intentó suicidarse.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008050651 +0200" stop="20261008060516 +0200">
+    <title>S01 : E01 La Trepadora - S01:E001 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria Guanipa, asegura ante Genara que es la dueña y señora de Catarrana. Hilario Guanipa ordena a sus peones derribar la alambrada que delimita su hacienda porque midieron mal los linderos. Yosmir y Eugenia Alcoy del Casal, la hija menor de Fernanda, se conocen casualmente, pero el encuentro es desafortunado para el muchacho. Pablo va a dar un paseo a caballo, pero el animal sale a toda carrera sin que él pueda controlarlo. Victoria le da alcance al caballo donde va Pablo y lo detiene la pareja se simpatiza de inmediato, él se presenta como Pablo Martínez. Pablo advierte a Felipe que nadie debe saber que él es realmente Nicolás Del Casal.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008060517 +0200" stop="20261008065816 +0200">
+    <title>S01 : E02 La Trepadora - S01:E002 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria que está desnuda explica a Pablo (Nicolás) por qué se quedó sin ropa; el joven le da su camisa para que pueda salir del río. Hilario aprovecha cualquier oportunidad para galantear a Florencia. Por órdenes de Hilario, Zambrano a compaña a Pablo y Felipe en la cacería, pues debe vigilarlos. Victoria reta a Pablo a demostrar su puntería; él quiere como premio un beso de ella. Rosendo asegura a Florencia que a Hilario Guanipa a veces es mejor tenerlo lejos.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008065817 +0200" stop="20261008080007 +0200">
+    <title>S01 : E99 Piel Salvaje - S01:E99 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Fernando amenaza a Jeli con quitarle al niño, pero Leandro le advierte que él es su padre. Fausto espera a su hijo Gregorio, lo golpea, lo bota de la casa y decide quitarle todas sus pertenencias y beneficios. Ezequiel opta por encerrar a Julia; Gregorio viene a llevarse a su esposa, los encuentra Celso, enfurecido y drogado, y los ataca hiriendo a la joven.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008080008 +0200" stop="20261008085431 +0200">
+    <title>S01 : E118 Corazón Traicionado - S01:E118 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Omar y su Jefe exigen hacer la reconstrucción de los hechos - Patricia habla con Lorena y le pide que le dé una nueva oportunidad a Alberto, pues sabe que ellos aún se aman - Claudio narra la supuesta forma en que sucedieron las cosas, el día de la muerte de Paco; pero Norma no aguanta más tanta falsedad e interrumpe la reconstrucción gritando que todo lo que Claudio dijo es una gran mentira.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008085432 +0200" stop="20261008094902 +0200">
+    <title>S01 : E119 Corazón Traicionado - S01:E119 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>María Lourdes comparece ante el Juez Echeverri y se entrega por el delito de corrupción y aceptar sobornos de Gertrudis; entrega una carpeta con documentos que prueban lo que dice para hundir a la señora Corona con ella - Gertrudis se burla de las acusaciones de Alberto y niega, una vez más, ser una asesina. Alberto se va a la biblioteca, no puede vivir sabiendo lo que su madre hizo y no es capaz de aceptar. Se escucha un disparo y todo parece indicar que Alberto se suicidó. Lorena, enardecida, culpa a Gertrudis de lo sucedido y el Jefe corrobora la muerte de su hijo. Gertrudis cae de rodillas, destrozada, gritando como fiera herida.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008094903 +0200" stop="20261008104511 +0200">
+    <title>S01 : E52 El Desprecio - S01:E52 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Clara Inés conversa por teléfono con Cirilo. Sin querer Raúl escucha cuando ella menciona que su hermana Bernice intentó suicidarse.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008104512 +0200" stop="20261008114120 +0200">
+    <title>S01 : E53 El Desprecio - S01:E53 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Acudiendo al llamado de Israel, Clara Inés y Raúl se tensan al desconocer de qué verdad el hombre les quiere hablar.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008114121 +0200" stop="20261008123205 +0200">
+    <title>S01 : E02 La Trepadora - S01:E002 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria que está desnuda explica a Pablo (Nicolás) por qué se quedó sin ropa; el joven le da su camisa para que pueda salir del río. Hilario aprovecha cualquier oportunidad para galantear a Florencia. Por órdenes de Hilario, Zambrano a compaña a Pablo y Felipe en la cacería, pues debe vigilarlos. Victoria reta a Pablo a demostrar su puntería; él quiere como premio un beso de ella. Rosendo asegura a Florencia que a Hilario Guanipa a veces es mejor tenerlo lejos.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008123206 +0200" stop="20261008132255 +0200">
+    <title>S01 : E03 La Trepadora - S01:E003 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario advierte a Victoria que no confía en Pablo porque presiente que el joven oculta algo. Ante una indiscreción de Felipe; a Pablo no le queda más remedio que revelarle a Hansen que él es Nicolás Del Casal. Nicolás está decidido a vengarse de Hilario Guanipa por haber matado a su padre. Victoria lee una nota que le dejara Pablo (Nicolás) asegurándole que volverán a verse y pidiéndole que lo espere.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008132256 +0200" stop="20261008141406 +0200">
+    <title>S01 : E100 Piel Salvaje - S01:E100 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Celso desquiciado veja y se burla de Fausto, éste dispara al pecho del amante que cae al instante. Fausto va hacia su oficina, diciendo a todos que no ha pasado nada. Camila, en el lugar de los hechos, trata de convencer a Patricia que huya pues todo indica que ella es la asesina de Celso.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008141407 +0200" stop="20261008150507 +0200">
+    <title>S01 : E101 Piel Salvaje - S01:E101 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Patricia, llora, negando haber matado a Celso. Fausto manipula a sus hijos para convencerlos de que su madre es la asesina y debe entregarse. Camila declara muy elocuente su versión de los hechos, y luego cuenta a Ezequiel que mintió para hacer pagar a Patricia por un delito que no cometió, tal cual se lo hicieron a su madre.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008150508 +0200" stop="20261008155636 +0200">
+    <title>Abigail - S03:E030 - Episode 30</title>
+    <desc>María Begoña sin piedad le pregunta a su gemela si sigue enamorada de Carlos Fernando. Mariana desgarrada le suplica a su madre que le cuente toda la verdad a su padre. Abigail está desconsolada con el desprecio de Carlos Alfredo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008155637 +0200" stop="20261008164927 +0200">
+    <title>Abigail - S03:E031 - Episode 31</title>
+    <desc>María Begoña amenaza de muerte a Lucía. Bárbara antes de irse del país hace su último intento por conseguir el perdón de Abigail. Bertha sigue con actitud despectiva hacia Rosalba. Abigail le dice a Carlos Alfredo que su hijo vive.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008164928 +0200" stop="20261008174352 +0200">
+    <title>S01 : E118 Corazón Traicionado - S01:E118 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Omar y su Jefe exigen hacer la reconstrucción de los hechos - Patricia habla con Lorena y le pide que le dé una nueva oportunidad a Alberto, pues sabe que ellos aún se aman - Claudio narra la supuesta forma en que sucedieron las cosas, el día de la muerte de Paco; pero Norma no aguanta más tanta falsedad e interrumpe la reconstrucción gritando que todo lo que Claudio dijo es una gran mentira.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008174353 +0200" stop="20261008183816 +0200">
+    <title>S01 : E118 Corazón Traicionado - S01:E118 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Omar y su Jefe exigen hacer la reconstrucción de los hechos - Patricia habla con Lorena y le pide que le dé una nueva oportunidad a Alberto, pues sabe que ellos aún se aman - Claudio narra la supuesta forma en que sucedieron las cosas, el día de la muerte de Paco; pero Norma no aguanta más tanta falsedad e interrumpe la reconstrucción gritando que todo lo que Claudio dijo es una gran mentira.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008183817 +0200" stop="20261008193425 +0200">
+    <title>S01 : E52 El Desprecio - S01:E52 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Clara Inés conversa por teléfono con Cirilo. Sin querer Raúl escucha cuando ella menciona que su hermana Bernice intentó suicidarse.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008193426 +0200" stop="20261008203034 +0200">
+    <title>S01 : E53 El Desprecio - S01:E53 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Acudiendo al llamado de Israel, Clara Inés y Raúl se tensan al desconocer de qué verdad el hombre les quiere hablar.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008203035 +0200" stop="20261008212333 +0200">
+    <title>S01 : E02 La Trepadora - S01:E002 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria que está desnuda explica a Pablo (Nicolás) por qué se quedó sin ropa; el joven le da su camisa para que pueda salir del río. Hilario aprovecha cualquier oportunidad para galantear a Florencia. Por órdenes de Hilario, Zambrano a compaña a Pablo y Felipe en la cacería, pues debe vigilarlos. Victoria reta a Pablo a demostrar su puntería; él quiere como premio un beso de ella. Rosendo asegura a Florencia que a Hilario Guanipa a veces es mejor tenerlo lejos.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008212334 +0200" stop="20261008221638 +0200">
+    <title>S01 : E03 La Trepadora - S01:E003 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario advierte a Victoria que no confía en Pablo porque presiente que el joven oculta algo. Ante una indiscreción de Felipe; a Pablo no le queda más remedio que revelarle a Hansen que él es Nicolás Del Casal. Nicolás está decidido a vengarse de Hilario Guanipa por haber matado a su padre. Victoria lee una nota que le dejara Pablo (Nicolás) asegurándole que volverán a verse y pidiéndole que lo espere.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008221639 +0200" stop="20261008230748 +0200">
+    <title>S01 : E100 Piel Salvaje - S01:E100 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Celso desquiciado veja y se burla de Fausto, éste dispara al pecho del amante que cae al instante. Fausto va hacia su oficina, diciendo a todos que no ha pasado nada. Camila, en el lugar de los hechos, trata de convencer a Patricia que huya pues todo indica que ella es la asesina de Celso.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008230749 +0200" stop="20261008235850 +0200">
+    <title>S01 : E101 Piel Salvaje - S01:E101 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Patricia, llora, negando haber matado a Celso. Fausto manipula a sus hijos para convencerlos de que su madre es la asesina y debe entregarse. Camila declara muy elocuente su versión de los hechos, y luego cuenta a Ezequiel que mintió para hacer pagar a Patricia por un delito que no cometió, tal cual se lo hicieron a su madre.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261008235851 +0200" stop="20261009005018 +0200">
+    <title>Abigail - S03:E030 - Episode 30</title>
+    <desc>María Begoña sin piedad le pregunta a su gemela si sigue enamorada de Carlos Fernando. Mariana desgarrada le suplica a su madre que le cuente toda la verdad a su padre. Abigail está desconsolada con el desprecio de Carlos Alfredo.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009005019 +0200" stop="20261009014310 +0200">
+    <title>Abigail - S03:E031 - Episode 31</title>
+    <desc>María Begoña amenaza de muerte a Lucía. Bárbara antes de irse del país hace su último intento por conseguir el perdón de Abigail. Bertha sigue con actitud despectiva hacia Rosalba. Abigail le dice a Carlos Alfredo que su hijo vive.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009014311 +0200" stop="20261009023734 +0200">
+    <title>S01 : E118 Corazón Traicionado - S01:E118 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Omar y su Jefe exigen hacer la reconstrucción de los hechos - Patricia habla con Lorena y le pide que le dé una nueva oportunidad a Alberto, pues sabe que ellos aún se aman - Claudio narra la supuesta forma en que sucedieron las cosas, el día de la muerte de Paco; pero Norma no aguanta más tanta falsedad e interrumpe la reconstrucción gritando que todo lo que Claudio dijo es una gran mentira.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009023735 +0200" stop="20261009033158 +0200">
+    <title>S01 : E118 Corazón Traicionado - S01:E118 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Omar y su Jefe exigen hacer la reconstrucción de los hechos - Patricia habla con Lorena y le pide que le dé una nueva oportunidad a Alberto, pues sabe que ellos aún se aman - Claudio narra la supuesta forma en que sucedieron las cosas, el día de la muerte de Paco; pero Norma no aguanta más tanta falsedad e interrumpe la reconstrucción gritando que todo lo que Claudio dijo es una gran mentira.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009033159 +0200" stop="20261009042808 +0200">
+    <title>S01 : E52 El Desprecio - S01:E52 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Clara Inés conversa por teléfono con Cirilo. Sin querer Raúl escucha cuando ella menciona que su hermana Bernice intentó suicidarse.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009042809 +0200" stop="20261009052416 +0200">
+    <title>S01 : E53 El Desprecio - S01:E53 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Acudiendo al llamado de Israel, Clara Inés y Raúl se tensan al desconocer de qué verdad el hombre les quiere hablar.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009052417 +0200" stop="20261009061716 +0200">
+    <title>S01 : E02 La Trepadora - S01:E002 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria que está desnuda explica a Pablo (Nicolás) por qué se quedó sin ropa; el joven le da su camisa para que pueda salir del río. Hilario aprovecha cualquier oportunidad para galantear a Florencia. Por órdenes de Hilario, Zambrano a compaña a Pablo y Felipe en la cacería, pues debe vigilarlos. Victoria reta a Pablo a demostrar su puntería; él quiere como premio un beso de ella. Rosendo asegura a Florencia que a Hilario Guanipa a veces es mejor tenerlo lejos.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009061717 +0200" stop="20261009071020 +0200">
+    <title>S01 : E03 La Trepadora - S01:E003 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario advierte a Victoria que no confía en Pablo porque presiente que el joven oculta algo. Ante una indiscreción de Felipe; a Pablo no le queda más remedio que revelarle a Hansen que él es Nicolás Del Casal. Nicolás está decidido a vengarse de Hilario Guanipa por haber matado a su padre. Victoria lee una nota que le dejara Pablo (Nicolás) asegurándole que volverán a verse y pidiéndole que lo espere.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009071021 +0200" stop="20261009080007 +0200">
+    <title>S01 : E100 Piel Salvaje - S01:E100 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Celso desquiciado veja y se burla de Fausto, éste dispara al pecho del amante que cae al instante. Fausto va hacia su oficina, diciendo a todos que no ha pasado nada. Camila, en el lugar de los hechos, trata de convencer a Patricia que huya pues todo indica que ella es la asesina de Celso.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009080008 +0200" stop="20261009085437 +0200">
+    <title>S01 : E119 Corazón Traicionado - S01:E119 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>María Lourdes comparece ante el Juez Echeverri y se entrega por el delito de corrupción y aceptar sobornos de Gertrudis; entrega una carpeta con documentos que prueban lo que dice para hundir a la señora Corona con ella - Gertrudis se burla de las acusaciones de Alberto y niega, una vez más, ser una asesina. Alberto se va a la biblioteca, no puede vivir sabiendo lo que su madre hizo y no es capaz de aceptar. Se escucha un disparo y todo parece indicar que Alberto se suicidó. Lorena, enardecida, culpa a Gertrudis de lo sucedido y el Jefe corrobora la muerte de su hijo. Gertrudis cae de rodillas, destrozada, gritando como fiera herida.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009085438 +0200" stop="20261009094909 +0200">
+    <title>S01 : E120 Corazón Traicionado - S01:E120 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto llega al parque donde está Lorena con Norma e Ignacio. A él le parece que ya es tiempo del perdón y le cuenta lo que hizo con Claudio y Gertrudis, siguiendo el consejo que ella misma le dio; ahora se siente aliviado y listo para continuar. Alberto, arrodillado ante ella, le propone matrimonio a Lorena con un anillo en sus manos. Ella acepta feliz. “El que perdona la ofensa, cultiva el amor…” Fin.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009094910 +0200" stop="20261009104517 +0200">
+    <title>S01 : E53 El Desprecio - S01:E53 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Acudiendo al llamado de Israel, Clara Inés y Raúl se tensan al desconocer de qué verdad el hombre les quiere hablar.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009104518 +0200" stop="20261009114046 +0200">
+    <title>S01 : E54 El Desprecio - S01:E54 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Delante de Elisenda, Pastora deja al descubierto que Misael siempre ha sido especial para ella; Israel lo ha retado a muerte.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009114047 +0200" stop="20261009123136 +0200">
+    <title>S01 : E03 La Trepadora - S01:E003 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario advierte a Victoria que no confía en Pablo porque presiente que el joven oculta algo. Ante una indiscreción de Felipe; a Pablo no le queda más remedio que revelarle a Hansen que él es Nicolás Del Casal. Nicolás está decidido a vengarse de Hilario Guanipa por haber matado a su padre. Victoria lee una nota que le dejara Pablo (Nicolás) asegurándole que volverán a verse y pidiéndole que lo espere.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009123137 +0200" stop="20261009132209 +0200">
+    <title>S01 : E04 La Trepadora - S01:E004 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario no entiende el sentimiento de soledad de Adelaida. Nicolás y Felipe conocen a Liliana, quien evidencia su atracción por Del Casal de inmediato. Moncho le deja saber a Florencia que gusta de ella. Liliana anuncia a Antonieta que está decidida a conquistar a Nicolás.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009132210 +0200" stop="20261009141311 +0200">
+    <title>S01 : E101 Piel Salvaje - S01:E101 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Patricia, llora, negando haber matado a Celso. Fausto manipula a sus hijos para convencerlos de que su madre es la asesina y debe entregarse. Camila declara muy elocuente su versión de los hechos, y luego cuenta a Ezequiel que mintió para hacer pagar a Patricia por un delito que no cometió, tal cual se lo hicieron a su madre.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009141312 +0200" stop="20261009150606 +0200">
+    <title>S01 : E102 Piel Salvaje - S01:E102 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Camila para hacer vivir a Patricia la misma angustia que debió sentir su madre; le ofrecerá ayuda y luego la expondrá públicamente. Camila, posee el video grabado de lo ocurrido con Celso y la condición para no entregarlo a la policía es que Fausto cuente cómo fue que incriminaron a su mamá.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009150607 +0200" stop="20261009155858 +0200">
+    <title>Abigail - S03:E031 - Episode 31</title>
+    <desc>María Begoña amenaza de muerte a Lucía. Bárbara antes de irse del país hace su último intento por conseguir el perdón de Abigail. Bertha sigue con actitud despectiva hacia Rosalba. Abigail le dice a Carlos Alfredo que su hijo vive.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009155859 +0200" stop="20261009165104 +0200">
+    <title>Abigail - S03:E032 - Episode 32</title>
+    <desc>La madre Piedad le dice sus verdades a Bertha. María Begoña provoca un beso entre ella y Carlos Alfredo. Carlota le juega una mala pasada a Abigail con una noticia. Carlos Alfredo se entera que Abigaíl y Cheíto son amantes.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009165105 +0200" stop="20261009174534 +0200">
+    <title>S01 : E119 Corazón Traicionado - S01:E119 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>María Lourdes comparece ante el Juez Echeverri y se entrega por el delito de corrupción y aceptar sobornos de Gertrudis; entrega una carpeta con documentos que prueban lo que dice para hundir a la señora Corona con ella - Gertrudis se burla de las acusaciones de Alberto y niega, una vez más, ser una asesina. Alberto se va a la biblioteca, no puede vivir sabiendo lo que su madre hizo y no es capaz de aceptar. Se escucha un disparo y todo parece indicar que Alberto se suicidó. Lorena, enardecida, culpa a Gertrudis de lo sucedido y el Jefe corrobora la muerte de su hijo. Gertrudis cae de rodillas, destrozada, gritando como fiera herida.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009174535 +0200" stop="20261009184004 +0200">
+    <title>S01 : E119 Corazón Traicionado - S01:E119 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>María Lourdes comparece ante el Juez Echeverri y se entrega por el delito de corrupción y aceptar sobornos de Gertrudis; entrega una carpeta con documentos que prueban lo que dice para hundir a la señora Corona con ella - Gertrudis se burla de las acusaciones de Alberto y niega, una vez más, ser una asesina. Alberto se va a la biblioteca, no puede vivir sabiendo lo que su madre hizo y no es capaz de aceptar. Se escucha un disparo y todo parece indicar que Alberto se suicidó. Lorena, enardecida, culpa a Gertrudis de lo sucedido y el Jefe corrobora la muerte de su hijo. Gertrudis cae de rodillas, destrozada, gritando como fiera herida.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009184005 +0200" stop="20261009193613 +0200">
+    <title>S01 : E53 El Desprecio - S01:E53 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Acudiendo al llamado de Israel, Clara Inés y Raúl se tensan al desconocer de qué verdad el hombre les quiere hablar.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009193614 +0200" stop="20261009203141 +0200">
+    <title>S01 : E54 El Desprecio - S01:E54 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Delante de Elisenda, Pastora deja al descubierto que Misael siempre ha sido especial para ella; Israel lo ha retado a muerte.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009203142 +0200" stop="20261009212446 +0200">
+    <title>S01 : E03 La Trepadora - S01:E003 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario advierte a Victoria que no confía en Pablo porque presiente que el joven oculta algo. Ante una indiscreción de Felipe; a Pablo no le queda más remedio que revelarle a Hansen que él es Nicolás Del Casal. Nicolás está decidido a vengarse de Hilario Guanipa por haber matado a su padre. Victoria lee una nota que le dejara Pablo (Nicolás) asegurándole que volverán a verse y pidiéndole que lo espere.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009212447 +0200" stop="20261009221733 +0200">
+    <title>S01 : E04 La Trepadora - S01:E004 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario no entiende el sentimiento de soledad de Adelaida. Nicolás y Felipe conocen a Liliana, quien evidencia su atracción por Del Casal de inmediato. Moncho le deja saber a Florencia que gusta de ella. Liliana anuncia a Antonieta que está decidida a conquistar a Nicolás.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009221734 +0200" stop="20261009230835 +0200">
+    <title>S01 : E101 Piel Salvaje - S01:E101 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Patricia, llora, negando haber matado a Celso. Fausto manipula a sus hijos para convencerlos de que su madre es la asesina y debe entregarse. Camila declara muy elocuente su versión de los hechos, y luego cuenta a Ezequiel que mintió para hacer pagar a Patricia por un delito que no cometió, tal cual se lo hicieron a su madre.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261009230836 +0200" stop="20261010000130 +0200">
+    <title>S01 : E102 Piel Salvaje - S01:E102 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Camila para hacer vivir a Patricia la misma angustia que debió sentir su madre; le ofrecerá ayuda y luego la expondrá públicamente. Camila, posee el video grabado de lo ocurrido con Celso y la condición para no entregarlo a la policía es que Fausto cuente cómo fue que incriminaron a su mamá.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010000131 +0200" stop="20261010005421 +0200">
+    <title>Abigail - S03:E031 - Episode 31</title>
+    <desc>María Begoña amenaza de muerte a Lucía. Bárbara antes de irse del país hace su último intento por conseguir el perdón de Abigail. Bertha sigue con actitud despectiva hacia Rosalba. Abigail le dice a Carlos Alfredo que su hijo vive.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010005422 +0200" stop="20261010014627 +0200">
+    <title>Abigail - S03:E032 - Episode 32</title>
+    <desc>La madre Piedad le dice sus verdades a Bertha. María Begoña provoca un beso entre ella y Carlos Alfredo. Carlota le juega una mala pasada a Abigail con una noticia. Carlos Alfredo se entera que Abigaíl y Cheíto son amantes.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010014628 +0200" stop="20261010024058 +0200">
+    <title>S01 : E119 Corazón Traicionado - S01:E119 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>María Lourdes comparece ante el Juez Echeverri y se entrega por el delito de corrupción y aceptar sobornos de Gertrudis; entrega una carpeta con documentos que prueban lo que dice para hundir a la señora Corona con ella - Gertrudis se burla de las acusaciones de Alberto y niega, una vez más, ser una asesina. Alberto se va a la biblioteca, no puede vivir sabiendo lo que su madre hizo y no es capaz de aceptar. Se escucha un disparo y todo parece indicar que Alberto se suicidó. Lorena, enardecida, culpa a Gertrudis de lo sucedido y el Jefe corrobora la muerte de su hijo. Gertrudis cae de rodillas, destrozada, gritando como fiera herida.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010024059 +0200" stop="20261010033528 +0200">
+    <title>S01 : E119 Corazón Traicionado - S01:E119 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>María Lourdes comparece ante el Juez Echeverri y se entrega por el delito de corrupción y aceptar sobornos de Gertrudis; entrega una carpeta con documentos que prueban lo que dice para hundir a la señora Corona con ella - Gertrudis se burla de las acusaciones de Alberto y niega, una vez más, ser una asesina. Alberto se va a la biblioteca, no puede vivir sabiendo lo que su madre hizo y no es capaz de aceptar. Se escucha un disparo y todo parece indicar que Alberto se suicidó. Lorena, enardecida, culpa a Gertrudis de lo sucedido y el Jefe corrobora la muerte de su hijo. Gertrudis cae de rodillas, destrozada, gritando como fiera herida.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010033529 +0200" stop="20261010043137 +0200">
+    <title>S01 : E53 El Desprecio - S01:E53 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Acudiendo al llamado de Israel, Clara Inés y Raúl se tensan al desconocer de qué verdad el hombre les quiere hablar.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010043138 +0200" stop="20261010052705 +0200">
+    <title>S01 : E54 El Desprecio - S01:E54 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Delante de Elisenda, Pastora deja al descubierto que Misael siempre ha sido especial para ella; Israel lo ha retado a muerte.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010052706 +0200" stop="20261010062010 +0200">
+    <title>S01 : E03 La Trepadora - S01:E003 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario advierte a Victoria que no confía en Pablo porque presiente que el joven oculta algo. Ante una indiscreción de Felipe; a Pablo no le queda más remedio que revelarle a Hansen que él es Nicolás Del Casal. Nicolás está decidido a vengarse de Hilario Guanipa por haber matado a su padre. Victoria lee una nota que le dejara Pablo (Nicolás) asegurándole que volverán a verse y pidiéndole que lo espere.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010062011 +0200" stop="20261010071257 +0200">
+    <title>S01 : E04 La Trepadora - S01:E004 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario no entiende el sentimiento de soledad de Adelaida. Nicolás y Felipe conocen a Liliana, quien evidencia su atracción por Del Casal de inmediato. Moncho le deja saber a Florencia que gusta de ella. Liliana anuncia a Antonieta que está decidida a conquistar a Nicolás.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010071258 +0200" stop="20261010080007 +0200">
+    <title>S01 : E101 Piel Salvaje - S01:E101 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Patricia, llora, negando haber matado a Celso. Fausto manipula a sus hijos para convencerlos de que su madre es la asesina y debe entregarse. Camila declara muy elocuente su versión de los hechos, y luego cuenta a Ezequiel que mintió para hacer pagar a Patricia por un delito que no cometió, tal cual se lo hicieron a su madre.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010080008 +0200" stop="20261010085438 +0200">
+    <title>S01 : E120 Corazón Traicionado - S01:E120 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto llega al parque donde está Lorena con Norma e Ignacio. A él le parece que ya es tiempo del perdón y le cuenta lo que hizo con Claudio y Gertrudis, siguiendo el consejo que ella misma le dio; ahora se siente aliviado y listo para continuar. Alberto, arrodillado ante ella, le propone matrimonio a Lorena con un anillo en sus manos. Ella acepta feliz. “El que perdona la ofensa, cultiva el amor…” Fin.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010085439 +0200" stop="20261010094825 +0200">
+    <title>S01 : E01 Corazón Traicionado - S01:E01 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Lorena y Guillermo discuten en lo que parece ser su rutina diaria. En la trastienda de un anticuario, Claudio Corona contrata a un Mafioso para que mate a su hermano Marco Aurelio y poder tomar posesión de sus bienes. Lorena se entera que su marido es un sicario. Para recuperar a su hijo secuestrado, Lorena debe de cometer un crimen.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010094826 +0200" stop="20261010104353 +0200">
+    <title>S01 : E54 El Desprecio - S01:E54 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Delante de Elisenda, Pastora deja al descubierto que Misael siempre ha sido especial para ella; Israel lo ha retado a muerte.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010104354 +0200" stop="20261010113835 +0200">
+    <title>S01 : E55 El Desprecio - S01:E55 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>En presencia de Pastora, Raúl, Octavia, Pereto, Manuel Jesús, Baudillo, Edilio y Cepeda, Israel y Misael alzan sus armas.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010113836 +0200" stop="20261010122908 +0200">
+    <title>S01 : E04 La Trepadora - S01:E004 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario no entiende el sentimiento de soledad de Adelaida. Nicolás y Felipe conocen a Liliana, quien evidencia su atracción por Del Casal de inmediato. Moncho le deja saber a Florencia que gusta de ella. Liliana anuncia a Antonieta que está decidida a conquistar a Nicolás.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010122909 +0200" stop="20261010131943 +0200">
+    <title>S01 : E05 La Trepadora - S01:E005 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria no asiste a la cita que le hiciera Rosendo. Nicolás y Liliana se besan con pasión cuando se activa accidentalmente el celular del joven y la voz de Victoria interrumpe el momento. Adelaida sorprende a Hilario besando a la fuerza a Florencia. Rosendo trata de sobrepasarse con Victoria, pero ella logra huir. Adelaida anuncia a Victoria e Hilario que decidió mandar a su hija a vivir a la capital.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010131944 +0200" stop="20261010141239 +0200">
+    <title>S01 : E102 Piel Salvaje - S01:E102 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Camila para hacer vivir a Patricia la misma angustia que debió sentir su madre; le ofrecerá ayuda y luego la expondrá públicamente. Camila, posee el video grabado de lo ocurrido con Celso y la condición para no entregarlo a la policía es que Fausto cuente cómo fue que incriminaron a su mamá.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010141240 +0200" stop="20261010150354 +0200">
+    <title>S01 : E103 Piel Salvaje - S01:E103 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Camila ofrece a Patricia entregar el video, sólo si traiciona a Fausto y lo entrega a la policía. Patricia dice a Camila que su mamá no era tan santa y que fue la causante de esta guerra entre las familias, por su relación con dos hombres a la vez. Fausto, contrata nuevamente a Antón para que mate a su esposa.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010150355 +0200" stop="20261010155600 +0200">
+    <title>Abigail - S03:E032 - Episode 32</title>
+    <desc>La madre Piedad le dice sus verdades a Bertha. María Begoña provoca un beso entre ella y Carlos Alfredo. Carlota le juega una mala pasada a Abigail con una noticia. Carlos Alfredo se entera que Abigaíl y Cheíto son amantes.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010155601 +0200" stop="20261010164932 +0200">
+    <title>Abigail - S03:E033 - Episode 33</title>
+    <desc>María Clara no puede creer todo lo que le revela Lucía de María Begoña. Pastora tiene un encuentro de fuertes palabras con Carlota en el que le jura será difícil conseguir el perdón de Dios. Mariana toma unas pastillas que le dio su amiga de la escuela.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010164933 +0200" stop="20261010174403 +0200">
+    <title>S01 : E120 Corazón Traicionado - S01:E120 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto llega al parque donde está Lorena con Norma e Ignacio. A él le parece que ya es tiempo del perdón y le cuenta lo que hizo con Claudio y Gertrudis, siguiendo el consejo que ella misma le dio; ahora se siente aliviado y listo para continuar. Alberto, arrodillado ante ella, le propone matrimonio a Lorena con un anillo en sus manos. Ella acepta feliz. “El que perdona la ofensa, cultiva el amor…” Fin.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010174404 +0200" stop="20261010183835 +0200">
+    <title>S01 : E120 Corazón Traicionado - S01:E120 - Corazon Traicionado</title>
+    <sub-title>Corazon Traicionado</sub-title>
+    <desc>Alberto llega al parque donde está Lorena con Norma e Ignacio. A él le parece que ya es tiempo del perdón y le cuenta lo que hizo con Claudio y Gertrudis, siguiendo el consejo que ella misma le dio; ahora se siente aliviado y listo para continuar. Alberto, arrodillado ante ella, le propone matrimonio a Lorena con un anillo en sus manos. Ella acepta feliz. “El que perdona la ofensa, cultiva el amor…” Fin.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010183836 +0200" stop="20261010193403 +0200">
+    <title>S01 : E54 El Desprecio - S01:E54 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>Delante de Elisenda, Pastora deja al descubierto que Misael siempre ha sido especial para ella; Israel lo ha retado a muerte.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010193404 +0200" stop="20261010202845 +0200">
+    <title>S01 : E55 El Desprecio - S01:E55 - El Desprecio</title>
+    <sub-title>El Desprecio</sub-title>
+    <desc>En presencia de Pastora, Raúl, Octavia, Pereto, Manuel Jesús, Baudillo, Edilio y Cepeda, Israel y Misael alzan sus armas.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010202846 +0200" stop="20261010212132 +0200">
+    <title>S01 : E04 La Trepadora - S01:E004 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Hilario no entiende el sentimiento de soledad de Adelaida. Nicolás y Felipe conocen a Liliana, quien evidencia su atracción por Del Casal de inmediato. Moncho le deja saber a Florencia que gusta de ella. Liliana anuncia a Antonieta que está decidida a conquistar a Nicolás.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010212133 +0200" stop="20261010221422 +0200">
+    <title>S01 : E05 La Trepadora - S01:E005 - La Trepadora</title>
+    <sub-title>La Trepadora</sub-title>
+    <desc>Victoria no asiste a la cita que le hiciera Rosendo. Nicolás y Liliana se besan con pasión cuando se activa accidentalmente el celular del joven y la voz de Victoria interrumpe el momento. Adelaida sorprende a Hilario besando a la fuerza a Florencia. Rosendo trata de sobrepasarse con Victoria, pero ella logra huir. Adelaida anuncia a Victoria e Hilario que decidió mandar a su hija a vivir a la capital.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010221423 +0200" stop="20261010230717 +0200">
+    <title>S01 : E102 Piel Salvaje - S01:E102 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Camila para hacer vivir a Patricia la misma angustia que debió sentir su madre; le ofrecerá ayuda y luego la expondrá públicamente. Camila, posee el video grabado de lo ocurrido con Celso y la condición para no entregarlo a la policía es que Fausto cuente cómo fue que incriminaron a su mamá.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010230718 +0200" stop="20261010235832 +0200">
+    <title>S01 : E103 Piel Salvaje - S01:E103 - Piel Salvaje</title>
+    <sub-title>Piel Salvaje</sub-title>
+    <desc>Camila ofrece a Patricia entregar el video, sólo si traiciona a Fausto y lo entrega a la policía. Patricia dice a Camila que su mamá no era tan santa y que fue la causante de esta guerra entre las familias, por su relación con dos hombres a la vez. Fausto, contrata nuevamente a Antón para que mate a su esposa.</desc>
+  </programme>
+  <programme channel="wedotv-amor" start="20261010235833 +0200" stop="20261011005038 +0200">
+    <title>Abigail - S03:E032 - Episode 32</title>
+    <desc>La madre Piedad le dice sus verdades a Bertha. María Begoña provoca un beso entre ella y Carlos Alfredo. Carlota le juega una mala pasada a Abigail con una noticia. Carlos Alfredo se entera que Abigaíl y Cheíto son amantes.</desc>
   </programme>
   <programme channel="rookie-blue-spa" start="20261006233945 +0200" stop="20261007002844 +0200">
     <title>S04 : E05 Píldora de veneno - Rookie Blue</title>
@@ -46614,12 +46124,12 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>El Top 10 de Vaya Semanita</title>
     <desc>No te pierdas lo mejor de "Vaya Semanita", una recopilación de los mejores sketches que han marcado una época.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261008221627 +0200" stop="20261008231933 +0200">
+  <programme channel="lol-espana" start="20261008221627 +0200" stop="20261008231934 +0200">
     <title>S09 : E10 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261008231934 +0200" stop="20261009001504 +0200">
+  <programme channel="lol-espana" start="20261008231935 +0200" stop="20261009001504 +0200">
     <title>S09 : E11 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
@@ -46629,12 +46139,12 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>David y López se enteran de que a Emma le dan miedo las películas de terror y deciden aprovecharse. Esa noche, Emma va a quedarse a dormir en su piso y ellos traman un plan para hacer un trío con ella creyendo que ella aceptará a la primera.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009004601 +0200" stop="20261009012440 +0200">
+  <programme channel="lol-espana" start="20261009004601 +0200" stop="20261009012441 +0200">
     <title>S01 : E03 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Un nuevo becario llega a la radio en la que trabaja López. Es un chico que no acaba de funcionar; López intenta ayudarle pero lo único que consigue es que el chico se aproveche de él.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009012441 +0200" stop="20261009015816 +0200">
+  <programme channel="lol-espana" start="20261009012442 +0200" stop="20261009015816 +0200">
     <title>S01 : E04 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López quiere celebrar su cumpleaños con una gran fiesta pero David cree que ya es demasiado viejo para esas cosas.</desc>
@@ -46649,27 +46159,27 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>Ariadna, la hija de Mercedes, se enamora de López, que también queda prendado de ella. David le acusa de infanticida.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009025723 +0200" stop="20261009032625 +0200">
+  <programme channel="lol-espana" start="20261009025723 +0200" stop="20261009032626 +0200">
     <title>S01 : E08 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David recibe una carta del Ministerio de Defensa conforme debe ir a la mili. David pide a López que le espere y cuando regrese seguirán siendo compañeros de piso.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009032626 +0200" stop="20261009035544 +0200">
+  <programme channel="lol-espana" start="20261009032627 +0200" stop="20261009035545 +0200">
     <title>S01 : E09 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López queda para cenar con Ramón y con su mujer, Rosa. Durante la cena, Rosa no le dirige la palabra pero, a espaldas de Ramón, le tira los tejos.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009035545 +0200" stop="20261009042528 +0200">
+  <programme channel="lol-espana" start="20261009035546 +0200" stop="20261009042528 +0200">
     <title>S01 : E10 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Pol descubre que Emma está enamorada de López y les prepara una cita a través de un anónimo.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009042529 +0200" stop="20261009052835 +0200">
+  <programme channel="lol-espana" start="20261009042529 +0200" stop="20261009052836 +0200">
     <title>S09 : E10 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009052836 +0200" stop="20261009062406 +0200">
+  <programme channel="lol-espana" start="20261009052837 +0200" stop="20261009062406 +0200">
     <title>S09 : E11 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
@@ -46679,22 +46189,22 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona llega de Madrid por sorpresa, en casa de Esther, su hermana. Ha venido a comprarse el vestido para la boda. Mientras tanto, Esther está molesta porque su ex no la llama por felicitarle el cumpleaños.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009065741 +0200" stop="20261009073049 +0200">
+  <programme channel="lol-espana" start="20261009065741 +0200" stop="20261009073050 +0200">
     <title>S01 : E03 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia ha de hacer de canguro del hijo de una amiga. Entre todas, le ayudan a hacer prácticas de maternidad con un muñeco. Por otra parte, Carla tiene varios amantes y es obligada a tomar una decisión. Ha de elegir uno. ¿Cuál será el afortunado?</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009073050 +0200" stop="20261009080509 +0200">
+  <programme channel="lol-espana" start="20261009073051 +0200" stop="20261009080509 +0200">
     <title>S01 : E04 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther y Carla hacen una apuesta. Deben conseguir que la Diana tenga una aventura. La aparición de un cliente en el bar y la ayuda de una vidente precipitarán las cosas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009080510 +0200" stop="20261009083543 +0200">
+  <programme channel="lol-espana" start="20261009080510 +0200" stop="20261009083544 +0200">
     <title>S01 : E05 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia, Mariona, Esther, Carla y también la Diana se preparan para una cena. Hace un año que viven juntas y han decidido celebrarlo. Como quien no quiere la cosa, se empiezan a decir las verdades y a confesarse los secretos. La noche acabará mal.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009083544 +0200" stop="20261009090808 +0200">
+  <programme channel="lol-espana" start="20261009083545 +0200" stop="20261009090808 +0200">
     <title>S01 : E06 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Víctor, un amigo de Esther, aparece por sorpresa. Carla se enamora al acto, aunque intente evitarlo. Mariona y Silvia no salen de la habitación desde hace tres días.</desc>
@@ -46709,17 +46219,17 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Jet Lag</sub-title>
     <desc>Esther la hacen supervisora de azafatas. Este cambio le complicará la vida, especialmente con Carla y Silvia. Un actor famoso entra en el bar a la vez que la Diana aconseja Mariona pensarse las cosas dos veces antes de hacerlas. Al actor le hace gracia Mariona.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009102038 +0200" stop="20261009105017 +0200">
+  <programme channel="lol-espana" start="20261009102038 +0200" stop="20261009105018 +0200">
     <title>S01 : E10 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Por fin han abierto en la ciudad un burdel para mujeres. Esther, Carla y Diana van. Mariona no, porque está enamorada. El único problema es que no sabe de quién.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009105018 +0200" stop="20261009112556 +0200">
+  <programme channel="lol-espana" start="20261009105019 +0200" stop="20261009112557 +0200">
     <title>S01 : E11 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Diana es invitada a una cena de ex alumnos. Las otras le aconsejan como ir a una cena de este tipo. Mientras tanto, Silvia y Carla se aburren y no saben qué hacer. Esther pasa una crisis con Andreu. Está harta de tener un novio. Ella quiere un amante.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009112557 +0200" stop="20261009115655 +0200">
+  <programme channel="lol-espana" start="20261009112558 +0200" stop="20261009115655 +0200">
     <title>S01 : E12 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla ha perdido las lentillas, y lo tiene claro: no quiere salir a la calle con gafas. Es el cumpleaños de Mariona y nadie se acuerda. Esther y Andreu han llegado al final de su relación.</desc>
@@ -46744,17 +46254,17 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009171204 +0200" stop="20261009174234 +0200">
+  <programme channel="lol-espana" start="20261009171204 +0200" stop="20261009174235 +0200">
     <title>S01 : E27 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>El reencuentro entre Oriol y Carbonell desencadena la prisa de López y David por llevar a la pareja hasta el altar, no sin antes celebrar las respectivas despedidas de soltero.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009174235 +0200" stop="20261009181601 +0200">
+  <programme channel="lol-espana" start="20261009174236 +0200" stop="20261009181602 +0200">
     <title>S01 : E28 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>¡Qué bonita es la Navidad! El pesebre, el árbol, los regalos, los villancicos, la familia... y las peleas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009181602 +0200" stop="20261009184856 +0200">
+  <programme channel="lol-espana" start="20261009181603 +0200" stop="20261009184856 +0200">
     <title>S01 : E30 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Desde que Carbonell se casó y se fue a vivir a Porrera con Oriol, David no da una. Acostumbrado a que se lo hicieran todo, ahora tiene que espabilarse solo y no se le da muy bien.</desc>
@@ -46764,17 +46274,17 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>López es un desastre como asistenta así que David decide organizar un "casting" para encontrar a alguien que sea competente.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009191946 +0200" stop="20261009195321 +0200">
+  <programme channel="lol-espana" start="20261009191946 +0200" stop="20261009195322 +0200">
     <title>S01 : E32 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Carbonell se separa de Oriol y regresa al piso de López y David. Éstos descubren casualmente que Oriol es propietario de muchas tierras y fuerzan el divorcio de Carbonell y Oriol a fin de sacar tajada de la ruptura.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009195322 +0200" stop="20261009203049 +0200">
+  <programme channel="lol-espana" start="20261009195323 +0200" stop="20261009203050 +0200">
     <title>S01 : E34 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Emma presenta una amiga suya, Lola, a David y éste se queda embobado. Con la ayuda de Carbonell monta una fiesta en el piso para poder invitarla. Por otro lado, a López le cae un "encargo" de sus jefes de la radio: hacer de canguro de su hijo. La fiesta será el punto de encuentro para sorpresa de uno y enfado del otro.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009203050 +0200" stop="20261009210023 +0200">
+  <programme channel="lol-espana" start="20261009203051 +0200" stop="20261009210023 +0200">
     <title>S01 : E35 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David sale con Lola pero, en realidad, está enamorado de Marina, la amiga de Lola. Por eso, prepara una cena y le pide a López que se líe con Lola, pero éste es un despistado y se pasa toda la noche confundiéndolas.</desc>
@@ -46784,22 +46294,22 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>David y Marina ya salen juntos y están muy enamorados. Los amigos de David no entienden esta relación (Marina es tan interesante...).</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009213051 +0200" stop="20261009220313 +0200">
+  <programme channel="lol-espana" start="20261009213051 +0200" stop="20261009220314 +0200">
     <title>S01 : E37 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López se encuentra casualmente con un antiguo amigo que ahora es manager musical. Para recordar los viejos tiempos, éste le propone relanzar su carrera de "rumbero" juvenil.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009220314 +0200" stop="20261009225844 +0200">
+  <programme channel="lol-espana" start="20261009220315 +0200" stop="20261009225844 +0200">
     <title>S09 : E11 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009225845 +0200" stop="20261009235401 +0200">
+  <programme channel="lol-espana" start="20261009225845 +0200" stop="20261009235402 +0200">
     <title>S09 : E12 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261009235402 +0200" stop="20261010002022 +0200">
+  <programme channel="lol-espana" start="20261009235403 +0200" stop="20261010002022 +0200">
     <title>S01 : E11 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David descubre que su madre tiene un amante y decide contárselo a su padre pero no sabe por donde empezar.</desc>
@@ -46809,12 +46319,12 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>López alquila una plaza de parking. Él no tiene ni coche ni carnet de conducir pero ese parece un buen sistema para planteárselo en serio e intentar sacárselo.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010004545 +0200" stop="20261010011113 +0200">
+  <programme channel="lol-espana" start="20261010004545 +0200" stop="20261010011114 +0200">
     <title>S01 : E13 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David y López se han enamorado de Emma. Ninguno dejará que el otro la vea a solas y saque ventaja. Carbonell intenta vender a todo el mundo un viaje organizado por ella.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010011114 +0200" stop="20261010014812 +0200">
+  <programme channel="lol-espana" start="20261010011115 +0200" stop="20261010014812 +0200">
     <title>S01 : E14 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Carbonell, Ramón, Pol y Mercedes regresan del viaje. Ramón no para de contar que Pol le salvó la vida y que siempre estará en deuda con él.</desc>
@@ -46829,17 +46339,17 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>David y López no saben qué hacer con un paquete de droga que les ha llegado por error. Si lo venden, pueden sacar mucho dinero pero si les pillan... aunque quizás deberían preocuparse por si su dueño lo reclama.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010030313 +0200" stop="20261010033524 +0200">
+  <programme channel="lol-espana" start="20261010030313 +0200" stop="20261010033525 +0200">
     <title>S01 : E17 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Emma quiere pedir el paro pero allí la convocan a un cursillo y debe pasar un examen. Carbonell y Mercedes le echarán una mano para que apruebe.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010033525 +0200" stop="20261010040702 +0200">
+  <programme channel="lol-espana" start="20261010033526 +0200" stop="20261010040703 +0200">
     <title>S01 : E19 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Mercedes decide darse un tiempo de reflexión y descanso después de su ruptura sentimental. Se va de la radio y nombra a López nuevo director.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010040703 +0200" stop="20261010050233 +0200">
+  <programme channel="lol-espana" start="20261010040704 +0200" stop="20261010050233 +0200">
     <title>S09 : E11 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
@@ -46854,32 +46364,32 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Jet Lag</sub-title>
     <desc>La compañía aérea Fly Fly atraviesa una grave crisis económica y el director ha decidido hacer una reducción de plantilla.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010062540 +0200" stop="20261010065628 +0200">
+  <programme channel="lol-espana" start="20261010062540 +0200" stop="20261010065629 +0200">
     <title>S02 : E02 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla, Silvia y Esther han quedado en paro. Carla decide encontrar un trabajo mejor de la que tenía.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010065629 +0200" stop="20261010072254 +0200">
+  <programme channel="lol-espana" start="20261010065630 +0200" stop="20261010072254 +0200">
     <title>S02 : E03 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther y Silvia se encuentran con un pasajero extremadamente desagradable, maleducado, llamativo, huraño insoportable que les está dando el viaje.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010072255 +0200" stop="20261010075416 +0200">
+  <programme channel="lol-espana" start="20261010072255 +0200" stop="20261010075417 +0200">
     <title>S02 : E04 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona recibe la visita de su ex novio que está muy contento y a punto de casarse con una chica catalana.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010075417 +0200" stop="20261010082340 +0200">
+  <programme channel="lol-espana" start="20261010075418 +0200" stop="20261010082340 +0200">
     <title>S02 : E05 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Un director de televisión ha elegido el bar de Mario para rodar el anuncio publicitario de una nueva marca de cervezas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010082341 +0200" stop="20261010085754 +0200">
+  <programme channel="lol-espana" start="20261010082341 +0200" stop="20261010085755 +0200">
     <title>S02 : E06 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona ve que el sofá, el lugar donde ella duerme, ha desaparecido porque Esther ha decidido hacerlo tapizar y tiene que ir a vivir con la Diana.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010085755 +0200" stop="20261010093303 +0200">
+  <programme channel="lol-espana" start="20261010085756 +0200" stop="20261010093303 +0200">
     <title>S02 : E08 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia está a punto de recibir la visita de una antigua profesora suya que ahora se ha convertido en una novelista de renombre mundial y que ella lo admira profundamente desde que era pequeña.</desc>
@@ -46904,17 +46414,17 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Jet Lag</sub-title>
     <desc>Ha llegado el gran día. Andrés y Esther se casan! Mariona será la madrina.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010114634 +0200" stop="20261010121635 +0200">
+  <programme channel="lol-espana" start="20261010114634 +0200" stop="20261010121636 +0200">
     <title>S03 : E01 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther y Andreu están a punto de ir de viaje de novios, pero la tienen que suspender porque Silvia tiene un accidente en casa y queda inconsciente.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010121636 +0200" stop="20261010135022 +0200">
+  <programme channel="lol-espana" start="20261010121637 +0200" stop="20261010135023 +0200">
     <title>S08 : E01 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010135023 +0200" stop="20261010152315 +0200">
+  <programme channel="lol-espana" start="20261010135024 +0200" stop="20261010152315 +0200">
     <title>S08 : E02 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
@@ -46934,36 +46444,36 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Platos Sucios</sub-title>
     <desc>La abuela Sunción aún vive en otra época. No entiende lo que significa vivir juntos sin estar casados o que dos amigos compartan piso para pagar el alquiler.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010175449 +0200" stop="20261010182847 +0200">
+  <programme channel="lol-espana" start="20261010175449 +0200" stop="20261010182848 +0200">
     <title>S01 : E50 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Quim Monzó pide a López que le escriba su próxima novela. Nadie debe enterarse. David quiere estrenarse como director de cine y empieza a preparar una película.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010182848 +0200" stop="20261010190615 +0200">
+  <programme channel="lol-espana" start="20261010182849 +0200" stop="20261010190616 +0200">
     <title>S01 : E51 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López se va de viaje a Cuba y regresa con una cubana. Está decidido a casarse con ella para que obtenga la nacionalidad española pero David se enamora perdidamente de ella. Los dos acabarán peleándose para acompañarla al altar.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010190616 +0200" stop="20261010193618 +0200">
+  <programme channel="lol-espana" start="20261010190617 +0200" stop="20261010193619 +0200">
     <title>S01 : E54 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David consigue un papel en una serie de televisión. Su personaje ha sufrido un accidente y está en el hospital, muy enfermo y con el rostro desfigurado.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010193619 +0200" stop="20261010215951 +0200">
+  <programme channel="lol-espana" start="20261010193620 +0200" stop="20261010215951 +0200">
     <title>El Top 10 de Vaya Semanita</title>
     <desc>No te pierdas lo mejor de "Vaya Semanita", una recopilación de los mejores sketches que han marcado una época.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010215952 +0200" stop="20261010225508 +0200">
+  <programme channel="lol-espana" start="20261010215952 +0200" stop="20261010225509 +0200">
     <title>S09 : E12 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010225509 +0200" stop="20261010234829 +0200">
+  <programme channel="lol-espana" start="20261010225510 +0200" stop="20261010234830 +0200">
     <title>S12 : E01 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261010234830 +0200" stop="20261011002208 +0200">
+  <programme channel="lol-espana" start="20261010234831 +0200" stop="20261011002208 +0200">
     <title>S01 : E20 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Pol decide sacar más partido del bar Mauricio y prepara varias actuaciones que sirvan de reclamo para ganar clientes. David prepara una actuación que muestre sus grandes dotes interpretativas.</desc>
