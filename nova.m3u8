@@ -1,16 +1,16 @@
 #EXTM3U
-#TIMESTAMP: 2026-10-09 15:40:03
+#TIMESTAMP: 2026-10-09 15:42:03
 #EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/649a0ed46566ebaf88b685faf70b656feac7f8ea_ES_1791553262_1791582002/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Reserved for local use",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://atres-live.atresmedia.com/649a0ed46566ebaf88b685faf70b656feac7f8ea_ES_1791553262_1791582002/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_qaa=128000.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="audio_ads",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ads",URI="https://atres-live.atresmedia.com/649a0ed46566ebaf88b685faf70b656feac7f8ea_ES_1791553262_1791582002/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_ads=128000.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/649a0ed46566ebaf88b685faf70b656feac7f8ea_ES_1791553262_1791582002/hlsts/live/nova_usp/nova_usp.isml/nova_usp-textstream_spa=0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/433c611cbb739e592541cd68fb44aa728ff3a5bb_ES_1791553383_1791582123/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Reserved for local use",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://atres-live.atresmedia.com/433c611cbb739e592541cd68fb44aa728ff3a5bb_ES_1791553383_1791582123/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_qaa=128000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="audio_ads",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ads",URI="https://atres-live.atresmedia.com/433c611cbb739e592541cd68fb44aa728ff3a5bb_ES_1791553383_1791582123/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_ads=128000.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/433c611cbb739e592541cd68fb44aa728ff3a5bb_ES_1791553383_1791582123/hlsts/live/nova_usp/nova_usp.isml/nova_usp-textstream_spa=0.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=622000,AVERAGE-BANDWIDTH=565000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=640x360,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/649a0ed46566ebaf88b685faf70b656feac7f8ea_ES_1791553262_1791582002/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000-video=405000.m3u8
+https://atres-live.atresmedia.com/433c611cbb739e592541cd68fb44aa728ff3a5bb_ES_1791553383_1791582123/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000-video=405000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1304000,AVERAGE-BANDWIDTH=1186000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=854x480,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/649a0ed46566ebaf88b685faf70b656feac7f8ea_ES_1791553262_1791582002/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000-video=990000.m3u8
+https://atres-live.atresmedia.com/433c611cbb739e592541cd68fb44aa728ff3a5bb_ES_1791553383_1791582123/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000-video=990000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2482000,AVERAGE-BANDWIDTH=2256000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/649a0ed46566ebaf88b685faf70b656feac7f8ea_ES_1791553262_1791582002/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000-video=2000000.m3u8
+https://atres-live.atresmedia.com/433c611cbb739e592541cd68fb44aa728ff3a5bb_ES_1791553383_1791582123/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000-video=2000000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=7146000,AVERAGE-BANDWIDTH=6496000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000,VIDEO-RANGE=SDR
-https://atres-live.atresmedia.com/649a0ed46566ebaf88b685faf70b656feac7f8ea_ES_1791553262_1791582002/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000-video=6000000.m3u8
+https://atres-live.atresmedia.com/433c611cbb739e592541cd68fb44aa728ff3a5bb_ES_1791553383_1791582123/hlsts/live/nova_usp/nova_usp.isml/nova_usp-audio_spa=128000-video=6000000.m3u8
 
