@@ -175,7 +175,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live.tvup.edge2befaster.io/7rmhd/7rmhd.m3u8
 
 #EXTINF:-1 tvg-id="Canal_Cocina" tvg-name="Canal Cocina" tvg-logo="http://192.168.1.98:8080/logos/Canal%20Cocina.png" group-title="Cajón de Sastre",Canal Cocina
-https://live.tvup.edge2befaster.io/canal-cocina/canal-cocina.mpd
+https://live.tvup.edge2befaster.io/canal-cocina/canal-cocina.m3ud
 
 #EXTINF:-1 tvg-id="Sundance_TV" tvg-name="Sundance TV" tvg-logo="http://192.168.1.98:8080/logos/Sundance%20TV.png" group-title="Música",Sundance TV
 https://live.tvup.edge2befaster.io/sundance6/sundance6.mpd
