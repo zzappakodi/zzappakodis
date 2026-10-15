@@ -893,3 +893,6 @@ https://canalmalaga-tivify.fastlive.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="CGTN-E" tvg-name="CGTN-E" tvg-logo="http://192.168.1.98:8080/logos/CGTN-E.png" group-title="Cajón de Sastre",CGTN-E
 https://cgtne-tivify.fastlive.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Latino_Circuit_TV" tvg-name="Latino Circuit TV" tvg-logo="http://192.168.1.98:8080/logos/Latino%20Circuit%20TV.png" group-title="Cajón de Sastre",Latino Circuit TV
+https://latinocircuittv-tivify.ssai.tcscdn.net/master.m3u8
