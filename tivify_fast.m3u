@@ -896,3 +896,6 @@ https://cgtne-tivify.fastlive.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Latino_Circuit_TV" tvg-name="Latino Circuit TV" tvg-logo="http://192.168.1.98:8080/logos/Latino%20Circuit%20TV.png" group-title="Cajón de Sastre",Latino Circuit TV
 https://latinocircuittv-tivify.ssai.tcscdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Arabi_Yecla_TV" tvg-name="Arabi Yecla TV" tvg-logo="http://192.168.1.98:8080/logos/Arabi%20Yecla%20TV.png" group-title="Cajón de Sastre",Arabi Yecla TV
+https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
