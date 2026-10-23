@@ -1308,383 +1308,7 @@
     <title>Arts24</title>
     <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
   </programme>
-  <programme channel="france-24-en" start="20261025020001 +0100" stop="20261025021000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025021001 +0100" stop="20261025022500 +0100">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025022501 +0100" stop="20261025023100 +0100">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025023101 +0100" stop="20261025024500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025024501 +0100" stop="20261025030000 +0100">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025030001 +0100" stop="20261025031500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025031501 +0100" stop="20261025033000 +0100">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025033001 +0100" stop="20261025034500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025034501 +0100" stop="20261025040000 +0100">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025040001 +0100" stop="20261025041500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025041501 +0100" stop="20261025043000 +0100">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025043001 +0100" stop="20261025044500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025044501 +0100" stop="20261025050000 +0100">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025050001 +0100" stop="20261025051500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025051501 +0100" stop="20261025053000 +0100">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the Asian continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025053001 +0100" stop="20261025054500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025054501 +0100" stop="20261025060000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025060001 +0100" stop="20261025061500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025061501 +0100" stop="20261025062100 +0100">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025062101 +0100" stop="20261025063000 +0100">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025063001 +0100" stop="20261025064500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025064501 +0100" stop="20261025065100 +0100">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025065101 +0100" stop="20261025070000 +0100">
-    <title>Fashion</title>
-    <desc>All the best of Parisian catwalks and behind the scenes at the big names in Haute Couture.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025070001 +0100" stop="20261025072000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025072001 +0100" stop="20261025073000 +0100">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025073001 +0100" stop="20261025080000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025080001 +0100" stop="20261025083000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025083001 +0100" stop="20261025090000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025090001 +0100" stop="20261025091500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025091501 +0100" stop="20261025093000 +0100">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025093001 +0100" stop="20261025100000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025100001 +0100" stop="20261025101500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025101501 +0100" stop="20261025102000 +0100">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025102001 +0100" stop="20261025103000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025103001 +0100" stop="20261025104500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025104501 +0100" stop="20261025110000 +0100">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025110001 +0100" stop="20261025111500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025111501 +0100" stop="20261025113000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025113001 +0100" stop="20261025114500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025114501 +0100" stop="20261025120000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025120001 +0100" stop="20261025121500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025121501 +0100" stop="20261025123000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025123001 +0100" stop="20261025124500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025124501 +0100" stop="20261025125000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025125001 +0100" stop="20261025130000 +0100">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025130001 +0100" stop="20261025131500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025131501 +0100" stop="20261025133000 +0100">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025133001 +0100" stop="20261025134500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025134501 +0100" stop="20261025140000 +0100">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025140001 +0100" stop="20261025141300 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025141301 +0100" stop="20261025143000 +0100">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025143001 +0100" stop="20261025144300 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025144301 +0100" stop="20261025145500 +0100">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025145501 +0100" stop="20261025150000 +0100">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025150001 +0100" stop="20261025151000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025151001 +0100" stop="20261025151500 +0100">
-    <title>Tech 24</title>
-    <desc>The latest trends in the world of high-tech and the impact of digital revolutions on everyday life.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025151501 +0100" stop="20261025153000 +0100">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025153001 +0100" stop="20261025154000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025154001 +0100" stop="20261025155200 +0100">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025155201 +0100" stop="20261025160000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025160001 +0100" stop="20261025161500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025161501 +0100" stop="20261025162100 +0100">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025162101 +0100" stop="20261025163000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025163001 +0100" stop="20261025164500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025164501 +0100" stop="20261025170000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025170001 +0100" stop="20261025171500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025171501 +0100" stop="20261025173000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025173001 +0100" stop="20261025174500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025174501 +0100" stop="20261025180000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025180001 +0100" stop="20261025181500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025181501 +0100" stop="20261025183000 +0100">
-    <title>Spotlight</title>
-    <desc>Guests from around the globe go beyond the headlines on the stories that matter.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025183001 +0100" stop="20261025184500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025184501 +0100" stop="20261025190000 +0100">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025190001 +0100" stop="20261025191400 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025191401 +0100" stop="20261025193000 +0100">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025193001 +0100" stop="20261025194400 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025194401 +0100" stop="20261025200000 +0100">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025200001 +0100" stop="20261025201600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025201601 +0100" stop="20261025203000 +0100">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025203001 +0100" stop="20261025204600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025204601 +0100" stop="20261025210000 +0100">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the Asian continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025210001 +0100" stop="20261025211500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025211501 +0100" stop="20261025212100 +0100">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025212101 +0100" stop="20261025213000 +0100">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025213001 +0100" stop="20261025214500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025214501 +0100" stop="20261025220000 +0100">
-    <title>The Reporter's Week</title>
-    <desc>From the 4 corners of the world, the week's news as seen by France 24 reporters</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025220001 +0100" stop="20261025221000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025221001 +0100" stop="20261025223000 +0100">
-    <title>Revisited</title>
-    <desc>France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025223001 +0100" stop="20261025224500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025224501 +0100" stop="20261025230000 +0100">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025230001 +0100" stop="20261025231600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025231601 +0100" stop="20261025233000 +0100">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025233001 +0100" stop="20261025234600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261025234601 +0100" stop="20261026000000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261026000001 +0100" stop="20261026001500 +0100">
+  <programme channel="france-24-en" start="20261025020001 +0100" stop="20261026001500 +0100">
     <title>News</title>
     <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
@@ -10837,12 +10461,12 @@
     <sub-title>Menú Salvaje</sub-title>
     <desc>Los animales comemos para sobrevivir, es el instinto más básico, el más fundamental.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261025085606 +0100" stop="20261025092827 +0100">
+  <programme channel="planeta-salvaje" start="20261025085606 +0100" stop="20261025092826 +0100">
     <title>S01 : E02 Menú Salvaje - Menú Salvaje</title>
     <sub-title>Menú Salvaje</sub-title>
     <desc>Los insectos... su número y diversidad los convierten en los verdaderos dueños de la Tierra.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261025092828 +0100" stop="20261025103319 +0100">
+  <programme channel="planeta-salvaje" start="20261025092827 +0100" stop="20261025103319 +0100">
     <title>S01 : E01 Las Islas Canarias - Las Islas Canarias</title>
     <sub-title>Las Islas Canarias</sub-title>
     <desc>La flora y la fauna que habitan las Islas Canarias y cómo la vida en estas remotas tierras ha dado lugar a rasgos evolutivos únicos.</desc>
@@ -10852,11 +10476,11 @@
     <sub-title>Tecnología Natural</sub-title>
     <desc>La naturaleza tiene que ser eficiente en la forma en que procesa la información y utiliza la energía, por lo que cuando los científicos comenzaron a mirar la naturaleza con ojos biomiméticos, no es sorprendente que comenzaran a ver visiones completamente nuevas para nuestro futuro. La inspiración proviene de las termitas, e incluso de la hoja de un árbol.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261025113544 +0100" stop="20261025124049 +0100">
+  <programme channel="planeta-salvaje" start="20261025113544 +0100" stop="20261025124048 +0100">
     <title>Un Invierno en el Sur</title>
     <desc>El invierno en los bosques de encinas y alcornoques que cubren el sur de la península Ibérica está lejos de ser un tiempo de silencio y espera para la naturaleza salvaje. Por el contrario, vive una eclosión de vida en la que multitud de emigrantes buscando su paraíso de invierno, algunos provenientes del otro extremo del continente europeo, comparten espacio con las especies autóctonas, domésticas y salvajes, que los pueblan en un ejemplo de convivencia y sostenibilidad.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261025124050 +0100" stop="20261025134219 +0100">
+  <programme channel="planeta-salvaje" start="20261025124049 +0100" stop="20261025134219 +0100">
     <title>Primavera El Regreso de La Vida</title>
     <desc>Un documental sobre la primavera más espectacular de los últimos 40 años. Cinco meses de rodaje en la Península Ibérica, grandes bosques, lagos, llanuras, salinas, el despertar de la flora y sobre todo de la fauna. Asistimos a momentos únicos como la cópula de las culebras viperinas o el largo camino hacia la madurez de los sapos corredores.</desc>
   </programme>
@@ -10929,17 +10553,17 @@
     <sub-title>Menú Salvaje</sub-title>
     <desc>Los insectos... su número y diversidad los convierten en los verdaderos dueños de la Tierra.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261026030353 +0100" stop="20261026034136 +0100">
+  <programme channel="planeta-salvaje" start="20261026030353 +0100" stop="20261026034135 +0100">
     <title>S01 : E10 Planeta Selva - Planeta Selva</title>
     <sub-title>Planeta Selva</sub-title>
     <desc>La península de Florida acapara una inmensa riqueza forestal adaptada a los humedales y pantanales.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261026034137 +0100" stop="20261026041823 +0100">
+  <programme channel="planeta-salvaje" start="20261026034136 +0100" stop="20261026041822 +0100">
     <title>S01 : E11 Planeta Selva - Planeta Selva</title>
     <sub-title>Planeta Selva</sub-title>
     <desc>La taiga es el bosque más grande del planeta. Ocupa las regiones boreales de Norte América, Europa y Asia.</desc>
   </programme>
-  <programme channel="planeta-salvaje" start="20261026041824 +0100" stop="20261026052132 +0100">
+  <programme channel="planeta-salvaje" start="20261026041823 +0100" stop="20261026052132 +0100">
     <title>S01 : E01 Mississippi - Mississippi</title>
     <sub-title>Mississippi</sub-title>
     <desc>No hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte.</desc>
@@ -38592,59 +38216,7 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <title>Angola</title>
     <desc>Surfer João Kopke explores Angola's peaks and coasts, chasing waves and timeless tribes.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261023020001 +0200" stop="20261023023000 +0200">
-    <title>The New Blood</title>
-    <desc>Camp Woodward is back for Season 2 with three new kids: Cody Davis, Hunter Bagent and Larry Schmidt.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023023001 +0200" stop="20261023030000 +0200">
-    <title>Arrival Day</title>
-    <desc>The boys arrive at camp where Larry ends up bunking with the little kids and Hunter misses orientation.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023030001 +0200" stop="20261023033000 +0200">
-    <title>Weird Science</title>
-    <desc>The crew shreds SF Exploratorium with Paul Schmitt, D. Busenitz, F. Gerwer, J. Curtain, and local rippers.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023033001 +0200" stop="20261023040000 +0200">
-    <title>Golfland</title>
-    <desc>Jeff and crew turn an abandoned 72-hole mini golf course into a shredable country club.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023040001 +0200" stop="20261023043000 +0200">
-    <title>Jussi Oksanen and Mads Jonsson</title>
-    <desc>Just when it seemed safe to go snowboarding in the park, the Euro riders take snowboarding to a new level.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023043001 +0200" stop="20261023050000 +0200">
-    <title>The Groms</title>
-    <desc>Observe snowboarding's top upcoming talent and tomorrow's rising stars. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023050001 +0200" stop="20261023053000 +0200">
-    <title>Mountain Creek</title>
-    <desc>Danny's ex-girlfriend arrives at Mountain Creek, where the crew goes snowboarding before judging the contest.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023053001 +0200" stop="20261023060000 +0200">
-    <title>Layover in Cleveland</title>
-    <desc>The crew visits cameraman Corolla's mom in Cleveland and are greeted by a 9:00 am happy hour. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023060001 +0200" stop="20261023063000 +0200">
-    <title>Colin Morrison</title>
-    <desc>Colin Morrison opens up his private compound, and checks Jimmy Fitzpatrick's style.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023063001 +0200" stop="20261023070000 +0200">
-    <title>Nate Adams</title>
-    <desc>Gold medalist Nate Adams shreds the Quarry, Crusty Tour, and more.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023070001 +0200" stop="20261023073000 +0200">
-    <title>Airplane Graveyard</title>
-    <desc>Jeff King and the crew crash an aviation warehouse along with the Plan B team and S&amp;M bike crew.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023073001 +0200" stop="20261023074500 +0200">
-    <title>Legends of Les Gets</title>
-    <desc>Norco Race returns to legendary Les Gets trails, reliving history and pushing for greatness.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023074501 +0200" stop="20261023080000 +0200">
-    <title>Jalpak Tash</title>
-    <desc>TNF athletes ski Kyrgyzstan's Tien Shan from a yurt base, mixing culture and lines.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261023080001 +0200" stop="20261023090000 +0200">
+  <programme channel="fuel-tv-new" start="20261023020001 +0200" stop="20261023090000 +0200">
     <title>Mind the Video Man</title>
     <desc>Freestyle snowboarders push creative limits in Think Thank's film.</desc>
   </programme>
@@ -38757,8 +38329,8 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <desc>Street competition intensifies on Day 2 as the world's best raise the level in Paraguay.</desc>
   </programme>
   <programme channel="fuel-tv-new" start="20261024064001 +0200" stop="20261024070000 +0200">
-    <title>Rune Glifberg</title>
-    <desc>A look into the life and career of Rune Glifberg's, who competed in every X-Games, winning 12 medals.</desc>
+    <title>Arlberg Effekt</title>
+    <desc>An exploration of Austria's greatest snow domain, with some of the world's best riders in their own backyard.</desc>
   </programme>
   <programme channel="fuel-tv-new" start="20261024070001 +0200" stop="20261024073000 +0200">
     <title>Slab City</title>
@@ -38896,293 +38468,297 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <title>Final Goodbye</title>
     <desc>The campers close out their final days of camp and have tons of fun. </desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025020001 +0100" stop="20261025030000 +0100">
-    <title>Naturestyle: Hokkaido Japan</title>
-    <desc>Snowboarders explore Hokkaido's powder and culture.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261025030001 +0100" stop="20261025031500 +0100">
+  <programme channel="fuel-tv-new" start="20261025020001 +0100" stop="20261025021500 +0100">
     <title>Chris Russel</title>
     <desc>Portraits follows Chris Russell through skate, discipline, training and the balance behind his lifestyle.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025031501 +0100" stop="20261025033000 +0100">
+  <programme channel="fuel-tv-new" start="20261025021501 +0100" stop="20261025023000 +0100">
     <title>Grayson Fletcher</title>
     <desc>Greyson Fletcher's Portrait captures raw skating, surf roots and fearless energy.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025033001 +0100" stop="20261025034500 +0100">
+  <programme channel="fuel-tv-new" start="20261025023001 +0100" stop="20261025024500 +0100">
     <title>Sebo Walker</title>
     <desc>Sebo Walker reconnects with Portland, family and the roots behind his skating.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025034501 +0100" stop="20261025040000 +0100">
+  <programme channel="fuel-tv-new" start="20261025024501 +0100" stop="20261025030000 +0100">
     <title>Steve Caballero</title>
     <desc>Steve Caballero looks back on skating and life beyond it, from art to motocross and music.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025040001 +0100" stop="20261025043000 +0100">
+  <programme channel="fuel-tv-new" start="20261025030001 +0100" stop="20261025033000 +0100">
     <title>Alaska (pt. 3)</title>
     <desc>The third part of snowboarding in Alaska with Victoria Jealouse, Jeremy Jones, and Johan Olofsson.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025043001 +0100" stop="20261025050000 +0100">
+  <programme channel="fuel-tv-new" start="20261025033001 +0100" stop="20261025040000 +0100">
     <title>Mark Landvik and Markku Koski</title>
     <desc>Alaska's Mark Landvik, and Finland's Markku Koski, show the perks of being a pro snowboarder.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025050001 +0100" stop="20261025053000 +0100">
+  <programme channel="fuel-tv-new" start="20261025040001 +0100" stop="20261025043000 +0100">
     <title>A New Grenade Team Rider!</title>
     <desc>The Grenade Games are on as snowboarders battle it out for a spot on the Grenade team.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025053001 +0100" stop="20261025060000 +0100">
+  <programme channel="fuel-tv-new" start="20261025043001 +0100" stop="20261025050000 +0100">
     <title>Street Credit</title>
     <desc>Danny and Dingo meet Rob Dyrdek in Hollywood and then head to San Diego for a trade show and a premiere.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025060001 +0100" stop="20261025063000 +0100">
+  <programme channel="fuel-tv-new" start="20261025050001 +0100" stop="20261025053000 +0100">
     <title>Brian Deegan</title>
     <desc>Brian Deegan throws it down for all to see. And a road trip to Oklahoma with Bryan Dowdy.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025063001 +0100" stop="20261025070000 +0100">
+  <programme channel="fuel-tv-new" start="20261025053001 +0100" stop="20261025060000 +0100">
     <title>Tommy Clowers</title>
     <desc>Multiple gold medal winner, Tommy Clowers, at Octotillo Wells. Brian Deegan as shows a fan the Mulisha.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025070001 +0100" stop="20261025071500 +0100">
+  <programme channel="fuel-tv-new" start="20261025060001 +0100" stop="20261025061500 +0100">
     <title>Loudenvielle</title>
     <desc>The team returns to Loudenvielle after Gracey's World Champs result, ready to take on another UCI track.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025071501 +0100" stop="20261025074500 +0100">
+  <programme channel="fuel-tv-new" start="20261025061501 +0100" stop="20261025064500 +0100">
     <title>American RoundTable: Part III</title>
     <desc>American RoundTable Part 3 explores US surfing: youth, amateurs, patriotism, and Tour trends.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025074501 +0100" stop="20261025090000 +0100">
+  <programme channel="fuel-tv-new" start="20261025064501 +0100" stop="20261025080000 +0100">
     <title>Way of the Ocean: Australia</title>
     <desc>A cinematic journey through Australia's waves, landscapes and deep connection between people and sea.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025090001 +0100" stop="20261025093000 +0100">
+  <programme channel="fuel-tv-new" start="20261025080001 +0100" stop="20261025083000 +0100">
     <title>The Bluff</title>
     <desc>The crew wakes up to find a new swell in the water.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025093001 +0100" stop="20261025100000 +0100">
+  <programme channel="fuel-tv-new" start="20261025083001 +0100" stop="20261025090000 +0100">
     <title>The Transkei</title>
     <desc>Pottz gets everyone riled up over the drive through the Transkei.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025100001 +0100" stop="20261025145500 +0100">
+  <programme channel="fuel-tv-new" start="20261025090001 +0100" stop="20261025135500 +0100">
     <title>World Skate Game 2026 - Street World Championship Paraguai Day 1</title>
     <desc>Day 1 of the Street World Championship brings technical tricks and creative lines to Paraguay.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025145501 +0100" stop="20261025174000 +0100">
+  <programme channel="fuel-tv-new" start="20261025135501 +0100" stop="20261025164000 +0100">
     <title>World Skate Game 2026 - Street World Championship Paraguai Day 2</title>
     <desc>Street competition intensifies on Day 2 as the world's best raise the level in Paraguay.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025174001 +0100" stop="20261025180000 +0100">
-    <title>Hellride</title>
-    <desc>Helride Helsinki unites skaters worldwide with chaos, DIY spots, parties, and pure skate spirit.</desc>
+  <programme channel="fuel-tv-new" start="20261025164001 +0100" stop="20261025170000 +0100">
+    <title>Fast and Loose</title>
+    <desc>Fast &amp; Loose dives into MR and modern rippers on twin fins, spreading pure speed, style and fun.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025180001 +0100" stop="20261025183000 +0100">
+  <programme channel="fuel-tv-new" start="20261025170001 +0100" stop="20261025173000 +0100">
     <title>The Wild Coast</title>
     <desc>The crew arrives in Coffee Bay and is greeted with perfect surf and some stoked locals.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025183001 +0100" stop="20261025190000 +0100">
+  <programme channel="fuel-tv-new" start="20261025173001 +0100" stop="20261025180000 +0100">
     <title>J-Bay</title>
     <desc>The group finally makes it to Jeffreys bay and meets up with Kelly Slater.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025190001 +0100" stop="20261025193000 +0100">
+  <programme channel="fuel-tv-new" start="20261025180001 +0100" stop="20261025183000 +0100">
     <title>Omar Hassan</title>
     <desc>Omar Hassan joins an allstar crew of skateboarders to session Washington's Orcas Island and Oahu, HI.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025193001 +0100" stop="20261025200000 +0100">
+  <programme channel="fuel-tv-new" start="20261025183001 +0100" stop="20261025190000 +0100">
     <title>Corey Bohan</title>
     <desc>BMX pro Corey Bohan heads to the Red Bull Elevation dirt jumping contest in Whistler.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025200001 +0100" stop="20261025210000 +0100">
+  <programme channel="fuel-tv-new" start="20261025190001 +0100" stop="20261025200000 +0100">
     <title>The Stories from the Search</title>
     <desc>The Rip Curl Pro Search 'Somewhere In Indonesia' with the world's best surfers in the world's best waves.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025210001 +0100" stop="20261025214500 +0100">
+  <programme channel="fuel-tv-new" start="20261025200001 +0100" stop="20261025204500 +0100">
     <title>Range Finder</title>
     <desc>A documentary film exploring the unique worldview of professional snowboarders Mark Carter and Bryan Iguchi.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025214501 +0100" stop="20261025223000 +0100">
+  <programme channel="fuel-tv-new" start="20261025204501 +0100" stop="20261025213000 +0100">
     <title>Alignment</title>
     <desc>Eric Jackson unites snowboarding, fly-fishing, and mountain life in Alignment.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025223001 +0100" stop="20261025230000 +0100">
+  <programme channel="fuel-tv-new" start="20261025213001 +0100" stop="20261025220000 +0100">
     <title>Raging Buffalo</title>
     <desc>The final ticket to Grenade Games is handed out in Raging Buffalo, but will a wildcard be named?</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025230001 +0100" stop="20261025233000 +0100">
+  <programme channel="fuel-tv-new" start="20261025220001 +0100" stop="20261025223000 +0100">
     <title>Vans Tahoe Cup</title>
     <desc>The crew charges the Vans Tahoe Cup, taking on the rail, slopestyle, and Superpipe competitions.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261025233001 +0100" stop="20261026000000 +0100">
+  <programme channel="fuel-tv-new" start="20261025223001 +0100" stop="20261025230000 +0100">
     <title>A New Grenade Team Rider!</title>
     <desc>The Grenade Games are on as snowboarders battle it out for a spot on the Grenade team.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026000001 +0100" stop="20261026003000 +0100">
+  <programme channel="fuel-tv-new" start="20261025230001 +0100" stop="20261025233000 +0100">
     <title>The Bluff</title>
     <desc>The crew wakes up to find a new swell in the water.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026003001 +0100" stop="20261026010000 +0100">
+  <programme channel="fuel-tv-new" start="20261025233001 +0100" stop="20261026000000 +0100">
     <title>The Transkei</title>
     <desc>Pottz gets everyone riled up over the drive through the Transkei.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026010001 +0100" stop="20261026013000 +0100">
+  <programme channel="fuel-tv-new" start="20261026000001 +0100" stop="20261026003000 +0100">
     <title>Baja</title>
     <desc>Shannon and Shayne go On Surfari in Baja and nearly get gored by a raging bull.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026013001 +0100" stop="20261026023000 +0100">
+  <programme channel="fuel-tv-new" start="20261026003001 +0100" stop="20261026013000 +0100">
     <title>Riding North</title>
     <desc>João Kopke visits Northern Portugal to uncover surfing spots and find a fast-paced, history-rich atmosphere.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026023001 +0100" stop="20261026030000 +0100">
+  <programme channel="fuel-tv-new" start="20261026013001 +0100" stop="20261026020000 +0100">
     <title>Fiji</title>
     <desc>Fraser and Api explore the waves and culture of Fiji in Surfing Life Travel.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026030001 +0100" stop="20261026031500 +0100">
+  <programme channel="fuel-tv-new" start="20261026020001 +0100" stop="20261026021500 +0100">
     <title>Quivers: Dane Gudauskas</title>
     <desc>Dane Gudauskas tours his quiver: landfill single fin, Skip Frye, and CI shapes-flow and speed.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026031501 +0100" stop="20261026033000 +0100">
+  <programme channel="fuel-tv-new" start="20261026021501 +0100" stop="20261026023000 +0100">
     <title>Quivers: Mason Ho</title>
     <desc>Quivers profiles Mason Ho and the creative surfboards behind his unique style.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026033001 +0100" stop="20261026034500 +0100">
+  <programme channel="fuel-tv-new" start="20261026023001 +0100" stop="20261026024500 +0100">
     <title>Episode 1</title>
     <desc>Owen Wright pushes young surfers to explore remote waves on Australia's east coast in this wild adventure.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026034501 +0100" stop="20261026040000 +0100">
+  <programme channel="fuel-tv-new" start="20261026024501 +0100" stop="20261026030000 +0100">
     <title>Episode 2</title>
     <desc>Owen Wright &amp; Vaughan Blakey take top boardrider clubs on a remote camping adventure in Episode 2.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026040001 +0100" stop="20261026043000 +0100">
+  <programme channel="fuel-tv-new" start="20261026030001 +0100" stop="20261026033000 +0100">
     <title>Flat Spell</title>
     <desc>The surf goes flat, Kala buys a Harley, a small tsunami hits the islands, and Kala breaks his leg.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026043001 +0100" stop="20261026044500 +0100">
+  <programme channel="fuel-tv-new" start="20261026033001 +0100" stop="20261026034500 +0100">
     <title>Tom Carrol x Christenson Myconaut</title>
     <desc>Tom Carroll and Luca Elder break down the much-talked Chris Christenson's 'Myconaut' surfboard model.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026044501 +0100" stop="20261026050000 +0100">
+  <programme channel="fuel-tv-new" start="20261026034501 +0100" stop="20261026040000 +0100">
     <title>Tom Carroll x Free Scrubber</title>
     <desc>Tom Carroll and Luca Elder break down the much-acclaimed Channel Islands 'Free Scrubber' surfboard model.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026050001 +0100" stop="20261026063000 +0100">
+  <programme channel="fuel-tv-new" start="20261026040001 +0100" stop="20261026053000 +0100">
     <title>Angola</title>
     <desc>Surfer João Kopke explores Angola's peaks and coasts, chasing waves and timeless tribes.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026063001 +0100" stop="20261026070000 +0100">
+  <programme channel="fuel-tv-new" start="20261026053001 +0100" stop="20261026060000 +0100">
     <title>Never Enough</title>
     <desc>An inside look at one of the hardest professional race series in the world: the AMA Pro Motocross Series.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026070001 +0100" stop="20261026073000 +0100">
+  <programme channel="fuel-tv-new" start="20261026060001 +0100" stop="20261026063000 +0100">
     <title>Solar Shred</title>
     <desc>Built To Shred gets eco-friendly boards, skating with Bob Burnquist and a BMX junk jumping session. </desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026073001 +0100" stop="20261026074500 +0100">
+  <programme channel="fuel-tv-new" start="20261026063001 +0100" stop="20261026064500 +0100">
     <title>Bringing it Home</title>
     <desc>The Norco Race Division team shines at Mont Sainte-Anne in the final UCI race of the season.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026074501 +0100" stop="20261026090000 +0100">
+  <programme channel="fuel-tv-new" start="20261026064501 +0100" stop="20261026080000 +0100">
     <title>Cluster</title>
     <desc>A document of individuality and modern surfing with some of surfing's greatest characters.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026090001 +0100" stop="20261026093000 +0100">
+  <programme channel="fuel-tv-new" start="20261026080001 +0100" stop="20261026083000 +0100">
     <title>The Bungee Jump</title>
     <desc>Perfect Jeffreys Bay and the world's highest Bungee jump.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026093001 +0100" stop="20261026100000 +0100">
+  <programme channel="fuel-tv-new" start="20261026083001 +0100" stop="20261026090000 +0100">
     <title>The Last Day</title>
     <desc>The crew gets one last surf in at J-Bay and visits one of the local game parks.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026100001 +0100" stop="20261026103000 +0100">
+  <programme channel="fuel-tv-new" start="20261026090001 +0100" stop="20261026093000 +0100">
     <title>Sumba</title>
     <desc>Shannon and Shayne explore the little known Indonesian island of Sumba.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026103001 +0100" stop="20261026110000 +0100">
+  <programme channel="fuel-tv-new" start="20261026093001 +0100" stop="20261026100000 +0100">
     <title>Nicaragua</title>
     <desc>S&amp;S explore Nicaragua to discover the beauty and tragedy of a nation trying to rebuild itself from its past.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026110001 +0100" stop="20261026113000 +0100">
+  <programme channel="fuel-tv-new" start="20261026100001 +0100" stop="20261026103000 +0100">
     <title>Monster Army Movie 16</title>
     <desc>Meet the rising action sports athletes pushing their limits and chasing their biggest goals.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026113001 +0100" stop="20261026123000 +0100">
+  <programme channel="fuel-tv-new" start="20261026103001 +0100" stop="20261026113000 +0100">
     <title>The Stories from the Search</title>
     <desc>The Rip Curl Pro Search 'Somewhere In Indonesia' with the world's best surfers in the world's best waves.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026123001 +0100" stop="20261026130000 +0100">
+  <programme channel="fuel-tv-new" start="20261026113001 +0100" stop="20261026120000 +0100">
     <title>Tactical Shred</title>
     <desc>The Built to Shred crew descend upon a law enforcement training facility for some Dirty Harry-style shredding.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026130001 +0100" stop="20261026133000 +0100">
+  <programme channel="fuel-tv-new" start="20261026120001 +0100" stop="20261026123000 +0100">
     <title>Canada</title>
     <desc>Locals Victoria Jealouse, Brian Savard, Shin Campos, and more expose the best places to ride in Canada.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026133001 +0100" stop="20261026140000 +0100">
+  <programme channel="fuel-tv-new" start="20261026123001 +0100" stop="20261026130000 +0100">
     <title>Russia</title>
     <desc>Jeremy Jones, Jonas Emery, and Jonaven Moore travel to Russia and find some of the world's best riding areas.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026140001 +0100" stop="20261026143000 +0100">
+  <programme channel="fuel-tv-new" start="20261026130001 +0100" stop="20261026133000 +0100">
     <title>Shoving Off</title>
     <desc>Danny and Dingo promote The Boned Age, hire a Playboy Playmate for an assistant and pick up some cool skaters.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026143001 +0100" stop="20261026150000 +0100">
+  <programme channel="fuel-tv-new" start="20261026133001 +0100" stop="20261026140000 +0100">
     <title>Pitching a Tent</title>
     <desc>Danny &amp; Dingo go camping in Utah and pick up skaters Silent Mike and Willis, plus Lucas Magoon and Louie Vito.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026150001 +0100" stop="20261026153000 +0100">
+  <programme channel="fuel-tv-new" start="20261026140001 +0100" stop="20261026143000 +0100">
     <title>Red vs. Green</title>
     <desc>American Trey Canard and world champ Christophe Pourcel are in a tight race for the motocross 250cc title.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026153001 +0100" stop="20261026160000 +0100">
+  <programme channel="fuel-tv-new" start="20261026143001 +0100" stop="20261026150000 +0100">
     <title>Hangtown National</title>
     <desc>Whole seasons and championship aspirations can be lost in a single practice run.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026160001 +0100" stop="20261026163000 +0100">
+  <programme channel="fuel-tv-new" start="20261026150001 +0100" stop="20261026153000 +0100">
     <title>Dumpster Diving for Shred</title>
     <desc>Jeff King does some dumpster diving for shreddable pieces, and skates the former Transworld office.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026163001 +0100" stop="20261026164500 +0100">
+  <programme channel="fuel-tv-new" start="20261026153001 +0100" stop="20261026154500 +0100">
     <title>Learning from the Best</title>
     <desc>From their pre-race week off to the action in Poland, join the Norco crew on every step of the journey.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026164501 +0100" stop="20261026172500 +0100">
+  <programme channel="fuel-tv-new" start="20261026154501 +0100" stop="20261026162500 +0100">
     <title>El Niños Wake</title>
     <desc>El Niño hype promises historic West Coast swells, but until sets hit, it's all guesswork.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026172501 +0100" stop="20261026180000 +0100">
+  <programme channel="fuel-tv-new" start="20261026162501 +0100" stop="20261026170000 +0100">
     <title>Bagus Lagi - The Dream Never Ends</title>
     <desc>After three years of forced absence, Pedro Boonman visited the Mentawais to score the season's best swell.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026180001 +0100" stop="20261026183000 +0100">
+  <programme channel="fuel-tv-new" start="20261026170001 +0100" stop="20261026173000 +0100">
     <title>The Tour</title>
     <desc>Clark Little enjoys the waves with his friends TedFord Mahiko, Andre Botha, Jerret Lau and Seabass Pereze.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026183001 +0100" stop="20261026190000 +0100">
+  <programme channel="fuel-tv-new" start="20261026173001 +0100" stop="20261026180000 +0100">
     <title>The Crew</title>
     <desc>Clark Little enjoys the waves with his friends TedFord Mahiko, Andre Botha, Jerret Lau and Seabass Pereze.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026190001 +0100" stop="20261026193000 +0100">
+  <programme channel="fuel-tv-new" start="20261026180001 +0100" stop="20261026183000 +0100">
     <title>Rusty Malinoski</title>
     <desc>Pro Wakeboarder Rusty Malinoski shoots in Orlando and sets off for China for a photo session and a contest.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026193001 +0100" stop="20261026200000 +0100">
+  <programme channel="fuel-tv-new" start="20261026183001 +0100" stop="20261026190000 +0100">
     <title>Kyle Berard</title>
     <desc>Professional skateboarder Kyle Berard tours the West Coast's best skateparks from Los Angeles to Washington.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026200001 +0100" stop="20261026213000 +0100">
+  <programme channel="fuel-tv-new" start="20261026190001 +0100" stop="20261026203000 +0100">
     <title>Episode 24</title>
     <desc>Chris and Todd unpack the week's biggest action sports stories with humour and sharp opinions.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026213001 +0100" stop="20261026223000 +0100">
+  <programme channel="fuel-tv-new" start="20261026203001 +0100" stop="20261026213000 +0100">
     <title>Naturestyle: Hokkaido Japan</title>
     <desc>Snowboarders explore Hokkaido's powder and culture.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026223001 +0100" stop="20261026230000 +0100">
+  <programme channel="fuel-tv-new" start="20261026213001 +0100" stop="20261026220000 +0100">
     <title>Leaving Panama</title>
     <desc>The crew barely make it to the beach after letting Donavon drive. They find their best day of surf so far.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026230001 +0100" stop="20261026233000 +0100">
+  <programme channel="fuel-tv-new" start="20261026220001 +0100" stop="20261026223000 +0100">
     <title>Rio, Brazil</title>
     <desc>After five days into the trip the crew goes to Rio Brazil for some sun surf and hang gliding.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261026233001 +0100" stop="20261027000000 +0100">
+  <programme channel="fuel-tv-new" start="20261026223001 +0100" stop="20261026230000 +0100">
     <title>Arrival in Chile</title>
     <desc>The surf crew arrives in Chile only to be greeted with some off road vehicles and freezing cold water.</desc>
+  </programme>
+  <programme channel="fuel-tv-new" start="20261026230001 +0100" stop="20261026233000 +0100">
+    <title>The Bungee Jump</title>
+    <desc>Perfect Jeffreys Bay and the world's highest Bungee jump.</desc>
+  </programme>
+  <programme channel="fuel-tv-new" start="20261026233001 +0100" stop="20261027000000 +0100">
+    <title>The Last Day</title>
+    <desc>The crew gets one last surf in at J-Bay and visits one of the local game parks.</desc>
   </programme>
   <programme channel="rally-tv-fast" start="20261022220005 +0200" stop="20261023000000 +0200">
     <title>Rally TV</title>
@@ -45608,344 +45184,344 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <title>Abigail - S04:E004 - Episode 4</title>
     <desc>Álvaro visita junto con María Begoña a Cheíto y le dice que iniciará sus estudios en el Colegio San Lázaro, Carlota se molesta porque su hijo no le avisó. Carlos Alfredo no está de acuerdo en que Rosalba tome decisiones sobre la salud de Mariana.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023004744 +0200" stop="20261023014008 +0200">
+  <programme channel="wedotv-amor" start="20261023004744 +0200" stop="20261023014009 +0200">
     <title>Abigail - S04:E005 - Episode 5</title>
     <desc>Carlos Alfredo trata de humillar a Cheíto frente a sus amigos, pero sale victorioso de dicha prueba. Rosalba decide contarle a Mariana toda la verdad de su enfermedad. Abigail y Matilda llegan a la cita pero la situación se sale de control.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023014009 +0200" stop="20261023023255 +0200">
-    <title>S01 : E12 Corazón Traicionado - S01:E12- In the Heart of Decision - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261023014010 +0200" stop="20261023023256 +0200">
+    <title>S01 : E12 Corazón Traicionado - S01:E12 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>En un ángulo del parque, oculto y observándolos, está Guillermo que se llevó a su hijo. Abatida Lorena le pide a Alberto que ya no se preocupe más por ella. Carmen no sospecha, del embarazo de Virginia. Una vez más Pedro deja sin salida a Lorena ordenándole que dispare directo al corazón de Marco Aurelio, si no quiere terminar reconociendo el cadáver de su hijo en una morgue - Elvis pide desesperadamente ayuda a Ricardo para deshacerse del bebé que espera Virginia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023023256 +0200" stop="20261023032543 +0200">
-    <title>S01 : E12 Corazón Traicionado - S01:E12- In the Heart of Decision - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261023023257 +0200" stop="20261023032543 +0200">
+    <title>S01 : E12 Corazón Traicionado - S01:E12 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>En un ángulo del parque, oculto y observándolos, está Guillermo que se llevó a su hijo. Abatida Lorena le pide a Alberto que ya no se preocupe más por ella. Carmen no sospecha, del embarazo de Virginia. Una vez más Pedro deja sin salida a Lorena ordenándole que dispare directo al corazón de Marco Aurelio, si no quiere terminar reconociendo el cadáver de su hijo en una morgue - Elvis pide desesperadamente ayuda a Ricardo para deshacerse del bebé que espera Virginia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023032544 +0200" stop="20261023042052 +0200">
+  <programme channel="wedotv-amor" start="20261023032544 +0200" stop="20261023042053 +0200">
     <title>S01 : E66 El Desprecio - S01:E66 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Extrañando, Israel lleva a Pastora a un hotel cinco estrellas, ésta le informa Clara Inés la echo de la mansión Santa María por ser ahora su dueña.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023042053 +0200" stop="20261023051608 +0200">
+  <programme channel="wedotv-amor" start="20261023042054 +0200" stop="20261023051608 +0200">
     <title>S01 : E67 El Desprecio - S01:E67 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Tras una llamada telefónica, Pastora sentencia que Clara Inés, irá a presa por impostora, Elisenda se sorprende con la noticia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023051609 +0200" stop="20261023060906 +0200">
-    <title>S01 : E16 La Trepadora - S01:E016- Family Conflicts and Hidden Secrets - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261023051609 +0200" stop="20261023060907 +0200">
+    <title>S01 : E16 La Trepadora - S01:E016 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria advierte a Hilario que sus problemas los van a arreglar en la casa y manda a pasar al sargento para que se lleve detenido a Nicolás por los destrozos ocasionado en el local. Nicolás intenta explicarle que Hilario no es quien ella piensa, pero no se atreve a decirle la verdad; sin embargo, Florencia, que llega en ese momento, le revela a Victoria que lo que el joven le oculta es que fue Hilario quien asesinó a su padre. Yosmir llama a Eugenia por teléfono, pero se molesta cuando la escucha diciéndole a Federico que no esta hablando con nadie, y le corta la llamada. Victoria siente una profunda tristeza por todo lo que ha ocurrido; más aún cuando Hilario, cariñoso, afirma que para...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023060907 +0200" stop="20261023065953 +0200">
-    <title>S01 : E17 La Trepadora - S01:E017- Nicolas' Revenge - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261023060908 +0200" stop="20261023065953 +0200">
+    <title>S01 : E17 La Trepadora - S01:E017 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás recibe la llamada que espera de la persona que lo va a ayudar en su venganza contra Hilario. Yosmir le pide dinero prestado a Isaura con la excusa de que es para un negocio, pero Chabeto lo pone en evidencia ante la señora asegurando que la plata es para salir con una novia, Eugenia ve su plan para salir con Yosmir desvanecerse cuando Fernanda le recuerda que tienen un compromiso en el club. Victoria se espanta al descubrir que Nicolás tenía razón, pues todos los novillos que acaba de comprar Hilario se murieron apenas el hombre cerró el trato. Jonás, manipulador, le reprocha a Antonieta que haya dudado de su amor y le muestra las fotos de todos los terrenos que ha pensado en...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261023065954 +0200" stop="20261023080007 +0200">
-    <title>S01 : E114 Piel Salvaje - S01:E114 - Episode 114 - Piel Salvaje</title>
+    <title>S01 : E114 Piel Salvaje - S01:E114 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Durante un evento en Mascarada Rosa es recibida por Camila a disfrutar ver reunidos en un mismo lugar a todos sus enemigos. Ezequiel y Fausto cada uno celebra la caída del otro y sólo los une la intención de matar a Rosa; Marcelina, siente temor y vergüenza; Elda, asegura que Rosa está allí para vengarse. Proyección del video que muestra como Fausto asesinó a Celso.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261023080008 +0200" stop="20261023085314 +0200">
-    <title>S01 : E13 Corazon Traicionado - S01:E13- Unveiling the Truth - Corazon Traicionado</title>
+    <title>S01 : E13 Corazón Traicionado - S01:E13 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Elvis le plantea a Virginia lo del aborto. Movida por la vergüenza ante su madre y el temor a no saber cómo enfrentar un embarazo, Virginia acepta. Carmen, a pesar de los puentes que ha tendido con su hija, no logra que ésta le confíe por lo que está atravesando. Lorena se debate entre decirle toda la verdad a Marco Aurelio o seguir calando, teme por la vida de Ignacio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023085315 +0200" stop="20261023094523 +0200">
-    <title>S01 : E14 Corazon Traicionado - S01:E14- Threat from the Past - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261023085315 +0200" stop="20261023094524 +0200">
+    <title>S01 : E14 Corazón Traicionado - S01:E14 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Lorena comienza a abrirse ante Marco Aurelio, y le cuenta que su ex pareja es un delincuente, asesino, que la tiene amenazada con la vida de su propio hijo. Patricia no mezcla su vida personal con su trabajo, por lo que ayudará a la enfermera a recuperar a su hijo. Pablo ve fotos de Malena con Alfonso y ordena continuar el seguimiento, pues serán pruebas que presentará para quitarle el niño. Lorena le muestra una foto de Guillermo a Marco Aurelio en su celular y él lo identifica sin lugar a dudas como el sicario que trató de matarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023094524 +0200" stop="20261023104039 +0200">
+  <programme channel="wedotv-amor" start="20261023094525 +0200" stop="20261023104039 +0200">
     <title>S01 : E67 El Desprecio - S01:E67 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Tras una llamada telefónica, Pastora sentencia que Clara Inés, irá a presa por impostora, Elisenda se sorprende con la noticia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023104040 +0200" stop="20261023113542 +0200">
+  <programme channel="wedotv-amor" start="20261023104040 +0200" stop="20261023113543 +0200">
     <title>S01 : E68 El Desprecio - S01:E68 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Berenice reclama a Israel que nunca le haya querido lo suficiente; la abrumada mujer decreta que odia a su padre por haberle destruido la vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023113543 +0200" stop="20261023122629 +0200">
-    <title>S01 : E17 La Trepadora - S01:E017- Nicolas' Revenge - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261023113544 +0200" stop="20261023122629 +0200">
+    <title>S01 : E17 La Trepadora - S01:E017 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás recibe la llamada que espera de la persona que lo va a ayudar en su venganza contra Hilario. Yosmir le pide dinero prestado a Isaura con la excusa de que es para un negocio, pero Chabeto lo pone en evidencia ante la señora asegurando que la plata es para salir con una novia, Eugenia ve su plan para salir con Yosmir desvanecerse cuando Fernanda le recuerda que tienen un compromiso en el club. Victoria se espanta al descubrir que Nicolás tenía razón, pues todos los novillos que acaba de comprar Hilario se murieron apenas el hombre cerró el trato. Jonás, manipulador, le reprocha a Antonieta que haya dudado de su amor y le muestra las fotos de todos los terrenos que ha pensado en...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261023122630 +0200" stop="20261023131723 +0200">
-    <title>S01 : E18 La Trepadora - S01:E018- Hilario is Surprised - La Trepadora</title>
+    <title>S01 : E18 La Trepadora - S01:E018 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario queda sorprendido al enterarse que Victoria ha decidido regresar a la ciudad con Hansen pues, según ella, debe ir en busca de su verdad. Nicolás asegura a Fernanda que avisarle a Victoria lo que iba a pasar con los novillos era parte de su plan para ganarse su confianza. Victoria le pide a Adelaida que le diga si es cierto que Hilario mató a Jaimito Del Casal; la señora asegura a su hija que ella cree en la inocencia de su esposo aunque Fernanda no comparta su opinión y la insta a decidir si va a creer o no en su padre. Clementina aconseja a Victoria que se busque otro enamorado que la ayude a olvidarse de Nicolás.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023131724 +0200" stop="20261023140946 +0200">
-    <title>S01 : E115 Piel Salvaje - S01:E115 - Episode 115 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261023131724 +0200" stop="20261023140947 +0200">
+    <title>S01 : E115 Piel Salvaje - S01:E115 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Ezequiel recibe una nota de El Doliente, anticipándole su muerte. El plan contra Rosa Blanco falló. Continúa relatando los hechos del pasado; Ezequiel, obligándola a tomar el arma homicida, logró que fuera culpada por éste asesinato, por el que pagó tantos años de cárcel injusta.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023140947 +0200" stop="20261023150040 +0200">
-    <title>S01 : E116 Piel Salvaje - S01:E116 - Episode 116 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261023140948 +0200" stop="20261023150040 +0200">
+    <title>S01 : E116 Piel Salvaje - S01:E116 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Ezequiel trata de abusar de Camila, una mano enguantada lo golpea. Todos culpan a Camila y ella se defiende diciendo que no vio al asesino. Torrealba insiste en interrogarla. Todos: Octavia, Astrid, Max, Marcelina, Leandro, Gregorio y hasta Sebastián tenían motivos para matar a Ezequiel. Sólo queda detenido Max, como presunto autor material del hecho.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023150041 +0200" stop="20261023155305 +0200">
+  <programme channel="wedotv-amor" start="20261023150041 +0200" stop="20261023155306 +0200">
     <title>Abigail - S04:E005 - Episode 5</title>
     <desc>Carlos Alfredo trata de humillar a Cheíto frente a sus amigos, pero sale victorioso de dicha prueba. Rosalba decide contarle a Mariana toda la verdad de su enfermedad. Abigail y Matilda llegan a la cita pero la situación se sale de control.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023155306 +0200" stop="20261023164756 +0200">
-    <title>Abigail - S04:E006 - الجراحة والاعترافات</title>
+  <programme channel="wedotv-amor" start="20261023155307 +0200" stop="20261023164756 +0200">
+    <title>Abigail - S04:E006 - Episode 6</title>
     <desc>Matilde se encuentra en el quirófano mientras Abigail angustiada le confiesa la verdad a Freddy. Cheíto decide escribirle una carta de amor a Mariana después de verla besando a Juan Carlos. María Begoña le propone a Carlos Alfredo deshacerse de Cheíto.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261023164757 +0200" stop="20261023174103 +0200">
-    <title>S01 : E13 Corazon Traicionado - S01:E13- Unveiling the Truth - Corazon Traicionado</title>
+    <title>S01 : E13 Corazón Traicionado - S01:E13 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Elvis le plantea a Virginia lo del aborto. Movida por la vergüenza ante su madre y el temor a no saber cómo enfrentar un embarazo, Virginia acepta. Carmen, a pesar de los puentes que ha tendido con su hija, no logra que ésta le confíe por lo que está atravesando. Lorena se debate entre decirle toda la verdad a Marco Aurelio o seguir calando, teme por la vida de Ignacio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023174104 +0200" stop="20261023183410 +0200">
-    <title>S01 : E13 Corazon Traicionado - S01:E13- Unveiling the Truth - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261023174104 +0200" stop="20261023183411 +0200">
+    <title>S01 : E13 Corazón Traicionado - S01:E13 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Elvis le plantea a Virginia lo del aborto. Movida por la vergüenza ante su madre y el temor a no saber cómo enfrentar un embarazo, Virginia acepta. Carmen, a pesar de los puentes que ha tendido con su hija, no logra que ésta le confíe por lo que está atravesando. Lorena se debate entre decirle toda la verdad a Marco Aurelio o seguir calando, teme por la vida de Ignacio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023183411 +0200" stop="20261023192926 +0200">
+  <programme channel="wedotv-amor" start="20261023183412 +0200" stop="20261023192926 +0200">
     <title>S01 : E67 El Desprecio - S01:E67 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Tras una llamada telefónica, Pastora sentencia que Clara Inés, irá a presa por impostora, Elisenda se sorprende con la noticia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023192927 +0200" stop="20261023202429 +0200">
+  <programme channel="wedotv-amor" start="20261023192927 +0200" stop="20261023202430 +0200">
     <title>S01 : E68 El Desprecio - S01:E68 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Berenice reclama a Israel que nunca le haya querido lo suficiente; la abrumada mujer decreta que odia a su padre por haberle destruido la vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023202430 +0200" stop="20261023211730 +0200">
-    <title>S01 : E17 La Trepadora - S01:E017- Nicolas' Revenge - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261023202431 +0200" stop="20261023211730 +0200">
+    <title>S01 : E17 La Trepadora - S01:E017 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás recibe la llamada que espera de la persona que lo va a ayudar en su venganza contra Hilario. Yosmir le pide dinero prestado a Isaura con la excusa de que es para un negocio, pero Chabeto lo pone en evidencia ante la señora asegurando que la plata es para salir con una novia, Eugenia ve su plan para salir con Yosmir desvanecerse cuando Fernanda le recuerda que tienen un compromiso en el club. Victoria se espanta al descubrir que Nicolás tenía razón, pues todos los novillos que acaba de comprar Hilario se murieron apenas el hombre cerró el trato. Jonás, manipulador, le reprocha a Antonieta que haya dudado de su amor y le muestra las fotos de todos los terrenos que ha pensado en...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023211731 +0200" stop="20261023221038 +0200">
-    <title>S01 : E18 La Trepadora - S01:E018- Hilario is Surprised - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261023211731 +0200" stop="20261023221039 +0200">
+    <title>S01 : E18 La Trepadora - S01:E018 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario queda sorprendido al enterarse que Victoria ha decidido regresar a la ciudad con Hansen pues, según ella, debe ir en busca de su verdad. Nicolás asegura a Fernanda que avisarle a Victoria lo que iba a pasar con los novillos era parte de su plan para ganarse su confianza. Victoria le pide a Adelaida que le diga si es cierto que Hilario mató a Jaimito Del Casal; la señora asegura a su hija que ella cree en la inocencia de su esposo aunque Fernanda no comparta su opinión y la insta a decidir si va a creer o no en su padre. Clementina aconseja a Victoria que se busque otro enamorado que la ayude a olvidarse de Nicolás.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023221039 +0200" stop="20261023230302 +0200">
-    <title>S01 : E115 Piel Salvaje - S01:E115  - Episódio 115 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261023221040 +0200" stop="20261023230302 +0200">
+    <title>S01 : E115 Piel Salvaje - S01:E115 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Ezequiel recibe una nota de El Doliente, anticipándole su muerte. El plan contra Rosa Blanco falló. Continúa relatando los hechos del pasado; Ezequiel, obligándola a tomar el arma homicida, logró que fuera culpada por éste asesinato, por el que pagó tantos años de cárcel injusta.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261023230303 +0200" stop="20261023235355 +0200">
-    <title>S01 : E116 Piel Salvaje - S01:E116  - Episódio 116 - Piel Salvaje</title>
+    <title>S01 : E116 Piel Salvaje - S01:E116 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Ezequiel trata de abusar de Camila, una mano enguantada lo golpea. Todos culpan a Camila y ella se defiende diciendo que no vio al asesino. Torrealba insiste en interrogarla. Todos: Octavia, Astrid, Max, Marcelina, Leandro, Gregorio y hasta Sebastián tenían motivos para matar a Ezequiel. Sólo queda detenido Max, como presunto autor material del hecho.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261023235356 +0200" stop="20261024004620 +0200">
+  <programme channel="wedotv-amor" start="20261023235356 +0200" stop="20261024004621 +0200">
     <title>Abigail - S04:E005 - Episode 5</title>
     <desc>Carlos Alfredo trata de humillar a Cheíto frente a sus amigos, pero sale victorioso de dicha prueba. Rosalba decide contarle a Mariana toda la verdad de su enfermedad. Abigail y Matilda llegan a la cita pero la situación se sale de control.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024004621 +0200" stop="20261024014111 +0200">
+  <programme channel="wedotv-amor" start="20261024004622 +0200" stop="20261024014111 +0200">
     <title>Abigail - S04:E006 - Episode 6</title>
     <desc>Matilde se encuentra en el quirófano mientras Abigail angustiada le confiesa la verdad a Freddy. Cheíto decide escribirle una carta de amor a Mariana después de verla besando a Juan Carlos. María Begoña le propone a Carlos Alfredo deshacerse de Cheíto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024014112 +0200" stop="20261024023418 +0200">
-    <title>S01 : E13 Corazon Traicionado - S01:E13- Unveiling the Truth - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261024014112 +0200" stop="20261024023419 +0200">
+    <title>S01 : E13 Corazón Traicionado - S01:E13 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Elvis le plantea a Virginia lo del aborto. Movida por la vergüenza ante su madre y el temor a no saber cómo enfrentar un embarazo, Virginia acepta. Carmen, a pesar de los puentes que ha tendido con su hija, no logra que ésta le confíe por lo que está atravesando. Lorena se debate entre decirle toda la verdad a Marco Aurelio o seguir calando, teme por la vida de Ignacio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024023419 +0200" stop="20261024032726 +0200">
-    <title>S01 : E13 Corazon Traicionado - S01:E13- Unveiling the Truth - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261024023420 +0200" stop="20261024032726 +0200">
+    <title>S01 : E13 Corazón Traicionado - S01:E13 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Elvis le plantea a Virginia lo del aborto. Movida por la vergüenza ante su madre y el temor a no saber cómo enfrentar un embarazo, Virginia acepta. Carmen, a pesar de los puentes que ha tendido con su hija, no logra que ésta le confíe por lo que está atravesando. Lorena se debate entre decirle toda la verdad a Marco Aurelio o seguir calando, teme por la vida de Ignacio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024032727 +0200" stop="20261024042241 +0200">
+  <programme channel="wedotv-amor" start="20261024032727 +0200" stop="20261024042242 +0200">
     <title>S01 : E67 El Desprecio - S01:E67 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Tras una llamada telefónica, Pastora sentencia que Clara Inés, irá a presa por impostora, Elisenda se sorprende con la noticia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024042242 +0200" stop="20261024051745 +0200">
+  <programme channel="wedotv-amor" start="20261024042243 +0200" stop="20261024051745 +0200">
     <title>S01 : E68 El Desprecio - S01:E68 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Berenice reclama a Israel que nunca le haya querido lo suficiente; la abrumada mujer decreta que odia a su padre por haberle destruido la vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024051746 +0200" stop="20261024061045 +0200">
-    <title>S01 : E17 La Trepadora - S01:E017- Nicolas' Revenge - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261024051746 +0200" stop="20261024061046 +0200">
+    <title>S01 : E17 La Trepadora - S01:E017 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás recibe la llamada que espera de la persona que lo va a ayudar en su venganza contra Hilario. Yosmir le pide dinero prestado a Isaura con la excusa de que es para un negocio, pero Chabeto lo pone en evidencia ante la señora asegurando que la plata es para salir con una novia, Eugenia ve su plan para salir con Yosmir desvanecerse cuando Fernanda le recuerda que tienen un compromiso en el club. Victoria se espanta al descubrir que Nicolás tenía razón, pues todos los novillos que acaba de comprar Hilario se murieron apenas el hombre cerró el trato. Jonás, manipulador, le reprocha a Antonieta que haya dudado de su amor y le muestra las fotos de todos los terrenos que ha pensado en...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024061046 +0200" stop="20261024070139 +0200">
-    <title>S01 : E18 La Trepadora - S01:E018- Hilario is Surprised - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261024061047 +0200" stop="20261024070140 +0200">
+    <title>S01 : E18 La Trepadora - S01:E018 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario queda sorprendido al enterarse que Victoria ha decidido regresar a la ciudad con Hansen pues, según ella, debe ir en busca de su verdad. Nicolás asegura a Fernanda que avisarle a Victoria lo que iba a pasar con los novillos era parte de su plan para ganarse su confianza. Victoria le pide a Adelaida que le diga si es cierto que Hilario mató a Jaimito Del Casal; la señora asegura a su hija que ella cree en la inocencia de su esposo aunque Fernanda no comparta su opinión y la insta a decidir si va a creer o no en su padre. Clementina aconseja a Victoria que se busque otro enamorado que la ayude a olvidarse de Nicolás.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024070140 +0200" stop="20261024080007 +0200">
-    <title>S01 : E115 Piel Salvaje - S01:E115  - Episod 115 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261024070141 +0200" stop="20261024080007 +0200">
+    <title>S01 : E115 Piel Salvaje - S01:E115 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Ezequiel recibe una nota de El Doliente, anticipándole su muerte. El plan contra Rosa Blanco falló. Continúa relatando los hechos del pasado; Ezequiel, obligándola a tomar el arma homicida, logró que fuera culpada por éste asesinato, por el que pagó tantos años de cárcel injusta.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261024080008 +0200" stop="20261024085216 +0200">
-    <title>S01 : E14 Corazon Traicionado - S01:E14- Threat from the Past - Corazon Traicionado</title>
+    <title>S01 : E14 Corazón Traicionado - S01:E14 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Lorena comienza a abrirse ante Marco Aurelio, y le cuenta que su ex pareja es un delincuente, asesino, que la tiene amenazada con la vida de su propio hijo. Patricia no mezcla su vida personal con su trabajo, por lo que ayudará a la enfermera a recuperar a su hijo. Pablo ve fotos de Malena con Alfonso y ordena continuar el seguimiento, pues serán pruebas que presentará para quitarle el niño. Lorena le muestra una foto de Guillermo a Marco Aurelio en su celular y él lo identifica sin lugar a dudas como el sicario que trató de matarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024085217 +0200" stop="20261024094334 +0200">
-    <title>S01 : E15 Corazon Traicionado - S01:E15- The Lawyer's Secret - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261024085217 +0200" stop="20261024094335 +0200">
+    <title>S01 : E15 Corazón Traicionado - S01:E15 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Omar sospecha que Marco Aurelio tiene información que no revela, pero el hábil abogado no se delata. Omar y el Jefe de Policía descartan la posibilidad de que sea gente vinculada a un cártel los que estén detrás del intento de asesinato de Marco Aurelio. Claudio le promete a Lorena entregarle personalmente a Ignacio si acaba con la vida de su hermano. Lorena sostiene el arma, buscando fuerzas para accionarla.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024094335 +0200" stop="20261024103838 +0200">
+  <programme channel="wedotv-amor" start="20261024094336 +0200" stop="20261024103838 +0200">
     <title>S01 : E68 El Desprecio - S01:E68 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Berenice reclama a Israel que nunca le haya querido lo suficiente; la abrumada mujer decreta que odia a su padre por haberle destruido la vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024103839 +0200" stop="20261024113352 +0200">
+  <programme channel="wedotv-amor" start="20261024103839 +0200" stop="20261024113353 +0200">
     <title>S01 : E69 El Desprecio - S01:E69 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al anochecer, el comisario DAZA pretende llevar detenida a Clara Inés por usurpación de identidad, Nicolás lo defiende.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024113353 +0200" stop="20261024122447 +0200">
-    <title>S01 : E18 La Trepadora - S01:E018- Hilario is Surprised - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261024113354 +0200" stop="20261024122447 +0200">
+    <title>S01 : E18 La Trepadora - S01:E018 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario queda sorprendido al enterarse que Victoria ha decidido regresar a la ciudad con Hansen pues, según ella, debe ir en busca de su verdad. Nicolás asegura a Fernanda que avisarle a Victoria lo que iba a pasar con los novillos era parte de su plan para ganarse su confianza. Victoria le pide a Adelaida que le diga si es cierto que Hilario mató a Jaimito Del Casal; la señora asegura a su hija que ella cree en la inocencia de su esposo aunque Fernanda no comparta su opinión y la insta a decidir si va a creer o no en su padre. Clementina aconseja a Victoria que se busque otro enamorado que la ayude a olvidarse de Nicolás.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261024122448 +0200" stop="20261024131559 +0200">
-    <title>S01 : E19 La Trepadora - S01:E019- Espionage and Jealousy - La Trepadora</title>
+    <title>S01 : E19 La Trepadora - S01:E019 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Fernanda impide que Nicolás siga espiando la conversación entre Jonás y Builder. Una emocionada Antonieta comenta con Fernanda que existe la posibilidad de salir en la película que va a filmar Jack aunque sea como extra, cosa que la hace muy feliz, pues todas sus amigas de la alta sociedad se van a morir de envidia.Victoria se finge furiosa ante Adelaida al recibir un ramo de flores que le envía Nicolás, aunque, a solas, admite que se muere por perdonarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024131600 +0200" stop="20261024140652 +0200">
-    <title>S01 : E116 Piel Salvaje - S01:E116 - Episode 116 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261024131600 +0200" stop="20261024140653 +0200">
+    <title>S01 : E116 Piel Salvaje - S01:E116 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Ezequiel trata de abusar de Camila, una mano enguantada lo golpea. Todos culpan a Camila y ella se defiende diciendo que no vio al asesino. Torrealba insiste en interrogarla. Todos: Octavia, Astrid, Max, Marcelina, Leandro, Gregorio y hasta Sebastián tenían motivos para matar a Ezequiel. Sólo queda detenido Max, como presunto autor material del hecho.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024140653 +0200" stop="20261024145948 +0200">
-    <title>S01 : E117 Piel Salvaje - S01:E117 - Episode 117 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261024140654 +0200" stop="20261024145948 +0200">
+    <title>S01 : E117 Piel Salvaje - S01:E117 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Max detenido y Camila asegura que es inocente. Santiago le cuenta al inspector haber visto a Max limpiando el objeto con el que mataron a Ezequiel y, con tristeza concluye que él y Camila fueron los autores. Continúan los interrogatorios.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024145949 +0200" stop="20261024155438 +0200">
+  <programme channel="wedotv-amor" start="20261024145949 +0200" stop="20261024155439 +0200">
     <title>Abigail - S04:E006 - Episode 6</title>
     <desc>Matilde se encuentra en el quirófano mientras Abigail angustiada le confiesa la verdad a Freddy. Cheíto decide escribirle una carta de amor a Mariana después de verla besando a Juan Carlos. María Begoña le propone a Carlos Alfredo deshacerse de Cheíto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024155439 +0200" stop="20261024164443 +0200">
+  <programme channel="wedotv-amor" start="20261024155440 +0200" stop="20261024164444 +0200">
     <title>Abigail - S04:E007 - Episode 7</title>
     <desc>Carlos Alfredo se molesta cuando se entera que Abigail se encuentra en casa de Cheíto y le reclama a Pastora que siempre la proteja. Lucía llama a María Clara y le confiesa toda la verdad sobre su hermana gemela, sin darse cuenta que la está escuchando.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024164444 +0200" stop="20261024173653 +0200">
-    <title>S01 : E14 Corazon Traicionado - S01:E14- Threat from the Past - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261024164445 +0200" stop="20261024173653 +0200">
+    <title>S01 : E14 Corazón Traicionado - S01:E14 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Lorena comienza a abrirse ante Marco Aurelio, y le cuenta que su ex pareja es un delincuente, asesino, que la tiene amenazada con la vida de su propio hijo. Patricia no mezcla su vida personal con su trabajo, por lo que ayudará a la enfermera a recuperar a su hijo. Pablo ve fotos de Malena con Alfonso y ordena continuar el seguimiento, pues serán pruebas que presentará para quitarle el niño. Lorena le muestra una foto de Guillermo a Marco Aurelio en su celular y él lo identifica sin lugar a dudas como el sicario que trató de matarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024173654 +0200" stop="20261024182902 +0200">
-    <title>S01 : E14 Corazon Traicionado - S01:E14- Threat from the Past - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261024173654 +0200" stop="20261024182903 +0200">
+    <title>S01 : E14 Corazón Traicionado - S01:E14 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Lorena comienza a abrirse ante Marco Aurelio, y le cuenta que su ex pareja es un delincuente, asesino, que la tiene amenazada con la vida de su propio hijo. Patricia no mezcla su vida personal con su trabajo, por lo que ayudará a la enfermera a recuperar a su hijo. Pablo ve fotos de Malena con Alfonso y ordena continuar el seguimiento, pues serán pruebas que presentará para quitarle el niño. Lorena le muestra una foto de Guillermo a Marco Aurelio en su celular y él lo identifica sin lugar a dudas como el sicario que trató de matarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024182903 +0200" stop="20261024192406 +0200">
+  <programme channel="wedotv-amor" start="20261024182904 +0200" stop="20261024192406 +0200">
     <title>S01 : E68 El Desprecio - S01:E68 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Berenice reclama a Israel que nunca le haya querido lo suficiente; la abrumada mujer decreta que odia a su padre por haberle destruido la vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024192407 +0200" stop="20261024201920 +0200">
+  <programme channel="wedotv-amor" start="20261024192407 +0200" stop="20261024201921 +0200">
     <title>S01 : E69 El Desprecio - S01:E69 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al anochecer, el comisario DAZA pretende llevar detenida a Clara Inés por usurpación de identidad, Nicolás lo defiende.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024201921 +0200" stop="20261024211229 +0200">
-    <title>S01 : E18 La Trepadora - S01:E018- Hilario is Surprised - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261024201922 +0200" stop="20261024211229 +0200">
+    <title>S01 : E18 La Trepadora - S01:E018 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario queda sorprendido al enterarse que Victoria ha decidido regresar a la ciudad con Hansen pues, según ella, debe ir en busca de su verdad. Nicolás asegura a Fernanda que avisarle a Victoria lo que iba a pasar con los novillos era parte de su plan para ganarse su confianza. Victoria le pide a Adelaida que le diga si es cierto que Hilario mató a Jaimito Del Casal; la señora asegura a su hija que ella cree en la inocencia de su esposo aunque Fernanda no comparta su opinión y la insta a decidir si va a creer o no en su padre. Clementina aconseja a Victoria que se busque otro enamorado que la ayude a olvidarse de Nicolás.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024211230 +0200" stop="20261024220555 +0200">
-    <title>S01 : E19 La Trepadora - S01:E019- Espionage and Jealousy - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261024211230 +0200" stop="20261024220556 +0200">
+    <title>S01 : E19 La Trepadora - S01:E019 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Fernanda impide que Nicolás siga espiando la conversación entre Jonás y Builder. Una emocionada Antonieta comenta con Fernanda que existe la posibilidad de salir en la película que va a filmar Jack aunque sea como extra, cosa que la hace muy feliz, pues todas sus amigas de la alta sociedad se van a morir de envidia.Victoria se finge furiosa ante Adelaida al recibir un ramo de flores que le envía Nicolás, aunque, a solas, admite que se muere por perdonarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024220556 +0200" stop="20261024225648 +0200">
-    <title>S01 : E116 Piel Salvaje - S01:E116 - Episode 116 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261024220557 +0200" stop="20261024225649 +0200">
+    <title>S01 : E116 Piel Salvaje - S01:E116 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Ezequiel trata de abusar de Camila, una mano enguantada lo golpea. Todos culpan a Camila y ella se defiende diciendo que no vio al asesino. Torrealba insiste en interrogarla. Todos: Octavia, Astrid, Max, Marcelina, Leandro, Gregorio y hasta Sebastián tenían motivos para matar a Ezequiel. Sólo queda detenido Max, como presunto autor material del hecho.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024225649 +0200" stop="20261024234944 +0200">
-    <title>S01 : E117 Piel Salvaje - S01:E117 - Episode 117 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261024225650 +0200" stop="20261024234944 +0200">
+    <title>S01 : E117 Piel Salvaje - S01:E117 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Max detenido y Camila asegura que es inocente. Santiago le cuenta al inspector haber visto a Max limpiando el objeto con el que mataron a Ezequiel y, con tristeza concluye que él y Camila fueron los autores. Continúan los interrogatorios.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261024234945 +0200" stop="20261025004434 +0200">
-    <title>Abigail - S04:E006 - Pembedahan dan Pengakuan</title>
+  <programme channel="wedotv-amor" start="20261024234945 +0200" stop="20261025004435 +0200">
+    <title>Abigail - S04:E006 - Episode 6</title>
     <desc>Matilde se encuentra en el quirófano mientras Abigail angustiada le confiesa la verdad a Freddy. Cheíto decide escribirle una carta de amor a Mariana después de verla besando a Juan Carlos. María Begoña le propone a Carlos Alfredo deshacerse de Cheíto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025004435 +0200" stop="20261025013440 +0200">
+  <programme channel="wedotv-amor" start="20261025004436 +0200" stop="20261025013440 +0200">
     <title>Abigail - S04:E007 - Episode 7</title>
     <desc>Carlos Alfredo se molesta cuando se entera que Abigail se encuentra en casa de Cheíto y le reclama a Pastora que siempre la proteja. Lucía llama a María Clara y le confiesa toda la verdad sobre su hermana gemela, sin darse cuenta que la está escuchando.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261025013441 +0200" stop="20261025022649 +0200">
-    <title>S01 : E14 Corazon Traicionado - S01:E14- Threat from the Past - Corazon Traicionado</title>
+    <title>S01 : E14 Corazón Traicionado - S01:E14 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Lorena comienza a abrirse ante Marco Aurelio, y le cuenta que su ex pareja es un delincuente, asesino, que la tiene amenazada con la vida de su propio hijo. Patricia no mezcla su vida personal con su trabajo, por lo que ayudará a la enfermera a recuperar a su hijo. Pablo ve fotos de Malena con Alfonso y ordena continuar el seguimiento, pues serán pruebas que presentará para quitarle el niño. Lorena le muestra una foto de Guillermo a Marco Aurelio en su celular y él lo identifica sin lugar a dudas como el sicario que trató de matarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025022650 +0200" stop="20261025021858 +0100">
-    <title>S01 : E14 Corazon Traicionado - S01:E14- Threat from the Past - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261025022650 +0200" stop="20261025021859 +0100">
+    <title>S01 : E14 Corazón Traicionado - S01:E14 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Lorena comienza a abrirse ante Marco Aurelio, y le cuenta que su ex pareja es un delincuente, asesino, que la tiene amenazada con la vida de su propio hijo. Patricia no mezcla su vida personal con su trabajo, por lo que ayudará a la enfermera a recuperar a su hijo. Pablo ve fotos de Malena con Alfonso y ordena continuar el seguimiento, pues serán pruebas que presentará para quitarle el niño. Lorena le muestra una foto de Guillermo a Marco Aurelio en su celular y él lo identifica sin lugar a dudas como el sicario que trató de matarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025021859 +0100" stop="20261025031402 +0100">
+  <programme channel="wedotv-amor" start="20261025021900 +0100" stop="20261025031402 +0100">
     <title>S01 : E68 El Desprecio - S01:E68 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Berenice reclama a Israel que nunca le haya querido lo suficiente; la abrumada mujer decreta que odia a su padre por haberle destruido la vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025031403 +0100" stop="20261025040916 +0100">
+  <programme channel="wedotv-amor" start="20261025031403 +0100" stop="20261025040917 +0100">
     <title>S01 : E69 El Desprecio - S01:E69 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al anochecer, el comisario DAZA pretende llevar detenida a Clara Inés por usurpación de identidad, Nicolás lo defiende.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025040917 +0100" stop="20261025050225 +0100">
-    <title>S01 : E18 La Trepadora - S01:E018- Hilario is Surprised - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261025040918 +0100" stop="20261025050225 +0100">
+    <title>S01 : E18 La Trepadora - S01:E018 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario queda sorprendido al enterarse que Victoria ha decidido regresar a la ciudad con Hansen pues, según ella, debe ir en busca de su verdad. Nicolás asegura a Fernanda que avisarle a Victoria lo que iba a pasar con los novillos era parte de su plan para ganarse su confianza. Victoria le pide a Adelaida que le diga si es cierto que Hilario mató a Jaimito Del Casal; la señora asegura a su hija que ella cree en la inocencia de su esposo aunque Fernanda no comparta su opinión y la insta a decidir si va a creer o no en su padre. Clementina aconseja a Victoria que se busque otro enamorado que la ayude a olvidarse de Nicolás.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025050226 +0100" stop="20261025055337 +0100">
-    <title>S01 : E19 La Trepadora - S01:E019- Espionage and Jealousy - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261025050226 +0100" stop="20261025055338 +0100">
+    <title>S01 : E19 La Trepadora - S01:E019 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Fernanda impide que Nicolás siga espiando la conversación entre Jonás y Builder. Una emocionada Antonieta comenta con Fernanda que existe la posibilidad de salir en la película que va a filmar Jack aunque sea como extra, cosa que la hace muy feliz, pues todas sus amigas de la alta sociedad se van a morir de envidia.Victoria se finge furiosa ante Adelaida al recibir un ramo de flores que le envía Nicolás, aunque, a solas, admite que se muere por perdonarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025055338 +0100" stop="20261025070007 +0100">
-    <title>S01 : E116 Piel Salvaje - S01:E116 - Episode 116 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261025055339 +0100" stop="20261025070007 +0100">
+    <title>S01 : E116 Piel Salvaje - S01:E116 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Ezequiel trata de abusar de Camila, una mano enguantada lo golpea. Todos culpan a Camila y ella se defiende diciendo que no vio al asesino. Torrealba insiste en interrogarla. Todos: Octavia, Astrid, Max, Marcelina, Leandro, Gregorio y hasta Sebastián tenían motivos para matar a Ezequiel. Sólo queda detenido Max, como presunto autor material del hecho.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261025070008 +0100" stop="20261025075125 +0100">
-    <title>S01 : E15 Corazon Traicionado - S01:E15- The Lawyer's Secret - Corazon Traicionado</title>
+    <title>S01 : E15 Corazón Traicionado - S01:E15 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Omar sospecha que Marco Aurelio tiene información que no revela, pero el hábil abogado no se delata. Omar y el Jefe de Policía descartan la posibilidad de que sea gente vinculada a un cártel los que estén detrás del intento de asesinato de Marco Aurelio. Claudio le promete a Lorena entregarle personalmente a Ignacio si acaba con la vida de su hermano. Lorena sostiene el arma, buscando fuerzas para accionarla.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025075126 +0100" stop="20261025084245 +0100">
-    <title>S01 : E16 Corazon Traicionado - S01:E16- The Hidden Truth - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261025075126 +0100" stop="20261025084246 +0100">
+    <title>S01 : E16 Corazón Traicionado - S01:E16 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Paulina defiende a Elvis tildando a Virginia de cualquiera, poniendo en duda incluso que el bebé que espera sea de su hijo. Alberto le informa a Lorena la decisión de Patricia de no seguir con su caso. Marco Aurelio le dice a Lorena que ahora es él quien necesita un favor de ella, y le pide que averigüe con su ex pareja quiénes son los autores intelectuales de sus atentados. Lorena tensa y asustada, porque ella sabe muy bien sus nombres: Gertrudis y Claudio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025084246 +0100" stop="20261025093800 +0100">
+  <programme channel="wedotv-amor" start="20261025084247 +0100" stop="20261025093800 +0100">
     <title>S01 : E69 El Desprecio - S01:E69 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al anochecer, el comisario DAZA pretende llevar detenida a Clara Inés por usurpación de identidad, Nicolás lo defiende.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025093801 +0100" stop="20261025103235 +0100">
+  <programme channel="wedotv-amor" start="20261025093801 +0100" stop="20261025103236 +0100">
     <title>S01 : E70 El Desprecio - S01:E70 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Octavia promete a Clara Inés que probará su inocencia y una autentica Santa María; Clara ya no tiene interés en demostrar que es de la familia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025103236 +0100" stop="20261025112348 +0100">
-    <title>S01 : E19 La Trepadora - S01:E019- Espionage and Jealousy - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261025103237 +0100" stop="20261025112348 +0100">
+    <title>S01 : E19 La Trepadora - S01:E019 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Fernanda impide que Nicolás siga espiando la conversación entre Jonás y Builder. Una emocionada Antonieta comenta con Fernanda que existe la posibilidad de salir en la película que va a filmar Jack aunque sea como extra, cosa que la hace muy feliz, pues todas sus amigas de la alta sociedad se van a morir de envidia.Victoria se finge furiosa ante Adelaida al recibir un ramo de flores que le envía Nicolás, aunque, a solas, admite que se muere por perdonarlo.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261025112349 +0100" stop="20261025121518 +0100">
-    <title>S01 : E20 La Trepadora - S01:E020- Conquest and Rejection - La Trepadora</title>
+    <title>S01 : E20 La Trepadora - S01:E020 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Eugenia se siente incómoda cuando Miguel evidencia que gusta de ella y asegura estar dispuesto a conquistarla. Clementina le entrega a Victoria un ramo de flores que acaba de traerle un mensajero y que le envía Builder; la joven Guanipa evidencia preferir el de Nicolás. Nicolás se presenta en casa de Carmencita a avisarle a Victoria lo ocurrido a Hilario; la muchacha advierte que ya estaba enterada y que a su padre no le pasó nada antes de reprocharle el beso que le estuvo dando a Liliana esa mañana y que ella vio en una foto. Nicolás busca a Victoria en la universidad para asegurarle que está dispuesto a hacer cualquier cosa por reconquistarla, pues para él no existe más nadie; Guanipa,...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025121519 +0100" stop="20261025130813 +0100">
-    <title>S01 : E117 Piel Salvaje - S01:E117  - Episódio 117 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261025121519 +0100" stop="20261025130814 +0100">
+    <title>S01 : E117 Piel Salvaje - S01:E117 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Max detenido y Camila asegura que es inocente. Santiago le cuenta al inspector haber visto a Max limpiando el objeto con el que mataron a Ezequiel y, con tristeza concluye que él y Camila fueron los autores. Continúan los interrogatorios.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025130814 +0100" stop="20261025140047 +0100">
-    <title>S01 : E118 Piel Salvaje - S01:E118  - Episod 118 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261025130815 +0100" stop="20261025140047 +0100">
+    <title>S01 : E118 Piel Salvaje - S01:E118 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Torrealba expone ante dos oficiales el caso del crimen de Ezequiel López Méndez, es interrumpido por Marcelina que viene a confesarse culpable, Torrealba no le cree. Rosa acusa a Octavia de ser la que ideó abandonar a Camila y convenció a Marcelina de que lo hiciere. Octavia se burla y Camila, ciega de ira la bota de su casa.</desc>
   </programme>
@@ -45957,183 +45533,183 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <title>Abigail - S04:E008 - Episode 8</title>
     <desc>Guillermo le confiesa a Abigail que se siente tranquilo cuando está cerca de Rosalba. María Clara le confiesa a la Madre Superiora que está preocupada por su hermana. Mariana les dice a sus padres que quiere verlos juntos antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025154336 +0100" stop="20261025163453 +0100">
-    <title>S01 : E15 Corazon Traicionado - S01:E15- The Lawyer's Secret - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261025154336 +0100" stop="20261025163454 +0100">
+    <title>S01 : E15 Corazón Traicionado - S01:E15 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Omar sospecha que Marco Aurelio tiene información que no revela, pero el hábil abogado no se delata. Omar y el Jefe de Policía descartan la posibilidad de que sea gente vinculada a un cártel los que estén detrás del intento de asesinato de Marco Aurelio. Claudio le promete a Lorena entregarle personalmente a Ignacio si acaba con la vida de su hermano. Lorena sostiene el arma, buscando fuerzas para accionarla.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025163454 +0100" stop="20261025172612 +0100">
-    <title>S01 : E15 Corazon Traicionado - S01:E15- The Lawyer's Secret - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261025163455 +0100" stop="20261025172612 +0100">
+    <title>S01 : E15 Corazón Traicionado - S01:E15 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Omar sospecha que Marco Aurelio tiene información que no revela, pero el hábil abogado no se delata. Omar y el Jefe de Policía descartan la posibilidad de que sea gente vinculada a un cártel los que estén detrás del intento de asesinato de Marco Aurelio. Claudio le promete a Lorena entregarle personalmente a Ignacio si acaba con la vida de su hermano. Lorena sostiene el arma, buscando fuerzas para accionarla.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025172613 +0100" stop="20261025182126 +0100">
+  <programme channel="wedotv-amor" start="20261025172613 +0100" stop="20261025182127 +0100">
     <title>S01 : E69 El Desprecio - S01:E69 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al anochecer, el comisario DAZA pretende llevar detenida a Clara Inés por usurpación de identidad, Nicolás lo defiende.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025182127 +0100" stop="20261025191602 +0100">
+  <programme channel="wedotv-amor" start="20261025182128 +0100" stop="20261025191602 +0100">
     <title>S01 : E70 El Desprecio - S01:E70 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Octavia promete a Clara Inés que probará su inocencia y una autentica Santa María; Clara ya no tiene interés en demostrar que es de la familia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025191603 +0100" stop="20261025200928 +0100">
-    <title>S01 : E19 La Trepadora - S01:E019- Espionage and Jealousy - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261025191603 +0100" stop="20261025200929 +0100">
+    <title>S01 : E19 La Trepadora - S01:E019 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Fernanda impide que Nicolás siga espiando la conversación entre Jonás y Builder. Una emocionada Antonieta comenta con Fernanda que existe la posibilidad de salir en la película que va a filmar Jack aunque sea como extra, cosa que la hace muy feliz, pues todas sus amigas de la alta sociedad se van a morir de envidia.Victoria se finge furiosa ante Adelaida al recibir un ramo de flores que le envía Nicolás, aunque, a solas, admite que se muere por perdonarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025200929 +0100" stop="20261025210313 +0100">
-    <title>S01 : E20 La Trepadora - S01:E020- Conquest and Rejection - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261025200930 +0100" stop="20261025210313 +0100">
+    <title>S01 : E20 La Trepadora - S01:E020 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Eugenia se siente incómoda cuando Miguel evidencia que gusta de ella y asegura estar dispuesto a conquistarla. Clementina le entrega a Victoria un ramo de flores que acaba de traerle un mensajero y que le envía Builder; la joven Guanipa evidencia preferir el de Nicolás. Nicolás se presenta en casa de Carmencita a avisarle a Victoria lo ocurrido a Hilario; la muchacha advierte que ya estaba enterada y que a su padre no le pasó nada antes de reprocharle el beso que le estuvo dando a Liliana esa mañana y que ella vio en una foto. Nicolás busca a Victoria en la universidad para asegurarle que está dispuesto a hacer cualquier cosa por reconquistarla, pues para él no existe más nadie; Guanipa,...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261025210314 +0100" stop="20261025215608 +0100">
-    <title>S01 : E117 Piel Salvaje - S01:E117 - Episode 117 - Piel Salvaje</title>
+    <title>S01 : E117 Piel Salvaje - S01:E117 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Max detenido y Camila asegura que es inocente. Santiago le cuenta al inspector haber visto a Max limpiando el objeto con el que mataron a Ezequiel y, con tristeza concluye que él y Camila fueron los autores. Continúan los interrogatorios.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025215609 +0100" stop="20261025224841 +0100">
-    <title>S01 : E118 Piel Salvaje - S01:E118  - الحلقة 118 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261025215609 +0100" stop="20261025224842 +0100">
+    <title>S01 : E118 Piel Salvaje - S01:E118 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Torrealba expone ante dos oficiales el caso del crimen de Ezequiel López Méndez, es interrumpido por Marcelina que viene a confesarse culpable, Torrealba no le cree. Rosa acusa a Octavia de ser la que ideó abandonar a Camila y convenció a Marcelina de que lo hiciere. Octavia se burla y Camila, ciega de ira la bota de su casa.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025224842 +0100" stop="20261025233847 +0100">
+  <programme channel="wedotv-amor" start="20261025224843 +0100" stop="20261025233847 +0100">
     <title>Abigail - S04:E007 - Episode 7</title>
     <desc>Carlos Alfredo se molesta cuando se entera que Abigail se encuentra en casa de Cheíto y le reclama a Pastora que siempre la proteja. Lucía llama a María Clara y le confiesa toda la verdad sobre su hermana gemela, sin darse cuenta que la está escuchando.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261025233848 +0100" stop="20261026003129 +0100">
+  <programme channel="wedotv-amor" start="20261025233848 +0100" stop="20261026003130 +0100">
     <title>Abigail - S04:E008 - Episode 8</title>
     <desc>Guillermo le confiesa a Abigail que se siente tranquilo cuando está cerca de Rosalba. María Clara le confiesa a la Madre Superiora que está preocupada por su hermana. Mariana les dice a sus padres que quiere verlos juntos antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026003130 +0100" stop="20261026012248 +0100">
-    <title>S01 : E15 Corazon Traicionado - S01:E15- The Lawyer's Secret - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261026003131 +0100" stop="20261026012248 +0100">
+    <title>S01 : E15 Corazón Traicionado - S01:E15 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Omar sospecha que Marco Aurelio tiene información que no revela, pero el hábil abogado no se delata. Omar y el Jefe de Policía descartan la posibilidad de que sea gente vinculada a un cártel los que estén detrás del intento de asesinato de Marco Aurelio. Claudio le promete a Lorena entregarle personalmente a Ignacio si acaba con la vida de su hermano. Lorena sostiene el arma, buscando fuerzas para accionarla.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026012249 +0100" stop="20261026021406 +0100">
-    <title>S01 : E15 Corazon Traicionado - S01:E15- The Lawyer's Secret - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261026012249 +0100" stop="20261026021407 +0100">
+    <title>S01 : E15 Corazón Traicionado - S01:E15 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Omar sospecha que Marco Aurelio tiene información que no revela, pero el hábil abogado no se delata. Omar y el Jefe de Policía descartan la posibilidad de que sea gente vinculada a un cártel los que estén detrás del intento de asesinato de Marco Aurelio. Claudio le promete a Lorena entregarle personalmente a Ignacio si acaba con la vida de su hermano. Lorena sostiene el arma, buscando fuerzas para accionarla.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026021407 +0100" stop="20261026030921 +0100">
+  <programme channel="wedotv-amor" start="20261026021408 +0100" stop="20261026030921 +0100">
     <title>S01 : E69 El Desprecio - S01:E69 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al anochecer, el comisario DAZA pretende llevar detenida a Clara Inés por usurpación de identidad, Nicolás lo defiende.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026030922 +0100" stop="20261026040356 +0100">
+  <programme channel="wedotv-amor" start="20261026030922 +0100" stop="20261026040357 +0100">
     <title>S01 : E70 El Desprecio - S01:E70 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Octavia promete a Clara Inés que probará su inocencia y una autentica Santa María; Clara ya no tiene interés en demostrar que es de la familia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026040357 +0100" stop="20261026045723 +0100">
-    <title>S01 : E19 La Trepadora - S01:E019- Espionage and Jealousy - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261026040358 +0100" stop="20261026045723 +0100">
+    <title>S01 : E19 La Trepadora - S01:E019 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Fernanda impide que Nicolás siga espiando la conversación entre Jonás y Builder. Una emocionada Antonieta comenta con Fernanda que existe la posibilidad de salir en la película que va a filmar Jack aunque sea como extra, cosa que la hace muy feliz, pues todas sus amigas de la alta sociedad se van a morir de envidia.Victoria se finge furiosa ante Adelaida al recibir un ramo de flores que le envía Nicolás, aunque, a solas, admite que se muere por perdonarlo.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261026045724 +0100" stop="20261026054853 +0100">
-    <title>S01 : E20 La Trepadora - S01:E020- Conquest and Rejection - La Trepadora</title>
+    <title>S01 : E20 La Trepadora - S01:E020 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Eugenia se siente incómoda cuando Miguel evidencia que gusta de ella y asegura estar dispuesto a conquistarla. Clementina le entrega a Victoria un ramo de flores que acaba de traerle un mensajero y que le envía Builder; la joven Guanipa evidencia preferir el de Nicolás. Nicolás se presenta en casa de Carmencita a avisarle a Victoria lo ocurrido a Hilario; la muchacha advierte que ya estaba enterada y que a su padre no le pasó nada antes de reprocharle el beso que le estuvo dando a Liliana esa mañana y que ella vio en una foto. Nicolás busca a Victoria en la universidad para asegurarle que está dispuesto a hacer cualquier cosa por reconquistarla, pues para él no existe más nadie; Guanipa,...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261026054854 +0100" stop="20261026070007 +0100">
-    <title>S01 : E117 Piel Salvaje - S01:E117 - Episode 117 - Piel Salvaje</title>
+    <title>S01 : E117 Piel Salvaje - S01:E117 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Max detenido y Camila asegura que es inocente. Santiago le cuenta al inspector haber visto a Max limpiando el objeto con el que mataron a Ezequiel y, con tristeza concluye que él y Camila fueron los autores. Continúan los interrogatorios.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261026070008 +0100" stop="20261026075127 +0100">
-    <title>S01 : E16 Corazon Traicionado - S01:E16- The Hidden Truth - Corazon Traicionado</title>
+    <title>S01 : E16 Corazón Traicionado - S01:E16 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Paulina defiende a Elvis tildando a Virginia de cualquiera, poniendo en duda incluso que el bebé que espera sea de su hijo. Alberto le informa a Lorena la decisión de Patricia de no seguir con su caso. Marco Aurelio le dice a Lorena que ahora es él quien necesita un favor de ella, y le pide que averigüe con su ex pareja quiénes son los autores intelectuales de sus atentados. Lorena tensa y asustada, porque ella sabe muy bien sus nombres: Gertrudis y Claudio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026075128 +0100" stop="20261026084359 +0100">
-    <title>S01 : E17 Corazon Traicionado - S01:E17- The Raising of Ignacio - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261026075128 +0100" stop="20261026084400 +0100">
+    <title>S01 : E17 Corazón Traicionado - S01:E17 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo le dice a Lorena que será él quien se encargue de ahora en adelante de la crianza de Ignacio. Lorena, sin soportar más la presión a la que está sometida, le grita a Guillermo que ella no es capaz de matar a nadie, que la libere de esa responsabilidad que no le corresponde. Patricia le confiesa a Alberto que lo ama.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026084400 +0100" stop="20261026093835 +0100">
+  <programme channel="wedotv-amor" start="20261026084401 +0100" stop="20261026093835 +0100">
     <title>S01 : E70 El Desprecio - S01:E70 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Octavia promete a Clara Inés que probará su inocencia y una autentica Santa María; Clara ya no tiene interés en demostrar que es de la familia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026093836 +0100" stop="20261026103441 +0100">
+  <programme channel="wedotv-amor" start="20261026093836 +0100" stop="20261026103442 +0100">
     <title>S01 : E71 El Desprecio - S01:E71 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara Inés pregunta a Anastasio si él cree que la Pastora que se casó con Israel en el pasado sea la misma mujer presente, él se extraña.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026103442 +0100" stop="20261026112612 +0100">
-    <title>S01 : E20 La Trepadora - S01:E020- Conquest and Rejection - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261026103443 +0100" stop="20261026112612 +0100">
+    <title>S01 : E20 La Trepadora - S01:E020 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Eugenia se siente incómoda cuando Miguel evidencia que gusta de ella y asegura estar dispuesto a conquistarla. Clementina le entrega a Victoria un ramo de flores que acaba de traerle un mensajero y que le envía Builder; la joven Guanipa evidencia preferir el de Nicolás. Nicolás se presenta en casa de Carmencita a avisarle a Victoria lo ocurrido a Hilario; la muchacha advierte que ya estaba enterada y que a su padre no le pasó nada antes de reprocharle el beso que le estuvo dando a Liliana esa mañana y que ella vio en una foto. Nicolás busca a Victoria en la universidad para asegurarle que está dispuesto a hacer cualquier cosa por reconquistarla, pues para él no existe más nadie; Guanipa,...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261026112613 +0100" stop="20261026121717 +0100">
-    <title>S01 : E21 La Trepadora - S01:E021- The Forgiveness - La Trepadora</title>
+    <title>S01 : E21 La Trepadora - S01:E021 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Una vez que Hansen los deja a solas; Hilario avisa a Adelaida que la perdona y le exige que regrese a su lado. Yosmir se molesta cuando Eugenia asegura que cree que si van a poder ser amigos, pues siente que ya perdió la oportunidad de conquistarla. Victoria le pide a Carmencita que le lea las cartas para que le dé algunas respuestas; la señora solo llega a decirle que hay dos hombres que la rondan, que uno de ellos oculta algo y que la única manera en que va a lograr salvarse es perdonando. Hilario busca a Victoria para pedirle que lo perdone por haberla tratado mal cuando ella es lo más bonito que tiene en su vida; la joven se conmueve de ver a su papá entristecido, pero se sorprende...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026121718 +0100" stop="20261026130950 +0100">
-    <title>S01 : E118 Piel Salvaje - S01:E118 - Episode 118 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261026121718 +0100" stop="20261026130951 +0100">
+    <title>S01 : E118 Piel Salvaje - S01:E118 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Torrealba expone ante dos oficiales el caso del crimen de Ezequiel López Méndez, es interrumpido por Marcelina que viene a confesarse culpable, Torrealba no le cree. Rosa acusa a Octavia de ser la que ideó abandonar a Camila y convenció a Marcelina de que lo hiciere. Octavia se burla y Camila, ciega de ira la bota de su casa.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026130951 +0100" stop="20261026140144 +0100">
-    <title>S01 : E119 Piel Salvaje - S01:E119 - Episode 119 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261026130952 +0100" stop="20261026140144 +0100">
+    <title>S01 : E119 Piel Salvaje - S01:E119 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Camila y Rosa reciben un mensaje de El Doliente encuentran al misterioso personaje que pide la escuchen el porqué de su intrigante papel, para vengarse de Ezequiel y Fausto, quienes habían estafado a su padre.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261026140145 +0100" stop="20261026145427 +0100">
-    <title>Abigail - S04:E008 - Confissões de Coração</title>
+    <title>Abigail - S04:E008 - Episode 8</title>
     <desc>Guillermo le confiesa a Abigail que se siente tranquilo cuando está cerca de Rosalba. María Clara le confiesa a la Madre Superiora que está preocupada por su hermana. Mariana les dice a sus padres que quiere verlos juntos antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026145428 +0100" stop="20261026154634 +0100">
-    <title>Abigail - S04:E009 - الحلقة 9</title>
+  <programme channel="wedotv-amor" start="20261026145428 +0100" stop="20261026154635 +0100">
+    <title>Abigail - S04:E009 - Episode 9</title>
     <desc>Ninoska se entera que Mariana sufre una grave enfermedad. Rosalba le pide a Abigail que no la separe de su hija, ahora que se encuentra grave. María Begoña le dice a Mariana que una vez que su enfermedad llegue a su desenlace, sus padres se separarán.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026154635 +0100" stop="20261026163755 +0100">
-    <title>S01 : E16 Corazon Traicionado - S01:E16- The Hidden Truth - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261026154636 +0100" stop="20261026163755 +0100">
+    <title>S01 : E16 Corazón Traicionado - S01:E16 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Paulina defiende a Elvis tildando a Virginia de cualquiera, poniendo en duda incluso que el bebé que espera sea de su hijo. Alberto le informa a Lorena la decisión de Patricia de no seguir con su caso. Marco Aurelio le dice a Lorena que ahora es él quien necesita un favor de ella, y le pide que averigüe con su ex pareja quiénes son los autores intelectuales de sus atentados. Lorena tensa y asustada, porque ella sabe muy bien sus nombres: Gertrudis y Claudio.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261026163756 +0100" stop="20261026172915 +0100">
-    <title>S01 : E16 Corazon Traicionado - S01:E16- The Hidden Truth - Corazon Traicionado</title>
+    <title>S01 : E16 Corazón Traicionado - S01:E16 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Paulina defiende a Elvis tildando a Virginia de cualquiera, poniendo en duda incluso que el bebé que espera sea de su hijo. Alberto le informa a Lorena la decisión de Patricia de no seguir con su caso. Marco Aurelio le dice a Lorena que ahora es él quien necesita un favor de ella, y le pide que averigüe con su ex pareja quiénes son los autores intelectuales de sus atentados. Lorena tensa y asustada, porque ella sabe muy bien sus nombres: Gertrudis y Claudio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026172916 +0100" stop="20261026182350 +0100">
+  <programme channel="wedotv-amor" start="20261026172916 +0100" stop="20261026182351 +0100">
     <title>S01 : E70 El Desprecio - S01:E70 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Octavia promete a Clara Inés que probará su inocencia y una autentica Santa María; Clara ya no tiene interés en demostrar que es de la familia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026182351 +0100" stop="20261026191957 +0100">
+  <programme channel="wedotv-amor" start="20261026182352 +0100" stop="20261026191957 +0100">
     <title>S01 : E71 El Desprecio - S01:E71 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara Inés pregunta a Anastasio si él cree que la Pastora que se casó con Israel en el pasado sea la misma mujer presente, él se extraña.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026191958 +0100" stop="20261026201341 +0100">
-    <title>S01 : E20 La Trepadora - S01:E020- Conquest and Rejection - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261026191958 +0100" stop="20261026201342 +0100">
+    <title>S01 : E20 La Trepadora - S01:E020 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Eugenia se siente incómoda cuando Miguel evidencia que gusta de ella y asegura estar dispuesto a conquistarla. Clementina le entrega a Victoria un ramo de flores que acaba de traerle un mensajero y que le envía Builder; la joven Guanipa evidencia preferir el de Nicolás. Nicolás se presenta en casa de Carmencita a avisarle a Victoria lo ocurrido a Hilario; la muchacha advierte que ya estaba enterada y que a su padre no le pasó nada antes de reprocharle el beso que le estuvo dando a Liliana esa mañana y que ella vio en una foto. Nicolás busca a Victoria en la universidad para asegurarle que está dispuesto a hacer cualquier cosa por reconquistarla, pues para él no existe más nadie; Guanipa,...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026201342 +0100" stop="20261026210701 +0100">
-    <title>S01 : E21 La Trepadora - S01:E021- The Forgiveness - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261026201343 +0100" stop="20261026210701 +0100">
+    <title>S01 : E21 La Trepadora - S01:E021 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Una vez que Hansen los deja a solas; Hilario avisa a Adelaida que la perdona y le exige que regrese a su lado. Yosmir se molesta cuando Eugenia asegura que cree que si van a poder ser amigos, pues siente que ya perdió la oportunidad de conquistarla. Victoria le pide a Carmencita que le lea las cartas para que le dé algunas respuestas; la señora solo llega a decirle que hay dos hombres que la rondan, que uno de ellos oculta algo y que la única manera en que va a lograr salvarse es perdonando. Hilario busca a Victoria para pedirle que lo perdone por haberla tratado mal cuando ella es lo más bonito que tiene en su vida; la joven se conmueve de ver a su papá entristecido, pero se sorprende...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026210702 +0100" stop="20261026215934 +0100">
-    <title>S01 : E118 Piel Salvaje - S01:E118  - Episod 118 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261026210702 +0100" stop="20261026215935 +0100">
+    <title>S01 : E118 Piel Salvaje - S01:E118 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Torrealba expone ante dos oficiales el caso del crimen de Ezequiel López Méndez, es interrumpido por Marcelina que viene a confesarse culpable, Torrealba no le cree. Rosa acusa a Octavia de ser la que ideó abandonar a Camila y convenció a Marcelina de que lo hiciere. Octavia se burla y Camila, ciega de ira la bota de su casa.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026215935 +0100" stop="20261026225128 +0100">
-    <title>S01 : E119 Piel Salvaje - S01:E119 - Episode 119 - Piel Salvaje</title>
+  <programme channel="wedotv-amor" start="20261026215936 +0100" stop="20261026225128 +0100">
+    <title>S01 : E119 Piel Salvaje - S01:E119 - Piel Salvaje</title>
     <sub-title>Piel Salvaje</sub-title>
     <desc>Camila y Rosa reciben un mensaje de El Doliente encuentran al misterioso personaje que pide la escuchen el porqué de su intrigante papel, para vengarse de Ezequiel y Fausto, quienes habían estafado a su padre.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261026225129 +0100" stop="20261026234411 +0100">
-    <title>Abigail - S04:E008 - Pengakuan Tulus</title>
+    <title>Abigail - S04:E008 - Episode 8</title>
     <desc>Guillermo le confiesa a Abigail que se siente tranquilo cuando está cerca de Rosalba. María Clara le confiesa a la Madre Superiora que está preocupada por su hermana. Mariana les dice a sus padres que quiere verlos juntos antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261026234412 +0100" stop="20261027003618 +0100">
-    <title>Abigail - S04:E009 - الحلقة 9</title>
+  <programme channel="wedotv-amor" start="20261026234412 +0100" stop="20261027003619 +0100">
+    <title>Abigail - S04:E009 - Episode 9</title>
     <desc>Ninoska se entera que Mariana sufre una grave enfermedad. Rosalba le pide a Abigail que no la separe de su hija, ahora que se encuentra grave. María Begoña le dice a Mariana que una vez que su enfermedad llegue a su desenlace, sus padres se separarán.</desc>
   </programme>
   <programme channel="rookie-blue-spa" start="20261022234153 +0200" stop="20261023003055 +0200">
@@ -47580,37 +47156,37 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>López se va de viaje a Cuba y regresa con una cubana. Está decidido a casarse con ella para que obtenga la nacionalidad española pero David se enamora perdidamente de ella. Los dos acabarán peleándose para acompañarla al altar.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025021819 +0100" stop="20261025025129 +0100">
+  <programme channel="lol-espana" start="20261025021819 +0100" stop="20261025025128 +0100">
     <title>S01 : E53 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David y López son un par de pesimistas y deciden espabilar a Emma porque creen que vive en un mundo feliz e irreal.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025025130 +0100" stop="20261025032132 +0100">
+  <programme channel="lol-espana" start="20261025025129 +0100" stop="20261025032131 +0100">
     <title>S01 : E54 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David consigue un papel en una serie de televisión. Su personaje ha sufrido un accidente y está en el hospital, muy enfermo y con el rostro desfigurado.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025032133 +0100" stop="20261025050305 +0100">
+  <programme channel="lol-espana" start="20261025032132 +0100" stop="20261025050305 +0100">
     <title>S07 : E08 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025050306 +0100" stop="20261025053640 +0100">
+  <programme channel="lol-espana" start="20261025050306 +0100" stop="20261025053639 +0100">
     <title>S01 : E01 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona llega de Madrid por sorpresa, en casa de Esther, su hermana. Ha venido a comprarse el vestido para la boda. Mientras tanto, Esther está molesta porque su ex no la llama por felicitarle el cumpleaños.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025053641 +0100" stop="20261025060950 +0100">
+  <programme channel="lol-espana" start="20261025053640 +0100" stop="20261025060950 +0100">
     <title>S01 : E03 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia tiene un carácter de mil demonios. En el trabajo, le advierten: o cambia, o en la calle. Esther está muy contenta de tener su hermana en casa. Mariona ha decidido no volver a Madrid.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025060951 +0100" stop="20261025064300 +0100">
+  <programme channel="lol-espana" start="20261025060951 +0100" stop="20261025064259 +0100">
     <title>S01 : E03 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Silvia ha de hacer de canguro del hijo de una amiga. Entre todas, le ayudan a hacer prácticas de maternidad con un muñeco. Por otra parte, Carla tiene varios amantes y es obligada a tomar una decisión. Ha de elegir uno. ¿Cuál será el afortunado?</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025064301 +0100" stop="20261025071719 +0100">
+  <programme channel="lol-espana" start="20261025064300 +0100" stop="20261025071719 +0100">
     <title>S01 : E04 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther y Carla hacen una apuesta. Deben conseguir que la Diana tenga una aventura. La aparición de un cliente en el bar y la ayuda de una vidente precipitarán las cosas.</desc>
@@ -47625,17 +47201,17 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Jet Lag</sub-title>
     <desc>Diana tiene dolor de garganta. Esther y Carla intentan hacerle de médicos. La cosa se complicará. A la vez, Silvia y Mariona han decidido cortar su relación sentimental. Las consecuencias serán imprevisibles.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025082551 +0100" stop="20261025090023 +0100">
+  <programme channel="lol-espana" start="20261025082551 +0100" stop="20261025090022 +0100">
     <title>S01 : E08 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther la hacen supervisora de azafatas. Este cambio le complicará la vida, especialmente con Carla y Silvia. Un actor famoso entra en el bar a la vez que la Diana aconseja Mariona pensarse las cosas dos veces antes de hacerlas. Al actor le hace gracia Mariona.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025090024 +0100" stop="20261025093223 +0100">
+  <programme channel="lol-espana" start="20261025090023 +0100" stop="20261025093222 +0100">
     <title>S01 : E09 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Diana recibe una llamada: su amiga del alma ha tenido un accidente fatal. La Diana, aunque lo intenta, no recuerda de quién están hablando.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025093224 +0100" stop="20261025100203 +0100">
+  <programme channel="lol-espana" start="20261025093223 +0100" stop="20261025100203 +0100">
     <title>S01 : E10 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Por fin han abierto en la ciudad un burdel para mujeres. Esther, Carla y Diana van. Mariona no, porque está enamorada. El único problema es que no sabe de quién.</desc>
@@ -47670,22 +47246,22 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>David se queda encerrado en el lavabo. Carbonell intenta abrir la puerta pero es imposible; el inquilino anterior montó allí un refugio nuclear.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025162337 +0100" stop="20261025165527 +0100">
+  <programme channel="lol-espana" start="20261025162337 +0100" stop="20261025165526 +0100">
     <title>S01 : E46 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>David toma conciencia de la degradación del medio ambiente y decide hacerse ecologista.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025165528 +0100" stop="20261025172810 +0100">
+  <programme channel="lol-espana" start="20261025165527 +0100" stop="20261025172809 +0100">
     <title>S01 : E47 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Las familias de López y David han hecho planes para celebrar las fiestas navideñas prescindiendo de ellos. Por ese motivo, los dos deciden pasar de las navidades y fingir que se trata de días normales.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025172811 +0100" stop="20261025180012 +0100">
+  <programme channel="lol-espana" start="20261025172810 +0100" stop="20261025180011 +0100">
     <title>S01 : E48 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>La abuela de David se presenta por sorpresa y asegura que ha notado que está a punto de morirse y quiere que eso ocurra en casa de su nieto.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025180013 +0100" stop="20261025183411 +0100">
+  <programme channel="lol-espana" start="20261025180012 +0100" stop="20261025183411 +0100">
     <title>S01 : E50 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Quim Monzó pide a López que le escriba su próxima novela. Nadie debe enterarse. David quiere estrenarse como director de cine y empieza a preparar una película.</desc>
@@ -47705,22 +47281,22 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>David y López son un par de pesimistas y deciden espabilar a Emma porque creen que vive en un mundo feliz e irreal.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025201541 +0100" stop="20261025204415 +0100">
+  <programme channel="lol-espana" start="20261025201541 +0100" stop="20261025204414 +0100">
     <title>S01 : E55 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>La vida es sueño y los sueños, sueños son. El capítulo empieza con un sueño de López en el que aparece en situaciones muy inusuales hasta que se da cuenta de que se trata de un sueño.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025204416 +0100" stop="20261025211646 +0100">
+  <programme channel="lol-espana" start="20261025204415 +0100" stop="20261025211645 +0100">
     <title>S01 : E56 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López regresa a la universidad para conseguir el título de licenciado. Allí comprueba que los estudiantes de ahora no tienen nada que ver con los de su época.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025211647 +0100" stop="20261025225706 +0100">
+  <programme channel="lol-espana" start="20261025211646 +0100" stop="20261025225705 +0100">
     <title>S07 : E12 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025225707 +0100" stop="20261025232540 +0100">
+  <programme channel="lol-espana" start="20261025225706 +0100" stop="20261025232540 +0100">
     <title>S01 : E55 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>La vida es sueño y los sueños, sueños son. El capítulo empieza con un sueño de López en el que aparece en situaciones muy inusuales hasta que se da cuenta de que se trata de un sueño.</desc>
@@ -47730,17 +47306,17 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>López regresa a la universidad para conseguir el título de licenciado. Allí comprueba que los estudiantes de ahora no tienen nada que ver con los de su época.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261025235812 +0100" stop="20261026002955 +0100">
+  <programme channel="lol-espana" start="20261025235812 +0100" stop="20261026002954 +0100">
     <title>S01 : E57 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Mientras ve una película, David tiene una revelación mística y creer que es Jesucristo. Vestido de Jesucristo, acaba convenciendo a todos sus amigos. Su primer milagro es la multiplicación del donut.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026002956 +0100" stop="20261026010319 +0100">
+  <programme channel="lol-espana" start="20261026002955 +0100" stop="20261026010318 +0100">
     <title>S01 : E58 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López y David están hartos de vivir juntos y deciden separarse. López se marcha del piso y encuentra otro, más pequeño y más caro.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026010320 +0100" stop="20261026014209 +0100">
+  <programme channel="lol-espana" start="20261026010319 +0100" stop="20261026014209 +0100">
     <title>S01 : E59 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Ha llegado el verano y todos tienen ganas de ir a la playa a ligar y a ponerse morenos. López y Ramón montan un stand de la radio en la playa pero deciden aparcar el trabajo e irse a ligar en tanga.</desc>
@@ -47755,42 +47331,42 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>La abuela de David no puede dormir, está hiperactiva. El médico que va a visitarla le receta unas "hierbas" de maría. Todos deciden aprovechar la ocasión.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026025849 +0100" stop="20261026033348 +0100">
+  <programme channel="lol-espana" start="20261026025849 +0100" stop="20261026033347 +0100">
     <title>S01 : E62 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Oriol, el padre de López, se jubila y se instala en casa de los chicos. La alegría de la jubilación le dura poco, en casa se aburre y esto le envejece prematuramente.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026033349 +0100" stop="20261026051408 +0100">
+  <programme channel="lol-espana" start="20261026033348 +0100" stop="20261026051407 +0100">
     <title>S07 : E12 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026051409 +0100" stop="20261026054156 +0100">
+  <programme channel="lol-espana" start="20261026051408 +0100" stop="20261026054156 +0100">
     <title>S02 : E01 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>La compañía aérea Fly Fly atraviesa una grave crisis económica y el director ha decidido hacer una reducción de plantilla.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026054157 +0100" stop="20261026061246 +0100">
+  <programme channel="lol-espana" start="20261026054157 +0100" stop="20261026061245 +0100">
     <title>S02 : E02 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Carla, Silvia y Esther han quedado en paro. Carla decide encontrar un trabajo mejor de la que tenía.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026061247 +0100" stop="20261026064409 +0100">
+  <programme channel="lol-espana" start="20261026061246 +0100" stop="20261026064408 +0100">
     <title>S02 : E04 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona recibe la visita de su ex novio que está muy contento y a punto de casarse con una chica catalana.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026064410 +0100" stop="20261026071332 +0100">
+  <programme channel="lol-espana" start="20261026064409 +0100" stop="20261026071332 +0100">
     <title>S02 : E05 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Un director de televisión ha elegido el bar de Mario para rodar el anuncio publicitario de una nueva marca de cervezas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026071333 +0100" stop="20261026074747 +0100">
+  <programme channel="lol-espana" start="20261026071333 +0100" stop="20261026074746 +0100">
     <title>S02 : E06 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona ve que el sofá, el lugar donde ella duerme, ha desaparecido porque Esther ha decidido hacerlo tapizar y tiene que ir a vivir con la Diana.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026074748 +0100" stop="20261026082053 +0100">
+  <programme channel="lol-espana" start="20261026074747 +0100" stop="20261026082053 +0100">
     <title>S02 : E07 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Esther está harta de hacer todas las tareas de la casa y quiere coger una mujer de la limpieza.</desc>
@@ -47810,22 +47386,22 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Jet Lag</sub-title>
     <desc>Esther le hace un ultimátum a Andreu: o se casan, o cortan. La razón? Se ha quedado embarazada.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026095623 +0100" stop="20261026103125 +0100">
+  <programme channel="lol-espana" start="20261026095623 +0100" stop="20261026103124 +0100">
     <title>S02 : E12 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Mariona enamora de un biólogo ... 25 años mayor que ella. Esther está organizando todas las obras del nuevo piso que se ha comprado con Andreu.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026103126 +0100" stop="20261026110035 +0100">
+  <programme channel="lol-espana" start="20261026103125 +0100" stop="20261026110034 +0100">
     <title>S02 : E13 Jet Lag - Jet Lag</title>
     <sub-title>Jet Lag</sub-title>
     <desc>Ha llegado el gran día. Andrés y Esther se casan! Mariona será la madrina.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026110036 +0100" stop="20261026123422 +0100">
+  <programme channel="lol-espana" start="20261026110035 +0100" stop="20261026123421 +0100">
     <title>S08 : E01 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026123423 +0100" stop="20261026140714 +0100">
+  <programme channel="lol-espana" start="20261026123422 +0100" stop="20261026140714 +0100">
     <title>S08 : E02 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
@@ -47835,12 +47411,12 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026153750 +0100" stop="20261026161000 +0100">
+  <programme channel="lol-espana" start="20261026153750 +0100" stop="20261026160959 +0100">
     <title>S01 : E26 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Carbonell conoce a un hombre en una discoteca y empiezan a bailar muy compenetrados.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026161001 +0100" stop="20261026164031 +0100">
+  <programme channel="lol-espana" start="20261026161000 +0100" stop="20261026164031 +0100">
     <title>S01 : E27 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>El reencuentro entre Oriol y Carbonell desencadena la prisa de López y David por llevar a la pareja hasta el altar, no sin antes celebrar las respectivas despedidas de soltero.</desc>
@@ -47850,36 +47426,36 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Platos Sucios</sub-title>
     <desc>¡Qué bonita es la Navidad! El pesebre, el árbol, los regalos, los villancicos, la familia... y las peleas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026171359 +0100" stop="20261026174653 +0100">
+  <programme channel="lol-espana" start="20261026171359 +0100" stop="20261026174652 +0100">
     <title>S01 : E30 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Desde que Carbonell se casó y se fue a vivir a Porrera con Oriol, David no da una. Acostumbrado a que se lo hicieran todo, ahora tiene que espabilarse solo y no se le da muy bien.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026174654 +0100" stop="20261026181742 +0100">
+  <programme channel="lol-espana" start="20261026174653 +0100" stop="20261026181742 +0100">
     <title>S01 : E31 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>López es un desastre como asistenta así que David decide organizar un "casting" para encontrar a alguien que sea competente.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026181743 +0100" stop="20261026185119 +0100">
+  <programme channel="lol-espana" start="20261026181743 +0100" stop="20261026185118 +0100">
     <title>S01 : E32 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Carbonell se separa de Oriol y regresa al piso de López y David. Éstos descubren casualmente que Oriol es propietario de muchas tierras y fuerzan el divorcio de Carbonell y Oriol a fin de sacar tajada de la ruptura.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026185120 +0100" stop="20261026211451 +0100">
+  <programme channel="lol-espana" start="20261026185119 +0100" stop="20261026211451 +0100">
     <title>El Top 10 de Vaya Semanita</title>
     <desc>No te pierdas lo mejor de "Vaya Semanita", una recopilación de los mejores sketches que han marcado una época.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026211452 +0100" stop="20261026225434 +0100">
+  <programme channel="lol-espana" start="20261026211452 +0100" stop="20261026225433 +0100">
     <title>S07 : E16 Vaya Semanita - Vaya Semanita</title>
     <sub-title>Vaya Semanita</sub-title>
     <desc>El programa de humor más irreverente y transgresor.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026225435 +0100" stop="20261026233751 +0100">
+  <programme channel="lol-espana" start="20261026225434 +0100" stop="20261026233750 +0100">
     <title>S01 : E64 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Para librarse de una multa, Emma dice que es la novia de Ángel, el guardia. Pero Ángel se entera de su mentira y decide que va a pagárselas todas juntas.</desc>
   </programme>
-  <programme channel="lol-espana" start="20261026233752 +0100" stop="20261027001547 +0100">
+  <programme channel="lol-espana" start="20261026233751 +0100" stop="20261027001546 +0100">
     <title>S01 : E65 Platos Sucios - Platos Sucios</title>
     <sub-title>Platos Sucios</sub-title>
     <desc>Emma no sabe como decirle a Ángel que no quiere casarse con él. David y López tampoco creen que el matrimonio funcione. Quieren convencer a Emma de que no se case pero ella les dice que no se preocupen, que todo está controlado.</desc>
