@@ -1,16 +1,16 @@
 #EXTM3U
-#TIMESTAMP: 2026-10-27 13:54:02
+#TIMESTAMP: 2026-10-27 13:56:02
 #EXT-X-VERSION:4
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/54265e2fd3cba5b46980d33ea541d7a04d7ca3b4_ES_1793105701_1793134441/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Reserved for local use",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://atres-live.atresmedia.com/54265e2fd3cba5b46980d33ea541d7a04d7ca3b4_ES_1793105701_1793134441/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_qaa=128000.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="audio_ads",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ads",URI="https://atres-live.atresmedia.com/54265e2fd3cba5b46980d33ea541d7a04d7ca3b4_ES_1793105701_1793134441/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_ads=128000.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/54265e2fd3cba5b46980d33ea541d7a04d7ca3b4_ES_1793105701_1793134441/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-textstream_spa=0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/fb69f75816fc2e1e7a98bfb7b9c238059a67ea4f_ES_1793105821_1793134561/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="Reserved for local use",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="qaa",URI="https://atres-live.atresmedia.com/fb69f75816fc2e1e7a98bfb7b9c238059a67ea4f_ES_1793105821_1793134561/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_qaa=128000.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-128",NAME="audio_ads",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ads",URI="https://atres-live.atresmedia.com/fb69f75816fc2e1e7a98bfb7b9c238059a67ea4f_ES_1793105821_1793134561/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_ads=128000.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="textstream",NAME="Spanish; Castilian",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es",URI="https://atres-live.atresmedia.com/fb69f75816fc2e1e7a98bfb7b9c238059a67ea4f_ES_1793105821_1793134561/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-textstream_spa=0.m3u8"
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=622000,AVERAGE-BANDWIDTH=565000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=640x360,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000
-https://atres-live.atresmedia.com/54265e2fd3cba5b46980d33ea541d7a04d7ca3b4_ES_1793105701_1793134441/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000-video=405000.m3u8
+https://atres-live.atresmedia.com/fb69f75816fc2e1e7a98bfb7b9c238059a67ea4f_ES_1793105821_1793134561/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000-video=405000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1304000,AVERAGE-BANDWIDTH=1186000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=854x480,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000
-https://atres-live.atresmedia.com/54265e2fd3cba5b46980d33ea541d7a04d7ca3b4_ES_1793105701_1793134441/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000-video=990000.m3u8
+https://atres-live.atresmedia.com/fb69f75816fc2e1e7a98bfb7b9c238059a67ea4f_ES_1793105821_1793134561/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000-video=990000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2482000,AVERAGE-BANDWIDTH=2256000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=1280x720,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000
-https://atres-live.atresmedia.com/54265e2fd3cba5b46980d33ea541d7a04d7ca3b4_ES_1793105701_1793134441/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000-video=2000000.m3u8
+https://atres-live.atresmedia.com/fb69f75816fc2e1e7a98bfb7b9c238059a67ea4f_ES_1793105821_1793134561/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000-video=2000000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=7146000,AVERAGE-BANDWIDTH=6496000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,AUDIO="audio-aacl-128",CLOSED-CAPTIONS=NONE,SUBTITLES="textstream",FRAME-RATE=25.000
-https://atres-live.atresmedia.com/54265e2fd3cba5b46980d33ea541d7a04d7ca3b4_ES_1793105701_1793134441/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000-video=6000000.m3u8
+https://atres-live.atresmedia.com/fb69f75816fc2e1e7a98bfb7b9c238059a67ea4f_ES_1793105821_1793134561/hlsts/live/lasexta_usp/lasexta_usp.isml/lasexta_usp-audio_spa=128000-video=6000000.m3u8
 
