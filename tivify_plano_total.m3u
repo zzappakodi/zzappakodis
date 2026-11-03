@@ -540,9 +540,6 @@ https://nowrock-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="X-MO" tvg-name="X-MO" tvg-logo="http://192.168.1.98:8080/logos/X-MO.png" group-title="Cajón de Sastre",X-MO
 https://live.tvup.edge2befaster.io/saten-xmo/saten-xmo.mpd
 
-#EXTINF:-1 tvg-id="AMC_Selekt" tvg-name="AMC Selekt" tvg-logo="http://192.168.1.98:8080/logos/AMC%20Selekt.png" group-title="Cajón de Sastre",AMC Selekt
-https://fast-tcseks01.thechannel.store/fast-channel-tivify-barker/fast-channel-tivify-barker.mpd
-
 #EXTINF:-1 tvg-id="Mezzo_VOD" tvg-name="Mezzo VOD" tvg-logo="http://192.168.1.98:8080/logos/Mezzo%20VOD.png" group-title="Cajón de Sastre",Mezzo VOD
 https://fast-tcseks01.thechannel.store/fast-channel-tivify-barker/fast-channel-tivify-barker.mpd
 
