@@ -939,5 +939,5 @@ https://latinocircuittv-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="Arabi_Yecla_TV" tvg-name="Arabi Yecla TV" tvg-logo="http://192.168.1.98:8080/logos/Arabi%20Yecla%20TV.png" group-title="Cajón de Sastre",Arabi Yecla TV
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 
-#EXTINF:-1 tvg-id="La_Septima" tvg-name="La Septima" tvg-logo="http://192.168.1.98:8080/logos/La%20Septima.png" group-title="Cajón de Sastre",La Septima
+#EXTINF:-1 tvg-id="LA_SEPTIMA" tvg-name="LA SEPTIMA" tvg-logo="http://192.168.1.98:8080/logos/LA%20SEPTIMA.png" group-title="Cajón de Sastre",LA SEPTIMA
 https://descubretivify-tivify.fast.tcscdn.net/barkerTIVIFY01/797277f2-5ae4-5be2-7433-c805ac9c7181/HLS_EU_CLEAR_PROFILE_CRF/20261103.093331.180238/master.m3u8
