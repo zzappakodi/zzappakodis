@@ -396,7 +396,7 @@ https://runtimeromance-tivify.ssai.tcscdn.net/master.m3u8
 #EXTINF:-1 tvg-id="Runtime_Clasicos" tvg-name="Runtime Clasicos" tvg-logo="http://192.168.1.98:8080/logos/Runtime%20Clasicos.png" group-title="Cine",Runtime Clasicos
 https://runtimeclasicos-tivify.ssai.tcscdn.net/master.m3u8
 
-#EXTINF:-1 tvg-id="Runtime_Halloween" tvg-name="Runtime Halloween" tvg-logo="http://192.168.1.98:8080/logos/Runtime%20Halloween.png" group-title="Cine",Runtime Halloween
+#EXTINF:-1 tvg-id="Runtime_Thriller_+_Terror" tvg-name="Runtime Thriller + Terror" tvg-logo="http://192.168.1.98:8080/logos/Runtime%20Thriller%20%2B%20Terror.png" group-title="Cine",Runtime Thriller + Terror
 https://runtimethrillerterror-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Runtime_Comedia" tvg-name="Runtime Comedia" tvg-logo="http://192.168.1.98:8080/logos/Runtime%20Comedia.png" group-title="Cine",Runtime Comedia
@@ -938,3 +938,6 @@ https://latinocircuittv-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Arabi_Yecla_TV" tvg-name="Arabi Yecla TV" tvg-logo="http://192.168.1.98:8080/logos/Arabi%20Yecla%20TV.png" group-title="Cajón de Sastre",Arabi Yecla TV
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+
+#EXTINF:-1 tvg-id="La_Septima" tvg-name="La Septima" tvg-logo="http://192.168.1.98:8080/logos/La%20Septima.png" group-title="Cajón de Sastre",La Septima
+https://descubretivify-tivify.fast.tcscdn.net/barkerTIVIFY01/797277f2-5ae4-5be2-7433-c805ac9c7181/HLS_EU_CLEAR_PROFILE_CRF/20261103.093331.180238/master.m3u8
