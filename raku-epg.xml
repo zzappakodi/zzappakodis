@@ -14770,7 +14770,7 @@
   <programme channel="filmrise-forensic-files-spa" start="20261108004023 +0100" stop="20261108010624 +0100">
     <title>S09 : E01 Crímenes imperfectos - Forensic Files</title>
     <sub-title>Forensic Files</sub-title>
-    <desc>La investigación de un saco de dormir desechado, que contiene zapatillas de deporte ensangrentadas y un bolso, lleva a la policía al cuerpo de una mujer joven.</desc>
+    <desc>La investigación de un saco de dormir desechado lleva a la policía hasta el cuerpo de una mujer joven.</desc>
   </programme>
   <programme channel="filmrise-forensic-files-spa" start="20261108010625 +0100" stop="20261108013224 +0100">
     <title>S09 : E02 Forensic Files - Forensic Files</title>
@@ -40959,91 +40959,100 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Todos los goles</sub-title>
     <desc>Disfruta de todos los goles del Barça durante el mes de septiembre de 2026</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261105215604 +0100" stop="20261105233202 +0100">
+  <programme channel="top-barca-es" start="20261105215604 +0100" stop="20261105230643 +0100">
     <title>S202526 : E33 TODOS LOS GOLES | Claudia Pina - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Claudia Pina como jugadora del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261105233203 +0100" stop="20261106011243 +0100">
-    <title>HIGHLIGHTS | FC Barcelona - Deportivc Alavés | Liga 2026/2027</title>
-    <desc>HIGHLIGHTS | FC Barcelona - Deportivc Alavés | Liga 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261105230644 +0100" stop="20261105233220 +0100">
+    <title>S202627 : E11 HIGHLIGHTS | FC Barcelona - Deportivo Alavés | LaLiga 202627 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta de los mejores momentos del FC Barcelona vs Deportivo Alavés de la jornada 11 de LaLiga 2026/27.</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106011244 +0100" stop="20261106014243 +0100">
-    <title>HIGHLIGHTS | Badalona Women - Femení A | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | Badalona Women - Femení A | Liga F 2026/2027</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261106014244 +0100" stop="20261106020617 +0100">
+  <programme channel="top-barca-es" start="20261105233221 +0100" stop="20261105235554 +0100">
     <title>S202526 : E16 TODOS LOS GOLES | Fermín López - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Fermín con la camiseta blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106020618 +0100" stop="20261106023617 +0100">
-    <title>HIGHLIGHTS | FC Barcelona - Aston Villa | Champions  2026/2027</title>
-    <desc>HIGHLIGHTS | FC Barcelona - Aston Villa | Champions  2026/2027</desc>
+  <programme channel="top-barca-es" start="20261105235555 +0100" stop="20261106002716 +0100">
+    <title>S202627 : E09 HIGHLIGHTS | Badalona Women - FC Barcelona | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resúmen del partido de la Liga F 2026-27 entre Badalona Women y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106023618 +0100" stop="20261106041031 +0100">
+  <programme channel="top-barca-es" start="20261106002717 +0100" stop="20261106020130 +0100">
     <title>S201617 : E90 TODOS LOS GOLES | Season 2016-17 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles del Barça en la temporada 20161-7</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106041032 +0100" stop="20261106044031 +0100">
-    <title>HIGHLIGHTS | Juvenil A - Aston Villa | UYL 2026/27</title>
-    <desc>HIGHLIGHTS | Juvenil A - Aston Villa | UYL 2026/27</desc>
+  <programme channel="top-barca-es" start="20261106020131 +0100" stop="20261106022916 +0100">
+    <title>S202627 : E02 HIGHLIGHTS | Galatasaray - Barça | UEFA Champions League 202627 - UEFA Champions League</title>
+    <sub-title>UEFA Champions League</sub-title>
+    <desc>Disfruta de los mejores momentos del partido de Champions entre el Galatasaray y el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106044032 +0100" stop="20261106054709 +0100">
+  <programme channel="top-barca-es" start="20261106022917 +0100" stop="20261106033554 +0100">
     <title>S202526 : E18 TODOS LOS GOLES | Raphinha - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Raphinha con el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106054710 +0100" stop="20261106074709 +0100">
-    <title>FULL MATCH | FC Barcelona - Aston Villa | UCL 2026/2027</title>
-    <desc>FULL MATCH | FC Barcelona - Aston Villa | UCL 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261106033555 +0100" stop="20261106051918 +0100">
+    <title>S202627 : E09 PARTIDO COMPLETO | Badalona Women - FC Barcelona | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del partido de la liga F 2026-27 entre Badalona Women y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106074710 +0100" stop="20261106081709 +0100">
-    <title>HIGHLIGHTS | Badalona Women - Femení A | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | Badalona Women - Femení A | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261106051919 +0100" stop="20261106054455 +0100">
+    <title>S202627 : E11 HIGHLIGHTS | FC Barcelona - Deportivo Alavés | LaLiga 202627 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta de los mejores momentos del FC Barcelona vs Deportivo Alavés de la jornada 11 de LaLiga 2026/27.</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106081710 +0100" stop="20261106090655 +0100">
-    <title>S202627 : E05 TODOS LOS GOLES | Leo Messi parte 5 - Todos los goles</title>
+  <programme channel="top-barca-es" start="20261106054456 +0100" stop="20261106063524 +0100">
+    <title>S202526 : E52 TODOS LOS GOLES | Leo Messi | Parte 4 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106090656 +0100" stop="20261106093655 +0100">
-    <title>HIGHLIGHTS | Juvenil A - Aston Villa | UYL 2026/27</title>
-    <desc>HIGHLIGHTS | Juvenil A - Aston Villa | UYL 2026/27</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261106093656 +0100" stop="20261106102158 +0100">
-    <title>S202526 : E29 TODOS LOS GOLES | Ewa Pajor - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles de Ewa Pajor con la camiseta blaugrana</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261106102159 +0100" stop="20261106105158 +0100">
-    <title>HIGHLIGHTS | FC Barcelona - Aston Villa | Champions  2026/2027</title>
-    <desc>HIGHLIGHTS | FC Barcelona - Aston Villa | Champions  2026/2027</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261106105159 +0100" stop="20261106115836 +0100">
-    <title>S202526 : E18 TODOS LOS GOLES | Raphinha - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles de Raphinha con el Barça</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261106115837 +0100" stop="20261106122507 +0100">
-    <title>S202526 : E30 HIGHLIGHTS | Atlético de Madrid - FC Barcelona | La Liga 2025-26 - LaLiga</title>
-    <sub-title>LaLiga</sub-title>
-    <desc>Disfruta del resumen del partido de la liga 2025-26 entre Atlético de Madrid y Barça</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261106122508 +0100" stop="20261106124841 +0100">
+  <programme channel="top-barca-es" start="20261106063525 +0100" stop="20261106065858 +0100">
     <title>S202526 : E16 TODOS LOS GOLES | Fermín López - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Fermín con la camiseta blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106124842 +0100" stop="20261106131841 +0100">
-    <title>HIGHLIGHTS | Badalona Women - Femení A | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | Badalona Women - Femení A | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261106065859 +0100" stop="20261106073518 +0100">
+    <title>S199697 : E06 EL ÁLBUM | Jose Mari Bakero - El Álbum</title>
+    <sub-title>El Álbum</sub-title>
+    <desc>Recordamos la etapa de Jose Mari Bakero en el Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261106131842 +0100" stop="20261106142922 +0100">
+  <programme channel="top-barca-es" start="20261106073519 +0100" stop="20261106082504 +0100">
+    <title>S202627 : E05 TODOS LOS GOLES | Leo Messi parte 5 - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261106082505 +0100" stop="20261106091007 +0100">
+    <title>S202526 : E29 TODOS LOS GOLES | Ewa Pajor - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Ewa Pajor con la camiseta blaugrana</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261106091008 +0100" stop="20261106101645 +0100">
+    <title>S202526 : E18 TODOS LOS GOLES | Raphinha - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Raphinha con el Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261106101646 +0100" stop="20261106104316 +0100">
+    <title>S202526 : E30 HIGHLIGHTS | Atlético de Madrid - FC Barcelona | La Liga 2025-26 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del resumen del partido de la liga 2025-26 entre Atlético de Madrid y Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261106104317 +0100" stop="20261106110650 +0100">
+    <title>S202526 : E16 TODOS LOS GOLES | Fermín López - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Fermín con la camiseta blaugrana</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261106110651 +0100" stop="20261106121731 +0100">
     <title>S202526 : E33 TODOS LOS GOLES | Claudia Pina - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Claudia Pina como jugadora del Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261106121732 +0100" stop="20261106142922 +0100">
+    <title>S202627 : E04 PARTIDO COMPLETO | FC Barcelona Juvenil - Aston Villa | UEFA Youth League 2026-27 - UEFA Youth League</title>
+    <sub-title>UEFA Youth League</sub-title>
+    <desc>Disfruta del partido de la UEFA Youth League 2026-27 entre Barça y Aston Villa</desc>
   </programme>
   <programme channel="top-barca-es" start="20261106142923 +0100" stop="20261106162922 +0100">
     <title>FULL MATCH | FC Barcelona - Deportivo Alavés | La Liga 2026/2027</title>
@@ -50150,285 +50159,285 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Top Gear</sub-title>
     <desc>Presentamos deportivos italianos, maniobras militares y un viaje a Bélgica.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261106152621 +0100" stop="20261106162640 +0100">
-    <title>S12 : E02 Episodio 2 - Top Gear</title>
-    <sub-title>Top Gear</sub-title>
-    <desc>Los presentadores de Top Gear se embarcan en un viaje épico por Estados Unidos en potentes vehículos.</desc>
-  </programme>
-  <programme channel="bbc-top-gear-spa" start="20261106162641 +0100" stop="20261106172711 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261106152621 +0100" stop="20261106162651 +0100">
     <title>S20 : E01 Episodio 1 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy Clarkson y James May compiten con un coche contra un barco en Nueva Zelanda.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261106172712 +0100" stop="20261106182737 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261106162652 +0100" stop="20261106172717 +0100">
     <title>S15 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El equipo de Top Gear viaja a Alemania para poner a prueba un trío de coches de 5000 libras.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261106182738 +0100" stop="20261106192644 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261106172718 +0100" stop="20261106182624 +0100">
     <title>S10 : E06 Episodio 6 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El equipo de Top Gear celebra los 40 años de British Leyland con la revisión de tres de sus coches.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261106192645 +0100" stop="20261106203731 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261106182625 +0100" stop="20261106193711 +0100">
     <title>S01 : E01 Parte 1 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El equipo de Top Gear recorre 1.600 millas a través de la Patagonia en tres coches deportivos con motor V8.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261106203732 +0100" stop="20261106214908 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261106193712 +0100" stop="20261106204848 +0100">
     <title>S01 : E02 Parte 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Un giro aterrador de los acontecimientos lleva la aventura en la Patagonia a un final de infarto</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261106214909 +0100" stop="20261106224932 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261106204849 +0100" stop="20261106214912 +0100">
     <title>S20 : E06 Episodio 6 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El equipo celebra todo lo bueno de la industria automovilística británica.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261106224933 +0100" stop="20261106234759 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261106214913 +0100" stop="20261106224739 +0100">
     <title>S12 : E03 Episodio 3 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El equipo trata que un coche de segunda mano sea tan veloz en la pista como una nueva berlina deportiva.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261106234800 +0100" stop="20261107004833 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261106224740 +0100" stop="20261106234813 +0100">
     <title>S12 : E06 Episodio 6 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy y James entran en Greenham Common para saber si los comunistas fabricaron un buen automóvil alguna vez.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107004834 +0100" stop="20261107014710 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261106234814 +0100" stop="20261107004650 +0100">
     <title>S10 : E09 Episodio 9 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy, James y Richard llevan a España los nuevos BMW M3, Mercedes C63 AMG y Audi RS4.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107014711 +0100" stop="20261107024703 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107004651 +0100" stop="20261107014643 +0100">
     <title>S12 : E05 Episodio 5 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Richard celebra el 40 cumpleaños del Ferrari Daytona en la Riviera italiana.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107024704 +0100" stop="20261107034601 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107014644 +0100" stop="20261107024541 +0100">
     <title>S10 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los presentadores rememoran su intento de construir coches anfibios.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107034602 +0100" stop="20261107044541 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107024542 +0100" stop="20261107034521 +0100">
     <title>S10 : E08 Episodio 8 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy, Richard y James participan en una carrera de resistencia de 24 horas.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107044542 +0100" stop="20261107054630 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107034522 +0100" stop="20261107044610 +0100">
     <title>S18 : E07 Episodio 7 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Damos un repaso al nuevo BMW M5 y los chicos prueban a correr con un presupuesto reducido.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107054631 +0100" stop="20261107064317 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107044611 +0100" stop="20261107054257 +0100">
     <title>S09 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El equipo se dirige a un campo de golf en busca del mejor cupé.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107064318 +0100" stop="20261107074206 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107054258 +0100" stop="20261107064146 +0100">
     <title>S18 : E06 Episodio 6 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy sale a la pista para recrear la Batalla Británica con un Bentley y un BMW.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107074207 +0100" stop="20261107083329 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107064147 +0100" stop="20261107073309 +0100">
     <title>S15 : E05 Episodio 5 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los actores de Hollywood Tom Cruise y Cameron Diaz se suben al Cohe de valoración razonable..</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107083330 +0100" stop="20261107093305 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107073310 +0100" stop="20261107083245 +0100">
     <title>S18 : E03 Episodio 3 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy y Richard se hacen cargo de una persecución de coches en el plató de la película The Sweeney.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107093306 +0100" stop="20261107103346 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107083246 +0100" stop="20261107093327 +0100">
     <title>S17 : E05 Episodio 5 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy, James y Richard tratan de demoler una hilera de casas más rápido que los profesionales.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107103347 +0100" stop="20261107112838 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107093328 +0100" stop="20261107102819 +0100">
     <title>S06 : E03 Episodio 3 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy Clarkson causa sensación al inaugurar una piscina local.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107112839 +0100" stop="20261107122211 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107102820 +0100" stop="20261107112151 +0100">
     <title>S06 : E05 Episodio 5 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy es atacado por francotiradores mientras prueba el Porsche Boxster S y el Mercedes SLK.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107122212 +0100" stop="20261107132255 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107112152 +0100" stop="20261107122235 +0100">
     <title>S12 : E01 Episodio 1 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El equipo decide comprar camiones de segunda mano para ver lo fácil que es ser conductor de vehículos pesados.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107132256 +0100" stop="20261107142258 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107122236 +0100" stop="20261107132238 +0100">
     <title>S18 : E01 Episodio 1 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El Lamborghini Aventador, el McLaren MP4-12C y el Noble M600 se enfrentan en Italia.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107142259 +0100" stop="20261107152342 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107132239 +0100" stop="20261107142323 +0100">
     <title>S09 : E06 Episodio 6 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los presentadores construyen sus propias limusinas con los coches más improbables.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107152343 +0100" stop="20261107162342 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107142324 +0100" stop="20261107152323 +0100">
     <title>S10 : E01 Episodio 1 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El equipo de Top Gear regresa para una nueva temporada en busca de la mejor carretera de Europa.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107162343 +0100" stop="20261107172351 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107152324 +0100" stop="20261107162331 +0100">
     <title>S15 : E03 Episodio 3 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los presentadores intentan encontrar el mejor supercoche de cuatro plazas del mundo.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107172352 +0100" stop="20261107181838 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107162332 +0100" stop="20261107171818 +0100">
     <title>S15 : E01 Episodio 1 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>James May tratará de conducir el Toyota Hilux en un volcán activo en Islandia.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107181839 +0100" stop="20261107191909 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107171819 +0100" stop="20261107181849 +0100">
     <title>S20 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Presentamos el sensacional Ferrari F12 y la búsqueda del mejor taxi del mundo.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107191910 +0100" stop="20261107201650 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107181850 +0100" stop="20261107191630 +0100">
     <title>S17 : E06 Episodio 6 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy y James hacen un viaje muy británico por la costa en dos coches eléctricos.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107201651 +0100" stop="20261107211328 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107191631 +0100" stop="20261107201308 +0100">
     <title>S12 : E07 Episodio 7 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Richard Hammond echa una mirada afectuosa a las carreras de turismos de los años 50.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107211329 +0100" stop="20261107222505 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107201309 +0100" stop="20261107212445 +0100">
     <title>S01 : E02 Parte 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Un giro aterrador de los acontecimientos lleva la aventura en la Patagonia a un final de infarto</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107222506 +0100" stop="20261107232309 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107212446 +0100" stop="20261107222249 +0100">
     <title>S13 : E07 Episodio 7 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy Clarkson y James May reciben el encargo de crear un anuncio de televisión para Volkswagen.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261107232310 +0100" stop="20261108003356 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107222250 +0100" stop="20261107233336 +0100">
     <title>S01 : E01 Parte 1 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El equipo de Top Gear recorre 1.600 millas a través de la Patagonia en tres coches deportivos con motor V8.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108003357 +0100" stop="20261108013329 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261107233337 +0100" stop="20261108003309 +0100">
     <title>S06 : E11 Episodio 11 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los vehículos más potentes del mundo visitan la pista de Top Gear.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108013330 +0100" stop="20261108023400 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108003310 +0100" stop="20261108013340 +0100">
     <title>S20 : E04 Episodio 4 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los chicos ayudan en las zonas inundadas de Gran Bretaña con la construcción de un aerodeslizador.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108023401 +0100" stop="20261108033345 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108013341 +0100" stop="20261108023325 +0100">
     <title>S12 : E04 Episodio 4 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Pueden los muchachos ir de Suiza al noroeste de Inglaterra con un solo depósito?</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108033346 +0100" stop="20261108043416 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108023326 +0100" stop="20261108033356 +0100">
     <title>S20 : E05 Episodio 5 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy Clarkson y James May investigan el cada vez más popular «crossover».</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108043417 +0100" stop="20261108053444 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108033357 +0100" stop="20261108043424 +0100">
     <title>S01 : E01 Episodio 1 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Un recorrido por los mejores momentos de las primeras 22 temporadas de Top Gear: de la A a la Z. Primera parte.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108053445 +0100" stop="20261108063516 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108043425 +0100" stop="20261108053456 +0100">
     <title>S17 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Richard descubre los placeres de NASCAR y Rowan Atkinson da una vuelta por la pista.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108063517 +0100" stop="20261108073627 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108053457 +0100" stop="20261108063607 +0100">
     <title>S09 : E05 Episodio 5 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los muchachos se vuelven rurales mientras aprovechan un grupo de tractores de alta tecnología.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108073628 +0100" stop="20261108083451 +0100">
-    <title>S09 : E04 Episodio 4 - Top Gear</title>
-    <sub-title>Top Gear</sub-title>
-    <desc>Richard Hammond y James May intentan construir un vehículo espacial a partir de un Reliant Robin.</desc>
-  </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108083452 +0100" stop="20261108093355 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108063608 +0100" stop="20261108073511 +0100">
     <title>S10 : E03 Episodio 3 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Richard Hammond compite con el Bugatti Veyron contra el caza Typhoon de la RAF.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108093356 +0100" stop="20261108103319 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108073512 +0100" stop="20261108083435 +0100">
     <title>S11 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy se enamora del Mercedes CLK Black mientras Richard conduce el Audi RS6.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108103320 +0100" stop="20261108113349 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108083436 +0100" stop="20261108093506 +0100">
     <title>S13 : E06 Episodio 6 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy, Richard y James descubren si los coches clásicos son más divertidos que las máquinas modernas.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108113350 +0100" stop="20261108132100 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108093507 +0100" stop="20261108112216 +0100">
     <title>S01 : E01 El viaje por carretera perfecto 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El segundo viaje de Clarkson y Hammond por el Mediterráneo, con coches de lujo y carreteras increíbles.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108132101 +0100" stop="20261108142054 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108112217 +0100" stop="20261108122210 +0100">
     <title>S18 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Richard Hammond está en Texas para introducirse en el mundo de las carreras NASCAR.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108142055 +0100" stop="20261108151837 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108122211 +0100" stop="20261108131954 +0100">
     <title>S10 : E05 Episodio 5 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Jeremy se vuelve loco en dos famfiliares rápidos y Richard inventa las carreras de autocaravanas.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108151838 +0100" stop="20261108161721 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108131955 +0100" stop="20261108141837 +0100">
     <title>S10 : E04 Episodio 4 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los presentadores de Top Gear compiten en una carrera épica por Londres.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108161722 +0100" stop="20261108171817 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108141838 +0100" stop="20261108151933 +0100">
     <title>S15 : E06 Episodio 6 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Clarkson, Hammond y May hacen un nostálgico recorrido a través de la industria británica de coches deportivos.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108171818 +0100" stop="20261108181821 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108151934 +0100" stop="20261108161937 +0100">
     <title>S19 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los chicos hacen un épico viaje por carretera en el oeste de Estados Unidos.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108181822 +0100" stop="20261108191858 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108161938 +0100" stop="20261108172014 +0100">
     <title>S09 : E03 Episodio 3 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Los chicos viajan a Estados Unidos para ver si comprar un coche en vacaciones es más divertido que alquilarlo.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108191859 +0100" stop="20261108201924 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108172015 +0100" stop="20261108182040 +0100">
     <title>S01 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Un recorrido por los mejores momentos de las primeras 22 temporadas de Top Gear: de la A a la Z. Segunda parte.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108201925 +0100" stop="20261108211740 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108182041 +0100" stop="20261108191856 +0100">
     <title>S17 : E04 Episodio 4 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Se podría sustituir algún día el tren tradicional por un montón de caravanas tiradas por un coche?</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108211741 +0100" stop="20261108221556 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108191857 +0100" stop="20261108201712 +0100">
     <title>S06 : E07 Episodio 7 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El Ford Transit celebra un cumpleaños histórico y lo llevan a Nurburging para celebrarlo.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108221557 +0100" stop="20261108231454 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108201713 +0100" stop="20261108211610 +0100">
     <title>S13 : E02 Episodio 2 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>El Bugatti Veyron y McLaren F1 se enfrentan cara a cara en Abu Dabi.</desc>
   </programme>
-  <programme channel="bbc-top-gear-spa" start="20261108231455 +0100" stop="20261109001528 +0100">
+  <programme channel="bbc-top-gear-spa" start="20261108211611 +0100" stop="20261108221644 +0100">
     <title>S21 : E05 Episodio 5 - Top Gear</title>
     <sub-title>Top Gear</sub-title>
     <desc>Aaron Paul, estrella de Breaking Bad, se lanza a la pista y Richard Hammond se enfrenta al Porsche 918.</desc>
+  </programme>
+  <programme channel="bbc-top-gear-spa" start="20261108221645 +0100" stop="20261108231719 +0100">
+    <title>S19 : E01 Episodio 1 - Top Gear</title>
+    <sub-title>Top Gear</sub-title>
+    <desc>Jeremy construye un coche en miniatura, James y Richard prueban un Bentley y un Pagani nuevos.</desc>
+  </programme>
+  <programme channel="bbc-top-gear-spa" start="20261108231720 +0100" stop="20261109001752 +0100">
+    <title>S20 : E03 Episodio 3 - Top Gear</title>
+    <sub-title>Top Gear</sub-title>
+    <desc>Jeremy, Richard y James recorren España en supercoches de gama media.</desc>
   </programme>
   <programme channel="todo-novelas" start="20261104235524 +0100" stop="20261105005026 +0100">
     <title>S01 : E16 PIEL SALVAJE - PIEL SALVAJE</title>
