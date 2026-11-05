@@ -109,7 +109,7 @@ https://live.tvup.edge2befaster.io/canal24hhd/canal24hhd.m3u8
 https://live.tvup.edge2befaster.io/mega6/mega6.m3u8
 
 #EXTINF:-1 tvg-id="FDF" tvg-name="FDF" tvg-logo="http://192.168.1.98:8080/logos/FDF.png" group-title="Cajón de Sastre",FDF
-https://live.tvup.edge2befaster.io/fdf6/fdf6.mpd
+https://live.tvup.edge2befaster.io/fdf6/fdf6.m3u8
 
 #EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="http://192.168.1.98:8080/logos/Divinity.png" group-title="Cajón de Sastre",Divinity
 https://live.tvup.edge2befaster.io/divinity6/divinity6.m3u8
