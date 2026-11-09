@@ -40976,72 +40976,87 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Ewa Pajor con la camiseta blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261109191844 +0100" stop="20261109211843 +0100">
-    <title>FULL MATCH | Manresa - Barça Atlètic | 2a RFEF 2026-27</title>
-    <desc>FULL MATCH | Manresa - Barça Atlètic | 2a RFEF 2026-27</desc>
+  <programme channel="top-barca-es" start="20261109191844 +0100" stop="20261109211908 +0100">
+    <title>S202627 : E10 PARTIDO COMPLETO | Manresa - Barça Atlètic | 2a RFEF 2026-27 - Barça Atlètic</title>
+    <sub-title>Barça Atlètic</sub-title>
+    <desc>Disfruta del partido de la 2a RFEF 2026-27 entre Manresa y Barça Atlètic</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261109211844 +0100" stop="20261109220000 +0100">
-    <title>S202627 : E11 HIGHLIGHTS | FC Barcelona - Deportivo Alavés | LaLiga 202627 - LaLiga</title>
-    <sub-title>LaLiga</sub-title>
-    <desc>Disfruta de los mejores momentos del FC Barcelona vs Deportivo Alavés de la jornada 11 de LaLiga 2026/27.</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261109220001 +0100" stop="20261109234542 +0100">
-    <title>S202627 : E01 LA MASIA | FC Barcelona Sub 9 - Gimnàstic Manresa | 2026-27 - La Masia</title>
-    <sub-title>La Masia</sub-title>
-    <desc>Disfruta de los mejores partidos del futbol formativo blaugrana</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261109234543 +0100" stop="20261110005623 +0100">
-    <title>S202526 : E33 TODOS LOS GOLES | Claudia Pina - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles de Claudia Pina como jugadora del Barça</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110005624 +0100" stop="20261110025623 +0100">
-    <title>FULL MATCH | Manresa - Barça Atlètic | 2a RFEF 2026-27</title>
-    <desc>FULL MATCH | Manresa - Barça Atlètic | 2a RFEF 2026-27</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110025624 +0100" stop="20261110031759 +0100">
-    <title>S202526 : E14 HIGHLIGHTS | FC Barcelona - Deportivo Alavés | La Liga 2025-26 - LaLiga</title>
-    <sub-title>LaLiga</sub-title>
-    <desc>Disfruta del mejor resumen del partido de la Liga 2025-26 entre Barça y Deportivo Alavés</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110031800 +0100" stop="20261110044759 +0100">
-    <title>LA MASIA | FC Barcelona U-11 - Vila Olímpica | League 2026-27</title>
-    <desc>LA MASIA | FC Barcelona U-11 - Vila Olímpica | League 2026-27</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110044800 +0100" stop="20261110051759 +0100">
-    <title>HIGHLIGHTS | Juvenil A - Aston Villa | UYL 2026/27</title>
-    <desc>HIGHLIGHTS | Juvenil A - Aston Villa | UYL 2026/27</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110051800 +0100" stop="20261110063046 +0100">
-    <title>S202526 : E35 TODOS LOS GOLES | Samuel Eto'o - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles de Samuel Eto'o como jugador del Barça</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110063047 +0100" stop="20261110070213 +0100">
-    <title>S202627 : E04 HIGHLIGHTS | FC Barcelona - Aston Villa | UEFA Champions League 2026-27 - UEFA Champions League</title>
-    <sub-title>UEFA Champions League</sub-title>
-    <desc>Disfruta del resúmen del partido de la UCL 2026-27 entre Barça y Aston Villa</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110070214 +0100" stop="20261110074727 +0100">
-    <title>S202526 : E16 TODOS LOS GOLES | Lamine Yamal - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles de Lamine como jugador del Barça</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110074728 +0100" stop="20261110094727 +0100">
-    <title>FULL MATCH | Manresa - Barça Atlètic | 2a RFEF 2026-27</title>
-    <desc>FULL MATCH | Manresa - Barça Atlètic | 2a RFEF 2026-27</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110094728 +0100" stop="20261110103642 +0100">
-    <title>S202627 : E03 TODOS LOS GOLES | Leo Messi Parte 3 - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261110103643 +0100" stop="20261110105646 +0100">
+  <programme channel="top-barca-es" start="20261109211909 +0100" stop="20261109213912 +0100">
     <title>S202627 : E02 TODOS LOS GOLES | FC Barcelona | Octubre 2027 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles del Barça en el mes de octubre</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261110105647 +0100" stop="20261110125646 +0100">
+  <programme channel="top-barca-es" start="20261109213913 +0100" stop="20261109230337 +0100">
+    <title>S202627 : E01 LA MASIA | FC Barcelona Sub 9 - Gimnàstic Manresa | 2026-27 - La Masia</title>
+    <sub-title>La Masia</sub-title>
+    <desc>Disfruta de los mejores partidos del futbol formativo blaugrana</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261109230338 +0100" stop="20261109232148 +0100">
+    <title>S202627 : E02 TODOS LOS GOLES | FC Barcelona Femenino | Octubre 2026 - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Disfruta de todos los goles del Barça femenino durante este mes de octubre</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261109232149 +0100" stop="20261110003228 +0100">
+    <title>S202526 : E33 TODOS LOS GOLES | Claudia Pina - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Claudia Pina como jugadora del Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110003229 +0100" stop="20261110023254 +0100">
+    <title>S202627 : E10 PARTIDO COMPLETO | Manresa - Barça Atlètic | 2a RFEF 2026-27 - Barça Atlètic</title>
+    <sub-title>Barça Atlètic</sub-title>
+    <desc>Disfruta del partido de la 2a RFEF 2026-27 entre Manresa y Barça Atlètic</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110023255 +0100" stop="20261110025430 +0100">
+    <title>S202526 : E14 HIGHLIGHTS | FC Barcelona - Deportivo Alavés | La Liga 2025-26 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del mejor resumen del partido de la Liga 2025-26 entre Barça y Deportivo Alavés</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110025431 +0100" stop="20261110041305 +0100">
+    <title>S202627 : E01 LA MASIA | FC Barcelona Sub 11 - Vila Olímpica | 2026-27 - La Masia</title>
+    <sub-title>La Masia</sub-title>
+    <desc>Disfruta de los mejores partidos del futbol formativo blaugrana</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110041306 +0100" stop="20261110044326 +0100">
+    <title>S202627 : E04 HIGHLIGHTS | FC Barcelona Juvenil - Aston Villa | UEFA Youth League 2026-27 - UEFA Youth League</title>
+    <sub-title>UEFA Youth League</sub-title>
+    <desc>Disfruta de los mejores momentos del partido de la UYL entre Barça y Aston Villa</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110044327 +0100" stop="20261110060000 +0100">
+    <title>S202526 : E35 TODOS LOS GOLES | Samuel Eto'o - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Samuel Eto'o como jugador del Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110060001 +0100" stop="20261110062739 +0100">
+    <title>S202627 : E04 HIGHLIGHTS | FC Barcelona - Aston Villa | UEFA Champions League 2026-27 - UEFA Champions League</title>
+    <sub-title>UEFA Champions League</sub-title>
+    <desc>Disfruta del resúmen del partido de la UCL 2026-27 entre Barça y Aston Villa</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110062740 +0100" stop="20261110071253 +0100">
+    <title>S202526 : E16 TODOS LOS GOLES | Lamine Yamal - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Lamine como jugador del Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110071254 +0100" stop="20261110091319 +0100">
+    <title>S202627 : E10 PARTIDO COMPLETO | Manresa - Barça Atlètic | 2a RFEF 2026-27 - Barça Atlètic</title>
+    <sub-title>Barça Atlètic</sub-title>
+    <desc>Disfruta del partido de la 2a RFEF 2026-27 entre Manresa y Barça Atlètic</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110091320 +0100" stop="20261110094446 +0100">
+    <title>S202627 : E04 HIGHLIGHTS | FC Barcelona - Aston Villa | UEFA Champions League 2026-27 - UEFA Champions League</title>
+    <sub-title>UEFA Champions League</sub-title>
+    <desc>Disfruta del resúmen del partido de la UCL 2026-27 entre Barça y Aston Villa</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110094447 +0100" stop="20261110103401 +0100">
+    <title>S202627 : E03 TODOS LOS GOLES | Leo Messi Parte 3 - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110103402 +0100" stop="20261110105405 +0100">
+    <title>S202627 : E02 TODOS LOS GOLES | FC Barcelona | Octubre 2027 - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles del Barça en el mes de octubre</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261110105406 +0100" stop="20261110125646 +0100">
     <title>FULL MATCH | Atlético de Madrid - Barça | Liga 2026-27</title>
     <desc>FULL MATCH | Atlético de Madrid - Barça | Liga 2026-27</desc>
   </programme>
@@ -45409,221 +45424,221 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Los asesinatos de Midsomer</sub-title>
     <desc>Mientras Midsomer celebra su 12. festival literario anual, encuentran a un autor con el cuello roto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261108233945 +0100" stop="20261109003034 +0100">
-    <title>Abigail - S04:E019  - Episode 19</title>
+  <programme channel="wedotv-amor" start="20261108233946 +0100" stop="20261109003034 +0100">
+    <title>Abigail - S04:E019 - Episode 19</title>
     <desc>María Begoña visita a Carlos Alfredo vestida de María Clara y le inventa que Álvaro y Abigail tuvieron una relación dos años atrás. Carlos Alfredo va a casa de María Begoña y ella le pide que la haga su esposa. Rosalba visita a Mariana en el hospital.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109003035 +0100" stop="20261109012403 +0100">
-    <title>S01 : E29 Corazón Traicionado - S01:E29- Infiltrations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261109003035 +0100" stop="20261109012404 +0100">
+    <title>S01 : E29 Corazón Traicionado - S01:E29 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio busca intimidar a Lorena, seguro de que no existe tal video que los incrimine; ella se mantiene firme, pero no revela su contenido exacto. En lo que parece ser otra de sus volátiles acciones, Virginia le notifica a Carmen que dará a su hijo en adopción. Lorena se sirve de la cámara de su teléfono portátil para grabar todo lo que sabe sobre la muerte de Marco Aurelio Corona.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109012404 +0100" stop="20261109021733 +0100">
-    <title>S01 : E29 Corazón Traicionado - S01:E29- Infiltrations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261109012405 +0100" stop="20261109021733 +0100">
+    <title>S01 : E29 Corazón Traicionado - S01:E29 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio busca intimidar a Lorena, seguro de que no existe tal video que los incrimine; ella se mantiene firme, pero no revela su contenido exacto. En lo que parece ser otra de sus volátiles acciones, Virginia le notifica a Carmen que dará a su hijo en adopción. Lorena se sirve de la cámara de su teléfono portátil para grabar todo lo que sabe sobre la muerte de Marco Aurelio Corona.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109021734 +0100" stop="20261109031224 +0100">
+  <programme channel="wedotv-amor" start="20261109021734 +0100" stop="20261109031225 +0100">
     <title>S01 : E83 El Desprecio - S01:E83 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>En la mansión Santa María, Clara discute con un ebrio Raúl; por eso, Cristiano informa a la pareja que el hospicio sufre un incendio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109031225 +0100" stop="20261109040804 +0100">
+  <programme channel="wedotv-amor" start="20261109031226 +0100" stop="20261109040804 +0100">
     <title>S01 : E84 El Desprecio - S01:E84 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Cuando Raúl se dispone a partir con Pastora, Tamara le ruega que se quede para impedir que Gabriel y Clara Ines se unan en matrimonio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109040805 +0100" stop="20261109050112 +0100">
-    <title>S01 : E33 La Trepadora - S01:E033- Nicolas's Revenge - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261109040805 +0100" stop="20261109050113 +0100">
+    <title>S01 : E33 La Trepadora - S01:E033 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás afirma que desea vengarse de Hilario lo antes posible, pues ahora también tiene que cobrarle que lo apartara de la mujer que ama. Hilario quiere desaparecer a Nicolás, pero Victoria no quiere tragedias, sino arruinar al joven Del Casal y toda su familia. Adelaida relee las supuestas cartas de Hilario, pero las esconde cuando el hombre llega a su lado; la señora acepta las caricias de su esposo aunque se siente muy confundida por lo que acaba de descubrir. A Felipe le extraña cuando Hansen le ordena que prepare una carpeta con todos los negocios que tienen en Cantarrana, pues debe viajar de inmediato para la hacienda. La sorpresa se apodera de Clementina cuando Antonieta la busca...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109050113 +0100" stop="20261109055220 +0100">
-    <title>S01 : E34 La Trepadora - S01:E034- Adelaida clarifies to Hansen - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261109050114 +0100" stop="20261109055221 +0100">
+    <title>S01 : E34 La Trepadora - S01:E034 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida aclara a Hansen que regresó con Hilario porque así lo decidió; el hombre sospecha que ella sabe lo qué fue a decirle, sobre todo cuando ella asegura que no verlo hubiera sido un alivio para ella. Victoria termina aceptando el reto de Jack y se lanza en parapente con él. Felipe acuerda con Clementina ir a una fiesta; la muchacha sugiere a Victoria que también vaya, pero acompañada de Jack Builder para que Nicolás se muera de los celos. Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109055221 +0100" stop="20261109070007 +0100">
-    <title>S01 : E11 Te Tengo en Salsa - S01:E11- The Brothers' Bond - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261109055222 +0100" stop="20261109070007 +0100">
+    <title>S01 : E11 Te Tengo en Salsa - S01:E11 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Conscientes de que Ignacio podría emprender una demanda legal contra ellos, Carlos Raúl señala a su hermano, con velada intención, que deben permanecer unidos.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261109070008 +0100" stop="20261109075228 +0100">
-    <title>S01 : E30 Corazón Traicionado - S01:E30- Crisis and Revelations - Corazon Traicionado</title>
+    <title>S01 : E30 Corazón Traicionado - S01:E30 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La llegada de Magda con Ignacio hace que Lorena dé por terminada su “video-confesión”. Malena decide tomar el riesgo de la denuncia y pasar por las humillaciones que sean necesarias, con tal de proteger también a Isabel. Elvis observa el ecosonograma que le hacen a Virginia y se emociona al oír los latidos del corazón de su hijo. Gertrudis entra en crisis cuando ve el video grabado por Lorena y, para contenerla, Claudio la besa en la boca; ambos sin percatarse de que Norma y Lorena están presenciando todo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109075229 +0100" stop="20261109084600 +0100">
-    <title>S01 : E31 Corazón Traicionado - S01:E31- Defending Feelings - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261109075229 +0100" stop="20261109084601 +0100">
+    <title>S01 : E31 Corazón Traicionado - S01:E31 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Ricardo defiende sus sentimientos hacia María Bonita para tener una relación seria con ella . Norma ve que Gertrudis y Claudio son responsables de la muerte de Marco Aurelio. Isabel defiende a Malena. Pedro llama a otro de sus sicarios para que liquide a Lorena.Pedro le informa a Guillermo que su mujer está viviendo en casa de los Corona.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109084601 +0100" stop="20261109094140 +0100">
+  <programme channel="wedotv-amor" start="20261109084602 +0100" stop="20261109094140 +0100">
     <title>S01 : E84 El Desprecio - S01:E84 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Cuando Raúl se dispone a partir con Pastora, Tamara le ruega que se quede para impedir que Gabriel y Clara Ines se unan en matrimonio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109094141 +0100" stop="20261109103525 +0100">
+  <programme channel="wedotv-amor" start="20261109094141 +0100" stop="20261109103526 +0100">
     <title>S01 : E85 El Desprecio - S01:E85 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora anuncia que la carta se trata de una confesión donde el padre Potentá asegura que Clara Inés no es una Santa María.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109103526 +0100" stop="20261109112634 +0100">
-    <title>S01 : E34 La Trepadora - S01:E034- Adelaida clarifies to Hansen - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261109103527 +0100" stop="20261109112634 +0100">
+    <title>S01 : E34 La Trepadora - S01:E034 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida aclara a Hansen que regresó con Hilario porque así lo decidió; el hombre sospecha que ella sabe lo qué fue a decirle, sobre todo cuando ella asegura que no verlo hubiera sido un alivio para ella. Victoria termina aceptando el reto de Jack y se lanza en parapente con él. Felipe acuerda con Clementina ir a una fiesta; la muchacha sugiere a Victoria que también vaya, pero acompañada de Jack Builder para que Nicolás se muera de los celos. Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261109112635 +0100" stop="20261109121741 +0100">
     <title>S01 : E35 La Trepadora - S01:E035 - Episodio 35 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Nicolas senses that something is troubling Eugenia but, since she refuses to tell him the reason for her sorrow, he simply advises her to fight for her love without being afraid. Victoria asks Jack to help her prove to Nicolas that she can be without him; the actor agrees to be used, because he knows it will help him stay close to her. Leopoldo is amused that Fernanda is thinking that he is cheating on her with another woman when all he is concerned about is his revenge against Hilario. At the party, Nicolas shares with Liliana when he sees Victoria arriving on the arm of Jack Builder; the young Guanipa does not hesitate to approach Del Casal to assure him that he has disappeared from her...</desc>
+    <desc>Nicolás percibe que hay algo que perturba a Eugenia pero, en vista de que ella se niega a confiarle el motivo de su pena, se limita a aconsejarle que luche por su amor sin tener miedo. Victoria pide a Jack la ayude a demostrarle a Nicolás que ella puede estar sin él; el actor acepta ser utilizado, porque sabe que eso lo ayudará a estar cerca de ella. A Leopoldo le hace gracia que Fernanda esté pensando que la está engañando con otra mujer cuando lo único de lo que se ocupa es de su venganza contra Hilario. Ya en la fiesta, Nicolás comparte con Liliana cuando ve que Victoria llega del brazo de Jack Builder; la joven Guanipa no duda en acercarse a Del Casal para asegurarle que él ya...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109121742 +0100" stop="20261109130856 +0100">
-    <title>S01 : E12 Te Tengo en Salsa - S01:E12- The Story of Adriana - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261109121742 +0100" stop="20261109130857 +0100">
+    <title>S01 : E12 Te Tengo en Salsa - S01:E12 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Finalizado el espectáculo, Adriana llora al recordar que quiso ser bailarina pero no pudo por la humildad de su familia; César, conmovido, siente que la ama cada vez más.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109130857 +0100" stop="20261109140014 +0100">
-    <title>S01 : E13 Te Tengo en Salsa - S01:E13- Fall in the Warehouse - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261109130858 +0100" stop="20261109140014 +0100">
+    <title>S01 : E13 Te Tengo en Salsa - S01:E13 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Armándose de valor, Carlos Raúl abre la puerta del almacén a su hermano pero se preocupa al hallarlo sin sentido en el suelo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109140015 +0100" stop="20261109145103 +0100">
-    <title>Abigail - S04:E019  - Episode 19</title>
+  <programme channel="wedotv-amor" start="20261109140015 +0100" stop="20261109145104 +0100">
+    <title>Abigail - S04:E019 - Episode 19</title>
     <desc>María Begoña visita a Carlos Alfredo vestida de María Clara y le inventa que Álvaro y Abigail tuvieron una relación dos años atrás. Carlos Alfredo va a casa de María Begoña y ella le pide que la haga su esposa. Rosalba visita a Mariana en el hospital.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109145104 +0100" stop="20261109154331 +0100">
-    <title>Abigail - S04:E020  - A Aventura de Abigail</title>
+  <programme channel="wedotv-amor" start="20261109145105 +0100" stop="20261109154332 +0100">
+    <title>Abigail - S04:E020 - Episode 20</title>
     <desc>Siendo una chica caprichosa y egocéntrica, Abigail intenta conquistar a su profesor Carlos Alfredo. Leonel y sus amigos convencen a Abigail para que se escape del internado con sus amigas y se vaya a bailar, sólo para ser descubierta por su padre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109154332 +0100" stop="20261109163553 +0100">
-    <title>S01 : E30 Corazón Traicionado - S01:E30- Crisis and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261109154333 +0100" stop="20261109163553 +0100">
+    <title>S01 : E30 Corazón Traicionado - S01:E30 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La llegada de Magda con Ignacio hace que Lorena dé por terminada su “video-confesión”. Malena decide tomar el riesgo de la denuncia y pasar por las humillaciones que sean necesarias, con tal de proteger también a Isabel. Elvis observa el ecosonograma que le hacen a Virginia y se emociona al oír los latidos del corazón de su hijo. Gertrudis entra en crisis cuando ve el video grabado por Lorena y, para contenerla, Claudio la besa en la boca; ambos sin percatarse de que Norma y Lorena están presenciando todo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109163554 +0100" stop="20261109172814 +0100">
-    <title>S01 : E30 Corazón Traicionado - S01:E30- Crisis and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261109163554 +0100" stop="20261109172815 +0100">
+    <title>S01 : E30 Corazón Traicionado - S01:E30 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La llegada de Magda con Ignacio hace que Lorena dé por terminada su “video-confesión”. Malena decide tomar el riesgo de la denuncia y pasar por las humillaciones que sean necesarias, con tal de proteger también a Isabel. Elvis observa el ecosonograma que le hacen a Virginia y se emociona al oír los latidos del corazón de su hijo. Gertrudis entra en crisis cuando ve el video grabado por Lorena y, para contenerla, Claudio la besa en la boca; ambos sin percatarse de que Norma y Lorena están presenciando todo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109172815 +0100" stop="20261109182354 +0100">
+  <programme channel="wedotv-amor" start="20261109172816 +0100" stop="20261109182354 +0100">
     <title>S01 : E84 El Desprecio - S01:E84 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Cuando Raúl se dispone a partir con Pastora, Tamara le ruega que se quede para impedir que Gabriel y Clara Ines se unan en matrimonio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109182355 +0100" stop="20261109191739 +0100">
+  <programme channel="wedotv-amor" start="20261109182355 +0100" stop="20261109191740 +0100">
     <title>S01 : E85 El Desprecio - S01:E85 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora anuncia que la carta se trata de una confesión donde el padre Potentá asegura que Clara Inés no es una Santa María.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109191740 +0100" stop="20261109201102 +0100">
-    <title>S01 : E34 La Trepadora - S01:E034- Adelaida clarifies to Hansen - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261109191741 +0100" stop="20261109201102 +0100">
+    <title>S01 : E34 La Trepadora - S01:E034 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida aclara a Hansen que regresó con Hilario porque así lo decidió; el hombre sospecha que ella sabe lo qué fue a decirle, sobre todo cuando ella asegura que no verlo hubiera sido un alivio para ella. Victoria termina aceptando el reto de Jack y se lanza en parapente con él. Felipe acuerda con Clementina ir a una fiesta; la muchacha sugiere a Victoria que también vaya, pero acompañada de Jack Builder para que Nicolás se muera de los celos. Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109201103 +0100" stop="20261109210423 +0100">
+  <programme channel="wedotv-amor" start="20261109201103 +0100" stop="20261109210424 +0100">
     <title>S01 : E35 La Trepadora - S01:E035 - Episodio 35 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Nicolas senses that something is troubling Eugenia but, since she refuses to tell him the reason for her sorrow, he simply advises her to fight for her love without being afraid. Victoria asks Jack to help her prove to Nicolas that she can be without him; the actor agrees to be used, because he knows it will help him stay close to her. Leopoldo is amused that Fernanda is thinking that he is cheating on her with another woman when all he is concerned about is his revenge against Hilario. At the party, Nicolas shares with Liliana when he sees Victoria arriving on the arm of Jack Builder; the young Guanipa does not hesitate to approach Del Casal to assure him that he has disappeared from her...</desc>
+    <desc>Nicolás percibe que hay algo que perturba a Eugenia pero, en vista de que ella se niega a confiarle el motivo de su pena, se limita a aconsejarle que luche por su amor sin tener miedo. Victoria pide a Jack la ayude a demostrarle a Nicolás que ella puede estar sin él; el actor acepta ser utilizado, porque sabe que eso lo ayudará a estar cerca de ella. A Leopoldo le hace gracia que Fernanda esté pensando que la está engañando con otra mujer cuando lo único de lo que se ocupa es de su venganza contra Hilario. Ya en la fiesta, Nicolás comparte con Liliana cuando ve que Victoria llega del brazo de Jack Builder; la joven Guanipa no duda en acercarse a Del Casal para asegurarle que él ya...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109210424 +0100" stop="20261109215538 +0100">
-    <title>S01 : E12 Te Tengo en Salsa - S01:E12- The Story of Adriana - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261109210425 +0100" stop="20261109215539 +0100">
+    <title>S01 : E12 Te Tengo en Salsa - S01:E12 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Finalizado el espectáculo, Adriana llora al recordar que quiso ser bailarina pero no pudo por la humildad de su familia; César, conmovido, siente que la ama cada vez más.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109215539 +0100" stop="20261109224656 +0100">
-    <title>S01 : E13 Te Tengo en Salsa - S01:E13- Fall in the Warehouse - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261109215540 +0100" stop="20261109224656 +0100">
+    <title>S01 : E13 Te Tengo en Salsa - S01:E13 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Armándose de valor, Carlos Raúl abre la puerta del almacén a su hermano pero se preocupa al hallarlo sin sentido en el suelo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109224657 +0100" stop="20261109233745 +0100">
-    <title>Abigail - S04:E019  - Episode 19</title>
+  <programme channel="wedotv-amor" start="20261109224657 +0100" stop="20261109233746 +0100">
+    <title>Abigail - S04:E019 - Episode 19</title>
     <desc>María Begoña visita a Carlos Alfredo vestida de María Clara y le inventa que Álvaro y Abigail tuvieron una relación dos años atrás. Carlos Alfredo va a casa de María Begoña y ella le pide que la haga su esposa. Rosalba visita a Mariana en el hospital.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261109233746 +0100" stop="20261110003014 +0100">
-    <title>Abigail - S04:E020  - A Aventura de Abigail</title>
+  <programme channel="wedotv-amor" start="20261109233747 +0100" stop="20261110003014 +0100">
+    <title>Abigail - S04:E020 - Episode 20</title>
     <desc>Siendo una chica caprichosa y egocéntrica, Abigail intenta conquistar a su profesor Carlos Alfredo. Leonel y sus amigos convencen a Abigail para que se escape del internado con sus amigas y se vaya a bailar, sólo para ser descubierta por su padre.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261110003015 +0100" stop="20261110012235 +0100">
-    <title>S01 : E30 Corazón Traicionado - S01:E30- Crisis and Revelations - Corazon Traicionado</title>
+    <title>S01 : E30 Corazón Traicionado - S01:E30 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La llegada de Magda con Ignacio hace que Lorena dé por terminada su “video-confesión”. Malena decide tomar el riesgo de la denuncia y pasar por las humillaciones que sean necesarias, con tal de proteger también a Isabel. Elvis observa el ecosonograma que le hacen a Virginia y se emociona al oír los latidos del corazón de su hijo. Gertrudis entra en crisis cuando ve el video grabado por Lorena y, para contenerla, Claudio la besa en la boca; ambos sin percatarse de que Norma y Lorena están presenciando todo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110012236 +0100" stop="20261110021456 +0100">
-    <title>S01 : E30 Corazón Traicionado - S01:E30- Crisis and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261110012236 +0100" stop="20261110021457 +0100">
+    <title>S01 : E30 Corazón Traicionado - S01:E30 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La llegada de Magda con Ignacio hace que Lorena dé por terminada su “video-confesión”. Malena decide tomar el riesgo de la denuncia y pasar por las humillaciones que sean necesarias, con tal de proteger también a Isabel. Elvis observa el ecosonograma que le hacen a Virginia y se emociona al oír los latidos del corazón de su hijo. Gertrudis entra en crisis cuando ve el video grabado por Lorena y, para contenerla, Claudio la besa en la boca; ambos sin percatarse de que Norma y Lorena están presenciando todo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110021457 +0100" stop="20261110031036 +0100">
+  <programme channel="wedotv-amor" start="20261110021458 +0100" stop="20261110031036 +0100">
     <title>S01 : E84 El Desprecio - S01:E84 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Cuando Raúl se dispone a partir con Pastora, Tamara le ruega que se quede para impedir que Gabriel y Clara Ines se unan en matrimonio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110031037 +0100" stop="20261110040421 +0100">
+  <programme channel="wedotv-amor" start="20261110031037 +0100" stop="20261110040422 +0100">
     <title>S01 : E85 El Desprecio - S01:E85 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora anuncia que la carta se trata de una confesión donde el padre Potentá asegura que Clara Inés no es una Santa María.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110040422 +0100" stop="20261110045744 +0100">
-    <title>S01 : E34 La Trepadora - S01:E034- Adelaida clarifies to Hansen - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261110040423 +0100" stop="20261110045744 +0100">
+    <title>S01 : E34 La Trepadora - S01:E034 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida aclara a Hansen que regresó con Hilario porque así lo decidió; el hombre sospecha que ella sabe lo qué fue a decirle, sobre todo cuando ella asegura que no verlo hubiera sido un alivio para ella. Victoria termina aceptando el reto de Jack y se lanza en parapente con él. Felipe acuerda con Clementina ir a una fiesta; la muchacha sugiere a Victoria que también vaya, pero acompañada de Jack Builder para que Nicolás se muera de los celos. Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110045745 +0100" stop="20261110054851 +0100">
+  <programme channel="wedotv-amor" start="20261110045745 +0100" stop="20261110054852 +0100">
     <title>S01 : E35 La Trepadora - S01:E035 - Episodio 35 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Nicolás merasakan bahawa ada sesuatu yang mengganggu Eugenia tetapi, memandangkan dia enggan mempercayakan sebab kesedihannya, dia hanya menasihati Eugenia untuk berjuang untuk cintanya tanpa rasa takut. Victoria meminta Jack membantunya untuk menunjukkan kepada Nicolás bahawa dia boleh hidup tanpa dia; pelakon itu bersetuju untuk digunakan, kerana dia tahu bahawa itu akan membantunya berada dekat dengan Victoria. Leopoldo merasa lucu bahawa Fernanda berfikir dia sedang menjalin hubungan dengan wanita lain ketika satu-satunya yang dia fikirkan adalah membalas dendam terhadap Hilario. Di pesta itu, Nicolás berbual dengan Liliana ketika dia melihat Victoria tiba bergandingan tangan dengan...</desc>
+    <desc>Nicolás percibe que hay algo que perturba a Eugenia pero, en vista de que ella se niega a confiarle el motivo de su pena, se limita a aconsejarle que luche por su amor sin tener miedo. Victoria pide a Jack la ayude a demostrarle a Nicolás que ella puede estar sin él; el actor acepta ser utilizado, porque sabe que eso lo ayudará a estar cerca de ella. A Leopoldo le hace gracia que Fernanda esté pensando que la está engañando con otra mujer cuando lo único de lo que se ocupa es de su venganza contra Hilario. Ya en la fiesta, Nicolás comparte con Liliana cuando ve que Victoria llega del brazo de Jack Builder; la joven Guanipa no duda en acercarse a Del Casal para asegurarle que él ya...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110054852 +0100" stop="20261110070007 +0100">
-    <title>S01 : E12 Te Tengo en Salsa - S01:E12- The Story of Adriana - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261110054853 +0100" stop="20261110070007 +0100">
+    <title>S01 : E12 Te Tengo en Salsa - S01:E12 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Finalizado el espectáculo, Adriana llora al recordar que quiso ser bailarina pero no pudo por la humildad de su familia; César, conmovido, siente que la ama cada vez más.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261110070008 +0100" stop="20261110075339 +0100">
-    <title>S01 : E31 Corazón Traicionado - S01:E31- Defending Feelings - Corazon Traicionado</title>
+    <title>S01 : E31 Corazón Traicionado - S01:E31 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Ricardo defiende sus sentimientos hacia María Bonita para tener una relación seria con ella . Norma ve que Gertrudis y Claudio son responsables de la muerte de Marco Aurelio. Isabel defiende a Malena. Pedro llama a otro de sus sicarios para que liquide a Lorena.Pedro le informa a Guillermo que su mujer está viviendo en casa de los Corona.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110075340 +0100" stop="20261110084539 +0100">
-    <title>S01 : E32 Corazón Traicionado - S01:E32- The Pact of Friendship - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261110075340 +0100" stop="20261110084540 +0100">
+    <title>S01 : E32 Corazón Traicionado - S01:E32 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Isabel y Malena sellan su pacto de amistad incondicional. Alberto obtiene copia del expediente del narcotraficante acusado de la muerte de Marco Aurelio. Magda le cuenta a Lorena lo sucedido y sugiere abrir una cuenta de correo electrónico, donde quede resguardado el video con su confesión. Alberto asoma la posibilidad de que su tío Claudio esté involucrado en la muerte de su padre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110084540 +0100" stop="20261110093925 +0100">
+  <programme channel="wedotv-amor" start="20261110084541 +0100" stop="20261110093925 +0100">
     <title>S01 : E85 El Desprecio - S01:E85 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora anuncia que la carta se trata de una confesión donde el padre Potentá asegura que Clara Inés no es una Santa María.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110093926 +0100" stop="20261110103317 +0100">
+  <programme channel="wedotv-amor" start="20261110093926 +0100" stop="20261110103318 +0100">
     <title>S01 : E86 El Desprecio - S01:E86 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Raúl insiste que Clara Inés colabore a solucionar el problema del contrabando ilegal, ya que Israel puede ir preso por el asunto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110103318 +0100" stop="20261110112426 +0100">
-    <title>S01 : E34 La Trepadora - S01:E034- Adelaida clarifies to Hansen - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261110103319 +0100" stop="20261110112426 +0100">
+    <title>S01 : E34 La Trepadora - S01:E034 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida aclara a Hansen que regresó con Hilario porque así lo decidió; el hombre sospecha que ella sabe lo qué fue a decirle, sobre todo cuando ella asegura que no verlo hubiera sido un alivio para ella. Victoria termina aceptando el reto de Jack y se lanza en parapente con él. Felipe acuerda con Clementina ir a una fiesta; la muchacha sugiere a Victoria que también vaya, pero acompañada de Jack Builder para que Nicolás se muera de los celos. Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261110112427 +0100" stop="20261110121533 +0100">
     <title>S01 : E35 La Trepadora - S01:E035 - Episodio 35 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Nicolas senses that something is troubling Eugenia but, since she refuses to tell him the reason for her sorrow, he simply advises her to fight for her love without being afraid. Victoria asks Jack to help her prove to Nicolas that she can be without him; the actor agrees to be used, because he knows it will help him stay close to her. Leopoldo is amused that Fernanda is thinking that he is cheating on her with another woman when all he is concerned about is his revenge against Hilario. At the party, Nicolas shares with Liliana when he sees Victoria arriving on the arm of Jack Builder; the young Guanipa does not hesitate to approach Del Casal to assure him that he has disappeared from her...</desc>
+    <desc>Nicolás percibe que hay algo que perturba a Eugenia pero, en vista de que ella se niega a confiarle el motivo de su pena, se limita a aconsejarle que luche por su amor sin tener miedo. Victoria pide a Jack la ayude a demostrarle a Nicolás que ella puede estar sin él; el actor acepta ser utilizado, porque sabe que eso lo ayudará a estar cerca de ella. A Leopoldo le hace gracia que Fernanda esté pensando que la está engañando con otra mujer cuando lo único de lo que se ocupa es de su venganza contra Hilario. Ya en la fiesta, Nicolás comparte con Liliana cuando ve que Victoria llega del brazo de Jack Builder; la joven Guanipa no duda en acercarse a Del Casal para asegurarle que él ya...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110121534 +0100" stop="20261110130650 +0100">
-    <title>S01 : E13 Te Tengo en Salsa - S01:E13- Fall in the Warehouse - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261110121534 +0100" stop="20261110130651 +0100">
+    <title>S01 : E13 Te Tengo en Salsa - S01:E13 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Armándose de valor, Carlos Raúl abre la puerta del almacén a su hermano pero se preocupa al hallarlo sin sentido en el suelo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110130651 +0100" stop="20261110135817 +0100">
-    <title>S01 : E14 Te Tengo en Salsa - S01:E14- An Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261110130652 +0100" stop="20261110135817 +0100">
+    <title>S01 : E14 Te Tengo en Salsa - S01:E14 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Tras pasar un agradable rato juntos, Joel se despide de Beatrice justo en el instante que Ignacio los interrumpe y, reconoce al mesero que lo vio besándose con Francesca.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110135818 +0100" stop="20261110143459 +0100">
-    <title>Abigail - S04:E020  - مغامرة أبيجيل</title>
+  <programme channel="wedotv-amor" start="20261110135818 +0100" stop="20261110143500 +0100">
+    <title>Abigail - S04:E020 - Episode 20</title>
     <desc>Siendo una chica caprichosa y egocéntrica, Abigail intenta conquistar a su profesor Carlos Alfredo. Leonel y sus amigos convencen a Abigail para que se escape del internado con sus amigas y se vaya a bailar, sólo para ser descubierta por su padre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110143500 +0100" stop="20261110145003 +0100">
+  <programme channel="wedotv-amor" start="20261110143501 +0100" stop="20261110145003 +0100">
     <title>Abigail - S04:E021 - Episode 21</title>
     <desc>Carlos Alfredo le reclama a Abigail que Cheito es su amante y ella le dice que sí de la rabia. Rosalba le confiesa a Guillermo que el padre de Mariana es Álvaro. Begoña atormenta a Mariana diciéndole que morirá con mucho sufrimiento.</desc>
   </programme>
@@ -45631,178 +45646,178 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Abigail - S04:E021 - Episode 21</title>
     <desc>Carlos Alfredo le reclama a Abigail que Cheito es su amante y ella le dice que sí de la rabia. Rosalba le confiesa a Guillermo que el padre de Mariana es Álvaro. Begoña atormenta a Mariana diciéndole que morirá con mucho sufrimiento.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110154150 +0100" stop="20261110163521 +0100">
-    <title>S01 : E31 Corazón Traicionado - S01:E31- Defending Feelings - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261110154150 +0100" stop="20261110163522 +0100">
+    <title>S01 : E31 Corazón Traicionado - S01:E31 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Ricardo defiende sus sentimientos hacia María Bonita para tener una relación seria con ella . Norma ve que Gertrudis y Claudio son responsables de la muerte de Marco Aurelio. Isabel defiende a Malena. Pedro llama a otro de sus sicarios para que liquide a Lorena.Pedro le informa a Guillermo que su mujer está viviendo en casa de los Corona.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110163522 +0100" stop="20261110172853 +0100">
-    <title>S01 : E31 Corazón Traicionado - S01:E31- Defending Feelings - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261110163523 +0100" stop="20261110172854 +0100">
+    <title>S01 : E31 Corazón Traicionado - S01:E31 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Ricardo defiende sus sentimientos hacia María Bonita para tener una relación seria con ella . Norma ve que Gertrudis y Claudio son responsables de la muerte de Marco Aurelio. Isabel defiende a Malena. Pedro llama a otro de sus sicarios para que liquide a Lorena.Pedro le informa a Guillermo que su mujer está viviendo en casa de los Corona.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110172854 +0100" stop="20261110182239 +0100">
+  <programme channel="wedotv-amor" start="20261110172855 +0100" stop="20261110182239 +0100">
     <title>S01 : E85 El Desprecio - S01:E85 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora anuncia que la carta se trata de una confesión donde el padre Potentá asegura que Clara Inés no es una Santa María.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110182240 +0100" stop="20261110191631 +0100">
+  <programme channel="wedotv-amor" start="20261110182240 +0100" stop="20261110191632 +0100">
     <title>S01 : E86 El Desprecio - S01:E86 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Raúl insiste que Clara Inés colabore a solucionar el problema del contrabando ilegal, ya que Israel puede ir preso por el asunto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110191632 +0100" stop="20261110200954 +0100">
-    <title>S01 : E34 La Trepadora - S01:E034- Adelaida clarifies to Hansen - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261110191633 +0100" stop="20261110200954 +0100">
+    <title>S01 : E34 La Trepadora - S01:E034 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida aclara a Hansen que regresó con Hilario porque así lo decidió; el hombre sospecha que ella sabe lo qué fue a decirle, sobre todo cuando ella asegura que no verlo hubiera sido un alivio para ella. Victoria termina aceptando el reto de Jack y se lanza en parapente con él. Felipe acuerda con Clementina ir a una fiesta; la muchacha sugiere a Victoria que también vaya, pero acompañada de Jack Builder para que Nicolás se muera de los celos. Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110200955 +0100" stop="20261110210315 +0100">
+  <programme channel="wedotv-amor" start="20261110200955 +0100" stop="20261110210316 +0100">
     <title>S01 : E35 La Trepadora - S01:E035 - Episodio 35 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Nicolas senses that something is troubling Eugenia but, since she refuses to tell him the reason for her sorrow, he simply advises her to fight for her love without being afraid. Victoria asks Jack to help her prove to Nicolas that she can be without him; the actor agrees to be used, because he knows it will help him stay close to her. Leopoldo is amused that Fernanda is thinking that he is cheating on her with another woman when all he is concerned about is his revenge against Hilario. At the party, Nicolas shares with Liliana when he sees Victoria arriving on the arm of Jack Builder; the young Guanipa does not hesitate to approach Del Casal to assure him that he has disappeared from her...</desc>
+    <desc>Nicolás percibe que hay algo que perturba a Eugenia pero, en vista de que ella se niega a confiarle el motivo de su pena, se limita a aconsejarle que luche por su amor sin tener miedo. Victoria pide a Jack la ayude a demostrarle a Nicolás que ella puede estar sin él; el actor acepta ser utilizado, porque sabe que eso lo ayudará a estar cerca de ella. A Leopoldo le hace gracia que Fernanda esté pensando que la está engañando con otra mujer cuando lo único de lo que se ocupa es de su venganza contra Hilario. Ya en la fiesta, Nicolás comparte con Liliana cuando ve que Victoria llega del brazo de Jack Builder; la joven Guanipa no duda en acercarse a Del Casal para asegurarle que él ya...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110210316 +0100" stop="20261110215433 +0100">
-    <title>S01 : E13 Te Tengo en Salsa - S01:E13- Fall in the Warehouse - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261110210317 +0100" stop="20261110215433 +0100">
+    <title>S01 : E13 Te Tengo en Salsa - S01:E13 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Armándose de valor, Carlos Raúl abre la puerta del almacén a su hermano pero se preocupa al hallarlo sin sentido en el suelo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110215434 +0100" stop="20261110224559 +0100">
-    <title>S01 : E14 Te Tengo en Salsa - S01:E14- An Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261110215434 +0100" stop="20261110224600 +0100">
+    <title>S01 : E14 Te Tengo en Salsa - S01:E14 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Tras pasar un agradable rato juntos, Joel se despide de Beatrice justo en el instante que Ignacio los interrumpe y, reconoce al mesero que lo vio besándose con Francesca.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110224600 +0100" stop="20261110232241 +0100">
-    <title>Abigail - S04:E020  - Episode 20</title>
+  <programme channel="wedotv-amor" start="20261110224601 +0100" stop="20261110232242 +0100">
+    <title>Abigail - S04:E020 - Episode 20</title>
     <desc>Siendo una chica caprichosa y egocéntrica, Abigail intenta conquistar a su profesor Carlos Alfredo. Leonel y sus amigos convencen a Abigail para que se escape del internado con sus amigas y se vaya a bailar, sólo para ser descubierta por su padre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110232242 +0100" stop="20261110233745 +0100">
+  <programme channel="wedotv-amor" start="20261110232243 +0100" stop="20261110233746 +0100">
     <title>Abigail - S04:E021 - Episode 21</title>
     <desc>Carlos Alfredo le reclama a Abigail que Cheito es su amante y ella le dice que sí de la rabia. Rosalba le confiesa a Guillermo que el padre de Mariana es Álvaro. Begoña atormenta a Mariana diciéndole que morirá con mucho sufrimiento.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261110233746 +0100" stop="20261111002931 +0100">
+  <programme channel="wedotv-amor" start="20261110233747 +0100" stop="20261111002932 +0100">
     <title>Abigail - S04:E021 - Episode 21</title>
     <desc>Carlos Alfredo le reclama a Abigail que Cheito es su amante y ella le dice que sí de la rabia. Rosalba le confiesa a Guillermo que el padre de Mariana es Álvaro. Begoña atormenta a Mariana diciéndole que morirá con mucho sufrimiento.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111002932 +0100" stop="20261111012304 +0100">
-    <title>S01 : E31 Corazón Traicionado - S01:E31- Defending Feelings - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261111002933 +0100" stop="20261111012304 +0100">
+    <title>S01 : E31 Corazón Traicionado - S01:E31 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Ricardo defiende sus sentimientos hacia María Bonita para tener una relación seria con ella . Norma ve que Gertrudis y Claudio son responsables de la muerte de Marco Aurelio. Isabel defiende a Malena. Pedro llama a otro de sus sicarios para que liquide a Lorena.Pedro le informa a Guillermo que su mujer está viviendo en casa de los Corona.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261111012305 +0100" stop="20261111021636 +0100">
-    <title>S01 : E31 Corazón Traicionado - S01:E31- Defending Feelings - Corazon Traicionado</title>
+    <title>S01 : E31 Corazón Traicionado - S01:E31 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Ricardo defiende sus sentimientos hacia María Bonita para tener una relación seria con ella . Norma ve que Gertrudis y Claudio son responsables de la muerte de Marco Aurelio. Isabel defiende a Malena. Pedro llama a otro de sus sicarios para que liquide a Lorena.Pedro le informa a Guillermo que su mujer está viviendo en casa de los Corona.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111021637 +0100" stop="20261111031021 +0100">
+  <programme channel="wedotv-amor" start="20261111021637 +0100" stop="20261111031022 +0100">
     <title>S01 : E85 El Desprecio - S01:E85 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora anuncia que la carta se trata de una confesión donde el padre Potentá asegura que Clara Inés no es una Santa María.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111031022 +0100" stop="20261111040414 +0100">
+  <programme channel="wedotv-amor" start="20261111031023 +0100" stop="20261111040414 +0100">
     <title>S01 : E86 El Desprecio - S01:E86 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Raúl insiste que Clara Inés colabore a solucionar el problema del contrabando ilegal, ya que Israel puede ir preso por el asunto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111040415 +0100" stop="20261111045736 +0100">
-    <title>S01 : E34 La Trepadora - S01:E034- Adelaida clarifies to Hansen - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261111040415 +0100" stop="20261111045737 +0100">
+    <title>S01 : E34 La Trepadora - S01:E034 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida aclara a Hansen que regresó con Hilario porque así lo decidió; el hombre sospecha que ella sabe lo qué fue a decirle, sobre todo cuando ella asegura que no verlo hubiera sido un alivio para ella. Victoria termina aceptando el reto de Jack y se lanza en parapente con él. Felipe acuerda con Clementina ir a una fiesta; la muchacha sugiere a Victoria que también vaya, pero acompañada de Jack Builder para que Nicolás se muera de los celos. Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111045737 +0100" stop="20261111054844 +0100">
+  <programme channel="wedotv-amor" start="20261111045738 +0100" stop="20261111054844 +0100">
     <title>S01 : E35 La Trepadora - S01:E035 - Episodio 35 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Nicolas senses that something is troubling Eugenia but, since she refuses to tell him the reason for her sorrow, he simply advises her to fight for her love without being afraid. Victoria asks Jack to help her prove to Nicolas that she can be without him; the actor agrees to be used, because he knows it will help him stay close to her. Leopoldo is amused that Fernanda is thinking that he is cheating on her with another woman when all he is concerned about is his revenge against Hilario. At the party, Nicolas shares with Liliana when he sees Victoria arriving on the arm of Jack Builder; the young Guanipa does not hesitate to approach Del Casal to assure him that he has disappeared from her...</desc>
+    <desc>Nicolás percibe que hay algo que perturba a Eugenia pero, en vista de que ella se niega a confiarle el motivo de su pena, se limita a aconsejarle que luche por su amor sin tener miedo. Victoria pide a Jack la ayude a demostrarle a Nicolás que ella puede estar sin él; el actor acepta ser utilizado, porque sabe que eso lo ayudará a estar cerca de ella. A Leopoldo le hace gracia que Fernanda esté pensando que la está engañando con otra mujer cuando lo único de lo que se ocupa es de su venganza contra Hilario. Ya en la fiesta, Nicolás comparte con Liliana cuando ve que Victoria llega del brazo de Jack Builder; la joven Guanipa no duda en acercarse a Del Casal para asegurarle que él ya...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261111054845 +0100" stop="20261111070007 +0100">
-    <title>S01 : E13 Te Tengo en Salsa - S01:E13- Fall in the Warehouse - Te Tengo en Salsa</title>
+    <title>S01 : E13 Te Tengo en Salsa - S01:E13 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Armándose de valor, Carlos Raúl abre la puerta del almacén a su hermano pero se preocupa al hallarlo sin sentido en el suelo.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261111070008 +0100" stop="20261111075207 +0100">
-    <title>S01 : E32 Corazón Traicionado - S01:E32- The Pact of Friendship - Corazon Traicionado</title>
+    <title>S01 : E32 Corazón Traicionado - S01:E32 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Isabel y Malena sellan su pacto de amistad incondicional. Alberto obtiene copia del expediente del narcotraficante acusado de la muerte de Marco Aurelio. Magda le cuenta a Lorena lo sucedido y sugiere abrir una cuenta de correo electrónico, donde quede resguardado el video con su confesión. Alberto asoma la posibilidad de que su tío Claudio esté involucrado en la muerte de su padre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111075208 +0100" stop="20261111084506 +0100">
-    <title>S01 : E33 Corazón Traicionado - S01:E33- Malena's Return - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261111075208 +0100" stop="20261111084507 +0100">
+    <title>S01 : E33 Corazón Traicionado - S01:E33 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Malena sabe que deberá regresar a su casa para no perder a su hijo. Pedro le encarga a Cheo que liquide a Lorena; sin hacerle daño a Alberto. Ricardo no tiene todavía claro cuál de las Marias es la estafadora. Lorena despide a Alberto con un beso y muy cerca está Cheo, esperando el momento preciso para disiparar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111084507 +0100" stop="20261111093859 +0100">
+  <programme channel="wedotv-amor" start="20261111084508 +0100" stop="20261111093859 +0100">
     <title>S01 : E86 El Desprecio - S01:E86 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Raúl insiste que Clara Inés colabore a solucionar el problema del contrabando ilegal, ya que Israel puede ir preso por el asunto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111093900 +0100" stop="20261111103431 +0100">
+  <programme channel="wedotv-amor" start="20261111093900 +0100" stop="20261111103432 +0100">
     <title>S01 : E87 El Desprecio - S01:E87 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>En su casa, Pastora anuncia a Elisenda que encargó a Giorgio y Fernando que secuestren a Clara Inés y acaben con su vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111103432 +0100" stop="20261111112542 +0100">
-    <title>S01 : E37 La Trepadora - S01:E037 - Eugenia apologizes to Yosmir - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261111103433 +0100" stop="20261111112542 +0100">
+    <title>S01 : E37 La Trepadora - S01:E037 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia sobre el ”negro Quijada”, pero la muchacha le asegura que su intención es sólo pedirle disculpas al familia del hombre como Rosendo le encomendó. Hilario está tratando de convencer a Adelaida de que está feliz por su regreso a Cantarrana cuando recibe una llamada de Florencia pidiéndole que vuelvan a verse. Clementina coquetea con Jonás para molestar a Antonieta y Felipe le reclama; el joven Osuna se desconcierta cuando la muchacha sugiere que...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261111112543 +0100" stop="20261111121632 +0100">
-    <title>S01 : E38 La Trepadora - S01:E038- A Day in the Life of the Characters - La Trepadora</title>
+    <title>S01 : E38 La Trepadora - S01:E038 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás quiere que Sigfrido lo ayude a ponerle una flor en la habitación todos los días a Victoria; el joven Del Casal acusa sorpresa cuando el niño le comenta que acaba de ver a Jack dándole un beso a Victoria. Victoria le comenta a Hilario sobre los papeles y las fotos que Nicolás encontró en Los Samanes y que ella destruyó al quemar la casa; la muchacha asegura a su padre ya se convenció de que nunca más puede creer en Nicolás. Hansen indaga con Felipe quién es Jack Builder, pues le llama la atención que el hombre estuvo haciéndole varias preguntas sobre Hilario a alguien con quien Guanipa está por cerrar un negocio. Adelaida se llena de indignación cuando Genara le cuenta que Hilario...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111121633 +0100" stop="20261111130758 +0100">
-    <title>S01 : E14 Te Tengo en Salsa - S01:E14- An Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261111121633 +0100" stop="20261111130759 +0100">
+    <title>S01 : E14 Te Tengo en Salsa - S01:E14 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Tras pasar un agradable rato juntos, Joel se despide de Beatrice justo en el instante que Ignacio los interrumpe y, reconoce al mesero que lo vio besándose con Francesca.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111130759 +0100" stop="20261111135938 +0100">
-    <title>S01 : E15 Te Tengo en Salsa - S01:E15- Joel's Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261111130800 +0100" stop="20261111135939 +0100">
+    <title>S01 : E15 Te Tengo en Salsa - S01:E15 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Joel toma su desayuno justo en el momento que Beatrice lo sorprende en la fonda Palacios</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111135939 +0100" stop="20261111145124 +0100">
+  <programme channel="wedotv-amor" start="20261111135940 +0100" stop="20261111145125 +0100">
     <title>Abigail - S04:E021 - Episode 21</title>
     <desc>Carlos Alfredo le reclama a Abigail que Cheito es su amante y ella le dice que sí de la rabia. Rosalba le confiesa a Guillermo que el padre de Mariana es Álvaro. Begoña atormenta a Mariana diciéndole que morirá con mucho sufrimiento.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111145125 +0100" stop="20261111154349 +0100">
+  <programme channel="wedotv-amor" start="20261111145126 +0100" stop="20261111154349 +0100">
     <title>Abigail - S01:E022 - Episode 22</title>
     <desc>Abigail sigue desaparecida y sus amigos del colegio salen a buscarla. La chaqueta de Abigail es encontrada y sus amigos creen que está muerta. Estrella visita a Guillermo en su casa y Leónidas le reclama por su visita.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111154350 +0100" stop="20261111163549 +0100">
-    <title>S01 : E32 Corazón Traicionado - S01:E32- The Pact of Friendship - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261111154350 +0100" stop="20261111163550 +0100">
+    <title>S01 : E32 Corazón Traicionado - S01:E32 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Isabel y Malena sellan su pacto de amistad incondicional. Alberto obtiene copia del expediente del narcotraficante acusado de la muerte de Marco Aurelio. Magda le cuenta a Lorena lo sucedido y sugiere abrir una cuenta de correo electrónico, donde quede resguardado el video con su confesión. Alberto asoma la posibilidad de que su tío Claudio esté involucrado en la muerte de su padre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111163550 +0100" stop="20261111172749 +0100">
-    <title>S01 : E32 Corazón Traicionado - S01:E32- The Pact of Friendship - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261111163551 +0100" stop="20261111172750 +0100">
+    <title>S01 : E32 Corazón Traicionado - S01:E32 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Isabel y Malena sellan su pacto de amistad incondicional. Alberto obtiene copia del expediente del narcotraficante acusado de la muerte de Marco Aurelio. Magda le cuenta a Lorena lo sucedido y sugiere abrir una cuenta de correo electrónico, donde quede resguardado el video con su confesión. Alberto asoma la posibilidad de que su tío Claudio esté involucrado en la muerte de su padre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111172750 +0100" stop="20261111182142 +0100">
+  <programme channel="wedotv-amor" start="20261111172751 +0100" stop="20261111182142 +0100">
     <title>S01 : E86 El Desprecio - S01:E86 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Raúl insiste que Clara Inés colabore a solucionar el problema del contrabando ilegal, ya que Israel puede ir preso por el asunto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111182143 +0100" stop="20261111191714 +0100">
+  <programme channel="wedotv-amor" start="20261111182143 +0100" stop="20261111191715 +0100">
     <title>S01 : E87 El Desprecio - S01:E87 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>En su casa, Pastora anuncia a Elisenda que encargó a Giorgio y Fernando que secuestren a Clara Inés y acaben con su vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111191715 +0100" stop="20261111201039 +0100">
-    <title>S01 : E37 La Trepadora - S01:E037 - Eugenia apologizes to Yosmir - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261111191716 +0100" stop="20261111201039 +0100">
+    <title>S01 : E37 La Trepadora - S01:E037 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia sobre el ”negro Quijada”, pero la muchacha le asegura que su intención es sólo pedirle disculpas al familia del hombre como Rosendo le encomendó. Hilario está tratando de convencer a Adelaida de que está feliz por su regreso a Cantarrana cuando recibe una llamada de Florencia pidiéndole que vuelvan a verse. Clementina coquetea con Jonás para molestar a Antonieta y Felipe le reclama; el joven Osuna se desconcierta cuando la muchacha sugiere que...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111201040 +0100" stop="20261111210343 +0100">
-    <title>S01 : E38 La Trepadora - S01:E038- A Day in the Life of the Characters - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261111201040 +0100" stop="20261111210344 +0100">
+    <title>S01 : E38 La Trepadora - S01:E038 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás quiere que Sigfrido lo ayude a ponerle una flor en la habitación todos los días a Victoria; el joven Del Casal acusa sorpresa cuando el niño le comenta que acaba de ver a Jack dándole un beso a Victoria. Victoria le comenta a Hilario sobre los papeles y las fotos que Nicolás encontró en Los Samanes y que ella destruyó al quemar la casa; la muchacha asegura a su padre ya se convenció de que nunca más puede creer en Nicolás. Hansen indaga con Felipe quién es Jack Builder, pues le llama la atención que el hombre estuvo haciéndole varias preguntas sobre Hilario a alguien con quien Guanipa está por cerrar un negocio. Adelaida se llena de indignación cuando Genara le cuenta que Hilario...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111210344 +0100" stop="20261111215509 +0100">
-    <title>S01 : E14 Te Tengo en Salsa - S01:E14- An Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261111210345 +0100" stop="20261111215510 +0100">
+    <title>S01 : E14 Te Tengo en Salsa - S01:E14 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Tras pasar un agradable rato juntos, Joel se despide de Beatrice justo en el instante que Ignacio los interrumpe y, reconoce al mesero que lo vio besándose con Francesca.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111215510 +0100" stop="20261111224650 +0100">
-    <title>S01 : E15 Te Tengo en Salsa - S01:E15- Joel's Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261111215511 +0100" stop="20261111224650 +0100">
+    <title>S01 : E15 Te Tengo en Salsa - S01:E15 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Joel toma su desayuno justo en el momento que Beatrice lo sorprende en la fonda Palacios</desc>
   </programme>
@@ -45810,135 +45825,135 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Abigail - S04:E021 - Episode 21</title>
     <desc>Carlos Alfredo le reclama a Abigail que Cheito es su amante y ella le dice que sí de la rabia. Rosalba le confiesa a Guillermo que el padre de Mariana es Álvaro. Begoña atormenta a Mariana diciéndole que morirá con mucho sufrimiento.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261111233837 +0100" stop="20261112003100 +0100">
-    <title>Abigail - S01:E022 - Abigail Hilang</title>
+  <programme channel="wedotv-amor" start="20261111233837 +0100" stop="20261112003101 +0100">
+    <title>Abigail - S01:E022 - Episode 22</title>
     <desc>Abigail sigue desaparecida y sus amigos del colegio salen a buscarla. La chaqueta de Abigail es encontrada y sus amigos creen que está muerta. Estrella visita a Guillermo en su casa y Leónidas le reclama por su visita.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112003101 +0100" stop="20261112012301 +0100">
-    <title>S01 : E32 Corazón Traicionado - S01:E32- The Pact of Friendship - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261112003102 +0100" stop="20261112012301 +0100">
+    <title>S01 : E32 Corazón Traicionado - S01:E32 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Isabel y Malena sellan su pacto de amistad incondicional. Alberto obtiene copia del expediente del narcotraficante acusado de la muerte de Marco Aurelio. Magda le cuenta a Lorena lo sucedido y sugiere abrir una cuenta de correo electrónico, donde quede resguardado el video con su confesión. Alberto asoma la posibilidad de que su tío Claudio esté involucrado en la muerte de su padre.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261112012302 +0100" stop="20261112021501 +0100">
-    <title>S01 : E32 Corazón Traicionado - S01:E32- The Pact of Friendship - Corazon Traicionado</title>
+    <title>S01 : E32 Corazón Traicionado - S01:E32 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Isabel y Malena sellan su pacto de amistad incondicional. Alberto obtiene copia del expediente del narcotraficante acusado de la muerte de Marco Aurelio. Magda le cuenta a Lorena lo sucedido y sugiere abrir una cuenta de correo electrónico, donde quede resguardado el video con su confesión. Alberto asoma la posibilidad de que su tío Claudio esté involucrado en la muerte de su padre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112021502 +0100" stop="20261112030853 +0100">
+  <programme channel="wedotv-amor" start="20261112021502 +0100" stop="20261112030854 +0100">
     <title>S01 : E86 El Desprecio - S01:E86 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Raúl insiste que Clara Inés colabore a solucionar el problema del contrabando ilegal, ya que Israel puede ir preso por el asunto.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112030854 +0100" stop="20261112040426 +0100">
+  <programme channel="wedotv-amor" start="20261112030855 +0100" stop="20261112040426 +0100">
     <title>S01 : E87 El Desprecio - S01:E87 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>En su casa, Pastora anuncia a Elisenda que encargó a Giorgio y Fernando que secuestren a Clara Inés y acaben con su vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112040427 +0100" stop="20261112045750 +0100">
-    <title>S01 : E37 La Trepadora - S01:E037 - Eugenia apologizes to Yosmir - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261112040427 +0100" stop="20261112045751 +0100">
+    <title>S01 : E37 La Trepadora - S01:E037 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Eugenia se disculpa con Yosmir por la forma en que lo trató frente a sus amigas y le explica sus motivos; el jovencito considera que si para ella es tan complicado estar con él debería pensarlo mejor. Hilario no quiere darle información a Florencia sobre el ”negro Quijada”, pero la muchacha le asegura que su intención es sólo pedirle disculpas al familia del hombre como Rosendo le encomendó. Hilario está tratando de convencer a Adelaida de que está feliz por su regreso a Cantarrana cuando recibe una llamada de Florencia pidiéndole que vuelvan a verse. Clementina coquetea con Jonás para molestar a Antonieta y Felipe le reclama; el joven Osuna se desconcierta cuando la muchacha sugiere que...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112045751 +0100" stop="20261112054840 +0100">
-    <title>S01 : E38 La Trepadora - S01:E038- A Day in the Life of the Characters - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261112045752 +0100" stop="20261112054841 +0100">
+    <title>S01 : E38 La Trepadora - S01:E038 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás quiere que Sigfrido lo ayude a ponerle una flor en la habitación todos los días a Victoria; el joven Del Casal acusa sorpresa cuando el niño le comenta que acaba de ver a Jack dándole un beso a Victoria. Victoria le comenta a Hilario sobre los papeles y las fotos que Nicolás encontró en Los Samanes y que ella destruyó al quemar la casa; la muchacha asegura a su padre ya se convenció de que nunca más puede creer en Nicolás. Hansen indaga con Felipe quién es Jack Builder, pues le llama la atención que el hombre estuvo haciéndole varias preguntas sobre Hilario a alguien con quien Guanipa está por cerrar un negocio. Adelaida se llena de indignación cuando Genara le cuenta que Hilario...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112054841 +0100" stop="20261112070007 +0100">
-    <title>S01 : E14 Te Tengo en Salsa - S01:E14- An Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261112054842 +0100" stop="20261112070007 +0100">
+    <title>S01 : E14 Te Tengo en Salsa - S01:E14 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Tras pasar un agradable rato juntos, Joel se despide de Beatrice justo en el instante que Ignacio los interrumpe y, reconoce al mesero que lo vio besándose con Francesca.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261112070008 +0100" stop="20261112075306 +0100">
-    <title>S01 : E33 Corazón Traicionado - S01:E33- Malena's Return - Corazon Traicionado</title>
+    <title>S01 : E33 Corazón Traicionado - S01:E33 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Malena sabe que deberá regresar a su casa para no perder a su hijo. Pedro le encarga a Cheo que liquide a Lorena; sin hacerle daño a Alberto. Ricardo no tiene todavía claro cuál de las Marias es la estafadora. Lorena despide a Alberto con un beso y muy cerca está Cheo, esperando el momento preciso para disiparar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112075307 +0100" stop="20261112084625 +0100">
-    <title>S01 : E34 Corazón Traicionado - S01:E34- The Conflict - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261112075307 +0100" stop="20261112084626 +0100">
+    <title>S01 : E34 Corazón Traicionado - S01:E34 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo le da alcance a Cheo y lo mata; queda apuntando a Alberto y Lorena – En la casa se escuchan los disparos. Gertrudis recuerda que Alberto estaba con ella y se siente morir de que le haya pasado algo a su hijo María Bonita piensa que Ricardo es homosexual. Malena provoca la ira de Pablo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112084626 +0100" stop="20261112094158 +0100">
+  <programme channel="wedotv-amor" start="20261112084627 +0100" stop="20261112094158 +0100">
     <title>S01 : E87 El Desprecio - S01:E87 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>En su casa, Pastora anuncia a Elisenda que encargó a Giorgio y Fernando que secuestren a Clara Inés y acaben con su vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112094159 +0100" stop="20261112103625 +0100">
+  <programme channel="wedotv-amor" start="20261112094159 +0100" stop="20261112103626 +0100">
     <title>S01 : E88 El Desprecio - S01:E88 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara Inés recuerda a Raúl que nunca podrán estar juntos porque la sombra de Pastora se cierne sobre ellos; Raúl jura que defenderá a su madre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112103626 +0100" stop="20261112112715 +0100">
-    <title>S01 : E38 La Trepadora - S01:E038- A Day in the Life of the Characters - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261112103627 +0100" stop="20261112112716 +0100">
+    <title>S01 : E38 La Trepadora - S01:E038 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás quiere que Sigfrido lo ayude a ponerle una flor en la habitación todos los días a Victoria; el joven Del Casal acusa sorpresa cuando el niño le comenta que acaba de ver a Jack dándole un beso a Victoria. Victoria le comenta a Hilario sobre los papeles y las fotos que Nicolás encontró en Los Samanes y que ella destruyó al quemar la casa; la muchacha asegura a su padre ya se convenció de que nunca más puede creer en Nicolás. Hansen indaga con Felipe quién es Jack Builder, pues le llama la atención que el hombre estuvo haciéndole varias preguntas sobre Hilario a alguien con quien Guanipa está por cerrar un negocio. Adelaida se llena de indignación cuando Genara le cuenta que Hilario...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112112716 +0100" stop="20261112121805 +0100">
-    <title>S01 : E39 La Trepadora - S01:E039- Florencia and Her Trust Issues - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261112112717 +0100" stop="20261112121805 +0100">
+    <title>S01 : E39 La Trepadora - S01:E039 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Florencia asegura a Hilario que ella no lo está engañando como él cree. Victoria le confiesa a Clementina que le cuesta mucho olvidarse de Nicolás a pesar de saber que tiene motivos de sobra para hacerlo.Yajaira comenta con Yosmir que Fernanda estuvo averiguando con Isaura dónde trabaja para disculparse con ella; el jovencito está seguro de que las intenciones de la señora Alcoy no son tan nobles como su mamá está creyendo. Builder insiste en que Victoria debe regresar a Cantarrana a darse cuenta de todo ahí le pertenece; el hombre se dispone a besar a la muchacha mientras Nicolás los observa desde lejos.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112121806 +0100" stop="20261112130945 +0100">
-    <title>S01 : E15 Te Tengo en Salsa - S01:E15- Joel's Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261112121806 +0100" stop="20261112130946 +0100">
+    <title>S01 : E15 Te Tengo en Salsa - S01:E15 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Joel toma su desayuno justo en el momento que Beatrice lo sorprende en la fonda Palacios</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112130946 +0100" stop="20261112140109 +0100">
-    <title>S01 : E16 Te Tengo en Salsa - S01:E16- Romantic Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261112130947 +0100" stop="20261112140110 +0100">
+    <title>S01 : E16 Te Tengo en Salsa - S01:E16 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana y Carlos Raúl comparten una copa en el momento que Ninoska, eufórica, aborda al médico a fin de agradecerle el romántico detalle que tuvo con ella.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112140110 +0100" stop="20261112145230 +0100">
+  <programme channel="wedotv-amor" start="20261112140111 +0100" stop="20261112145230 +0100">
     <title>Abigail - S04:E022 - Episode 22</title>
     <desc>Abigail no puede concebir que Mariana no quiera seguir viviendo, Carlos Alfredo la culpa de esta crisis. Agustín le asegura a Álvaro que Abigail y Carlos Alfredo siempre se amarán. Mariana le pide a Abigail que rehaga su vida con Álvaro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112145231 +0100" stop="20261112154355 +0100">
+  <programme channel="wedotv-amor" start="20261112145231 +0100" stop="20261112154356 +0100">
     <title>Abigail - S04:E023 - Episode 23</title>
     <desc>Begoña visita a Álvaro para decirle que se va a casar con Carlos Alfredo. Abigail se enfrenta a Rosalba y le impide que se lleve a Mariana del Hospital. Maruca, a petición de Carlota, hace una brujería a Mariana, que entra en pánico y sufre una crisis.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112154356 +0100" stop="20261112163654 +0100">
-    <title>S01 : E33 Corazón Traicionado - S01:E33- Malena's Return - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261112154357 +0100" stop="20261112163655 +0100">
+    <title>S01 : E33 Corazón Traicionado - S01:E33 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Malena sabe que deberá regresar a su casa para no perder a su hijo. Pedro le encarga a Cheo que liquide a Lorena; sin hacerle daño a Alberto. Ricardo no tiene todavía claro cuál de las Marias es la estafadora. Lorena despide a Alberto con un beso y muy cerca está Cheo, esperando el momento preciso para disiparar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112163655 +0100" stop="20261112172954 +0100">
-    <title>S01 : E33 Corazón Traicionado - S01:E33- Malena's Return - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261112163656 +0100" stop="20261112172954 +0100">
+    <title>S01 : E33 Corazón Traicionado - S01:E33 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Malena sabe que deberá regresar a su casa para no perder a su hijo. Pedro le encarga a Cheo que liquide a Lorena; sin hacerle daño a Alberto. Ricardo no tiene todavía claro cuál de las Marias es la estafadora. Lorena despide a Alberto con un beso y muy cerca está Cheo, esperando el momento preciso para disiparar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112172955 +0100" stop="20261112182526 +0100">
+  <programme channel="wedotv-amor" start="20261112172955 +0100" stop="20261112182527 +0100">
     <title>S01 : E87 El Desprecio - S01:E87 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>En su casa, Pastora anuncia a Elisenda que encargó a Giorgio y Fernando que secuestren a Clara Inés y acaben con su vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112182527 +0100" stop="20261112191954 +0100">
+  <programme channel="wedotv-amor" start="20261112182528 +0100" stop="20261112191954 +0100">
     <title>S01 : E88 El Desprecio - S01:E88 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara Inés recuerda a Raúl que nunca podrán estar juntos porque la sombra de Pastora se cierne sobre ellos; Raúl jura que defenderá a su madre.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261112191955 +0100" stop="20261112201258 +0100">
-    <title>S01 : E38 La Trepadora - S01:E038- A Day in the Life of the Characters - La Trepadora</title>
+    <title>S01 : E38 La Trepadora - S01:E038 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás quiere que Sigfrido lo ayude a ponerle una flor en la habitación todos los días a Victoria; el joven Del Casal acusa sorpresa cuando el niño le comenta que acaba de ver a Jack dándole un beso a Victoria. Victoria le comenta a Hilario sobre los papeles y las fotos que Nicolás encontró en Los Samanes y que ella destruyó al quemar la casa; la muchacha asegura a su padre ya se convenció de que nunca más puede creer en Nicolás. Hansen indaga con Felipe quién es Jack Builder, pues le llama la atención que el hombre estuvo haciéndole varias preguntas sobre Hilario a alguien con quien Guanipa está por cerrar un negocio. Adelaida se llena de indignación cuando Genara le cuenta que Hilario...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112201259 +0100" stop="20261112210601 +0100">
-    <title>S01 : E39 La Trepadora - S01:E039- Florencia and Her Trust Issues - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261112201259 +0100" stop="20261112210602 +0100">
+    <title>S01 : E39 La Trepadora - S01:E039 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Florencia asegura a Hilario que ella no lo está engañando como él cree. Victoria le confiesa a Clementina que le cuesta mucho olvidarse de Nicolás a pesar de saber que tiene motivos de sobra para hacerlo.Yajaira comenta con Yosmir que Fernanda estuvo averiguando con Isaura dónde trabaja para disculparse con ella; el jovencito está seguro de que las intenciones de la señora Alcoy no son tan nobles como su mamá está creyendo. Builder insiste en que Victoria debe regresar a Cantarrana a darse cuenta de todo ahí le pertenece; el hombre se dispone a besar a la muchacha mientras Nicolás los observa desde lejos.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112210602 +0100" stop="20261112215742 +0100">
-    <title>S01 : E15 Te Tengo en Salsa - S01:E15- Joel's Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261112210603 +0100" stop="20261112215742 +0100">
+    <title>S01 : E15 Te Tengo en Salsa - S01:E15 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Joel toma su desayuno justo en el momento que Beatrice lo sorprende en la fonda Palacios</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112215743 +0100" stop="20261112224906 +0100">
-    <title>S01 : E16 Te Tengo en Salsa - S01:E16- Romantic Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261112215743 +0100" stop="20261112224907 +0100">
+    <title>S01 : E16 Te Tengo en Salsa - S01:E16 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana y Carlos Raúl comparten una copa en el momento que Ninoska, eufórica, aborda al médico a fin de agradecerle el romántico detalle que tuvo con ella.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261112224907 +0100" stop="20261112234027 +0100">
-    <title>Abigail - S04:E022 - أزمة حب</title>
+  <programme channel="wedotv-amor" start="20261112224908 +0100" stop="20261112234027 +0100">
+    <title>Abigail - S04:E022 - Episode 22</title>
     <desc>Abigail no puede concebir que Mariana no quiera seguir viviendo, Carlos Alfredo la culpa de esta crisis. Agustín le asegura a Álvaro que Abigail y Carlos Alfredo siempre se amarán. Mariana le pide a Abigail que rehaga su vida con Álvaro.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261112234028 +0100" stop="20261113003152 +0100">
