@@ -38311,55 +38311,7 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <title>The goat is with us</title>
     <desc>In Florida, the boys knock at Kelly Slater's door, play some golf and watch Donnie get a Drive Thru tattoo.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261110010001 +0100" stop="20261110013000 +0100">
-    <title>Russia</title>
-    <desc>Shayne McIntyre &amp; friends go undercover in Russia dodging bears, tanks, and bullets in search of new waves.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110013001 +0100" stop="20261110020000 +0100">
-    <title>Liberia</title>
-    <desc>Shannon &amp; Shayne set off for the remote West African coastline of Liberia to surf and lend a helping hand.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110020001 +0100" stop="20261110033000 +0100">
-    <title>Episode 25</title>
-    <desc>Chris Cote and Todd Richards unpack the latest stories from the action sports world.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110033001 +0100" stop="20261110040000 +0100">
-    <title>Shred Ranch RIP</title>
-    <desc>As Jeff King's beloved Shred Ranch is demolished Tony Hawk, Bob Burnquist, Bucky Lasek and co. join the chaos.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110040001 +0100" stop="20261110043000 +0100">
-    <title>Halldor Helgason &amp; Superpark</title>
-    <desc>Introducing Iceland's Halldór Helgason, and a look at a full season of Super Park sessions.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110043001 +0100" stop="20261110050000 +0100">
-    <title>Montreal</title>
-    <desc>Urban assault session with Montreal locals, Sylvain Beauch and rookie Jason Dubois, along with the DC crew.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110050001 +0100" stop="20261110053000 +0100">
-    <title>Italy to Switzerland</title>
-    <desc>The team finds the biggest jumps of the trip on a glacier in Italy. Dingo milks a goat in Switzerland.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110053001 +0100" stop="20261110060000 +0100">
-    <title>Lazy Americans</title>
-    <desc>On the trip's last day Dingo, Tom and Dustin are targets for paintball-wakeboarding.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110060001 +0100" stop="20261110063000 +0100">
-    <title>Fill the Void</title>
-    <desc>Mike Alessi, Andrew Short, Broc Tickle and Jake Weimer, rely on their mentors to get them on the box.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110063001 +0100" stop="20261110070000 +0100">
-    <title>The 250 Class Championship</title>
-    <desc>Blake Baggett, Eli Tomac, Justin Barcia, Marvin Musquin and others go to war at the 250cc motocross series.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110070001 +0100" stop="20261110073000 +0100">
-    <title>Storming KONA</title>
-    <desc>Jeff King and crew visit Florida's KONA skatepark, where they convert a skate shop into a skate spot.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110073001 +0100" stop="20261110074500 +0100">
-    <title>Loudenvielle</title>
-    <desc>The team returns to Loudenvielle after Gracey's World Champs result, ready to take on another UCI track.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261110074501 +0100" stop="20261110090000 +0100">
+  <programme channel="fuel-tv-new" start="20261110010001 +0100" stop="20261110090000 +0100">
     <title>Pipeline</title>
     <desc>Pipeline: A Peter King Film captures rare moments and raw access to surfing's most iconic wave.</desc>
   </programme>
@@ -41024,54 +40976,67 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta del partido de la liga 2026-27 entre Atlético de Madrid y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111014851 +0100" stop="20261111021850 +0100">
-    <title>HIGHLIGHTS | Femení A - Atlético | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | Femení A - Atlético | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261111014851 +0100" stop="20261111020852 +0100">
+    <title>S202627 : E10 HIGHLIGHTS | FC Barcelona - Madrid CFF | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Barça y Madrid CFF</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111021851 +0100" stop="20261111034315 +0100">
+  <programme channel="top-barca-es" start="20261111020853 +0100" stop="20261111033317 +0100">
     <title>S202627 : E01 LA MASIA | FC Barcelona Sub 9 - Gimnàstic Manresa | 2026-27 - La Masia</title>
     <sub-title>La Masia</sub-title>
     <desc>Disfruta de los mejores partidos del futbol formativo blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111034316 +0100" stop="20261111041443 +0100">
+  <programme channel="top-barca-es" start="20261111033318 +0100" stop="20261111040445 +0100">
     <title>S202627 : E04 HIGHLIGHTS | FC Barcelona - Aston Villa | UEFA Champions League 2026-27 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta del resúmen del partido de la UCL 2026-27 entre Barça y Aston Villa</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111041444 +0100" stop="20261111060158 +0100">
+  <programme channel="top-barca-es" start="20261111040446 +0100" stop="20261111055200 +0100">
     <title>S202627 : E12 PARTIDO COMPLETO | Atlético de Madrid - FC Barcelona | La Liga 2026-27 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta del partido de la liga 2026-27 entre Atlético de Madrid y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111060159 +0100" stop="20261111063158 +0100">
-    <title>HIGHLIGHTS | Manresa - Barça Atlètic  2a RFEF 2026-27</title>
-    <desc>HIGHLIGHTS | Manresa - Barça Atlètic  2a RFEF 2026-27</desc>
+  <programme channel="top-barca-es" start="20261111055201 +0100" stop="20261111061202 +0100">
+    <title>S202627 : E10 HIGHLIGHTS | FC Barcelona - Madrid CFF | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Barça y Madrid CFF</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111063159 +0100" stop="20261111074810 +0100">
+  <programme channel="top-barca-es" start="20261111061203 +0100" stop="20261111070117 +0100">
     <title>S202627 : E03 TODOS LOS GOLES | Leo Messi Parte 3 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111074811 +0100" stop="20261111080814 +0100">
+  <programme channel="top-barca-es" start="20261111070118 +0100" stop="20261111072658 +0100">
+    <title>S202526 : E55 TODOS LOS GOLES | David Villa - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de David Villa con la camiseta blaugrana</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261111072659 +0100" stop="20261111074702 +0100">
     <title>S202627 : E02 TODOS LOS GOLES | FC Barcelona | Octubre 2027 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles del Barça en el mes de octubre</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111080815 +0100" stop="20261111100814 +0100">
-    <title>FULL MATCH | Atlético de Madrid - Barça | Liga 2026-27</title>
-    <desc>FULL MATCH | Atlético de Madrid - Barça | Liga 2026-27</desc>
+  <programme channel="top-barca-es" start="20261111074703 +0100" stop="20261111093418 +0100">
+    <title>S202627 : E12 PARTIDO COMPLETO | Atlético de Madrid - FC Barcelona | La Liga 2026-27 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del partido de la liga 2026-27 entre Atlético de Madrid y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111100815 +0100" stop="20261111111125 +0100">
+  <programme channel="top-barca-es" start="20261111093419 +0100" stop="20261111095420 +0100">
+    <title>S202627 : E10 HIGHLIGHTS | FC Barcelona - Madrid CFF | Liga F 2026-27 - Liga F</title>
+    <sub-title>Liga F</sub-title>
+    <desc>Disfruta del resumen del partido de la Liga F 2026-27 entre Barça y Madrid CFF</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261111095421 +0100" stop="20261111105730 +0100">
     <title>S202627 : E60 HIGHLIGHTS | Top 10 años 90 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta de los mejores goles de la década de los 90</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111111126 +0100" stop="20261111114252 +0100">
+  <programme channel="top-barca-es" start="20261111105731 +0100" stop="20261111112858 +0100">
     <title>S202627 : E04 HIGHLIGHTS | FC Barcelona - Aston Villa | UEFA Champions League 2026-27 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta del resúmen del partido de la UCL 2026-27 entre Barça y Aston Villa</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261111114253 +0100" stop="20261111134252 +0100">
+  <programme channel="top-barca-es" start="20261111112859 +0100" stop="20261111134252 +0100">
     <title>FULL MATCH | FC Barcelona Femení - Madrid CFF | Liga F 2026/2027</title>
     <desc>FULL MATCH | FC Barcelona Femení - Madrid CFF | Liga F 2026/2027</desc>
   </programme>
