@@ -259,7 +259,7 @@ https://live.tvup.edge2befaster.io/hustler/hustler.m3u8
 https://live.tvup.edge2befaster.io/private/private.m3u8
 
 #EXTINF:-1 tvg-id="DARK" tvg-name="DARK" tvg-logo="http://192.168.1.98:8080/logos/DARK.png" group-title="Cajón de Sastre",DARK
-https://live.tvup.edge2befaster.io/darksolo/darksolo.mpd
+https://live.tvup.edge2befaster.io/darksolo/darksolo.m3u8
 
 #EXTINF:-1 tvg-id="Newsmax_TV" tvg-name="Newsmax TV" tvg-logo="http://192.168.1.98:8080/logos/Newsmax%20TV.png" group-title="Cajón de Sastre",Newsmax TV
 https://newsmaxtv-tivify.ssai.tcscdn.net/master.m3u8
@@ -713,9 +713,6 @@ https://inwonderesp-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="INTROUBLE" tvg-name="INTROUBLE" tvg-logo="http://192.168.1.98:8080/logos/INTROUBLE.png" group-title="Deportes",INTROUBLE
 https://introubleesp-tivify.ssai.tcscdn.net/master.m3u8
-
-#EXTINF:-1 tvg-id="DFB_Play_TV" tvg-name="DFB Play TV" tvg-logo="http://192.168.1.98:8080/logos/DFB%20Play%20TV.png" group-title="Deportes",DFB Play TV
-https://dfbplaytv-tivify.ssai.tcscdn.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Qwest_TV" tvg-name="Qwest TV" tvg-logo="http://192.168.1.98:8080/logos/Qwest%20TV.png" group-title="Música",Qwest TV
 https://amg00447-amg00447c1-tivify-international-5977.playouts.now.amagi.tv/playlist/amg00447-qwesttvfast-qwesttv-tivifyinternational/playlist.m3u8
