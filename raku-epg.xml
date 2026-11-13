@@ -1288,403 +1288,7 @@
     <title>Tête à tête</title>
     <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
   </programme>
-  <programme channel="france-24-en" start="20261115010001 +0100" stop="20261115011500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115011501 +0100" stop="20261115012100 +0100">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115012101 +0100" stop="20261115013000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115013001 +0100" stop="20261115014500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115014501 +0100" stop="20261115020000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115020001 +0100" stop="20261115021000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115021001 +0100" stop="20261115022500 +0100">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115022501 +0100" stop="20261115023000 +0100">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115023001 +0100" stop="20261115024500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115024501 +0100" stop="20261115030000 +0100">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115030001 +0100" stop="20261115031500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115031501 +0100" stop="20261115033000 +0100">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115033001 +0100" stop="20261115034500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115034501 +0100" stop="20261115040000 +0100">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115040001 +0100" stop="20261115041500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115041501 +0100" stop="20261115043000 +0100">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115043001 +0100" stop="20261115044500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115044501 +0100" stop="20261115050000 +0100">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115050001 +0100" stop="20261115051500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115051501 +0100" stop="20261115053000 +0100">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the Asian continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115053001 +0100" stop="20261115054500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115054501 +0100" stop="20261115060000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115060001 +0100" stop="20261115061500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115061501 +0100" stop="20261115062100 +0100">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115062101 +0100" stop="20261115063000 +0100">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115063001 +0100" stop="20261115064500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115064501 +0100" stop="20261115065100 +0100">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115065101 +0100" stop="20261115070000 +0100">
-    <title>Fashion</title>
-    <desc>All the best of Parisian catwalks and behind the scenes at the big names in Haute Couture.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115070001 +0100" stop="20261115072000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115072001 +0100" stop="20261115073000 +0100">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115073001 +0100" stop="20261115080000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115080001 +0100" stop="20261115083000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115083001 +0100" stop="20261115090000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115090001 +0100" stop="20261115091500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115091501 +0100" stop="20261115093000 +0100">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115093001 +0100" stop="20261115100000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115100001 +0100" stop="20261115101500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115101501 +0100" stop="20261115102000 +0100">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115102001 +0100" stop="20261115103000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115103001 +0100" stop="20261115104500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115104501 +0100" stop="20261115110000 +0100">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115110001 +0100" stop="20261115111500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115111501 +0100" stop="20261115113000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115113001 +0100" stop="20261115114500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115114501 +0100" stop="20261115120000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115120001 +0100" stop="20261115121500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115121501 +0100" stop="20261115123000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115123001 +0100" stop="20261115124500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115124501 +0100" stop="20261115125000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115125001 +0100" stop="20261115130000 +0100">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115130001 +0100" stop="20261115131500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115131501 +0100" stop="20261115133000 +0100">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115133001 +0100" stop="20261115134500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115134501 +0100" stop="20261115140000 +0100">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115140001 +0100" stop="20261115141300 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115141301 +0100" stop="20261115143000 +0100">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115143001 +0100" stop="20261115144300 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115144301 +0100" stop="20261115145500 +0100">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115145501 +0100" stop="20261115150000 +0100">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115150001 +0100" stop="20261115151000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115151001 +0100" stop="20261115151500 +0100">
-    <title>Tech 24</title>
-    <desc>The latest trends in the world of high-tech and the impact of digital revolutions on everyday life.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115151501 +0100" stop="20261115153000 +0100">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115153001 +0100" stop="20261115154000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115154001 +0100" stop="20261115155200 +0100">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115155201 +0100" stop="20261115160000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115160001 +0100" stop="20261115161500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115161501 +0100" stop="20261115162100 +0100">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115162101 +0100" stop="20261115163000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115163001 +0100" stop="20261115164500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115164501 +0100" stop="20261115170000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115170001 +0100" stop="20261115171500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115171501 +0100" stop="20261115173000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115173001 +0100" stop="20261115174500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115174501 +0100" stop="20261115180000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115180001 +0100" stop="20261115181500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115181501 +0100" stop="20261115183000 +0100">
-    <title>Spotlight</title>
-    <desc>Guests from around the globe go beyond the headlines on the stories that matter.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115183001 +0100" stop="20261115184500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115184501 +0100" stop="20261115190000 +0100">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115190001 +0100" stop="20261115191500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115191501 +0100" stop="20261115193000 +0100">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115193001 +0100" stop="20261115194500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115194501 +0100" stop="20261115200000 +0100">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115200001 +0100" stop="20261115201600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115201601 +0100" stop="20261115203000 +0100">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115203001 +0100" stop="20261115204600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115204601 +0100" stop="20261115210000 +0100">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the Asian continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115210001 +0100" stop="20261115211500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115211501 +0100" stop="20261115212100 +0100">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115212101 +0100" stop="20261115213000 +0100">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115213001 +0100" stop="20261115214500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115214501 +0100" stop="20261115220000 +0100">
-    <title>The Reporter's Week</title>
-    <desc>From the 4 corners of the world, the week's news as seen by France 24 reporters</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115220001 +0100" stop="20261115221000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115221001 +0100" stop="20261115223000 +0100">
-    <title>Revisited</title>
-    <desc>France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115223001 +0100" stop="20261115224500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115224501 +0100" stop="20261115230000 +0100">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115230001 +0100" stop="20261115231600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115231601 +0100" stop="20261115233000 +0100">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115233001 +0100" stop="20261115234600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261115234601 +0100" stop="20261116000000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261116000001 +0100" stop="20261116001500 +0100">
+  <programme channel="france-24-en" start="20261115010001 +0100" stop="20261116001500 +0100">
     <title>News</title>
     <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
@@ -35592,110 +35196,135 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>SiriusXM Front Row with Kyle Larson</title>
     <desc>Join SiriusXM NASCAR Radio as they sit down with 2026 NASCAR Cup Series, and three time champ Kyle Larson.</desc>
   </programme>
-  <programme channel="nascar" start="20261114020001 +0100" stop="20261114034709 +0100">
+  <programme channel="nascar" start="20261114020001 +0100" stop="20261114034215 +0100">
     <title>2026 NASCAR Awards</title>
     <desc>Watch as NASCAR highlights it's champions and season accomplishments in Miami</desc>
   </programme>
-  <programme channel="nascar" start="20261114034710 +0100" stop="20261114070706 +0100">
+  <programme channel="nascar" start="20261114034216 +0100" stop="20261114040112 +0100">
+    <title>Kyle Larson - 2026 NASCAR Cup Series Champion</title>
+    <desc>Relive Kyle Larson’s thrilling journey to the 2026 NASCAR Cup Series Championship.</desc>
+  </programme>
+  <programme channel="nascar" start="20261114040113 +0100" stop="20261114072109 +0100">
     <title>S2026 : E28 NASCAR Cup Series Full Race Replay - 2026 Enjoy Illinois 300 at World Wide Technology Raceway</title>
     <sub-title>2026 Enjoy Illinois 300 at World Wide Technology Raceway</sub-title>
     <desc>Relive the 2026 Enjoy Illinois 300 at World Wide Technology Raceway in this NASCAR Cup race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261114070707 +0100" stop="20261114073535 +0100">
+  <programme channel="nascar" start="20261114072110 +0100" stop="20261114074937 +0100">
     <title>S2026 : E66 SPEED - Motorsports' Most Versatile Driver Has a New Full-Time Ride</title>
     <sub-title>Motorsports' Most Versatile Driver Has a New Full-Time Ride</sub-title>
     <desc>Will Buxton and Kevin Harvick sit down with Conor Daly to discuss his return to full-time NTT INDYCAR SERIES.</desc>
   </programme>
-  <programme channel="nascar" start="20261114073536 +0100" stop="20261114075225 +0100">
+  <programme channel="nascar" start="20261114074938 +0100" stop="20261114080627 +0100">
     <title>NASCAR Drivers vs World's Slowest Car</title>
     <desc>What happens when Connor Zilisch, Jesse Love and Riley Herbst get behind the wheel of the world's slowest car?</desc>
   </programme>
-  <programme channel="nascar" start="20261114075226 +0100" stop="20261114093041 +0100">
+  <programme channel="nascar" start="20261114080628 +0100" stop="20261114094443 +0100">
     <title>S2026 : E25 NASCAR Truck Series Full Race Replay - 2026 NASCAR Truck Series Championship at Homestead-Miami Speedway</title>
     <sub-title>2026 NASCAR Truck Series Championship at Homestead-Miami Speedway</sub-title>
     <desc>Relive the 2026 Truck Series Championship race at Homestead-Miami Speedway in this Baptist Health 200 replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261114093042 +0100" stop="20261114121612 +0100">
+  <programme channel="nascar" start="20261114094444 +0100" stop="20261114123015 +0100">
     <title>S2026 : E36 NASCAR Cup Series Full Race Replay - 2026 NASCAR Cup Series Championship Race at Homestead-Miami Speedway</title>
     <sub-title>2026 NASCAR Cup Series Championship Race at Homestead-Miami Speedway</sub-title>
     <desc>Relive the 2026 NASCAR Cup Series Championship Race at Homestead-Miami Speedway in this race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261114121613 +0100" stop="20261114124433 +0100">
+  <programme channel="nascar" start="20261114123016 +0100" stop="20261114125835 +0100">
     <title>S2026 : E36 NASCAR Cup Series Extended Highlights - Cup Series Championship, 2026</title>
     <sub-title>Cup Series Championship, 2026</sub-title>
     <desc>Relive the NASCAR Cup Series Championship race at Homestead-Miami Speedway in this week's extended highlights.</desc>
   </programme>
-  <programme channel="nascar" start="20261114124434 +0100" stop="20261114131344 +0100">
+  <programme channel="nascar" start="20261114125836 +0100" stop="20261114132746 +0100">
     <title>S2026 : E33 NASCAR O'Reilly Auto Parts Series Extended Highlights - Homestead-Miami, November 2026</title>
     <sub-title>Homestead-Miami, November 2026</sub-title>
     <desc>Relive NASCAR's O'Reilly Auto Parts Series race at Homestead-Miami in this week's Extended Highlights</desc>
   </programme>
-  <programme channel="nascar" start="20261114131345 +0100" stop="20261114134012 +0100">
+  <programme channel="nascar" start="20261114132747 +0100" stop="20261114135415 +0100">
     <title>S2026 : E25 NASCAR Truck Series Extended Highlights - Homestead-Miami, November 2026</title>
     <sub-title>Homestead-Miami, November 2026</sub-title>
     <desc>Relive NASCAR's Craftsman Truck Series race at Homestead-Miami in this week's Extended Highlights</desc>
   </programme>
-  <programme channel="nascar" start="20261114134013 +0100" stop="20261114170009 +0100">
+  <programme channel="nascar" start="20261114135416 +0100" stop="20261114171411 +0100">
     <title>S2026 : E28 NASCAR Cup Series Full Race Replay - 2026 Enjoy Illinois 300 at World Wide Technology Raceway</title>
     <sub-title>2026 Enjoy Illinois 300 at World Wide Technology Raceway</sub-title>
     <desc>Relive the 2026 Enjoy Illinois 300 at World Wide Technology Raceway in this NASCAR Cup race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261114170010 +0100" stop="20261114193154 +0100">
+  <programme channel="nascar" start="20261114171412 +0100" stop="20261114185627 +0100">
+    <title>2026 NASCAR Awards from Miami</title>
+    <desc>Watch as NASCAR highlights it's champions and season accomplishments in Miami</desc>
+  </programme>
+  <programme channel="nascar" start="20261114185628 +0100" stop="20261114212811 +0100">
     <title>S2026 : E30 NASCAR Cup Series Full Race Replay - 2026 Hollywood Casino 400 at Kansas Speedway</title>
     <sub-title>2026 Hollywood Casino 400 at Kansas Speedway</sub-title>
     <desc>Relive the 2026 Hollywood Casino 400 at Kansas Speedway in this NASCAR Cup race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261114193155 +0100" stop="20261114195821 +0100">
+  <programme channel="nascar" start="20261114212812 +0100" stop="20261114215439 +0100">
     <title>S2026 : E25 NASCAR Truck Series Extended Highlights - Homestead-Miami, November 2026</title>
     <sub-title>Homestead-Miami, November 2026</sub-title>
     <desc>Relive NASCAR's Craftsman Truck Series race at Homestead-Miami in this week's Extended Highlights</desc>
   </programme>
-  <programme channel="nascar" start="20261114195822 +0100" stop="20261114202732 +0100">
+  <programme channel="nascar" start="20261114215440 +0100" stop="20261114222350 +0100">
     <title>S2026 : E33 NASCAR O'Reilly Auto Parts Series Extended Highlights - Homestead-Miami, November 2026</title>
     <sub-title>Homestead-Miami, November 2026</sub-title>
     <desc>Relive NASCAR's O'Reilly Auto Parts Series race at Homestead-Miami in this week's Extended Highlights</desc>
   </programme>
-  <programme channel="nascar" start="20261114202733 +0100" stop="20261114205552 +0100">
+  <programme channel="nascar" start="20261114222351 +0100" stop="20261114225210 +0100">
     <title>S2026 : E36 NASCAR Cup Series Extended Highlights - Cup Series Championship, 2026</title>
     <sub-title>Cup Series Championship, 2026</sub-title>
     <desc>Relive the NASCAR Cup Series Championship race at Homestead-Miami Speedway in this week's extended highlights.</desc>
   </programme>
-  <programme channel="nascar" start="20261114205553 +0100" stop="20261114211449 +0100">
+  <programme channel="nascar" start="20261114225211 +0100" stop="20261114231107 +0100">
     <title>Kyle Larson - 2026 NASCAR Cup Series Champion</title>
     <desc>Relive Kyle Larson’s thrilling journey to the 2026 NASCAR Cup Series Championship.</desc>
   </programme>
-  <programme channel="nascar" start="20261114211450 +0100" stop="20261115032700 +0100">
-    <title>S03 : E04 Radioactive - Best of the 2026 NASCAR Cup Series Season</title>
-    <sub-title>Best of the 2026 NASCAR Cup Series Season</sub-title>
-    <desc>Radioactive showcases the best radio chatter of the 2026 NASCAR Cup Series season</desc>
+  <programme channel="nascar" start="20261114231108 +0100" stop="20261114234440 +0100">
+    <title>S2026 : E68 SPEED - “I Was Ready to Be Done”: How Almost Walking Away Won Justin Allgaier a Title</title>
+    <sub-title>“I Was Ready to Be Done”: How Almost Walking Away Won Justin Allgaier a Title</sub-title>
+    <desc>Justin Allgaier joins Kevin Harvick and Will Buxton to unpack an unforgettable 2026 season.</desc>
   </programme>
-  <programme channel="nascar" start="20261115032701 +0100" stop="20261115034558 +0100">
+  <programme channel="nascar" start="20261114234441 +0100" stop="20261115000337 +0100">
     <title>Kyle Larson - 2026 NASCAR Cup Series Champion</title>
     <desc>Relive Kyle Larson’s thrilling journey to the 2026 NASCAR Cup Series Championship.</desc>
   </programme>
-  <programme channel="nascar" start="20261115034559 +0100" stop="20261115041418 +0100">
+  <programme channel="nascar" start="20261115000338 +0100" stop="20261115003157 +0100">
     <title>S2026 : E36 NASCAR Cup Series Extended Highlights - Cup Series Championship, 2026</title>
     <sub-title>Cup Series Championship, 2026</sub-title>
     <desc>Relive the NASCAR Cup Series Championship race at Homestead-Miami Speedway in this week's extended highlights.</desc>
   </programme>
-  <programme channel="nascar" start="20261115041419 +0100" stop="20261115044329 +0100">
+  <programme channel="nascar" start="20261115003158 +0100" stop="20261115010108 +0100">
     <title>S2026 : E33 NASCAR O'Reilly Auto Parts Series Extended Highlights - Homestead-Miami, November 2026</title>
     <sub-title>Homestead-Miami, November 2026</sub-title>
     <desc>Relive NASCAR's O'Reilly Auto Parts Series race at Homestead-Miami in this week's Extended Highlights</desc>
   </programme>
-  <programme channel="nascar" start="20261115044330 +0100" stop="20261115050957 +0100">
+  <programme channel="nascar" start="20261115010109 +0100" stop="20261115012736 +0100">
     <title>S2026 : E25 NASCAR Truck Series Extended Highlights - Homestead-Miami, November 2026</title>
     <sub-title>Homestead-Miami, November 2026</sub-title>
     <desc>Relive NASCAR's Craftsman Truck Series race at Homestead-Miami in this week's Extended Highlights</desc>
   </programme>
-  <programme channel="nascar" start="20261115050958 +0100" stop="20261115053825 +0100">
+  <programme channel="nascar" start="20261115012737 +0100" stop="20261115015604 +0100">
     <title>S2026 : E66 SPEED - Motorsports' Most Versatile Driver Has a New Full-Time Ride</title>
     <sub-title>Motorsports' Most Versatile Driver Has a New Full-Time Ride</sub-title>
     <desc>Will Buxton and Kevin Harvick sit down with Conor Daly to discuss his return to full-time NTT INDYCAR SERIES.</desc>
   </programme>
-  <programme channel="nascar" start="20261115053826 +0100" stop="20261115060119 +0100">
+  <programme channel="nascar" start="20261115015605 +0100" stop="20261115021757 +0100">
     <title>NASCAR Drivers vs Tiny Versions of Their Cars</title>
     <desc>Nolan Sykes and Vice Grip Garage team up with Noah Gragson, Todd Gilliland and Zane Smith for NASKART 10.5</desc>
+  </programme>
+  <programme channel="nascar" start="20261115021758 +0100" stop="20261115023447 +0100">
+    <title>NASCAR Drivers vs World's Slowest Car</title>
+    <desc>What happens when Connor Zilisch, Jesse Love and Riley Herbst get behind the wheel of the world's slowest car?</desc>
+  </programme>
+  <programme channel="nascar" start="20261115023448 +0100" stop="20261115041702 +0100">
+    <title>2026 NASCAR Awards from Miami</title>
+    <desc>Watch as NASCAR highlights it's champions and season accomplishments in Miami</desc>
+  </programme>
+  <programme channel="nascar" start="20261115041703 +0100" stop="20261115043559 +0100">
+    <title>Kyle Larson - 2026 NASCAR Cup Series Champion</title>
+    <desc>Relive Kyle Larson’s thrilling journey to the 2026 NASCAR Cup Series Championship.</desc>
+  </programme>
+  <programme channel="nascar" start="20261115043600 +0100" stop="20261115060119 +0100">
+    <title>S03 : E04 Radioactive - Best of the 2026 NASCAR Cup Series Season</title>
+    <sub-title>Best of the 2026 NASCAR Cup Series Season</sub-title>
+    <desc>Radioactive showcases the best radio chatter of the 2026 NASCAR Cup Series season</desc>
   </programme>
   <programme channel="nascar" start="20261115060120 +0100" stop="20261115083142 +0100">
     <title>S2026 : E10 NASCAR Cup Series Full Race Replay - 2026 Jack Link's 500 at Talladega Superspeedway</title>
@@ -38573,63 +38202,7 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Mozambique</title>
     <desc>João Kopke goes in search of waves on the East African coast.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261113011501 +0100" stop="20261113013000 +0100">
-    <title>Quivers: Mason Ho</title>
-    <desc>Quivers profiles Mason Ho and the creative surfboards behind his unique style.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113013001 +0100" stop="20261113020000 +0100">
-    <title>Island of Mauritius</title>
-    <desc>S&amp;S travel to the Indian Ocean to explore the island of Mauritius, home to one of the best waves in the world.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113020001 +0100" stop="20261113023000 +0100">
-    <title>The Big Trip</title>
-    <desc>Frankie, Johnny and Jacob leave their homes and families behind to pursue the dream of becoming pro skaters.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113023001 +0100" stop="20261113030000 +0100">
-    <title>Camp Kick-Off</title>
-    <desc>The young skaters arrive at the Camp and meet their new counselors that you may know from previous seasons.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113030001 +0100" stop="20261113033000 +0100">
-    <title>Sink or Swim</title>
-    <desc>The BTS crew takes over the Projects Wake Skate Park in Florida to harvest some floating fun.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113033001 +0100" stop="20261113040000 +0100">
-    <title>Busted!</title>
-    <desc>The BTS crew shreds  the busses at Zacher's Bus Salvage yard in Harbor City.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113040001 +0100" stop="20261113043000 +0100">
-    <title>Urban Rail Assault</title>
-    <desc>Snowboarder Magazine Superpark Shred Sessions with Will Lavigne and Jason Dubois Montreal urban assault.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113043001 +0100" stop="20261113050000 +0100">
-    <title>Standard Girls</title>
-    <desc>Meet a new female cast of riders: Raewyn Reid, Erin Comstock, Leanne Pelosi, Hana Beaman and Kimmy Fasano.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113050001 +0100" stop="20261113053000 +0100">
-    <title>Going Berserk</title>
-    <desc>Dingo and the gang participate in traditional games, including The Viking Limbo and ax-throwing.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113053001 +0100" stop="20261113060000 +0100">
-    <title>Dish-Dash and Splash</title>
-    <desc>The boys hit Dubai. Tom Tom is forced to eat brain and Danny tries to protect Dingo in the Old Town.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113060001 +0100" stop="20261113063000 +0100">
-    <title>Best of Season 2</title>
-    <desc>Token Hotties Neill and Erin look back at each of this season's featured riders. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113063001 +0100" stop="20261113070000 +0100">
-    <title>SRH</title>
-    <desc>A behind-the-scenes look at the hardcore and progressive freestyle motocross team SRH. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113070001 +0100" stop="20261113073000 +0100">
-    <title>Episode 1</title>
-    <desc>This episode shows the process within the unique YT Mob World Tour scouting program.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113073001 +0100" stop="20261113074500 +0100">
-    <title>The Life We Chose</title>
-    <desc>Behind the scenes of the Norco Race Division during the UCI Downhill World Cup in Fort William, Scotland. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261113074501 +0100" stop="20261113090000 +0100">
+  <programme channel="fuel-tv-new" start="20261113011501 +0100" stop="20261113090000 +0100">
     <title>Ocean Driven</title>
     <desc>A gripping, inspirational story about Chris Bertish's big wave surfing odyssey.</desc>
   </programme>
@@ -45520,63 +45093,63 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Abigail - S04:E023 - Episode 23</title>
     <desc>Begoña visita a Álvaro para decirle que se va a casar con Carlos Alfredo. Abigail se enfrenta a Rosalba y le impide que se lleve a Mariana del Hospital. Maruca, a petición de Carlota, hace una brujería a Mariana, que entra en pánico y sufre una crisis.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113003153 +0100" stop="20261113012452 +0100">
-    <title>S01 : E33 Corazón Traicionado - S01:E33 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261113003153 +0100" stop="20261113012451 +0100">
+    <title>S01 : E33 Corazón Traicionado - S01:E33- Malena's Return - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Malena sabe que deberá regresar a su casa para no perder a su hijo. Pedro le encarga a Cheo que liquide a Lorena; sin hacerle daño a Alberto. Ricardo no tiene todavía claro cuál de las Marias es la estafadora. Lorena despide a Alberto con un beso y muy cerca está Cheo, esperando el momento preciso para disiparar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113012453 +0100" stop="20261113021751 +0100">
-    <title>S01 : E33 Corazón Traicionado - S01:E33 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261113012452 +0100" stop="20261113021750 +0100">
+    <title>S01 : E33 Corazón Traicionado - S01:E33- Malena's Return - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Malena sabe que deberá regresar a su casa para no perder a su hijo. Pedro le encarga a Cheo que liquide a Lorena; sin hacerle daño a Alberto. Ricardo no tiene todavía claro cuál de las Marias es la estafadora. Lorena despide a Alberto con un beso y muy cerca está Cheo, esperando el momento preciso para disiparar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113021752 +0100" stop="20261113031323 +0100">
+  <programme channel="wedotv-amor" start="20261113021751 +0100" stop="20261113031323 +0100">
     <title>S01 : E87 El Desprecio - S01:E87 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>En su casa, Pastora anuncia a Elisenda que encargó a Giorgio y Fernando que secuestren a Clara Inés y acaben con su vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113031324 +0100" stop="20261113040751 +0100">
+  <programme channel="wedotv-amor" start="20261113031324 +0100" stop="20261113040750 +0100">
     <title>S01 : E88 El Desprecio - S01:E88 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara Inés recuerda a Raúl que nunca podrán estar juntos porque la sombra de Pastora se cierne sobre ellos; Raúl jura que defenderá a su madre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113040752 +0100" stop="20261113050055 +0100">
-    <title>S01 : E38 La Trepadora - S01:E038 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261113040751 +0100" stop="20261113050055 +0100">
+    <title>S01 : E38 La Trepadora - S01:E038- A Day in the Life of the Characters - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás quiere que Sigfrido lo ayude a ponerle una flor en la habitación todos los días a Victoria; el joven Del Casal acusa sorpresa cuando el niño le comenta que acaba de ver a Jack dándole un beso a Victoria. Victoria le comenta a Hilario sobre los papeles y las fotos que Nicolás encontró en Los Samanes y que ella destruyó al quemar la casa; la muchacha asegura a su padre ya se convenció de que nunca más puede creer en Nicolás. Hansen indaga con Felipe quién es Jack Builder, pues le llama la atención que el hombre estuvo haciéndole varias preguntas sobre Hilario a alguien con quien Guanipa está por cerrar un negocio. Adelaida se llena de indignación cuando Genara le cuenta que Hilario...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261113050056 +0100" stop="20261113055144 +0100">
-    <title>S01 : E39 La Trepadora - S01:E039 - La Trepadora</title>
+    <title>S01 : E39 La Trepadora - S01:E039- Florencia and Her Trust Issues - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Florencia asegura a Hilario que ella no lo está engañando como él cree. Victoria le confiesa a Clementina que le cuesta mucho olvidarse de Nicolás a pesar de saber que tiene motivos de sobra para hacerlo.Yajaira comenta con Yosmir que Fernanda estuvo averiguando con Isaura dónde trabaja para disculparse con ella; el jovencito está seguro de que las intenciones de la señora Alcoy no son tan nobles como su mamá está creyendo. Builder insiste en que Victoria debe regresar a Cantarrana a darse cuenta de todo ahí le pertenece; el hombre se dispone a besar a la muchacha mientras Nicolás los observa desde lejos.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261113055145 +0100" stop="20261113070007 +0100">
-    <title>S01 : E15 Te Tengo en Salsa - S01:E15 - Te Tengo en Salsa</title>
+    <title>S01 : E15 Te Tengo en Salsa - S01:E15- Joel's Unexpected Encounter - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Joel toma su desayuno justo en el momento que Beatrice lo sorprende en la fonda Palacios</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261113070008 +0100" stop="20261113075326 +0100">
-    <title>S01 : E34 Corazón Traicionado - S01:E34 - Corazon Traicionado</title>
+    <title>S01 : E34 Corazón Traicionado - S01:E34- The Conflict - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo le da alcance a Cheo y lo mata; queda apuntando a Alberto y Lorena – En la casa se escuchan los disparos. Gertrudis recuerda que Alberto estaba con ella y se siente morir de que le haya pasado algo a su hijo María Bonita piensa que Ricardo es homosexual. Malena provoca la ira de Pablo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113075327 +0100" stop="20261113084609 +0100">
-    <title>S01 : E35 Corazón Traicionado - S01:E35 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261113075327 +0100" stop="20261113084608 +0100">
+    <title>S01 : E35 Corazón Traicionado - S01:E35- Threat - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Pedro le advierte a Guillermo que la policía sabe que fue él quien mató a Cheo. Lorena, está a la defensiva con Omar por pretender “enamorarla” para obtener una confesión. Carmen le hace ver a Virginia que lo que le propuso la pareja es “tráfico de niños”. Lorena es sorprendida por Guillermo pistola en mano, le dice que vino por ella y por su hijo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113084610 +0100" stop="20261113094036 +0100">
+  <programme channel="wedotv-amor" start="20261113084609 +0100" stop="20261113094036 +0100">
     <title>S01 : E88 El Desprecio - S01:E88 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara Inés recuerda a Raúl que nunca podrán estar juntos porque la sombra de Pastora se cierne sobre ellos; Raúl jura que defenderá a su madre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113094037 +0100" stop="20261113103448 +0100">
+  <programme channel="wedotv-amor" start="20261113094037 +0100" stop="20261113103447 +0100">
     <title>S01 : E89 El Desprecio - S01:E89 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pese a la furia que despierta en su madre, Raúl certifica a Pastora que sigue enamorado de Clara Inés.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113103449 +0100" stop="20261113112537 +0100">
-    <title>S01 : E39 La Trepadora - S01:E039 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261113103448 +0100" stop="20261113112537 +0100">
+    <title>S01 : E39 La Trepadora - S01:E039- Florencia and Her Trust Issues - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Florencia asegura a Hilario que ella no lo está engañando como él cree. Victoria le confiesa a Clementina que le cuesta mucho olvidarse de Nicolás a pesar de saber que tiene motivos de sobra para hacerlo.Yajaira comenta con Yosmir que Fernanda estuvo averiguando con Isaura dónde trabaja para disculparse con ella; el jovencito está seguro de que las intenciones de la señora Alcoy no son tan nobles como su mamá está creyendo. Builder insiste en que Victoria debe regresar a Cantarrana a darse cuenta de todo ahí le pertenece; el hombre se dispone a besar a la muchacha mientras Nicolás los observa desde lejos.</desc>
   </programme>
@@ -45585,13 +45158,13 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>La Trepadora</sub-title>
     <desc>Builder se dispone a besar a la muchacha mientras Nicolás los observa desde lejos; la muchacha rechaza besar a Jack; en ese momento Del Casal se les acerca con intenciones de poner en su sitio a su rival. Hilario encarga a Moncho averiguar el paradero del “negro Quijada” y qué tanto sabe Florencia respecto al hombre. Victoria sufre una fuerte impresión al descubrir a Florencia besándose con Nicolás en plena calle; se les acerca para manifestarle su desprecio por haberla engañado y le asegura a Nicolás que para ella él está muerto y enterrado. Florencia está nerviosa porque teme que Victoria le cuente a Hilario que los vio besándose, pues eso significa que el hombre va a descubrir su...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113121650 +0100" stop="20261113130814 +0100">
-    <title>S01 : E16 Te Tengo en Salsa - S01:E16 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261113121650 +0100" stop="20261113130813 +0100">
+    <title>S01 : E16 Te Tengo en Salsa - S01:E16- Romantic Encounter - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana y Carlos Raúl comparten una copa en el momento que Ninoska, eufórica, aborda al médico a fin de agradecerle el romántico detalle que tuvo con ella.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113130815 +0100" stop="20261113135951 +0100">
-    <title>S01 : E17 Te Tengo en Salsa - S01:E17 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261113130814 +0100" stop="20261113135951 +0100">
+    <title>S01 : E17 Te Tengo en Salsa - S01:E17- Confessions of Love - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ignorando la frialdad de Adriana, Carlos confiesa a la chef que está enamorado y la reta a negar que ella siente lo mismo por él.</desc>
   </programme>
@@ -45599,47 +45172,47 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Abigail - S04:E023 - Episode 23</title>
     <desc>Begoña visita a Álvaro para decirle que se va a casar con Carlos Alfredo. Abigail se enfrenta a Rosalba y le impide que se lleve a Mariana del Hospital. Maruca, a petición de Carlota, hace una brujería a Mariana, que entra en pánico y sufre una crisis.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113145117 +0100" stop="20261113154354 +0100">
-    <title>Abigail - S04:E024 - Episode 24</title>
+  <programme channel="wedotv-amor" start="20261113145117 +0100" stop="20261113154353 +0100">
+    <title>Abigail - S04:E024  - Episode 24</title>
     <desc>Álvaro y Lucía recuperan el expediente de maternidad escondido por Begoña. Mariana convence a sus padres de que la devuelvan a casa para así morir bien. Álvaro muestra el expediente de maternidad a Carlos Alfredo y se convence de que Cheito es su hijo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113154355 +0100" stop="20261113163713 +0100">
-    <title>S01 : E34 Corazón Traicionado - S01:E34 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261113154354 +0100" stop="20261113163713 +0100">
+    <title>S01 : E34 Corazón Traicionado - S01:E34- The Conflict - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo le da alcance a Cheo y lo mata; queda apuntando a Alberto y Lorena – En la casa se escuchan los disparos. Gertrudis recuerda que Alberto estaba con ella y se siente morir de que le haya pasado algo a su hijo María Bonita piensa que Ricardo es homosexual. Malena provoca la ira de Pablo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113163714 +0100" stop="20261113173033 +0100">
-    <title>S01 : E34 Corazón Traicionado - S01:E34 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261113163714 +0100" stop="20261113173032 +0100">
+    <title>S01 : E34 Corazón Traicionado - S01:E34- The Conflict - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo le da alcance a Cheo y lo mata; queda apuntando a Alberto y Lorena – En la casa se escuchan los disparos. Gertrudis recuerda que Alberto estaba con ella y se siente morir de que le haya pasado algo a su hijo María Bonita piensa que Ricardo es homosexual. Malena provoca la ira de Pablo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113173034 +0100" stop="20261113182500 +0100">
+  <programme channel="wedotv-amor" start="20261113173033 +0100" stop="20261113182500 +0100">
     <title>S01 : E88 El Desprecio - S01:E88 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara Inés recuerda a Raúl que nunca podrán estar juntos porque la sombra de Pastora se cierne sobre ellos; Raúl jura que defenderá a su madre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113182501 +0100" stop="20261113191912 +0100">
+  <programme channel="wedotv-amor" start="20261113182501 +0100" stop="20261113191911 +0100">
     <title>S01 : E89 El Desprecio - S01:E89 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pese a la furia que despierta en su madre, Raúl certifica a Pastora que sigue enamorado de Clara Inés.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113191913 +0100" stop="20261113201215 +0100">
-    <title>S01 : E39 La Trepadora - S01:E039 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261113191912 +0100" stop="20261113201215 +0100">
+    <title>S01 : E39 La Trepadora - S01:E039- Florencia and Her Trust Issues - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Florencia asegura a Hilario que ella no lo está engañando como él cree. Victoria le confiesa a Clementina que le cuesta mucho olvidarse de Nicolás a pesar de saber que tiene motivos de sobra para hacerlo.Yajaira comenta con Yosmir que Fernanda estuvo averiguando con Isaura dónde trabaja para disculparse con ella; el jovencito está seguro de que las intenciones de la señora Alcoy no son tan nobles como su mamá está creyendo. Builder insiste en que Victoria debe regresar a Cantarrana a darse cuenta de todo ahí le pertenece; el hombre se dispone a besar a la muchacha mientras Nicolás los observa desde lejos.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113201216 +0100" stop="20261113210542 +0100">
+  <programme channel="wedotv-amor" start="20261113201216 +0100" stop="20261113210541 +0100">
     <title>S01 : E40 La Trepadora - S01:E040 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Builder se dispone a besar a la muchacha mientras Nicolás los observa desde lejos; la muchacha rechaza besar a Jack; en ese momento Del Casal se les acerca con intenciones de poner en su sitio a su rival. Hilario encarga a Moncho averiguar el paradero del “negro Quijada” y qué tanto sabe Florencia respecto al hombre. Victoria sufre una fuerte impresión al descubrir a Florencia besándose con Nicolás en plena calle; se les acerca para manifestarle su desprecio por haberla engañado y le asegura a Nicolás que para ella él está muerto y enterrado. Florencia está nerviosa porque teme que Victoria le cuente a Hilario que los vio besándose, pues eso significa que el hombre va a descubrir su...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113210543 +0100" stop="20261113215706 +0100">
-    <title>S01 : E16 Te Tengo en Salsa - S01:E16 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261113210542 +0100" stop="20261113215705 +0100">
+    <title>S01 : E16 Te Tengo en Salsa - S01:E16- Romantic Encounter - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana y Carlos Raúl comparten una copa en el momento que Ninoska, eufórica, aborda al médico a fin de agradecerle el romántico detalle que tuvo con ella.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261113215707 +0100" stop="20261113224843 +0100">
-    <title>S01 : E17 Te Tengo en Salsa - S01:E17 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261113215706 +0100" stop="20261113224843 +0100">
+    <title>S01 : E17 Te Tengo en Salsa - S01:E17- Confessions of Love - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ignorando la frialdad de Adriana, Carlos confiesa a la chef que está enamorado y la reta a negar que ella siente lo mismo por él.</desc>
   </programme>
@@ -45648,65 +45221,65 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <desc>Begoña visita a Álvaro para decirle que se va a casar con Carlos Alfredo. Abigail se enfrenta a Rosalba y le impide que se lleve a Mariana del Hospital. Maruca, a petición de Carlota, hace una brujería a Mariana, que entra en pánico y sufre una crisis.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261113234009 +0100" stop="20261114003246 +0100">
-    <title>Abigail - S04:E024 - Episode 24</title>
+    <title>Abigail - S04:E024  - Episode 24</title>
     <desc>Álvaro y Lucía recuperan el expediente de maternidad escondido por Begoña. Mariana convence a sus padres de que la devuelvan a casa para así morir bien. Álvaro muestra el expediente de maternidad a Carlos Alfredo y se convence de que Cheito es su hijo.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261114003247 +0100" stop="20261114012605 +0100">
-    <title>S01 : E34 Corazón Traicionado - S01:E34 - Corazon Traicionado</title>
+    <title>S01 : E34 Corazón Traicionado - S01:E34- The Conflict - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo le da alcance a Cheo y lo mata; queda apuntando a Alberto y Lorena – En la casa se escuchan los disparos. Gertrudis recuerda que Alberto estaba con ella y se siente morir de que le haya pasado algo a su hijo María Bonita piensa que Ricardo es homosexual. Malena provoca la ira de Pablo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114012606 +0100" stop="20261114021925 +0100">
-    <title>S01 : E34 Corazón Traicionado - S01:E34 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261114012606 +0100" stop="20261114021924 +0100">
+    <title>S01 : E34 Corazón Traicionado - S01:E34- The Conflict - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo le da alcance a Cheo y lo mata; queda apuntando a Alberto y Lorena – En la casa se escuchan los disparos. Gertrudis recuerda que Alberto estaba con ella y se siente morir de que le haya pasado algo a su hijo María Bonita piensa que Ricardo es homosexual. Malena provoca la ira de Pablo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114021926 +0100" stop="20261114031352 +0100">
+  <programme channel="wedotv-amor" start="20261114021925 +0100" stop="20261114031352 +0100">
     <title>S01 : E88 El Desprecio - S01:E88 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara Inés recuerda a Raúl que nunca podrán estar juntos porque la sombra de Pastora se cierne sobre ellos; Raúl jura que defenderá a su madre.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114031353 +0100" stop="20261114040804 +0100">
+  <programme channel="wedotv-amor" start="20261114031353 +0100" stop="20261114040803 +0100">
     <title>S01 : E89 El Desprecio - S01:E89 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pese a la furia que despierta en su madre, Raúl certifica a Pastora que sigue enamorado de Clara Inés.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114040805 +0100" stop="20261114050107 +0100">
-    <title>S01 : E39 La Trepadora - S01:E039 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261114040804 +0100" stop="20261114050107 +0100">
+    <title>S01 : E39 La Trepadora - S01:E039- Florencia and Her Trust Issues - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Florencia asegura a Hilario que ella no lo está engañando como él cree. Victoria le confiesa a Clementina que le cuesta mucho olvidarse de Nicolás a pesar de saber que tiene motivos de sobra para hacerlo.Yajaira comenta con Yosmir que Fernanda estuvo averiguando con Isaura dónde trabaja para disculparse con ella; el jovencito está seguro de que las intenciones de la señora Alcoy no son tan nobles como su mamá está creyendo. Builder insiste en que Victoria debe regresar a Cantarrana a darse cuenta de todo ahí le pertenece; el hombre se dispone a besar a la muchacha mientras Nicolás los observa desde lejos.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114050108 +0100" stop="20261114055220 +0100">
+  <programme channel="wedotv-amor" start="20261114050108 +0100" stop="20261114055219 +0100">
     <title>S01 : E40 La Trepadora - S01:E040 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Builder se dispone a besar a la muchacha mientras Nicolás los observa desde lejos; la muchacha rechaza besar a Jack; en ese momento Del Casal se les acerca con intenciones de poner en su sitio a su rival. Hilario encarga a Moncho averiguar el paradero del “negro Quijada” y qué tanto sabe Florencia respecto al hombre. Victoria sufre una fuerte impresión al descubrir a Florencia besándose con Nicolás en plena calle; se les acerca para manifestarle su desprecio por haberla engañado y le asegura a Nicolás que para ella él está muerto y enterrado. Florencia está nerviosa porque teme que Victoria le cuente a Hilario que los vio besándose, pues eso significa que el hombre va a descubrir su...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114055221 +0100" stop="20261114070007 +0100">
-    <title>S01 : E16 Te Tengo en Salsa - S01:E16 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261114055220 +0100" stop="20261114070007 +0100">
+    <title>S01 : E16 Te Tengo en Salsa - S01:E16- Romantic Encounter - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana y Carlos Raúl comparten una copa en el momento que Ninoska, eufórica, aborda al médico a fin de agradecerle el romántico detalle que tuvo con ella.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261114070008 +0100" stop="20261114075249 +0100">
-    <title>S01 : E35 Corazón Traicionado - S01:E35 - Corazon Traicionado</title>
+    <title>S01 : E35 Corazón Traicionado - S01:E35- Threat - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Pedro le advierte a Guillermo que la policía sabe que fue él quien mató a Cheo. Lorena, está a la defensiva con Omar por pretender “enamorarla” para obtener una confesión. Carmen le hace ver a Virginia que lo que le propuso la pareja es “tráfico de niños”. Lorena es sorprendida por Guillermo pistola en mano, le dice que vino por ella y por su hijo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114075250 +0100" stop="20261114084627 +0100">
-    <title>S01 : E36 Corazón Traicionado - S01:E36 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261114075250 +0100" stop="20261114084626 +0100">
+    <title>S01 : E36 Corazón Traicionado - S01:E36- A Conflict of Love - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo tiene la idea fija de llevarse a “su mujer” y a Ignacio con él. Alberto le advierte a Gertrudis que hará lo imposible por liberar a Malena de la violencia de Pablo. Elvis aconseja a Ricardo que se sincere con las Marías o todas acabarán con él - Virginia llega al encuentro de Liz y Augusto, dispuesta a irse con la pareja; para sorpresa de todos, aparece Carmen. Alberto le pide matrimonio a Lorena.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114084628 +0100" stop="20261114094038 +0100">
+  <programme channel="wedotv-amor" start="20261114084627 +0100" stop="20261114094038 +0100">
     <title>S01 : E89 El Desprecio - S01:E89 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pese a la furia que despierta en su madre, Raúl certifica a Pastora que sigue enamorado de Clara Inés.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114094039 +0100" stop="20261114103610 +0100">
+  <programme channel="wedotv-amor" start="20261114094039 +0100" stop="20261114103609 +0100">
     <title>S01 : E90 El Desprecio - S01:E90 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara verifica con Octavia que Pastora puede impedir el acceso de Israel a las cuentas comunes durante el tiempo que dure el proceso de divorcio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114103611 +0100" stop="20261114112722 +0100">
+  <programme channel="wedotv-amor" start="20261114103610 +0100" stop="20261114112722 +0100">
     <title>S01 : E40 La Trepadora - S01:E040 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Builder se dispone a besar a la muchacha mientras Nicolás los observa desde lejos; la muchacha rechaza besar a Jack; en ese momento Del Casal se les acerca con intenciones de poner en su sitio a su rival. Hilario encarga a Moncho averiguar el paradero del “negro Quijada” y qué tanto sabe Florencia respecto al hombre. Victoria sufre una fuerte impresión al descubrir a Florencia besándose con Nicolás en plena calle; se les acerca para manifestarle su desprecio por haberla engañado y le asegura a Nicolás que para ella él está muerto y enterrado. Florencia está nerviosa porque teme que Victoria le cuente a Hilario que los vio besándose, pues eso significa que el hombre va a descubrir su...</desc>
@@ -45714,173 +45287,173 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
   <programme channel="wedotv-amor" start="20261114112723 +0100" stop="20261114121838 +0100">
     <title>S01 : E41 La Trepadora - S01:E041 - Episodio 41 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Eugenia asegura a Fernanda que terminó su relación con Yosmir. Victoria asegura a Jack que su único interés por los momentos es vengarse de Nicolás. Leopoldo anuncia a Fernanda que desea separarse de ella. Florencia logra conmover a Hilario al punto de que el hombre asegura que no se puede apartar de su lado.</desc>
+    <desc>Eugenia assures Fernanda that she ended her relationship with Yosmir. Victoria assures Jack that her only interest at the moment is to get revenge on Nicolás. Leopoldo announces to Fernanda that he wants to separate from her. Florencia manages to move Hilario to the point that he assures her that he cannot leave her side.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114121839 +0100" stop="20261114131016 +0100">
-    <title>S01 : E17 Te Tengo en Salsa - S01:E17 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261114121839 +0100" stop="20261114131015 +0100">
+    <title>S01 : E17 Te Tengo en Salsa - S01:E17- Confessions of Love - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ignorando la frialdad de Adriana, Carlos confiesa a la chef que está enamorado y la reta a negar que ella siente lo mismo por él.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114131017 +0100" stop="20261114140153 +0100">
-    <title>S01 : E18 Te Tengo en Salsa - S01:E18 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261114131016 +0100" stop="20261114140153 +0100">
+    <title>S01 : E18 Te Tengo en Salsa - S01:E18- Patricia's Return - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Unos días después, Patricia arriba al país vestida de luto estricto; en el aeropuerto, el empleado de inmigración la llama señora Wilson.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114140154 +0100" stop="20261114145431 +0100">
-    <title>Abigail - S04:E024 - Episode 24</title>
+  <programme channel="wedotv-amor" start="20261114140154 +0100" stop="20261114145430 +0100">
+    <title>Abigail - S04:E024  - Episode 24</title>
     <desc>Álvaro y Lucía recuperan el expediente de maternidad escondido por Begoña. Mariana convence a sus padres de que la devuelvan a casa para así morir bien. Álvaro muestra el expediente de maternidad a Carlos Alfredo y se convence de que Cheito es su hijo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114145432 +0100" stop="20261114154806 +0100">
-    <title>Abigail - S04:E025 - Episode 25</title>
+  <programme channel="wedotv-amor" start="20261114145431 +0100" stop="20261114154806 +0100">
+    <title>Abigail - S04:E025  - Episode 25</title>
     <desc>Carlos Alfredo se disculpa con Abigail, le ruega una oportunidad y ella lo rechaza. Mariana les dice a Rosalba y a Guillermo que siente que su fin está cerca y que no quiere ir en busca de una cura incierta, sino quedarse con la gente que ama.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114154807 +0100" stop="20261114164049 +0100">
-    <title>S01 : E35 Corazón Traicionado - S01:E35 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261114154807 +0100" stop="20261114164048 +0100">
+    <title>S01 : E35 Corazón Traicionado - S01:E35- Threat - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Pedro le advierte a Guillermo que la policía sabe que fue él quien mató a Cheo. Lorena, está a la defensiva con Omar por pretender “enamorarla” para obtener una confesión. Carmen le hace ver a Virginia que lo que le propuso la pareja es “tráfico de niños”. Lorena es sorprendida por Guillermo pistola en mano, le dice que vino por ella y por su hijo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114164050 +0100" stop="20261114173331 +0100">
-    <title>S01 : E35 Corazón Traicionado - S01:E35 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261114164049 +0100" stop="20261114173331 +0100">
+    <title>S01 : E35 Corazón Traicionado - S01:E35- Threat - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Pedro le advierte a Guillermo que la policía sabe que fue él quien mató a Cheo. Lorena, está a la defensiva con Omar por pretender “enamorarla” para obtener una confesión. Carmen le hace ver a Virginia que lo que le propuso la pareja es “tráfico de niños”. Lorena es sorprendida por Guillermo pistola en mano, le dice que vino por ella y por su hijo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114173332 +0100" stop="20261114182743 +0100">
+  <programme channel="wedotv-amor" start="20261114173332 +0100" stop="20261114182742 +0100">
     <title>S01 : E89 El Desprecio - S01:E89 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pese a la furia que despierta en su madre, Raúl certifica a Pastora que sigue enamorado de Clara Inés.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114182744 +0100" stop="20261114192314 +0100">
+  <programme channel="wedotv-amor" start="20261114182743 +0100" stop="20261114192314 +0100">
     <title>S01 : E90 El Desprecio - S01:E90 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara verifica con Octavia que Pastora puede impedir el acceso de Israel a las cuentas comunes durante el tiempo que dure el proceso de divorcio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114192315 +0100" stop="20261114201641 +0100">
+  <programme channel="wedotv-amor" start="20261114192315 +0100" stop="20261114201640 +0100">
     <title>S01 : E40 La Trepadora - S01:E040 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Builder se dispone a besar a la muchacha mientras Nicolás los observa desde lejos; la muchacha rechaza besar a Jack; en ese momento Del Casal se les acerca con intenciones de poner en su sitio a su rival. Hilario encarga a Moncho averiguar el paradero del “negro Quijada” y qué tanto sabe Florencia respecto al hombre. Victoria sufre una fuerte impresión al descubrir a Florencia besándose con Nicolás en plena calle; se les acerca para manifestarle su desprecio por haberla engañado y le asegura a Nicolás que para ella él está muerto y enterrado. Florencia está nerviosa porque teme que Victoria le cuente a Hilario que los vio besándose, pues eso significa que el hombre va a descubrir su...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114201642 +0100" stop="20261114211011 +0100">
+  <programme channel="wedotv-amor" start="20261114201641 +0100" stop="20261114211011 +0100">
     <title>S01 : E41 La Trepadora - S01:E041 - Episodio 41 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Eugenia asegura a Fernanda que terminó su relación con Yosmir. Victoria asegura a Jack que su único interés por los momentos es vengarse de Nicolás. Leopoldo anuncia a Fernanda que desea separarse de ella. Florencia logra conmover a Hilario al punto de que el hombre asegura que no se puede apartar de su lado.</desc>
+    <desc>Eugenia assures Fernanda that she ended her relationship with Yosmir. Victoria assures Jack that her only interest at the moment is to get revenge on Nicolás. Leopoldo announces to Fernanda that he wants to separate from her. Florencia manages to move Hilario to the point that he assures her that he cannot leave her side.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261114211012 +0100" stop="20261114220148 +0100">
-    <title>S01 : E17 Te Tengo en Salsa - S01:E17 - Te Tengo en Salsa</title>
+    <title>S01 : E17 Te Tengo en Salsa - S01:E17- Confessions of Love - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ignorando la frialdad de Adriana, Carlos confiesa a la chef que está enamorado y la reta a negar que ella siente lo mismo por él.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114220149 +0100" stop="20261114225326 +0100">
-    <title>S01 : E18 Te Tengo en Salsa - S01:E18 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261114220149 +0100" stop="20261114225325 +0100">
+    <title>S01 : E18 Te Tengo en Salsa - S01:E18- Patricia's Return - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Unos días después, Patricia arriba al país vestida de luto estricto; en el aeropuerto, el empleado de inmigración la llama señora Wilson.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261114225327 +0100" stop="20261114234603 +0100">
-    <title>Abigail - S04:E024 - Episode 24</title>
+  <programme channel="wedotv-amor" start="20261114225326 +0100" stop="20261114234603 +0100">
+    <title>Abigail - S04:E024  - Episode 24</title>
     <desc>Álvaro y Lucía recuperan el expediente de maternidad escondido por Begoña. Mariana convence a sus padres de que la devuelvan a casa para así morir bien. Álvaro muestra el expediente de maternidad a Carlos Alfredo y se convence de que Cheito es su hijo.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261114234604 +0100" stop="20261115003939 +0100">
-    <title>Abigail - S04:E025 - Episode 25</title>
+    <title>Abigail - S04:E025  - Título de Exemplo</title>
     <desc>Carlos Alfredo se disculpa con Abigail, le ruega una oportunidad y ella lo rechaza. Mariana les dice a Rosalba y a Guillermo que siente que su fin está cerca y que no quiere ir en busca de una cura incierta, sino quedarse con la gente que ama.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261115003940 +0100" stop="20261115013221 +0100">
-    <title>S01 : E35 Corazón Traicionado - S01:E35 - Corazon Traicionado</title>
+    <title>S01 : E35 Corazón Traicionado - S01:E35- Threat - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Pedro le advierte a Guillermo que la policía sabe que fue él quien mató a Cheo. Lorena, está a la defensiva con Omar por pretender “enamorarla” para obtener una confesión. Carmen le hace ver a Virginia que lo que le propuso la pareja es “tráfico de niños”. Lorena es sorprendida por Guillermo pistola en mano, le dice que vino por ella y por su hijo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115013222 +0100" stop="20261115022504 +0100">
-    <title>S01 : E35 Corazón Traicionado - S01:E35 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261115013222 +0100" stop="20261115022503 +0100">
+    <title>S01 : E35 Corazón Traicionado - S01:E35- Threat - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Pedro le advierte a Guillermo que la policía sabe que fue él quien mató a Cheo. Lorena, está a la defensiva con Omar por pretender “enamorarla” para obtener una confesión. Carmen le hace ver a Virginia que lo que le propuso la pareja es “tráfico de niños”. Lorena es sorprendida por Guillermo pistola en mano, le dice que vino por ella y por su hijo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115022505 +0100" stop="20261115031915 +0100">
+  <programme channel="wedotv-amor" start="20261115022504 +0100" stop="20261115031915 +0100">
     <title>S01 : E89 El Desprecio - S01:E89 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pese a la furia que despierta en su madre, Raúl certifica a Pastora que sigue enamorado de Clara Inés.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115031916 +0100" stop="20261115041447 +0100">
+  <programme channel="wedotv-amor" start="20261115031916 +0100" stop="20261115041446 +0100">
     <title>S01 : E90 El Desprecio - S01:E90 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara verifica con Octavia que Pastora puede impedir el acceso de Israel a las cuentas comunes durante el tiempo que dure el proceso de divorcio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115041448 +0100" stop="20261115050813 +0100">
+  <programme channel="wedotv-amor" start="20261115041447 +0100" stop="20261115050813 +0100">
     <title>S01 : E40 La Trepadora - S01:E040 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Builder se dispone a besar a la muchacha mientras Nicolás los observa desde lejos; la muchacha rechaza besar a Jack; en ese momento Del Casal se les acerca con intenciones de poner en su sitio a su rival. Hilario encarga a Moncho averiguar el paradero del “negro Quijada” y qué tanto sabe Florencia respecto al hombre. Victoria sufre una fuerte impresión al descubrir a Florencia besándose con Nicolás en plena calle; se les acerca para manifestarle su desprecio por haberla engañado y le asegura a Nicolás que para ella él está muerto y enterrado. Florencia está nerviosa porque teme que Victoria le cuente a Hilario que los vio besándose, pues eso significa que el hombre va a descubrir su...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115050814 +0100" stop="20261115055930 +0100">
+  <programme channel="wedotv-amor" start="20261115050814 +0100" stop="20261115055929 +0100">
     <title>S01 : E41 La Trepadora - S01:E041 - Episodio 41 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Eugenia asegura a Fernanda que terminó su relación con Yosmir. Victoria asegura a Jack que su único interés por los momentos es vengarse de Nicolás. Leopoldo anuncia a Fernanda que desea separarse de ella. Florencia logra conmover a Hilario al punto de que el hombre asegura que no se puede apartar de su lado.</desc>
+    <desc>Eugenia assures Fernanda that she ended her relationship with Yosmir. Victoria assures Jack that her only interest at the moment is to get revenge on Nicolás. Leopoldo announces to Fernanda that he wants to separate from her. Florencia manages to move Hilario to the point that he assures her that he cannot leave her side.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115055931 +0100" stop="20261115070007 +0100">
-    <title>S01 : E17 Te Tengo en Salsa - S01:E17 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261115055930 +0100" stop="20261115070007 +0100">
+    <title>S01 : E17 Te Tengo en Salsa - S01:E17- Confessions of Love - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ignorando la frialdad de Adriana, Carlos confiesa a la chef que está enamorado y la reta a negar que ella siente lo mismo por él.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261115070008 +0100" stop="20261115075344 +0100">
-    <title>S01 : E36 Corazón Traicionado - S01:E36 - Corazon Traicionado</title>
+    <title>S01 : E36 Corazón Traicionado - S01:E36- A Conflict of Love - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo tiene la idea fija de llevarse a “su mujer” y a Ignacio con él. Alberto le advierte a Gertrudis que hará lo imposible por liberar a Malena de la violencia de Pablo. Elvis aconseja a Ricardo que se sincere con las Marías o todas acabarán con él - Virginia llega al encuentro de Liz y Augusto, dispuesta a irse con la pareja; para sorpresa de todos, aparece Carmen. Alberto le pide matrimonio a Lorena.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115075345 +0100" stop="20261115084656 +0100">
-    <title>S01 : E37 Corazón Traicionado - S01:E37 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261115075345 +0100" stop="20261115084655 +0100">
+    <title>S01 : E37 Corazón Traicionado - S01:E37- - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Carmen acusa a Luis y Augusto de traficar con menores. Ricardo acorralado: por un lado siente que no puede mantener una relación con cuatro mujeres a la vez, pero por el otro está el millón de dólares perdidos. Gertrudis celebra que el éxito en el juicio del narcotraficante le abre las puertas a que todos ellos confíen en su Escritorio Jurídico. Alberto va saliendo de la casa Corona, cuando Guillermo lo intercepta en su moto; amenazante, se levanta la visera del casco y queda al descubierto ante su rival.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115084657 +0100" stop="20261115094227 +0100">
+  <programme channel="wedotv-amor" start="20261115084656 +0100" stop="20261115094227 +0100">
     <title>S01 : E90 El Desprecio - S01:E90 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara verifica con Octavia que Pastora puede impedir el acceso de Israel a las cuentas comunes durante el tiempo que dure el proceso de divorcio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115094228 +0100" stop="20261115103821 +0100">
+  <programme channel="wedotv-amor" start="20261115094228 +0100" stop="20261115103820 +0100">
     <title>S01 : E91 El Desprecio - S01:E91 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Luego que Pastora se durmiera, Elisenda recomienda a Raúl que no permita que su vida privada se hunda junto con la de Lara Portillo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115103822 +0100" stop="20261115112937 +0100">
+  <programme channel="wedotv-amor" start="20261115103821 +0100" stop="20261115112937 +0100">
     <title>S01 : E41 La Trepadora - S01:E041 - Episodio 41 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Eugenia asegura a Fernanda que terminó su relación con Yosmir. Victoria asegura a Jack que su único interés por los momentos es vengarse de Nicolás. Leopoldo anuncia a Fernanda que desea separarse de ella. Florencia logra conmover a Hilario al punto de que el hombre asegura que no se puede apartar de su lado.</desc>
+    <desc>Eugenia assures Fernanda that she ended her relationship with Yosmir. Victoria assures Jack that her only interest at the moment is to get revenge on Nicolás. Leopoldo announces to Fernanda that he wants to separate from her. Florencia manages to move Hilario to the point that he assures her that he cannot leave her side.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261115112938 +0100" stop="20261115122052 +0100">
-    <title>S01 : E42 La Trepadora - S01:E042 - La Trepadora</title>
+    <title>S01 : E42 The Climber S01E042 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario ordena a Moncho que deje de investigar lo que le ordenó porque está convencido de que Florencia le es leal. Clementina rompe su trato con Felipe y se niega a seguir fingiendo que es su novia ante Antonieta. Nicolás es detenido por la muerte de Quijada.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115122053 +0100" stop="20261115131230 +0100">
-    <title>S01 : E18 Te Tengo en Salsa - S01:E18 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261115122053 +0100" stop="20261115131229 +0100">
+    <title>S01 : E18 Te Tengo en Salsa - S01:E18- Patricia's Return - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Unos días después, Patricia arriba al país vestida de luto estricto; en el aeropuerto, el empleado de inmigración la llama señora Wilson.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115131231 +0100" stop="20261115140409 +0100">
-    <title>S01 : E19 Te Tengo en Salsa - S01:E19 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261115131230 +0100" stop="20261115140409 +0100">
+    <title>S01 : E19 Te Tengo en Salsa - S01:E19- The Unexpected Arrival - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos esta esperando en casa de Palacios, en el momento que Patricia sale con Tatiana. Patricia pregunta qué hace C.R. Perroni en su hogar y Adriana indaga de dónde se conocen.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115140410 +0100" stop="20261115145745 +0100">
-    <title>Abigail - S04:E025 - Episode 25</title>
+  <programme channel="wedotv-amor" start="20261115140410 +0100" stop="20261115145744 +0100">
+    <title>Abigail - S04:E025  - Título de Exemplo</title>
     <desc>Carlos Alfredo se disculpa con Abigail, le ruega una oportunidad y ella lo rechaza. Mariana les dice a Rosalba y a Guillermo que siente que su fin está cerca y que no quiere ir en busca de una cura incierta, sino quedarse con la gente que ama.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115145746 +0100" stop="20261115154806 +0100">
-    <title>Abigail - S04:E026 - Episode 26</title>
+  <programme channel="wedotv-amor" start="20261115145745 +0100" stop="20261115154806 +0100">
+    <title>Abigail - S04:E026  - Episode 26</title>
     <desc>Abigail confiesa que aún ama a Carlos Alfredo, pero no lo acepta por orgullo. Carlos Alfredo ordena que traten a Cheito como si fuera el dueño de su casa. Begoña quiere decirle la verdad a Cheito, pero Mariana le pide que no lo haga.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115154807 +0100" stop="20261115164144 +0100">
-    <title>S01 : E36 Corazón Traicionado - S01:E36 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261115154807 +0100" stop="20261115164143 +0100">
+    <title>S01 : E36 Corazón Traicionado - S01:E36- A Conflict of Love - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo tiene la idea fija de llevarse a “su mujer” y a Ignacio con él. Alberto le advierte a Gertrudis que hará lo imposible por liberar a Malena de la violencia de Pablo. Elvis aconseja a Ricardo que se sincere con las Marías o todas acabarán con él - Virginia llega al encuentro de Liz y Augusto, dispuesta a irse con la pareja; para sorpresa de todos, aparece Carmen. Alberto le pide matrimonio a Lorena.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115164145 +0100" stop="20261115173521 +0100">
-    <title>S01 : E36 Corazón Traicionado - S01:E36 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261115164144 +0100" stop="20261115173521 +0100">
+    <title>S01 : E36 Corazón Traicionado - S01:E36- A Conflict of Love - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo tiene la idea fija de llevarse a “su mujer” y a Ignacio con él. Alberto le advierte a Gertrudis que hará lo imposible por liberar a Malena de la violencia de Pablo. Elvis aconseja a Ricardo que se sincere con las Marías o todas acabarán con él - Virginia llega al encuentro de Liz y Augusto, dispuesta a irse con la pareja; para sorpresa de todos, aparece Carmen. Alberto le pide matrimonio a Lorena.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115173522 +0100" stop="20261115183053 +0100">
+  <programme channel="wedotv-amor" start="20261115173522 +0100" stop="20261115183052 +0100">
     <title>S01 : E90 El Desprecio - S01:E90 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara verifica con Octavia que Pastora puede impedir el acceso de Israel a las cuentas comunes durante el tiempo que dure el proceso de divorcio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115183054 +0100" stop="20261115192646 +0100">
+  <programme channel="wedotv-amor" start="20261115183053 +0100" stop="20261115192646 +0100">
     <title>S01 : E91 El Desprecio - S01:E91 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Luego que Pastora se durmiera, Elisenda recomienda a Raúl que no permita que su vida privada se hunda junto con la de Lara Portillo.</desc>
@@ -45888,121 +45461,121 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
   <programme channel="wedotv-amor" start="20261115192647 +0100" stop="20261115202016 +0100">
     <title>S01 : E41 La Trepadora - S01:E041 - Episodio 41 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Eugenia asegura a Fernanda que terminó su relación con Yosmir. Victoria asegura a Jack que su único interés por los momentos es vengarse de Nicolás. Leopoldo anuncia a Fernanda que desea separarse de ella. Florencia logra conmover a Hilario al punto de que el hombre asegura que no se puede apartar de su lado.</desc>
+    <desc>Eugenia assures Fernanda that she ended her relationship with Yosmir. Victoria assures Jack that her only interest at the moment is to get revenge on Nicolás. Leopoldo announces to Fernanda that he wants to separate from her. Florencia manages to move Hilario to the point that he assures her that he cannot leave her side.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115202017 +0100" stop="20261115211346 +0100">
-    <title>S01 : E42 La Trepadora - S01:E042 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261115202017 +0100" stop="20261115211345 +0100">
+    <title>S01 : E42 The Climber S01E042 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario ordena a Moncho que deje de investigar lo que le ordenó porque está convencido de que Florencia le es leal. Clementina rompe su trato con Felipe y se niega a seguir fingiendo que es su novia ante Antonieta. Nicolás es detenido por la muerte de Quijada.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115211347 +0100" stop="20261115220523 +0100">
-    <title>S01 : E18 Te Tengo en Salsa - S01:E18 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261115211346 +0100" stop="20261115220523 +0100">
+    <title>S01 : E18 Te Tengo en Salsa - S01:E18- Patricia's Return - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Unos días después, Patricia arriba al país vestida de luto estricto; en el aeropuerto, el empleado de inmigración la llama señora Wilson.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115220524 +0100" stop="20261115225703 +0100">
-    <title>S01 : E19 Te Tengo en Salsa - S01:E19 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261115220524 +0100" stop="20261115225702 +0100">
+    <title>S01 : E19 Te Tengo en Salsa - S01:E19- The Unexpected Arrival - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos esta esperando en casa de Palacios, en el momento que Patricia sale con Tatiana. Patricia pregunta qué hace C.R. Perroni en su hogar y Adriana indaga de dónde se conocen.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115225704 +0100" stop="20261115235038 +0100">
-    <title>Abigail - S04:E025 - Episode 25</title>
+  <programme channel="wedotv-amor" start="20261115225703 +0100" stop="20261115235038 +0100">
+    <title>Abigail - S04:E025  - Episode 25</title>
     <desc>Carlos Alfredo se disculpa con Abigail, le ruega una oportunidad y ella lo rechaza. Mariana les dice a Rosalba y a Guillermo que siente que su fin está cerca y que no quiere ir en busca de una cura incierta, sino quedarse con la gente que ama.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261115235039 +0100" stop="20261116004100 +0100">
-    <title>Abigail - S04:E026 - Episode 26</title>
+  <programme channel="wedotv-amor" start="20261115235039 +0100" stop="20261116004059 +0100">
+    <title>Abigail - S04:E026  - Episode 26</title>
     <desc>Abigail confiesa que aún ama a Carlos Alfredo, pero no lo acepta por orgullo. Carlos Alfredo ordena que traten a Cheito como si fuera el dueño de su casa. Begoña quiere decirle la verdad a Cheito, pero Mariana le pide que no lo haga.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116004101 +0100" stop="20261116013437 +0100">
-    <title>S01 : E36 Corazón Traicionado - S01:E36 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261116004100 +0100" stop="20261116013437 +0100">
+    <title>S01 : E36 Corazón Traicionado - S01:E36- A Conflict of Love - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo tiene la idea fija de llevarse a “su mujer” y a Ignacio con él. Alberto le advierte a Gertrudis que hará lo imposible por liberar a Malena de la violencia de Pablo. Elvis aconseja a Ricardo que se sincere con las Marías o todas acabarán con él - Virginia llega al encuentro de Liz y Augusto, dispuesta a irse con la pareja; para sorpresa de todos, aparece Carmen. Alberto le pide matrimonio a Lorena.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116013438 +0100" stop="20261116022815 +0100">
-    <title>S01 : E36 Corazón Traicionado - S01:E36 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261116013438 +0100" stop="20261116022814 +0100">
+    <title>S01 : E36 Corazón Traicionado - S01:E36- A Conflict of Love - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Guillermo tiene la idea fija de llevarse a “su mujer” y a Ignacio con él. Alberto le advierte a Gertrudis que hará lo imposible por liberar a Malena de la violencia de Pablo. Elvis aconseja a Ricardo que se sincere con las Marías o todas acabarán con él - Virginia llega al encuentro de Liz y Augusto, dispuesta a irse con la pareja; para sorpresa de todos, aparece Carmen. Alberto le pide matrimonio a Lorena.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116022816 +0100" stop="20261116032346 +0100">
+  <programme channel="wedotv-amor" start="20261116022815 +0100" stop="20261116032346 +0100">
     <title>S01 : E90 El Desprecio - S01:E90 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Clara verifica con Octavia que Pastora puede impedir el acceso de Israel a las cuentas comunes durante el tiempo que dure el proceso de divorcio.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116032347 +0100" stop="20261116041940 +0100">
+  <programme channel="wedotv-amor" start="20261116032347 +0100" stop="20261116041939 +0100">
     <title>S01 : E91 El Desprecio - S01:E91 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Luego que Pastora se durmiera, Elisenda recomienda a Raúl que no permita que su vida privada se hunda junto con la de Lara Portillo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116041941 +0100" stop="20261116051310 +0100">
+  <programme channel="wedotv-amor" start="20261116041940 +0100" stop="20261116051310 +0100">
     <title>S01 : E41 La Trepadora - S01:E041 - Episodio 41 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
-    <desc>Eugenia asegura a Fernanda que terminó su relación con Yosmir. Victoria asegura a Jack que su único interés por los momentos es vengarse de Nicolás. Leopoldo anuncia a Fernanda que desea separarse de ella. Florencia logra conmover a Hilario al punto de que el hombre asegura que no se puede apartar de su lado.</desc>
+    <desc>Eugenia assures Fernanda that she ended her relationship with Yosmir. Victoria assures Jack that her only interest at the moment is to get revenge on Nicolás. Leopoldo announces to Fernanda that he wants to separate from her. Florencia manages to move Hilario to the point that he assures her that he cannot leave her side.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261116051311 +0100" stop="20261116060425 +0100">
-    <title>S01 : E42 La Trepadora - S01:E042 - La Trepadora</title>
+    <title>S01 : E42 The Climber S01E042 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario ordena a Moncho que deje de investigar lo que le ordenó porque está convencido de que Florencia le es leal. Clementina rompe su trato con Felipe y se niega a seguir fingiendo que es su novia ante Antonieta. Nicolás es detenido por la muerte de Quijada.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261116060426 +0100" stop="20261116070007 +0100">
-    <title>S01 : E18 Te Tengo en Salsa - S01:E18 - Te Tengo en Salsa</title>
+    <title>S01 : E18 Te Tengo en Salsa - S01:E18- Patricia's Return - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Unos días después, Patricia arriba al país vestida de luto estricto; en el aeropuerto, el empleado de inmigración la llama señora Wilson.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261116070008 +0100" stop="20261116075318 +0100">
-    <title>S01 : E37 Corazón Traicionado - S01:E37 - Corazon Traicionado</title>
+    <title>S01 : E37 Corazón Traicionado - S01:E37- - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Carmen acusa a Luis y Augusto de traficar con menores. Ricardo acorralado: por un lado siente que no puede mantener una relación con cuatro mujeres a la vez, pero por el otro está el millón de dólares perdidos. Gertrudis celebra que el éxito en el juicio del narcotraficante le abre las puertas a que todos ellos confíen en su Escritorio Jurídico. Alberto va saliendo de la casa Corona, cuando Guillermo lo intercepta en su moto; amenazante, se levanta la visera del casco y queda al descubierto ante su rival.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116075319 +0100" stop="20261116084626 +0100">
-    <title>S01 : E38 Corazón Traicionado - S01:E38 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261116075319 +0100" stop="20261116084625 +0100">
+    <title>S01 : E38 Corazón Traicionado - S01:E38- Protection and Revelations - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto pide protección policial para su casa y su familia; Omar llega a la conclusión de que Claudio sí está involucrado en la muerte de su hermano - Patricia no entiende por qué Gertrudis insiste en condenar a su hija a una relación con un troglodita como Pablo - Alberto le cuenta a su madre el encuentro que tuvo con el sicario que mató a su papá; Gertrudis finge ira y sorpresa, llamando de inmediato a Claudio para alertarlo sobre la situación</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116084627 +0100" stop="20261116094219 +0100">
+  <programme channel="wedotv-amor" start="20261116084626 +0100" stop="20261116094219 +0100">
     <title>S01 : E91 El Desprecio - S01:E91 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Luego que Pastora se durmiera, Elisenda recomienda a Raúl que no permita que su vida privada se hunda junto con la de Lara Portillo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116094220 +0100" stop="20261116103600 +0100">
+  <programme channel="wedotv-amor" start="20261116094220 +0100" stop="20261116103559 +0100">
     <title>S01 : E92 El Desprecio - S01:E92 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis pregunta a Cirilo si Clara Ines es su hija.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116103601 +0100" stop="20261116112715 +0100">
-    <title>S01 : E42 La Trepadora - S01:E042 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261116103600 +0100" stop="20261116112715 +0100">
+    <title>S01 : E42 The Climber S01E042 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario ordena a Moncho que deje de investigar lo que le ordenó porque está convencido de que Florencia le es leal. Clementina rompe su trato con Felipe y se niega a seguir fingiendo que es su novia ante Antonieta. Nicolás es detenido por la muerte de Quijada.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261116112716 +0100" stop="20261116121830 +0100">
-    <title>S01 : E43 La Trepadora - S01:E043 - La Trepadora</title>
+    <title>S01 : E43 La Trepadora - S01:E043 - A New Beginning - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida le sube el ánimo a una deprimida Victoria. Yosmir pasa la noche en la habitación de Eugenia. Victoria comparte con Jack un paseo a la montaña; la joven sentencia que nada que tenga que ver con Nicolás volverá a afectarla. Leopoldo aconseja a Florencia se olvide de vengarse de Hilario y se vaya lejos a empezar una nueva vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116121831 +0100" stop="20261116131010 +0100">
-    <title>S01 : E19 Te Tengo en Salsa - S01:E19 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261116121831 +0100" stop="20261116131009 +0100">
+    <title>S01 : E19 Te Tengo en Salsa - S01:E19- The Unexpected Arrival - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos esta esperando en casa de Palacios, en el momento que Patricia sale con Tatiana. Patricia pregunta qué hace C.R. Perroni en su hogar y Adriana indaga de dónde se conocen.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116131011 +0100" stop="20261116140110 +0100">
-    <title>S01 : E20 Te Tengo en Salsa - S01:E20 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261116131010 +0100" stop="20261116140110 +0100">
+    <title>S01 : E20 Te Tengo en Salsa - S01:E20- An Unexpected Encounter - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Al percatarse que ha dejado su celular en una tienda, Adriana se aleja de Tatiana y Patricia; justo entonces, ésta se topa con César Román, quien la reconoce de inmediato.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116140111 +0100" stop="20261116145132 +0100">
-    <title>Abigail - S04:E026 - Episode 26</title>
+  <programme channel="wedotv-amor" start="20261116140111 +0100" stop="20261116145131 +0100">
+    <title>Abigail - S04:E026  - Episode 26</title>
     <desc>Abigail confiesa que aún ama a Carlos Alfredo, pero no lo acepta por orgullo. Carlos Alfredo ordena que traten a Cheito como si fuera el dueño de su casa. Begoña quiere decirle la verdad a Cheito, pero Mariana le pide que no lo haga.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116145133 +0100" stop="20261116154324 +0100">
-    <title>Abigail - S04:E027 - Episode 27</title>
+  <programme channel="wedotv-amor" start="20261116145132 +0100" stop="20261116154324 +0100">
+    <title>Abigail - S04:E027  - Ancaman dan Keputusasaan</title>
     <desc>Rosalba amenaza con contarle a Cheito la verdad a menos que firmen un permiso para sacar a Mariana del país. Látigo le roba a Cheito las llaves del negocio de Joao. Mariana se pone cada vez peor y Abigail teme que su fin haya llegado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116154325 +0100" stop="20261116163636 +0100">
-    <title>S01 : E37 Corazón Traicionado - S01:E37 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261116154325 +0100" stop="20261116163635 +0100">
+    <title>S01 : E37 Corazón Traicionado - S01:E37- - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Carmen acusa a Luis y Augusto de traficar con menores. Ricardo acorralado: por un lado siente que no puede mantener una relación con cuatro mujeres a la vez, pero por el otro está el millón de dólares perdidos. Gertrudis celebra que el éxito en el juicio del narcotraficante le abre las puertas a que todos ellos confíen en su Escritorio Jurídico. Alberto va saliendo de la casa Corona, cuando Guillermo lo intercepta en su moto; amenazante, se levanta la visera del casco y queda al descubierto ante su rival.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116163637 +0100" stop="20261116172947 +0100">
-    <title>S01 : E37 Corazón Traicionado - S01:E37 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261116163636 +0100" stop="20261116172947 +0100">
+    <title>S01 : E37 Corazón Traicionado - S01:E37- - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Carmen acusa a Luis y Augusto de traficar con menores. Ricardo acorralado: por un lado siente que no puede mantener una relación con cuatro mujeres a la vez, pero por el otro está el millón de dólares perdidos. Gertrudis celebra que el éxito en el juicio del narcotraficante le abre las puertas a que todos ellos confíen en su Escritorio Jurídico. Alberto va saliendo de la casa Corona, cuando Guillermo lo intercepta en su moto; amenazante, se levanta la visera del casco y queda al descubierto ante su rival.</desc>
   </programme>
@@ -46011,37 +45584,37 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>El Desprecio</sub-title>
     <desc>Luego que Pastora se durmiera, Elisenda recomienda a Raúl que no permita que su vida privada se hunda junto con la de Lara Portillo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116182541 +0100" stop="20261116191921 +0100">
+  <programme channel="wedotv-amor" start="20261116182541 +0100" stop="20261116191920 +0100">
     <title>S01 : E92 El Desprecio - S01:E92 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis pregunta a Cirilo si Clara Ines es su hija.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116191922 +0100" stop="20261116201250 +0100">
-    <title>S01 : E42 La Trepadora - S01:E042 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261116191921 +0100" stop="20261116201250 +0100">
+    <title>S01 : E42 The Climber S01E042 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario ordena a Moncho que deje de investigar lo que le ordenó porque está convencido de que Florencia le es leal. Clementina rompe su trato con Felipe y se niega a seguir fingiendo que es su novia ante Antonieta. Nicolás es detenido por la muerte de Quijada.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116201251 +0100" stop="20261116210620 +0100">
-    <title>S01 : E43 La Trepadora - S01:E043 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261116201251 +0100" stop="20261116210619 +0100">
+    <title>S01 : E43 La Trepadora - S01:E043 - A New Beginning - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida le sube el ánimo a una deprimida Victoria. Yosmir pasa la noche en la habitación de Eugenia. Victoria comparte con Jack un paseo a la montaña; la joven sentencia que nada que tenga que ver con Nicolás volverá a afectarla. Leopoldo aconseja a Florencia se olvide de vengarse de Hilario y se vaya lejos a empezar una nueva vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116210621 +0100" stop="20261116215759 +0100">
-    <title>S01 : E19 Te Tengo en Salsa - S01:E19 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261116210620 +0100" stop="20261116215759 +0100">
+    <title>S01 : E19 Te Tengo en Salsa - S01:E19- The Unexpected Arrival - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos esta esperando en casa de Palacios, en el momento que Patricia sale con Tatiana. Patricia pregunta qué hace C.R. Perroni en su hogar y Adriana indaga de dónde se conocen.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116215800 +0100" stop="20261116224900 +0100">
-    <title>S01 : E20 Te Tengo en Salsa - S01:E20 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261116215800 +0100" stop="20261116224859 +0100">
+    <title>S01 : E20 Te Tengo en Salsa - S01:E20- An Unexpected Encounter - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Al percatarse que ha dejado su celular en una tienda, Adriana se aleja de Tatiana y Patricia; justo entonces, ésta se topa con César Román, quien la reconoce de inmediato.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116224901 +0100" stop="20261116233921 +0100">
-    <title>Abigail - S04:E026 - Episode 26</title>
+  <programme channel="wedotv-amor" start="20261116224900 +0100" stop="20261116233921 +0100">
+    <title>Abigail - S04:E026  - Episode 26</title>
     <desc>Abigail confiesa que aún ama a Carlos Alfredo, pero no lo acepta por orgullo. Carlos Alfredo ordena que traten a Cheito como si fuera el dueño de su casa. Begoña quiere decirle la verdad a Cheito, pero Mariana le pide que no lo haga.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116233922 +0100" stop="20261117003114 +0100">
-    <title>Abigail - S04:E027 - Episode 27</title>
+  <programme channel="wedotv-amor" start="20261116233922 +0100" stop="20261117003113 +0100">
+    <title>Abigail - S04:E027  - Ancaman dan Keputusasaan</title>
     <desc>Rosalba amenaza con contarle a Cheito la verdad a menos que firmen un permiso para sacar a Mariana del país. Látigo le roba a Cheito las llaves del negocio de Joao. Mariana se pone cada vez peor y Abigail teme que su fin haya llegado.</desc>
   </programme>
   <programme channel="rookie-blue-spa" start="20261112231337 +0100" stop="20261113000239 +0100">
@@ -58843,11 +58416,11 @@ Open</desc>
     <title>Psychomania - (aka The Death Wheelers)</title>
     <desc>A gang of young people call themselves the Living Dead. They terrorize the population from their small town. After an agreement with the devil, if they kill themselves firmly believing in it, they will survive and gain eternal life. Following their leader, they commit suicide one after the other, but things don't necessarily turn out as expected.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261115050310 +0100" stop="20261115065224 +0100">
+  <programme channel="dark-matter-es-new" start="20261115050310 +0100" stop="20261115065225 +0100">
     <title>Raw Meat</title>
     <desc>When a government official disappears in the London tunnels, after several reports of missing people in the same location, Scotland Yard start to take the matter seriously,</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261115065225 +0100" stop="20261115084110 +0100">
+  <programme channel="dark-matter-es-new" start="20261115065226 +0100" stop="20261115084110 +0100">
     <title>Spider Baby</title>
     <desc>An inbred family is visited in their rural mansion by greedy distant relatives intent on taking the family home and inheritance.</desc>
   </programme>
@@ -58859,11 +58432,11 @@ Open</desc>
     <title>The Deadly Bees</title>
     <desc>Trouble strikes when an exhausted pop singer, sent on a vacation to a farm, realizes that the farm's owner grows deadly bees.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261115121906 +0100" stop="20261115135234 +0100">
+  <programme channel="dark-matter-es-new" start="20261115121906 +0100" stop="20261115135235 +0100">
     <title>El ataúd de cristal (TV Cut)</title>
     <desc>Un maníaco atrapa a una actriz en una limusina y le da órdenes a través de un altavoz distorsionado. Ella debe cumplir con sus demandas trastornadas si alguna vez quiere volver a salir de la limusina.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261115135235 +0100" stop="20261115154642 +0100">
+  <programme channel="dark-matter-es-new" start="20261115135236 +0100" stop="20261115154642 +0100">
     <title>Seven Dorms of Death</title>
     <desc>Seven Dorms of Death tells the tale of a cursed stage play that is about to be performed at a New England college. Unfortunately for the director, the young cast, and anyone else unlucky enough to be involved with the production, someone has deadly plans for the play! Can a pair of homicide detectives and a student with psychic powers solve the mystery before it's too late'</desc>
   </programme>
@@ -58871,23 +58444,23 @@ Open</desc>
     <title>Spider Baby</title>
     <desc>An inbred family is visited in their rural mansion by greedy distant relatives intent on taking the family home and inheritance.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261115173528 +0100" stop="20261115193550 +0100">
-    <title>Antrum: The Deadliest Film Ever Made</title>
-    <desc>A young boy and girl enter the forest to dig a hole to hell. Said to be a cursed film from the late 1970s, Antrum examines the horrifying power of storytelling.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261115193551 +0100" stop="20261115214026 +0100">
-    <title>La odisea de los pioneros</title>
-    <desc>Año 1755. Las colonias inglesas están siendo devastadas por las atrocidades de la guerra. Poderes europeos opuestos entre sí han estallado sobre el valle de Ohio, destruyendo el hogar de familias. Cuando dos hermanas son secuestradas por nativos, luchan por mantener su fe bajo las circunstancias más difíciles.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261115214027 +0100" stop="20261115233952 +0100">
+  <programme channel="dark-matter-es-new" start="20261115173528 +0100" stop="20261115193454 +0100">
     <title>Heidi</title>
     <desc>After investigating inside a neighbors attic, two high school friends, known for making prank videos, are increasingly plagued by a series of disturbing, supernatural events involving a creepy, vintage doll named Heidi - but no one will take their claims seriously, until it is too late.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261115233953 +0100" stop="20261116013223 +0100">
+  <programme channel="dark-matter-es-new" start="20261115193455 +0100" stop="20261115213517 +0100">
+    <title>Antrum: The Deadliest Film Ever Made</title>
+    <desc>A young boy and girl enter the forest to dig a hole to hell. Said to be a cursed film from the late 1970s, Antrum examines the horrifying power of storytelling.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261115213518 +0100" stop="20261115233952 +0100">
+    <title>La odisea de los pioneros</title>
+    <desc>Año 1755. Las colonias inglesas están siendo devastadas por las atrocidades de la guerra. Poderes europeos opuestos entre sí han estallado sobre el valle de Ohio, destruyendo el hogar de familias. Cuando dos hermanas son secuestradas por nativos, luchan por mantener su fe bajo las circunstancias más difíciles.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261115233953 +0100" stop="20261116013224 +0100">
     <title>Psychomania - (aka The Death Wheelers)</title>
     <desc>A gang of young people call themselves the Living Dead. They terrorize the population from their small town. After an agreement with the devil, if they kill themselves firmly believing in it, they will survive and gain eternal life. Following their leader, they commit suicide one after the other, but things don't necessarily turn out as expected.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261116013224 +0100" stop="20261116033058 +0100">
+  <programme channel="dark-matter-es-new" start="20261116013225 +0100" stop="20261116033058 +0100">
     <title>Darker Than Amber</title>
     <desc>Professional beach bum and 'knight errant' Travis McGee goes up against psychotic body-builder Terry Bartell. McGee pulls out all the stops when he joins a Carribean cruise to bring the killer to justice.</desc>
   </programme>
@@ -58899,15 +58472,15 @@ Open</desc>
     <title>Sed de Sangre</title>
     <desc>Un cazador enloquecido secuestra personas y las suelta en su propiedad privada, donde las caza por deporte.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261116063826 +0100" stop="20261116084259 +0100">
+  <programme channel="dark-matter-es-new" start="20261116063826 +0100" stop="20261116084300 +0100">
     <title>Silent Rage</title>
     <desc>A sheriff tries to stop the killing spree of a mute maniacal murderer who, as the result of years of medical experimentation, has the ability to self-heal.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261116084300 +0100" stop="20261116090330 +0100">
+  <programme channel="dark-matter-es-new" start="20261116084301 +0100" stop="20261116090331 +0100">
     <title>2 Palomas</title>
     <desc>Un agente inmobiliario amoral y grasiento es presa de una de sus victimas, que se muda silenciosamente a su apartamento y, sin ser visto, comienza una deliciosa y maliciosa campana de venganza. Two Pigeons es una comedia negra con una vena siniestra.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261116090331 +0100" stop="20261116110145 +0100">
+  <programme channel="dark-matter-es-new" start="20261116090332 +0100" stop="20261116110145 +0100">
     <title>Rosa Leigh</title>
     <desc>Sixty years ago an unimaginable tragedy struck the Ruth Lee Elementary School when a little girl named Rosa Leigh was killed along with her teacher and the school's janitor. Now, four paranormal investigators seek to debunk the claims which surround the abandoned school. However, they inadvertently release the darkness which dwells within the school.</desc>
   </programme>
@@ -58935,12 +58508,12 @@ Open</desc>
     <title>Pruebas Concluyentes</title>
     <desc>Durante la renovacion de una casa antigua Shannon Hughes descubre algo sorprendente: los huesos de una adolescente que desaparecio hace quince anos.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261116180815 +0100" stop="20261116195222 +0100">
+  <programme channel="dark-matter-es-new" start="20261116180815 +0100" stop="20261116195223 +0100">
     <title>S01 : E01 Los misterios de Fixer Upper - Los misterios de Fixer Upper</title>
     <sub-title>Los misterios de Fixer Upper</sub-title>
     <desc>Shannon Hughes y Mark Sullivan investigan la misteriosa muerte de un hombre muy querido en la ciudad al que le gustaba contar historias y buscar tesoros.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261116195223 +0100" stop="20261116205302 +0100">
+  <programme channel="dark-matter-es-new" start="20261116195224 +0100" stop="20261116205302 +0100">
     <title>Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
     <desc>Episode One discusses 'The Monster Within And Among Us', and discusses Jack The Ripper (even though he's not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
   </programme>
