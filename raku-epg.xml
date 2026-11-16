@@ -153,7 +153,7 @@
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d1bd1f06-f3a0-47ec-abac-62342ff42fdb.jpeg"/>
   </channel>
   <channel id="that-s-70s">
-    <display-name lang="es">That's Christmas</display-name>
+    <display-name lang="es">that's Christmas</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/14c3846e-88af-420d-aa36-2288a4ae147c.jpeg"/>
   </channel>
   <channel id="stingray-remember-the-80-s">
@@ -38251,71 +38251,7 @@ seguidores...</desc>
     <title>Last Days</title>
     <desc>The crew reflects on what they have seen and done in the past week, hoping to get just one more day of waves.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261116010001 +0100" stop="20261116013000 +0100">
-    <title>Italy</title>
-    <desc>Shannon and Shayne search for surf on the Mediterranean shores of Italy.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116013001 +0100" stop="20261116023000 +0100">
-    <title>Episode 3</title>
-    <desc>A foggy Portuguese village becomes a surf haven, keeping traditions and hidden secrets beyond the waves.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116023001 +0100" stop="20261116030000 +0100">
-    <title>Maldives</title>
-    <desc>We travel to the Maldives with Hood Ahmed, Keely Andrew, Cooper Davies and Jesse Starling.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116030001 +0100" stop="20261116031500 +0100">
-    <title>Quivers: Ian Gottron</title>
-    <desc>Quivers profiles Ian Gottron, a ride-everything surfer with style across every board.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116031501 +0100" stop="20261116033000 +0100">
-    <title>Quivers: Torren Martyn Puts His All-Twin-Fin Quiver to the Test</title>
-    <desc>Quivers explores Torren Martyn's twin-fin style and creative partnership with Simon Jones.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116033001 +0100" stop="20261116034500 +0100">
-    <title>Episode 5</title>
-    <desc>Surf skills don't mean land smarts! Episode 5 sees surfers tackle a trivia challenge at basecamp.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116034501 +0100" stop="20261116040000 +0100">
-    <title>Episode 6</title>
-    <desc>Owen Wright &amp; Vaughan Blakey push Australia's top boardrider clubs to their limits in Episode 6.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116040001 +0100" stop="20261116043000 +0100">
-    <title>Warrior Spirit</title>
-    <desc>Kala Alexander and members of Wolfpak discuss the dangers of Pipeline and the influence of mixed martial arts.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116043001 +0100" stop="20261116050000 +0100">
-    <title>Tom Carroll x T&amp;C Pin Byrner</title>
-    <desc>Tom Carroll and Luca Elder break down the much acclaimed Town &amp; Country Pin Byrner surfboard model.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116050001 +0100" stop="20261116054500 +0100">
-    <title>Mozambique</title>
-    <desc>João Kopke goes in search of waves on the East African coast.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116054501 +0100" stop="20261116060000 +0100">
-    <title>Quivers: Chippa Wilson</title>
-    <desc>Quivers profiles Chippa Wilson and the wild boards behind his progressive airs.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116060001 +0100" stop="20261116063000 +0100">
-    <title>Glamis</title>
-    <desc>The crew heads to the Imperial Valley in California where big winds have made the dunes larger than ever.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116063001 +0100" stop="20261116070000 +0100">
-    <title>Ocotillo</title>
-    <desc>The caravan keeps touring Imperial Valley and visits Ocotillo Wells, at the heart of the California Desert.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116070001 +0100" stop="20261116073000 +0100">
-    <title>Solar Shred</title>
-    <desc>Built To Shred gets eco-friendly boards, skating with Bob Burnquist and a BMX junk jumping session. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116073001 +0100" stop="20261116074500 +0100">
-    <title>Get Back Up Again</title>
-    <desc>An all-access pass to the Norco Race Division, with Greg Minnaar, Gracey Hemstreet, Lucas Cruz, Kirk McDowall.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116074501 +0100" stop="20261116081000 +0100">
-    <title>Auto Pro AM</title>
-    <desc>Alto Pro Am celebrates '90s-2000s surf with retro boards, stunts, relays, and pure stoke.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261116081001 +0100" stop="20261116090000 +0100">
+  <programme channel="fuel-tv-new" start="20261116010001 +0100" stop="20261116090000 +0100">
     <title>Saltwater Green</title>
     <desc>A fast-paced, high action longboard movie, from single-fin logs to high performance tri-fins.</desc>
   </programme>
@@ -40899,76 +40835,92 @@ seguidores...</desc>
     <sub-title>Todos los goles</sub-title>
     <desc>Los mejores goles de las temporadas desde 2010 hasta 2015</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261116203646 +0100" stop="20261116224029 +0100">
-    <title>FULL MATCH | Ajax Legends - Barça Legends | Friendily match 2026/2027</title>
-    <desc>FULL MATCH | Ajax Legends - Barça Legends | Friendily match 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261116203646 +0100" stop="20261116222839 +0100">
+    <title>S202627 : E05 PARTIDO COMPLETO | Ajax Legends - Barça Legends | Partido amistoso 2026-27 - Barça Legends</title>
+    <sub-title>Barça Legends</sub-title>
+    <desc>Disfruta del partido amistoso entre los Ajax Legends y los Barça Legends</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261116224030 +0100" stop="20261116232944 +0100">
+  <programme channel="top-barca-es" start="20261116222840 +0100" stop="20261116231754 +0100">
     <title>S202627 : E03 TODOS LOS GOLES | Leo Messi Parte 3 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261116232945 +0100" stop="20261117012944 +0100">
-    <title>FULL MATCH | Barça Atlètic - Girona B | 2a RFEF 2026/2027</title>
-    <desc>FULL MATCH | Barça Atlètic - Girona B | 2a RFEF 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261116231755 +0100" stop="20261117012114 +0100">
+    <title>S202627 : E11 PARTIDO COMPLETO | Barça Atlètic - Girona B | 2a RFEF 2026-27 - Barça Atlètic</title>
+    <sub-title>Barça Atlètic</sub-title>
+    <desc>Disfruta del partido de la 2a RFEF 2026-27 entre Barça Atlètic y Girona B</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261117012945 +0100" stop="20261117023255 +0100">
-    <title>S202627 : E60 HIGHLIGHTS | Top 10 años 90 - LaLiga</title>
-    <sub-title>LaLiga</sub-title>
-    <desc>Disfruta de los mejores goles de la década de los 90</desc>
+  <programme channel="top-barca-es" start="20261117012115 +0100" stop="20261117015143 +0100">
+    <title>S202526 : E25 TODOS LOS GOLES | Ronaldo - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Ronaldo con el FC Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261117023256 +0100" stop="20261117043255 +0100">
-    <title>FULL MATCH | Ajax Legends - Barça Legends | Friendily match 2026/2027</title>
-    <desc>FULL MATCH | Ajax Legends - Barça Legends | Friendily match 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261117015144 +0100" stop="20261117021548 +0100">
+    <title>S202526 : E55 TODOS LOS GOLES | Pedri - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de los grandes jugadores de la historia del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261117043256 +0100" stop="20261117052915 +0100">
+  <programme channel="top-barca-es" start="20261117021549 +0100" stop="20261117040742 +0100">
+    <title>S202627 : E05 PARTIDO COMPLETO | Ajax Legends - Barça Legends | Partido amistoso 2026-27 - Barça Legends</title>
+    <sub-title>Barça Legends</sub-title>
+    <desc>Disfruta del partido amistoso entre los Ajax Legends y los Barça Legends</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261117040743 +0100" stop="20261117050402 +0100">
     <title>S202526 : E54 TODOS LOS GOLES | Caroline Graham Hansen - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Caroline Graham Hansen como jugadora blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261117052916 +0100" stop="20261117065915 +0100">
-    <title>LA MASIA | FC Barcelona Sub10- Escola Bellvitge  2026/2027</title>
-    <desc>LA MASIA | FC Barcelona Sub10- Escola Bellvitge  2026/2027</desc>
+  <programme channel="top-barca-es" start="20261117050403 +0100" stop="20261117062252 +0100">
+    <title>S202627 : E05 LA MASIA | FC Barcelona Sub-10 B - Escola Pedraza | 2026-27 - La Masia</title>
+    <sub-title>La Masia</sub-title>
+    <desc>Disfruta de los mejores partidos de los equipos de la base blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261117065916 +0100" stop="20261117074429 +0100">
-    <title>S202526 : E16 TODOS LOS GOLES | Lamine Yamal - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles de Lamine como jugador del Barça</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261117074430 +0100" stop="20261117081433 +0100">
-    <title>S200607 : E12 HIGHLIGHTS | FC Barcelona - Villarreal | La Liga 2006-07 - LaLiga</title>
-    <sub-title>LaLiga</sub-title>
-    <desc>Disfruta del mejor resúmen del partido de la liga 2006-07 entre Barça y Villarreal</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261117081434 +0100" stop="20261117092111 +0100">
-    <title>S202526 : E18 TODOS LOS GOLES | Raphinha - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles de Raphinha con el Barça</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261117092112 +0100" stop="20261117105111 +0100">
-    <title>LA MASIA | FC Barcelona Sub12 Femení - Atlètic Segre | 2026/2027</title>
-    <desc>LA MASIA | FC Barcelona Sub12 Femení - Atlètic Segre | 2026/2027</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261117105112 +0100" stop="20261117114507 +0100">
-    <title>S202526 : E30 TODOS LOS GOLES | Neymar - Todos los goles</title>
-    <sub-title>Todos los goles</sub-title>
-    <desc>Todos los goles de Neymar como blaugrana</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261117114508 +0100" stop="20261117134507 +0100">
-    <title>FULL MATCH | Barça Atlètic - Girona B | 2a RFEF 2026/2027</title>
-    <desc>FULL MATCH | Barça Atlètic - Girona B | 2a RFEF 2026/2027</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261117134508 +0100" stop="20261117141039 +0100">
+  <programme channel="top-barca-es" start="20261117062253 +0100" stop="20261117064823 +0100">
     <title>S201516 : E11 HIGHLIGHTS | FC Barcelona - Villarreal | La Liga 2015-16 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta del mejor resúmen del partido de la liga 2015-16 entre Barça y Villarreal</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261117141040 +0100" stop="20261117152127 +0100">
+  <programme channel="top-barca-es" start="20261117064824 +0100" stop="20261117073338 +0100">
+    <title>S202526 : E16 TODOS LOS GOLES | Lamine Yamal - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Lamine como jugador del Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261117073339 +0100" stop="20261117080341 +0100">
+    <title>S200607 : E12 HIGHLIGHTS | FC Barcelona - Villarreal | La Liga 2006-07 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del mejor resúmen del partido de la liga 2006-07 entre Barça y Villarreal</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261117080342 +0100" stop="20261117091019 +0100">
+    <title>S202526 : E18 TODOS LOS GOLES | Raphinha - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Raphinha con el Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261117091020 +0100" stop="20261117103052 +0100">
+    <title>S202627 : E05 LA MASIA | FC Barcelona Femenino Sub-12 - Atlètic Sant Just | 2026-27 - La Masia</title>
+    <sub-title>La Masia</sub-title>
+    <desc>Disfruta de los mejores partidos de los equipos de la Masia</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261117103053 +0100" stop="20261117112449 +0100">
+    <title>S202526 : E30 TODOS LOS GOLES | Neymar - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Neymar como blaugrana</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261117112450 +0100" stop="20261117131643 +0100">
+    <title>S202627 : E05 PARTIDO COMPLETO | Ajax Legends - Barça Legends | Partido amistoso 2026-27 - Barça Legends</title>
+    <sub-title>Barça Legends</sub-title>
+    <desc>Disfruta del partido amistoso entre los Ajax Legends y los Barça Legends</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261117131644 +0100" stop="20261117134214 +0100">
+    <title>S201516 : E11 HIGHLIGHTS | FC Barcelona - Villarreal | La Liga 2015-16 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del mejor resúmen del partido de la liga 2015-16 entre Barça y Villarreal</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261117134215 +0100" stop="20261117145819 +0100">
     <title>S199697 : E01 HIGHLIGHTS | Lo mejor de Ronaldo Nazario - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta de los mejores partidos de Ronaldo con el FC Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261117152128 +0100" stop="20261117154659 +0100">
+  <programme channel="top-barca-es" start="20261117145820 +0100" stop="20261117154659 +0100">
     <title>S201516 : E11 HIGHLIGHTS | FC Barcelona - Villarreal | La Liga 2015-16 - LaLiga</title>
     <sub-title>LaLiga</sub-title>
     <desc>Disfruta del mejor resúmen del partido de la liga 2015-16 entre Barça y Villarreal</desc>
@@ -45257,7 +45209,7 @@ seguidores...</desc>
     <desc>Un grupo de cuatro personas posee un caballo de carreras. Cuando uno de ellos es asesinado, Barnaby investiga.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261115235039 +0100" stop="20261116004059 +0100">
-    <title>Abigail - S04:E026  - Episode 26</title>
+    <title>Abigail - S04:E026  - Cinta dan Kebanggaan</title>
     <desc>Abigail confiesa que aún ama a Carlos Alfredo, pero no lo acepta por orgullo. Carlos Alfredo ordena que traten a Cheito como si fuera el dueño de su casa. Begoña quiere decirle la verdad a Cheito, pero Mariana le pide que no lo haga.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261116004100 +0100" stop="20261116013437 +0100">
@@ -45336,7 +45288,7 @@ seguidores...</desc>
     <desc>Al percatarse que ha dejado su celular en una tienda, Adriana se aleja de Tatiana y Patricia; justo entonces, ésta se topa con César Román, quien la reconoce de inmediato.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261116140111 +0100" stop="20261116145131 +0100">
-    <title>Abigail - S04:E026  - Episode 26</title>
+    <title>Abigail - S04:E026  - Cinta dan Kebanggaan</title>
     <desc>Abigail confiesa que aún ama a Carlos Alfredo, pero no lo acepta por orgullo. Carlos Alfredo ordena que traten a Cheito como si fuera el dueño de su casa. Begoña quiere decirle la verdad a Cheito, pero Mariana le pide que no lo haga.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261116145132 +0100" stop="20261116154324 +0100">
@@ -45384,11 +45336,11 @@ seguidores...</desc>
     <desc>Al percatarse que ha dejado su celular en una tienda, Adriana se aleja de Tatiana y Patricia; justo entonces, ésta se topa con César Román, quien la reconoce de inmediato.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261116224900 +0100" stop="20261116233921 +0100">
-    <title>Abigail - S04:E026  - Episode 26</title>
+    <title>Abigail - S04:E026  - الحب والفخر</title>
     <desc>Abigail confiesa que aún ama a Carlos Alfredo, pero no lo acepta por orgullo. Carlos Alfredo ordena que traten a Cheito como si fuera el dueño de su casa. Begoña quiere decirle la verdad a Cheito, pero Mariana le pide que no lo haga.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261116233922 +0100" stop="20261117003113 +0100">
-    <title>Abigail - S04:E027  - Ameaças e Desespero</title>
+    <title>Abigail - S04:E027  - Episode 27</title>
     <desc>Rosalba amenaza con contarle a Cheito la verdad a menos que firmen un permiso para sacar a Mariana del país. Látigo le roba a Cheito las llaves del negocio de Joao. Mariana se pone cada vez peor y Abigail teme que su fin haya llegado.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261117003114 +0100" stop="20261117012425 +0100">
@@ -45467,7 +45419,7 @@ seguidores...</desc>
     <desc>Carlos Raúl le manifiesta a Mauricio que, a pesar de ser descubierto por Adriana en su plan de apresar a César, no desmayará en conquistar el corazón de la joven.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261117135838 +0100" stop="20261117145029 +0100">
-    <title>Abigail - S04:E027  - Episode 27</title>
+    <title>Abigail - S04:E027  - تهديدات ويأس</title>
     <desc>Rosalba amenaza con contarle a Cheito la verdad a menos que firmen un permiso para sacar a Mariana del país. Látigo le roba a Cheito las llaves del negocio de Joao. Mariana se pone cada vez peor y Abigail teme que su fin haya llegado.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261117145030 +0100" stop="20261117152712 +0100">
@@ -45519,15 +45471,15 @@ seguidores...</desc>
     <desc>Carlos Raúl le manifiesta a Mauricio que, a pesar de ser descubierto por Adriana en su plan de apresar a César, no desmayará en conquistar el corazón de la joven.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261117224520 +0100" stop="20261117233711 +0100">
-    <title>Abigail - S04:E027  - Episode 27</title>
+    <title>Abigail - S04:E027  - Ancaman dan Keputusasaan</title>
     <desc>Rosalba amenaza con contarle a Cheito la verdad a menos que firmen un permiso para sacar a Mariana del país. Látigo le roba a Cheito las llaves del negocio de Joao. Mariana se pone cada vez peor y Abigail teme que su fin haya llegado.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261117233712 +0100" stop="20261118001354 +0100">
-    <title>Abigail - S04:E028  - Episode 28</title>
+    <title>Abigail - S04:E028  - عنوان تجريبي</title>
     <desc>María Begoña se hace pasar por María Clara para manipular a Abigail y Mariana. Mariana hace prometer a Abigail que se casará con Álvaro. Carlos Alfredo se niega a firmar el permiso para sacar a Mariana del país a pesar de la presión de Rosalba.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118001355 +0100" stop="20261118002854 +0100">
-    <title>Abigail - S01:E028 - A Intrusão</title>
+    <title>Abigail - S01:E028 - Episode 28</title>
     <desc>Leónidas descubre que alguien se metió a la casa de los Guzmán. Carlos Alfredo le propone a María Clara irse de luna de miel. Leonel señala a Carlos Alfredo como el acosador de Abigail ante el inspector Camacho.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118002855 +0100" stop="20261118012202 +0100">
@@ -45606,7 +45558,7 @@ seguidores...</desc>
     <desc>En un amable encuentro, César le asoma la posibilidad a su hermano Carlos Raúl, que lo mejor con Adriana está por llegar.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118135545 +0100" stop="20261118144810 +0100">
-    <title>Abigail - S04:E028  - Título de Exemplo</title>
+    <title>Abigail - S04:E028  - Episode 28</title>
     <desc>María Begoña se hace pasar por María Clara para manipular a Abigail y Mariana. Mariana hace prometer a Abigail que se casará con Álvaro. Carlos Alfredo se niega a firmar el permiso para sacar a Mariana del país a pesar de la presión de Rosalba.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118144811 +0100" stop="20261118153851 +0100">
@@ -45654,7 +45606,7 @@ seguidores...</desc>
     <desc>En un amable encuentro, César le asoma la posibilidad a su hermano Carlos Raúl, que lo mejor con Adriana está por llegar.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118224206 +0100" stop="20261118233432 +0100">
-    <title>Abigail - S04:E028  - Tajuk Contoh</title>
+    <title>Abigail - S04:E028  - Episode 28</title>
     <desc>María Begoña se hace pasar por María Clara para manipular a Abigail y Mariana. Mariana hace prometer a Abigail que se casará con Álvaro. Carlos Alfredo se niega a firmar el permiso para sacar a Mariana del país a pesar de la presión de Rosalba.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118233433 +0100" stop="20261119002513 +0100">
@@ -45737,11 +45689,11 @@ seguidores...</desc>
     <desc>Ya en el spa, Ninoska le advierte a Francesca que sacará para siempre a Adriana de la vida de Carlos Raúl.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261119135757 +0100" stop="20261119144837 +0100">
-    <title>Abigail - S04:E029  - قلق كارلوتا</title>
+    <title>Abigail - S04:E029  - Episode 29</title>
     <desc>Carlota se preocupa por lo que pasará con Cheito cuando Abigail y Álvaro se casen. Carlos Alfredo descubre a Abigail y Álvaro besándose y planeando su boda. Mariana le confiesa a Carlos Alfredo que le pidió a Abigail que se case con Álvaro.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261119144838 +0100" stop="20261119154023 +0100">
-    <title>Abigail - S04:E030  -</title>
+    <title>Abigail - S04:E030  - O Plano de María Begoña</title>
     <desc>María Begoña paga a Maruca para que Látigo y Navaja asusten a Carlota y a Cheito hasta el punto de que decidan desaparecer. Rosalba intenta contarle la verdad a Cheito pero Carlos Alfredo la detiene. Cheito le pide a Mariana que se case con él.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261119154024 +0100" stop="20261119163013 +0100">
@@ -45785,7 +45737,7 @@ seguidores...</desc>
     <desc>Ya en el spa, Ninoska le advierte a Francesca que sacará para siempre a Adriana de la vida de Carlos Raúl.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261119223902 +0100" stop="20261119232942 +0100">
-    <title>Abigail - S04:E029  - قلق كارلوتا</title>
+    <title>Abigail - S04:E029  - Episode 29</title>
     <desc>Carlota se preocupa por lo que pasará con Cheito cuando Abigail y Álvaro se casen. Carlos Alfredo descubre a Abigail y Álvaro besándose y planeando su boda. Mariana le confiesa a Carlos Alfredo que le pidió a Abigail que se case con Álvaro.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261119232943 +0100" stop="20261120002128 +0100">
@@ -58503,27 +58455,27 @@ Open</desc>
     <title>El Tiempo de Los Monstruos</title>
     <desc>Víctor, que dice haber rodado algunas películas que no ha conseguido estrenar, reúne alrededor de su lecho de muerte a sus más fieles colaboradores, con el fin de representar su obra póstuma.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261117183142 +0100" stop="20261117201443 +0100">
+  <programme channel="dark-matter-es-new" start="20261117183142 +0100" stop="20261117201629 +0100">
+    <title>Amelia 2.0</title>
+    <desc>Cuando el marido de una mujer moribunda es abordado por una corporación pionera en un nuevo programa para extender la vida a través de la robótica, quedan atrapados en un debate público sobre la relación del ser humano con la tecnología.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261117201630 +0100" stop="20261117215931 +0100">
     <title>Los misterios de Emma Fielding: Yacimiento oculto</title>
     <desc>La arqueologa Emma Fielding dirige un equipo de excavacion. Cerca del lugar aparece un cadaver y ella se convierte en uno de los sospechosos.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261117201444 +0100" stop="20261117215534 +0100">
+  <programme channel="dark-matter-es-new" start="20261117215932 +0100" stop="20261117234022 +0100">
     <title>Salvage</title>
     <desc>When a container washes ashore the residents of a sleepy cul-de-sac are plunged into violence, terror and paranoia. Ring fenced by the military a single mother must overcome all the odds to save her daughter.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261117215535 +0100" stop="20261117234022 +0100">
-    <title>Amelia 2.0</title>
-    <desc>Cuando el marido de una mujer moribunda es abordado por una corporación pionera en un nuevo programa para extender la vida a través de la robótica, quedan atrapados en un debate público sobre la relación del ser humano con la tecnología.</desc>
   </programme>
   <programme channel="dark-matter-es-new" start="20261117234023 +0100" stop="20261118013307 +0100">
     <title>Cry of the Black Wolves</title>
     <desc>Halfwit Indian Akaena promises a fictitious treasure to anyone who takes her down south where the sun always shines. Trapper Bill Robinson, an honest fur trader in Alaska, refuses to sell his dog sled to dishonest miner Mike Williams, who steals it at gunpoint.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261118013308 +0100" stop="20261118033742 +0100">
+  <programme channel="dark-matter-es-new" start="20261118013308 +0100" stop="20261118033741 +0100">
     <title>Silent Rage</title>
     <desc>A sheriff tries to stop the killing spree of a mute maniacal murderer who, as the result of years of medical experimentation, has the ability to self-heal.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261118033743 +0100" stop="20261118052856 +0100">
+  <programme channel="dark-matter-es-new" start="20261118033742 +0100" stop="20261118052856 +0100">
     <title>Deadly Virtues: Love.Honour.Obey</title>
     <desc>A stranger breaks into the house of a couple, ties up the husband and, having a whole weekend at his hand, plays a slow game with the woman, a game of threats, fear, obedience - and intimacy.</desc>
   </programme>
@@ -58563,22 +58515,22 @@ Open</desc>
     <title>Chain Letter</title>
     <desc>Six friends receive a mysterious chain letter via text and email from a maniac who hunts down those who delete the message. Who knew they should take the threats in the chain letter seriously or that their favorite technologies could help track and kill them? This maniacal game pits friend against friend as they try to escape the impossible. Break the chain, lose a life.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261118162147 +0100" stop="20261118180555 +0100">
+  <programme channel="dark-matter-es-new" start="20261118162147 +0100" stop="20261118180554 +0100">
     <title>S01 : E01 Los misterios de Fixer Upper - Los misterios de Fixer Upper</title>
     <sub-title>Los misterios de Fixer Upper</sub-title>
     <desc>Shannon Hughes y Mark Sullivan investigan la misteriosa muerte de un hombre muy querido en la ciudad al que le gustaba contar historias y buscar tesoros.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261118180556 +0100" stop="20261118194438 +0100">
-    <title>Blood Honey</title>
-    <desc>Tortured by the memory of a childhood trauma, a woman returns after a decade to her family's fly-in hunting lodge to assist her siblings with their dying father, only to find herself stuck in a life threatening nightmare.</desc>
+  <programme channel="dark-matter-es-new" start="20261118180555 +0100" stop="20261118190634 +0100">
+    <title>Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
+    <desc>Episode One discusses 'The Monster Within And Among Us', and discusses Jack The Ripper (even though he's not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261118194439 +0100" stop="20261118212357 +0100">
+  <programme channel="dark-matter-es-new" start="20261118190635 +0100" stop="20261118204553 +0100">
     <title>Tombstone Rashomon</title>
     <desc>The Tombstone story told in the style of the Japanese classic "Rashomon", where we see history from several perspectives including that of Wyatt Earp, Doc Holliday, Kate, Ike Clanton, Colonel Hafford and Johnny Behan.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261118212358 +0100" stop="20261118222436 +0100">
-    <title>Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
-    <desc>Episode One discusses 'The Monster Within And Among Us', and discusses Jack The Ripper (even though he's not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
+  <programme channel="dark-matter-es-new" start="20261118204554 +0100" stop="20261118222436 +0100">
+    <title>Blood Honey</title>
+    <desc>Tortured by the memory of a childhood trauma, a woman returns after a decade to her family's fly-in hunting lodge to assist her siblings with their dying father, only to find herself stuck in a life threatening nightmare.</desc>
   </programme>
   <programme channel="dark-matter-es-new" start="20261118222437 +0100" stop="20261118235805 +0100">
     <title>El ataúd de cristal (TV Cut)</title>
@@ -58596,11 +58548,11 @@ Open</desc>
     <title>Fat Tuesday</title>
     <desc>Behind the mask of Mardi Gras, something sinister stalks the streets of New Orleans. Filmed on-location during the final days of Carnival, a group of friends is preyed upon by a mysterious killer.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261119044310 +0100" stop="20261119061841 +0100">
+  <programme channel="dark-matter-es-new" start="20261119044310 +0100" stop="20261119061840 +0100">
     <title>El monstruo humano AKA The Human Monster</title>
     <desc>Agente de seguros-medico cobra polizas de hombres asesinados por un residente desfigurado del hogar para ciegos donde actua como medico de guardia.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261119061842 +0100" stop="20261119080726 +0100">
+  <programme channel="dark-matter-es-new" start="20261119061841 +0100" stop="20261119080726 +0100">
     <title>Spider Baby</title>
     <desc>An inbred family is visited in their rural mansion by greedy distant relatives intent on taking the family home and inheritance.</desc>
   </programme>
@@ -58725,7 +58677,7 @@ Open</desc>
     <desc>Una pareja de luna de miel en Marruecos sobrevive a un fatal accidente de coche en medio del desierto.</desc>
   </programme>
   <programme channel="cine-friki" start="20261117145103 +0100" stop="20261117171637 +0100">
-    <title>Piel</title>
+    <title>Skin</title>
     <desc>Un notorio skinhead se enamora de una mujer y sus tres hijas, y se somete a dolorosos tratamientos para eliminar los tatuajes que cubren todo su rostro y cuerpo, la representación física del odio que mostró al mundo durante más de la mitad de su vida. Basada en la historia real de Bryon Widner.</desc>
   </programme>
   <programme channel="cine-friki" start="20261117171638 +0100" stop="20261117191203 +0100">
