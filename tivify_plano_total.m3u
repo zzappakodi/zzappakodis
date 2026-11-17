@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://192.168.1.98:8080/tivify_fast_epg.xml"
 
 #EXTINF:-1 tvg-id="RTPi" tvg-name="RTPi" tvg-logo="http://192.168.1.98:8080/logos/RTPi.png" group-title="Cajón de Sastre",RTPi
-https://live-tcsand.c511.transparentedge.io/rtpi/rtpi.mpd
+https://live-tcsand.c511.transparentedge.io/rtpi/rtpi.m3u8
 
 #EXTINF:-1 tvg-id="BBC_World_News" tvg-name="BBC World News" tvg-logo="http://192.168.1.98:8080/logos/BBC%20World%20News.png" group-title="Cajón de Sastre",BBC World News
 https://live.tvup.edge2befaster.io/bbcworldnews/bbcworldnews.m3u8
@@ -277,7 +277,7 @@ https://live.tvup.edge2befaster.io/cubavision/cubavision.m3u8
 https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="SIC_Noticias" tvg-name="SIC Noticias" tvg-logo="http://192.168.1.98:8080/logos/SIC%20Noticias.png" group-title="Cajón de Sastre",SIC Noticias
-https://live-tcsand.c511.transparentedge.io/sicnoticias/sicnoticias.mpd
+https://live-tcsand.c511.transparentedge.io/sicnoticias/sicnoticias.m3u8
 
 #EXTINF:-1 tvg-id="El_Toro_TV" tvg-name="El Toro TV" tvg-logo="http://192.168.1.98:8080/logos/El%20Toro%20TV.png" group-title="Cajón de Sastre",El Toro TV
 https://live.tvup.edge2befaster.io/eltorotv/eltorotv.m3u8
