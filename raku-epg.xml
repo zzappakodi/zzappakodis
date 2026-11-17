@@ -248,10 +248,6 @@
     <display-name lang="es">Tennis+</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0922c6a-1c35-4fe3-a0cd-688efa948a68.jpeg"/>
   </channel>
-  <channel id="red-bull-tv-es">
-    <display-name lang="es">Red Bull TV</display-name>
-    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg"/>
-  </channel>
   <channel id="racer-international">
     <display-name lang="es">RACER International</display-name>
     <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e99fd425-48f6-4ced-b550-a9faca315a4d.jpeg"/>
@@ -479,6 +475,10 @@
   <channel id="stingray-hit-list">
     <display-name lang="es">Stingray Hit List</display-name>
     <icon src="https://images.rakuten.tv/channels/stingray-hit-list.png"/>
+  </channel>
+  <channel id="red-bull-tv-es">
+    <display-name lang="es">Red Bull Tv Es</display-name>
+    <icon src="https://images.rakuten.tv/channels/red-bull-tv-es.png"/>
   </channel>
   <channel id="sports-illustrated-tv">
     <display-name lang="es">Sports Illustrated Tv</display-name>
@@ -21202,6 +21202,278 @@
     <title>Qello Concerts by Stingray - DE</title>
     <desc>Qello Concerts by Stingray - DE</desc>
   </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118040001 +0100" stop="20261118050000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118050001 +0100" stop="20261118060000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118060001 +0100" stop="20261118070000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118070001 +0100" stop="20261118080000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118080001 +0100" stop="20261118090000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118090001 +0100" stop="20261118100000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118100001 +0100" stop="20261118110000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118110001 +0100" stop="20261118120000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118120001 +0100" stop="20261118130000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118130001 +0100" stop="20261118140000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118140001 +0100" stop="20261118150000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118150001 +0100" stop="20261118160000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118160001 +0100" stop="20261118170000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118170001 +0100" stop="20261118180000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118180001 +0100" stop="20261118190000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118190001 +0100" stop="20261118200000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118200001 +0100" stop="20261118210000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118210001 +0100" stop="20261118220000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118220001 +0100" stop="20261118230000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261118230001 +0100" stop="20261119000000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119000001 +0100" stop="20261119010000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119010001 +0100" stop="20261119020000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119020001 +0100" stop="20261119030000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119030001 +0100" stop="20261119040000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119040001 +0100" stop="20261119050000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119050001 +0100" stop="20261119060000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119060001 +0100" stop="20261119070000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119070001 +0100" stop="20261119080000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119080001 +0100" stop="20261119090000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119090001 +0100" stop="20261119100000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119100001 +0100" stop="20261119110000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119110001 +0100" stop="20261119120000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119120001 +0100" stop="20261119130000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119130001 +0100" stop="20261119140000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119140001 +0100" stop="20261119150000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119150001 +0100" stop="20261119160000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119160001 +0100" stop="20261119170000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119170001 +0100" stop="20261119180000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119180001 +0100" stop="20261119190000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119190001 +0100" stop="20261119200000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119200001 +0100" stop="20261119210000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119210001 +0100" stop="20261119220000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119220001 +0100" stop="20261119230000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261119230001 +0100" stop="20261120000000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120000001 +0100" stop="20261120010000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120010001 +0100" stop="20261120020000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120020001 +0100" stop="20261120030000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120030001 +0100" stop="20261120040000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120040001 +0100" stop="20261120050000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120050001 +0100" stop="20261120060000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120060001 +0100" stop="20261120070000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120070001 +0100" stop="20261120080000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120080001 +0100" stop="20261120090000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120090001 +0100" stop="20261120100000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120100001 +0100" stop="20261120110000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120110001 +0100" stop="20261120120000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120120001 +0100" stop="20261120130000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120130001 +0100" stop="20261120140000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120140001 +0100" stop="20261120150000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120150001 +0100" stop="20261120160000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120160001 +0100" stop="20261120170000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120170001 +0100" stop="20261120180000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120180001 +0100" stop="20261120190000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120190001 +0100" stop="20261120200000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120200001 +0100" stop="20261120210000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120210001 +0100" stop="20261120220000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120220001 +0100" stop="20261120230000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
+  <programme channel="qello-concerts-by-stingray" start="20261120230001 +0100" stop="20261121000000 +0100">
+    <title>Qello Concerts by Stingray - DE</title>
+    <desc>Qello Concerts by Stingray - DE</desc>
+  </programme>
   <programme channel="that-s-90s00s" start="20261116220001 +0100" stop="20261117000000 +0100">
     <title>S00 : E00 I Like To Move It! 90s Party! - I Like To Move It! 90s Party!</title>
     <sub-title>I Like To Move It! 90s Party!</sub-title>
@@ -23383,6 +23655,74 @@
     <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
   </programme>
   <programme channel="stingray-greatest-hits" start="20261118000001 +0100" stop="20261118040000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261118040001 +0100" stop="20261118080000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261118080001 +0100" stop="20261118120000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261118120001 +0100" stop="20261118160000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261118160001 +0100" stop="20261118200000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261118200001 +0100" stop="20261119000000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261119000001 +0100" stop="20261119040000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261119040001 +0100" stop="20261119080000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261119080001 +0100" stop="20261119120000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261119120001 +0100" stop="20261119160000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261119160001 +0100" stop="20261119200000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261119200001 +0100" stop="20261120000000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261120000001 +0100" stop="20261120040000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261120040001 +0100" stop="20261120080000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261120080001 +0100" stop="20261120120000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261120120001 +0100" stop="20261120160000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261120160001 +0100" stop="20261120200000 +0100">
+    <title>Greatest Holiday Hits</title>
+    <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
+  </programme>
+  <programme channel="stingray-greatest-hits" start="20261120200001 +0100" stop="20261121000000 +0100">
     <title>Greatest Holiday Hits</title>
     <desc>Hype up your holidays and brighten your spirit with the season's most beloved classics and crowd-pleasing hits.</desc>
   </programme>
@@ -29082,6 +29422,275 @@ fotógrafo. | Francisco García Vena, más conocido como Cisco Garve, es uno de 
   <programme channel="stingray-naturescape" start="20261118015901 +0100" stop="20261118025900 +0100">
     <title>Wharariki Beach Track: New Zealand</title>
     <desc>Wharariki's spectacular coastal trail with caverns, islands, sand dunes, and more.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118025901 +0100" stop="20261118035900 +0100">
+    <title>Lover's Island &amp; Entalula Beach</title>
+    <desc>Powder-white beaches and shimmering waters.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118035901 +0100" stop="20261118045900 +0100">
+    <title>Wairere Falls: New Zealand</title>
+    <desc>The Wairere Falls of New Zealand.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118045901 +0100" stop="20261118055900 +0100">
+    <title>A Day in Santorini</title>
+    <desc>A visual journey through the coastal village of Oia, found on the far tip of Santorini Island.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118055901 +0100" stop="20261118065800 +0100">
+    <title>Lombok Beaches: Indonesia</title>
+    <desc>Experiencing the beaches of an Indonesian island set to a peaceful soundtrack.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118065801 +0100" stop="20261118080000 +0100">
+    <title>Above &amp; Below the Caribbean</title>
+    <desc>A static scene of Curaçao, Caribbean; featuring swimming fish, passing clouds, and sunshine glistening; filmed by Tilo and Yvonne Kühnast.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118080001 +0100" stop="20261118085700 +0100">
+    <title>Wharariki Beach I: New Zealand</title>
+    <desc>Exploring the sandy shores and rocky cliffs of a majestic beach in New Zealand.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118085701 +0100" stop="20261118095900 +0100">
+    <title>Sunny Sandy Beach: Dominican Republic</title>
+    <desc>Unwinding by an idyllic stretch of sand where time stands still surrounded by luxurious flora and light navy blue waters.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118095901 +0100" stop="20261118105900 +0100">
+    <title>Golden Waves Crashing at Sunset</title>
+    <desc>The shores of the iconic Baker Beach in San Francisco with a sunset scene filmed in high definition. Views of the Marin headlands and the Golden Gate Bridge.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118105901 +0100" stop="20261118115900 +0100">
+    <title>Waterfalls Maui, Hawaii</title>
+    <desc>Lose yourself in the heart of Maui's abundant forest where waterfalls flow over the edge of soaring cliffs.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118115901 +0100" stop="20261118125900 +0100">
+    <title>Flying Over the Atlantic Ocean</title>
+    <desc>Travelling the coasts of the Atlantic Ocean from a bird's-eye view.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118125901 +0100" stop="20261118140000 +0100">
+    <title>Algarve: Portugal</title>
+    <desc>Relax along the coastal cliffs in Portugal with this stunning 4K ambient nature film showcasing the stunning sandstone cliffs, glistening blue waters, peaceful waves and birds flying.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118140001 +0100" stop="20261118160000 +0100">
+    <title>The World's Best Beaches</title>
+    <desc>Top ten beaches around the world.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118160001 +0100" stop="20261118165900 +0100">
+    <title>Redwood Forest Rejuvenation</title>
+    <desc>Transporting to the magical redwood forests of Northern California and soaking up the healing energies that only pure nature can provide, with multiple healing scenes from the old-grove forest, paired with real-life stereo nature sounds.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118165901 +0100" stop="20261118175900 +0100">
+    <title>Kabut Pelangi Waterfall: Indonesia</title>
+    <desc>Traveling to East Java and experiencing a waterfall tucked deep in the lush forest.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118175901 +0100" stop="20261118185900 +0100">
+    <title>Fly Over Everest</title>
+    <desc>Soar above Mount Everest for views of the world's highest mountain and the surrounding Himalayan peaks, glaciers and valleys.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118185901 +0100" stop="20261118195900 +0100">
+    <title>Northland Beaches: New Zealand</title>
+    <desc>Traversing the Northland region's pristine beaches that showcase the diverse natural beauty of New Zealand's coastline, and basking in the unspoiled scenery of sandy shores, clear waters, and stunning natural landscapes.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118195901 +0100" stop="20261118205900 +0100">
+    <title>Date With Nature</title>
+    <desc>Feast your eyes on the diverse beauty of Sri Lanka, where rainforests, quiet beaches and vibrant foliage put you in a dreamy trance of natural wonder.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118205901 +0100" stop="20261118215900 +0100">
+    <title>Turtle Paradise</title>
+    <desc>Dive into an undersea world inhabited by the sea turtles; featuring real-time video scenes captured from around the Caribbean, paired with gentle underwater sounds and calming music for relaxation.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118215901 +0100" stop="20261118225900 +0100">
+    <title>A Day in Paradise</title>
+    <desc>Filmed in 2013 by David Huting, the tiny island is hidden off of the northeastern coast of the outer Fiji Islands (near Taveuni), and boasts a perfect white sandy beach, groves of palm trees, and a majestic lagoon that shelters the island from all sides. It has more turtle visitors than humans!</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118225901 +0100" stop="20261118235900 +0100">
+    <title>America From Above</title>
+    <desc>Part one of a new series of ambient drone films for relaxation, America From Above is a spectacular yet ultra-soothing 1-hour long natural journey that sweeps viewers gently above America's vistas. You'll begin the farmlands of Iowa, soaring west through the Rocky Mountains of Colorado, then on to Utah's iconic red rock landscapes and finally ending on the West Coast with a familiar voyage over Big Sur and then back to San Diego just in time for sunset.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261118235901 +0100" stop="20261119005900 +0100">
+    <title>Tutoko River: New Zealand</title>
+    <desc>Rushing waters through rocky rapids.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119005901 +0100" stop="20261119015900 +0100">
+    <title>Bryce Canyon Relaxation</title>
+    <desc>Admiring the wonders of one of the world's most breathtaking natural destinations: Bryce Canyon, in Utah.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119015901 +0100" stop="20261119025900 +0100">
+    <title>A Day on the Napali Coast</title>
+    <desc>An ambient nature film features the sights and sounds of the 11-mile Kalalau Trail on the Hawaiian island of Kauai.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119025901 +0100" stop="20261119035900 +0100">
+    <title>Muriwai Beach: New Zealand</title>
+    <desc>Exploring the serene tranquility of Muriwai Beach in New Zealand and the beauty of its coastline.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119035901 +0100" stop="20261119045900 +0100">
+    <title>Waterfall Paradise: Plitvice</title>
+    <desc>Relaxing for a full hour next to one of the world's most magical waterfall paradises: those of Piltivice, Croatia, immersed in a beautiful array of different high-definition scenes of the falls and crystal blue-green waters.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119045901 +0100" stop="20261119055900 +0100">
+    <title>Autumn in Amsterdam</title>
+    <desc>A cityscape film captured by collaborating cinematographer and Dutch resident Nick DeJonge.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119055901 +0100" stop="20261119065800 +0100">
+    <title>Lake Tahoe Shoreline Rocks</title>
+    <desc>The shoreline of Lake Tahoe.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119065801 +0100" stop="20261119080000 +0100">
+    <title>Rainbow Reef Relaxation 1</title>
+    <desc>Vibrant underwater reefs, including many scenes which no longer look as depicted due to coral bleaching.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119080001 +0100" stop="20261119085900 +0100">
+    <title>Whispers of the Seasons</title>
+    <desc>Take in stunning nature scenes across the seasons, paired with calming ambient sounds.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119085901 +0100" stop="20261119095900 +0100">
+    <title>Moalboal White Beach: Philippines</title>
+    <desc>Exploring the Basdaku Beach.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119095901 +0100" stop="20261119105900 +0100">
+    <title>Gatra Beach: Indonesia</title>
+    <desc>Gatra Beach conservation is one of the remote destinations in nature that has much to offer.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119105901 +0100" stop="20261119115900 +0100">
+    <title>Turquoise Mountain Lake</title>
+    <desc>A high definition window to the famous mountains of Patagonia, with a fixed-angle nature video filmed at the base of Mount Fitz Roy on the border of Argentina and Chile.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119115901 +0100" stop="20261119125900 +0100">
+    <title>Chemin Pealey: Îles de la Madeleine</title>
+    <desc>Admiring the tranquility of water.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119125901 +0100" stop="20261119140000 +0100">
+    <title>Beauty of New Zealand</title>
+    <desc>The South Island of New Zealand.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119140001 +0100" stop="20261119160000 +0100">
+    <title>The World's Best Beaches</title>
+    <desc>Top ten beaches around the world.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119160001 +0100" stop="20261119165900 +0100">
+    <title>Bountiful Waterfalls: American North West</title>
+    <desc>No need for a vacation to check out some of the most beautiful waterfalls of the American North West.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119165901 +0100" stop="20261119175900 +0100">
+    <title>Lake Brunner &amp; Paringa: New Zealand</title>
+    <desc>Exploring a lakeside getaway.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119175901 +0100" stop="20261119185900 +0100">
+    <title>Autumn from Above</title>
+    <desc>Basking in the colors of fall.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119185901 +0100" stop="20261119195900 +0100">
+    <title>South Australia Seas</title>
+    <desc>Transporting viewers to the remote and gorgeous southern coasts of Australia as captured from above; gently traveling from one vibrant ocean scene to the next paired with real-life ocean sounds and ambient music.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119195901 +0100" stop="20261119205900 +0100">
+    <title>Bryce Canyon Relaxation</title>
+    <desc>Admiring the wonders of one of the world's most breathtaking natural destinations: Bryce Canyon, in Utah.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119205901 +0100" stop="20261119215900 +0100">
+    <title>Rainbow Reef Relaxation 2</title>
+    <desc>Vibrant underwater reefs, including many scenes which no longer look as depicted due to coral bleaching.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119215901 +0100" stop="20261119225900 +0100">
+    <title>Snake Island: Philippines</title>
+    <desc>Flying away to paradise and exploring the lush forests and turquoise waters of Snake Island, in the Philippines.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119225901 +0100" stop="20261119235900 +0100">
+    <title>Above the Dolomites</title>
+    <desc>Featuring cinematography by new collaborator Ryan Shirley and synchronized to new healing music by Antonio Resende; offering some views that showcase the Dolomites mountain range.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261119235901 +0100" stop="20261120005900 +0100">
+    <title>Whispers of the Seasons</title>
+    <desc>Take in stunning nature scenes across the seasons, paired with calming ambient sounds.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120005901 +0100" stop="20261120015900 +0100">
+    <title>Glacial Beauty: Newfoundland</title>
+    <desc>Admiring the quiet and glacial beauty of icebergs drifting across the bay at Newfoundland's Amherst Cove.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120015901 +0100" stop="20261120025900 +0100">
+    <title>Wenderholm &amp; Scandretts Park: New Zealand</title>
+    <desc>Scenery of scenic regional parks with their coastal forests and rocky bluffs that border spectacular ocean views.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120025901 +0100" stop="20261120035900 +0100">
+    <title>Mountains of Majesty</title>
+    <desc>Sights and sounds of the Rocky Mountains in Banff and Jasper in Alberta, Yoho National Park in British Columbia and Glacier National Park, Mont.; featuring raging waterfalls, clear mountain lakes, snowy mountains, wildflowers and abundant wildlife.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120035901 +0100" stop="20261120045900 +0100">
+    <title>Forest and Mountains, Alaska</title>
+    <desc>A trip to the wilderness in Alaska's thick underbrush, with nothing but trees and snow-capped mountains as a guide.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120045901 +0100" stop="20261120055900 +0100">
+    <title>A Day in San Diego</title>
+    <desc>Featuring 12 different 15-minute scenes from the San Diego's beaches, Coronado Beach, Pacific Beach, Mission Beach, Blacks Beach, Ocean Beach, Sunset Cliffs, Torrey Pines and more.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120055901 +0100" stop="20261120065800 +0100">
+    <title>Lost in Paradise</title>
+    <desc>A tropical island paradise to relax in. A one-hour-long high definition nature experience of two different remote islands hidden in the south Pacific.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120065801 +0100" stop="20261120080000 +0100">
+    <title>Beneath the Sea</title>
+    <desc>A look at a compilation of spectacular underwater images from around the world.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120080001 +0100" stop="20261120085700 +0100">
+    <title>A Day in Santorini</title>
+    <desc>A visual journey through the coastal village of Oia, found on the far tip of Santorini Island.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120085701 +0100" stop="20261120095900 +0100">
+    <title>Tropical Bay: Dominican Republic</title>
+    <desc>Exploring an iridescent blue bay on the Dominican Republic's Playa Rincón.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120095901 +0100" stop="20261120105900 +0100">
+    <title>West Coast: New Zealand</title>
+    <desc>The wild natural region nicknamed the Coast by its inhabitants boasts spectacular mountains, a breathtaking coastline, hidden coves and luxuriant flora.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120105901 +0100" stop="20261120115900 +0100">
+    <title>Watu Leter &amp; Goa Cina Beach: Indonesia</title>
+    <desc>Exploring the remote coasts of Indonesian beaches with limestone stacks in the bay.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120115901 +0100" stop="20261120125900 +0100">
+    <title>Relaxing Nature Sceneries</title>
+    <desc>The filmmaker provides a collection of peaceful nature scenes and tranquil vistas that will soothe body and soul.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120125901 +0100" stop="20261120140000 +0100">
+    <title>Blue Lagoon Boat</title>
+    <desc>Featuring a static nature scene filmed on a remote island on the northern tip of Mexico's Yucatán Peninsula; puffy clouds, lapsing lagoon waves and the sights and sounds of seagulls.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120140001 +0100" stop="20261120160000 +0100">
+    <title>The World's Best Beaches</title>
+    <desc>Top ten beaches around the world.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120160001 +0100" stop="20261120165900 +0100">
+    <title>Rainforest Waterfall: Costa Rica -- Tenorio Volcano National Park, Costa Rica</title>
+    <desc>In the rainforest of Costa Rica's Tenorio Volcano National Park, admire waterfalls plunging into a cerulean lagoon.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120165901 +0100" stop="20261120175900 +0100">
+    <title>Kapas Biru Waterfall: Indonesia</title>
+    <desc>Escape to Indonesia with tropical vegetation and a rushing waterfall.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120175901 +0100" stop="20261120185900 +0100">
+    <title>Fly Over Earth</title>
+    <desc>Footage of scenic destinations.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120185901 +0100" stop="20261120195900 +0100">
+    <title>Paradise Beach</title>
+    <desc>Paradise Beach presents a stunning white sandy beach scene complete with azure blue lagoons, perfect palm trees, happy clouds and distant islands just waiting to be explored.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120195901 +0100" stop="20261120205900 +0100">
+    <title>Date With Nature</title>
+    <desc>Slip away to Thailand's secluded shores and hidden streams, where aquatic life glides through crystal-clear waters.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120205901 +0100" stop="20261120215900 +0100">
+    <title>S01 : E04 Wild Window - Wild Window</title>
+    <sub-title>Wild Window</sub-title>
+    <desc>A look at the dazzling fish that inhabit the marine landscapes of the Tropical Pacific; exploring their daily lives as they forage and school in the depths of the ocean.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120215901 +0100" stop="20261120225900 +0100">
+    <title>A Day in the Caribbean</title>
+    <desc>The tropical island of Antigua.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120225901 +0100" stop="20261120235900 +0100">
+    <title>Above the Fiji Islands</title>
+    <desc>Featuring aerial views of remote South Pacific islands, accompanied by nature sounds and ambient music by Relax Moods; offering a mix of ground-level and bird's-eye perspectives through smooth, continuous shots, concluding with a real-time sunset over the sea.</desc>
+  </programme>
+  <programme channel="stingray-naturescape" start="20261120235901 +0100" stop="20261121005900 +0100">
+    <title>Wonders of New Zealand</title>
+    <desc>A 4K UHD ambient nature film which showcases the beauty of New Zealand's South Island with ambient real-life nature sounds.</desc>
   </programme>
   <programme channel="vivir-con-perros" start="20261117000000 +0100" stop="20261117005959 +0100">
     <title>Vivir con perros</title>
@@ -35385,486 +35994,6 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <title>S2026 : E20 AO26 Men's Quarterfinal - Alcaraz v De Minaur - Australian Open Full Match</title>
     <sub-title>Australian Open Full Match</sub-title>
     <desc>Full Match of Australian Open 2026 Men's Quarterfinal - Carlos Alcaraz v Alex De Minaur</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261116215027 +0100" stop="20261117004128 +0100">
-    <title>Red Bull Batalla 2026 Final Nacional Colombia</title>
-    <desc>Los mejores MCs de Colombia se enfrentan en la Final Nacional de Red Bull Batalla para conquistar el título y conseguir un lugar en la Final Internacional de Perú.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117004133 +0100" stop="20261117021023 +0100">
-    <title>Against Gravity – la historia del surfer Leon Glatzer</title>
-    <desc>La historia de vida del surfista profesional Leon Glatzer y cómo el mar moldeó su vida.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117021028 +0100" stop="20261117024108 +0100">
-    <title>S01 : E01 For Reals - Volando sobre un volcán activo - For Reals - Volando sobre un volcán activo</title>
-    <sub-title>For Reals - Volando sobre un volcán activo</sub-title>
-    <desc>Los atletas de Red Bull lo hacen todo, volar con un traje de alas sobre un volcán activo, saltar en camión sobre una ciudad fantasma y enfrentarse a desafíos extremos en cada rincón del planeta.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117024113 +0100" stop="20261117031153 +0100">
-    <title>S01 : E01 For Reals: Aviones de papel y clavados entre ruinas - For Reals: Aviones de papel y clavados entre ruinas</title>
-    <sub-title>For Reals: Aviones de papel y clavados entre ruinas</sub-title>
-    <desc>Un vistazo a las disciplinas más inusuales y desafiantes que enfrentan los atletas de Red Bull, desde clavados en ruinas antiguas hasta duelos en competiciones de aviones de papel.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117031158 +0100" stop="20261117034238 +0100">
-    <title>S01 : E01 For Reals: saltando desde la estratósfera en paracaídas - For Reals: saltando desde la estratósfera en paracaídas</title>
-    <sub-title>For Reals: saltando desde la estratósfera en paracaídas</sub-title>
-    <desc>Los atletas de Red Bull rompen récords a diario, desde Felix Baumgartner saltando desde el espacio, 65 mujeres saltando en paracaídas juntas, hasta un BMXer conquistando el loop más grande del mundo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117034243 +0100" stop="20261117041044 +0100">
-    <title>S01 : E01 For Reals - Saltando en skate desde un avión - For Reals - Saltando en skate desde un avión</title>
-    <sub-title>For Reals - Saltando en skate desde un avión</sub-title>
-    <desc>Los atletas de Red Bull lo hacen todo, desde freerunning en un aeropuerto hasta saltar en patineta desde un avión en pleno vuelo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117041049 +0100" stop="20261117070000 +0100">
-    <title>Red Bull Batalla 2026 Final Nacional Colombia</title>
-    <desc>Los mejores MCs de Colombia se enfrentan en la Final Nacional de Red Bull Batalla para conquistar el título y conseguir un lugar en la Final Internacional de Perú.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117070005 +0100" stop="20261117105035 +0100">
-    <title>Red Bull Drift Masters Grand Finale 2026 - Polonia</title>
-    <desc>Disfruta de los 16 mejores pilotos de drift en acción en Polonia, en la gran final del Red Bull Drift Masters temporada 2026.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117105040 +0100" stop="20261117121442 +0100">
-    <title>La Liste: esquí en las cordilleras más altas del mundo</title>
-    <desc>Jérémie Heitz y Sam Anthamatten, esquiadores de alta montaña, enfrentan los picos más altos del mundo, desde los Alpes suizos hasta el Himalaya, en una emocionante aventura de freeski.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117121447 +0100" stop="20261117133035 +0100">
-    <title>Escalada en los acantilados más icónicos de Canadá</title>
-    <desc>Vikki Weldon y Quentin Roberts se embarcan en un viaje de escalada que recorre la historia del monte Yamnuska, celebrando el legado de uno de los acantilados más emblemáticos de Canadá.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117133040 +0100" stop="20261117151253 +0100">
-    <title>S01 : E01 Red Bull Soapbox Race: la carrera más loca de Londres - Red Bull Soapbox Race: la carrera más loca de Londres</title>
-    <sub-title>Red Bull Soapbox Race: la carrera más loca de Londres</sub-title>
-    <desc>Equipos construyen sus propios coches sin motor para desafiar una pista empinada llena de obstáculos en Londres, donde la competencia se basa en velocidad y creatividad de diseño.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117151258 +0100" stop="20261117160324 +0100">
-    <title>S01 : E01 Red Bull Soapbox Race: coches sin motor en Texas - Red Bull Soapbox Race: coches sin motor en Texas</title>
-    <sub-title>Red Bull Soapbox Race: coches sin motor en Texas</sub-title>
-    <desc>Equipos construyen sus propios coches sin motor para desafiar una pista empinada llena de obstáculos en Dallas, Texas, donde la competencia se basa en velocidad y creatividad de diseño.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117160329 +0100" stop="20261117163438 +0100">
-    <title>S01 : E01 El ABC de MotoGP - Todo lo que necesitas saber - El ABC de MotoGP - Todo lo que necesitas saber</title>
-    <sub-title>El ABC de MotoGP - Todo lo que necesitas saber</sub-title>
-    <desc>Guía esencial sobre MotoGP™, la categoría más alta del motociclismo, con información clave sobre reglas, términos y estructura del deporte.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117163443 +0100" stop="20261117170451 +0100">
-    <title>S01 : E01 El ABC del Skateboarding - El ABC del Skateboarding</title>
-    <sub-title>El ABC del Skateboarding</sub-title>
-    <desc>Un recorrido por la historia del skateboarding, desde sus inicios con el sidewalk surfing hasta los skaters actuales, explorando cómo este deporte se convirtió en una forma de expresión personal.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117170456 +0100" stop="20261117173604 +0100">
-    <title>S01 : E01 ABC de Cliff diving - Conoce todos los detalles - ABC de Cliff diving - Conoce todos los detalles</title>
-    <sub-title>ABC de Cliff diving - Conoce todos los detalles</sub-title>
-    <desc>Descubre el arte de saltar desde acantilados mientras los mejores clavadistas enfrentan el miedo y dominan caídas desde alturas de vértigo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117173609 +0100" stop="20261117180718 +0100">
-    <title>S01 : E01 El ABC de MotoGP - Todo lo que necesitas saber - El ABC de MotoGP - Todo lo que necesitas saber</title>
-    <sub-title>El ABC de MotoGP - Todo lo que necesitas saber</sub-title>
-    <desc>Guía esencial sobre MotoGP™, la categoría más alta del motociclismo, con información clave sobre reglas, términos y estructura del deporte.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117180723 +0100" stop="20261117183717 +0100">
-    <title>S01 : E01 El ABC del Kayaking - Conoce todo de este deporte - El ABC del Kayaking - Conoce todo de este deporte</title>
-    <sub-title>El ABC del Kayaking - Conoce todo de este deporte</sub-title>
-    <desc>Jessica Fox recorre la historia del piragüismo para descubrir sus orígenes y conocer a los atletas que ayudaron a transformar este deporte hasta convertirlo en un referente mundial.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117183722 +0100" stop="20261117195201 +0100">
-    <title>El primer descenso de la la montaña K2 con esquís</title>
-    <desc>El esquiador polaco Andrzej Bargiel se convierte en el primero en descender la montaña K2 con esquís, completando una hazaña histórica desde los 8,611 metros de altura.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117195206 +0100" stop="20261117214117 +0100">
-    <title>Mondo Duplantis: Born to Fly - salto con pértiga</title>
-    <desc>De niño prodigio a fenómeno mundial, esta es la historia de Mondo Duplantis superando desafíos y alcanzando nuevos récords en su camino hacia convertirse en leyenda del salto con pértiga.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117214122 +0100" stop="20261117220012 +0100">
-    <title>S01 : E01 Neymar Jr. Full Access – así es un día de descanso - Neymar Jr. Full Access – así es un día de descanso</title>
-    <sub-title>Neymar Jr. Full Access – así es un día de descanso</sub-title>
-    <desc>Acompaña a Neymar Jr. en un recorrido exclusivo por su vida más allá del fútbol y descubre cómo disfruta de su tiempo libre.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117220017 +0100" stop="20261117222018 +0100">
-    <title>S01 : E01 Neymar Jr. Full Access – la rutina antes de un partido - Neymar Jr. Full Access – la rutina antes de un partido</title>
-    <sub-title>Neymar Jr. Full Access – la rutina antes de un partido</sub-title>
-    <desc>Acompaña a Neymar Jr. para conocer en exclusiva su rutina antes de salir al campo a jugar un partido.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117222023 +0100" stop="20261117224039 +0100">
-    <title>S01 : E01 Neymar Jr. Full Access – viajando con un futbolista - Neymar Jr. Full Access – viajando con un futbolista</title>
-    <sub-title>Neymar Jr. Full Access – viajando con un futbolista</sub-title>
-    <desc>Vuela con Neymar Jr. a Argentina y disfruta de acceso exclusivo a su viaje antes y después del partido.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117224044 +0100" stop="20261117231139 +0100">
-    <title>S01 : E01 Neymar Jr. Full Access – La ciudad natal de la leyenda - Neymar Jr. Full Access – La ciudad natal de la leyenda</title>
-    <sub-title>Neymar Jr. Full Access – La ciudad natal de la leyenda</sub-title>
-    <desc>Un viaje a la ciudad natal de Neymar Jr. para descubrir dónde creció y dónde empezó a jugar al fútbol.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117231144 +0100" stop="20261117233017 +0100">
-    <title>S01 : E01 Skate Tales – Skateboarding en San Francisco - Skate Tales – Skateboarding en San Francisco</title>
-    <sub-title>Skate Tales – Skateboarding en San Francisco</sub-title>
-    <desc>Madars Apse y Nico Hiraga recorren San Francisco y muestran cómo sus calles y spots emblemáticos influyen en la nueva generación del skateboarding.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117233022 +0100" stop="20261117234759 +0100">
-    <title>S01 : E01 Skate Tales – Skateboarding de Brasil - Skate Tales – Skateboarding de Brasil</title>
-    <sub-title>Skate Tales – Skateboarding de Brasil</sub-title>
-    <desc>Madars Apse viaja a Brasil para seguir el ascenso de Tiago Lemos desde las calles hasta el estrellato del skate, mostrando cómo surge desde una escena local exigente.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261117234804 +0100" stop="20261118000523 +0100">
-    <title>S01 : E01 Skate Tales – Skateboarding en Montreal - Skate Tales – Skateboarding en Montreal</title>
-    <sub-title>Skate Tales – Skateboarding en Montreal</sub-title>
-    <desc>Madars Apse viaja a Montreal para vivir el Dime Glory Challenge y explorar una escena skate marcada por la creatividad y el caos del evento más impredecible del circuito.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118000528 +0100" stop="20261118002529 +0100">
-    <title>S01 : E01 Skate Tales: La estrella de Japón del skate underground - Skate Tales: La estrella de Japón del skate underground</title>
-    <sub-title>Skate Tales: La estrella de Japón del skate underground</sub-title>
-    <desc>Madars Apse recorre Japón con Kento Yoshioka y se adentra en la escena skate underground, explorando su estilo y la cultura local que la define.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118002534 +0100" stop="20261118004525 +0100">
-    <title>S01 : E01 Los hermanos que llevaron el skate a YouTube - Los hermanos que llevaron el skate a YouTube</title>
-    <sub-title>Los hermanos que llevaron el skate a YouTube</sub-title>
-    <desc>Madars Apse, Bam Margera y Jamie Thomas siguen a los Hermanos Dern de Florida a California para descubrir cómo construyen uno de los canales de YouTube más influyentes del skateboarding.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118004530 +0100" stop="20261118010526 +0100">
-    <title>S01 : E01 Skate Tales – skateboarding en piscinas de Las Vegas - Skate Tales – skateboarding en piscinas de Las Vegas</title>
-    <sub-title>Skate Tales – skateboarding en piscinas de Las Vegas</sub-title>
-    <desc>Madars Apse, Gary Owens y Dave Deluna se van a las afueras de Las Vegas para explorar piscinas abandonadas.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118010531 +0100" stop="20261118013809 +0100">
-    <title>Bicis desafían una pista sobre el agua en Washington DC</title>
-    <desc>En Red Bull Spin Off, bicicletas temáticas se enfrentan a una estrecha pista sobre el agua en Washington, D.C., superando giros, curvas y obstáculos para llegar hasta el final.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118013814 +0100" stop="20261118020627 +0100">
-    <title>Pro Climbing League Londres 2026: mejores momentos</title>
-    <desc>Los mejores escaladores del mundo compiten en Londres en la Pro Climbing League, enfrentando retos idénticos en un formato eliminatorio donde cada intento define quién se corona campeón.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118020632 +0100" stop="20261118022937 +0100">
-    <title>Red Bull Building Drop: Bajando un edificio en patineta</title>
-    <desc>Sandro Dias bate dos nuevos récords mundiales patinando por un edificio de 22 pisos con forma de quarter pipe.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118022942 +0100" stop="20261118025821 +0100">
-    <title>Premier Padel 2026 Kuwait Major – Los mejores momentos</title>
-    <desc>Revive los mejores momentos del Premier Padel Kuwait Major 2026, donde las mejores parejas del pádel mundial se enfrentan en busca del título en Kuwait.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118025826 +0100" stop="20261118032906 +0100">
-    <title>Red Bull Erzbergrodeo 2026: el Hard Enduro más extremo</title>
-    <desc>Revive los mejores momentos de Red Bull Erzbergrodeo 2026, donde los mejores pilotos se enfrentan al “Gigante de Hierro” en una de las carreras de Hard Enduro más duras del mundo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118032911 +0100" stop="20261118042834 +0100">
-    <title>Ludwig's Streamer Games 2026 - Highlights</title>
-    <desc>Disfruta de los mejores momentos del mayor evento deportivo del mundo impulsado por creadores.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118042839 +0100" stop="20261118050752 +0100">
-    <title>Red Bull Gambeta: una nueva forma de jugar al fútbol</title>
-    <desc>Revive los mejores momentos de esta nueva forma de vivir el fútbol, que combina habilidad, entretenimiento y competencia.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118050757 +0100" stop="20261118052630 +0100">
-    <title>S01 : E01 Skate Tales – Skateboarding en San Francisco - Skate Tales – Skateboarding en San Francisco</title>
-    <sub-title>Skate Tales – Skateboarding en San Francisco</sub-title>
-    <desc>Madars Apse y Nico Hiraga recorren San Francisco y muestran cómo sus calles y spots emblemáticos influyen en la nueva generación del skateboarding.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118052635 +0100" stop="20261118054412 +0100">
-    <title>S01 : E01 Skate Tales – Skateboarding de Brasil - Skate Tales – Skateboarding de Brasil</title>
-    <sub-title>Skate Tales – Skateboarding de Brasil</sub-title>
-    <desc>Madars Apse viaja a Brasil para seguir el ascenso de Tiago Lemos desde las calles hasta el estrellato del skate, mostrando cómo surge desde una escena local exigente.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118054417 +0100" stop="20261118060136 +0100">
-    <title>S01 : E01 Skate Tales – Skateboarding en Montreal - Skate Tales – Skateboarding en Montreal</title>
-    <sub-title>Skate Tales – Skateboarding en Montreal</sub-title>
-    <desc>Madars Apse viaja a Montreal para vivir el Dime Glory Challenge y explorar una escena skate marcada por la creatividad y el caos del evento más impredecible del circuito.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118060141 +0100" stop="20261118062142 +0100">
-    <title>S01 : E01 Skate Tales: La estrella de Japón del skate underground - Skate Tales: La estrella de Japón del skate underground</title>
-    <sub-title>Skate Tales: La estrella de Japón del skate underground</sub-title>
-    <desc>Madars Apse recorre Japón con Kento Yoshioka y se adentra en la escena skate underground, explorando su estilo y la cultura local que la define.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118062147 +0100" stop="20261118064138 +0100">
-    <title>S01 : E01 Los hermanos que llevaron el skate a YouTube - Los hermanos que llevaron el skate a YouTube</title>
-    <sub-title>Los hermanos que llevaron el skate a YouTube</sub-title>
-    <desc>Madars Apse, Bam Margera y Jamie Thomas siguen a los Hermanos Dern de Florida a California para descubrir cómo construyen uno de los canales de YouTube más influyentes del skateboarding.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118064143 +0100" stop="20261118070000 +0100">
-    <title>S01 : E01 Skate Tales – skateboarding en piscinas de Las Vegas - Skate Tales – skateboarding en piscinas de Las Vegas</title>
-    <sub-title>Skate Tales – skateboarding en piscinas de Las Vegas</sub-title>
-    <desc>Madars Apse, Gary Owens y Dave Deluna se van a las afueras de Las Vegas para explorar piscinas abandonadas.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118070005 +0100" stop="20261118102759 +0100">
-    <title>Red Bull Hardline 2026: MTB extremo en Canadá</title>
-    <desc>Red Bull Hardline 2026 lleva a los mejores riders de MTB a Columbia Británica, Canadá, para enfrentarse a uno de los circuitos de descenso más extremos y exigentes del mundo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118102804 +0100" stop="20261118112550 +0100">
-    <title>Shires: explorando el ciclismo británico</title>
-    <desc>Narrada por Rob Warner y filmada durante dos años, esta película recorre todo lo que hace grande al ciclismo británico: sus ciclistas, senderos, paisajes y su impredecible clima.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118112555 +0100" stop="20261118114900 +0100">
-    <title>Red Bull Building Drop: Bajando un edificio en patineta</title>
-    <desc>Sandro Dias bate dos nuevos récords mundiales patinando por un edificio de 22 pisos con forma de quarter pipe.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118114905 +0100" stop="20261118151812 +0100">
-    <title>Red Bull Batalla 2025 Final Nacional de España</title>
-    <desc>En el año del 20º aniversario de Red Bull Batalla, los mejores MCs de España se enfrentan en la Final Nacional 2025 para definir quién representará al país en la Final Internacional 2026.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118151817 +0100" stop="20261118164812 +0100">
-    <title>Here to Climb - las barreras en la escalada en roca</title>
-    <desc>El increíble viaje de la escaladora Sasha DiGiulian, desde su niñez como prodigio hasta convertirse en campeona y ser la primera mujer en escalar algunas de las paredes más grandes del mundo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118164817 +0100" stop="20261118171828 +0100">
-    <title>El ABC de la escalada - todo lo que necesitas saber</title>
-    <desc>Únete a Sasha DiGiulian para hacer una expedición alrededor del mundo con algunos de los mejores escaladores que existen. Conoce el lenguaje, el equipo, la historia y mucho más.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118171833 +0100" stop="20261118174858 +0100">
-    <title>S01 : E01 El ABC del drifting - Todo lo que debes saber - El ABC del drifting - Todo lo que debes saber</title>
-    <sub-title>El ABC del drifting - Todo lo que debes saber</sub-title>
-    <desc>El conductor Dave Egan nos introduce al emocionante mundo del drifting. Aprende sobre las reglas, los pilotos y lo que hace único a este deporte de velocidad, estilo, humo y habilidad al volante.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118174903 +0100" stop="20261118180934 +0100">
-    <title>S01 : E01 El ABC del breaking - todo lo que necesitas saber - El ABC del breaking - todo lo que necesitas saber</title>
-    <sub-title>El ABC del breaking - todo lo que necesitas saber</sub-title>
-    <desc>Todo lo que necesitas saber sobre el breaking, en un viaje desde sus orígenes hasta conocer a las estrellas más destacadas de esta increíble forma de baile.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118180939 +0100" stop="20261118183528 +0100">
-    <title>La evolución de la danza urbana</title>
-    <desc>El street dance abarca estilos como hip-hop y popping, explorando sus orígenes humildes y la evolución que los convirtió en pilares de la cultura urbana global.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118183533 +0100" stop="20261118193019 +0100">
-    <title>Red Bull Stratos - saltando desde la estratosfera</title>
-    <desc>Red Bull Stratos llevó a Felix Baumgartner a romper la barrera del sonido saltando desde la estratosfera, dejando un legado en la exploración aeroespacial y las transmisiones en directo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118193024 +0100" stop="20261118201904 +0100">
-    <title>S01 : E01 Inside Pro Surfing – icónicas olas de Australia - Inside Pro Surfing – icónicas olas de Australia</title>
-    <sub-title>Inside Pro Surfing – icónicas olas de Australia</sub-title>
-    <desc>Los mejores surfistas del mundo compiten en el Margaret River Pro 2026, una de las paradas más exigentes del Championship Tour de la WSL en las icónicas olas de Australia Occidental.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118201909 +0100" stop="20261118203905 +0100">
-    <title>S01 : E01 Skate Tales – skateboarding en piscinas de Las Vegas - Skate Tales – skateboarding en piscinas de Las Vegas</title>
-    <sub-title>Skate Tales – skateboarding en piscinas de Las Vegas</sub-title>
-    <desc>Madars Apse, Gary Owens y Dave Deluna se van a las afueras de Las Vegas para explorar piscinas abandonadas.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118203910 +0100" stop="20261118222630 +0100">
-    <title>Sandro Dias en la rampa de skate más grande del mundo</title>
-    <desc>Repasa la carrera de Sandro Dias, una de las mayores leyendas del skate brasileño, mientras realiza el salto de su vida en la rampa de skate más grande del mundo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261118222635 +0100" stop="20261119002712 +0100">
-    <title>Go Fast Pull Up - La evolución del BMX</title>
-    <desc>Jimmy LeVan recorre su historia en el BMX y muestra cómo la evolución del deporte en los años 80 y 90 dio paso a una nueva generación de riders que cambió la disciplina.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119002717 +0100" stop="20261119031613 +0100">
-    <title>Red Bull Batalla 2026 Final Nacional Colombia</title>
-    <desc>Los mejores MCs de Colombia se enfrentan en la Final Nacional de Red Bull Batalla para conquistar el título y conseguir un lugar en la Final Internacional de Perú.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119031618 +0100" stop="20261119035407 +0100">
-    <title>S01 : E01 Surf en olas gigantes de Nazaré - Surf en olas gigantes de Nazaré</title>
-    <sub-title>Surf en olas gigantes de Nazaré</sub-title>
-    <desc>Lucas Chumbo y Kai Lenny redefinen el surf de olas grandes en Nazaré, Portugal, al superar los límites de lo posible, enfrentando riesgos y celebrando la evolución de este deporte extremo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119035412 +0100" stop="20261119042448 +0100">
-    <title>S01 : E01 La experiencia de los surfers en la ola de Nazará - La experiencia de los surfers en la ola de Nazará</title>
-    <sub-title>La experiencia de los surfers en la ola de Nazará</sub-title>
-    <desc>Nazaré es el hogar de la nueva generación de surfistas de olas grandes, donde la espera del oleaje se vive con tensión y expectativa junto a los pioneros que empujan los límites del deporte.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119042453 +0100" stop="20261119045513 +0100">
-    <title>S01 : E01 La nueva generación de surfers de grandes olas - La nueva generación de surfers de grandes olas</title>
-    <sub-title>La nueva generación de surfers de grandes olas</sub-title>
-    <desc>Conoce a la próxima generación de surfistas de grandes olas que intentan encontrar su lugar en Nazaré, en la costa de Portugal.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119045518 +0100" stop="20261119052356 +0100">
-    <title>S01 : E01 Nazaré: Making Giants – Compitiendo con olas gigantes - Nazaré: Making Giants – Compitiendo con olas gigantes</title>
-    <sub-title>Nazaré: Making Giants – Compitiendo con olas gigantes</sub-title>
-    <desc>Llega el Nazaré Big Wave Challenge, donde los mejores surfistas de olas grandes del mundo se enfrentan a olas imponentes para cerrar la temporada.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119052401 +0100" stop="20261119055658 +0100">
-    <title>El debut de Asa Vermette en Red Bull Hardline</title>
-    <desc>Sigue a Asa Vermette, una de las jóvenes promesas más excitantes del ciclismo de montaña en su debut en la Red Bull Hardline.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119055703 +0100" stop="20261119070000 +0100">
-    <title>Fabio Wibmer – Video Game: el detrás de cámaras</title>
-    <desc>Fabio Wibmer y su equipo revelan el proceso detrás de Video Game, una de las producciones de bike más creativas de 2022, filmada durante 70 días y llena de retos técnicos y visuales.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119070005 +0100" stop="20261119094900 +0100">
-    <title>Red Bull Batalla 2026 Final Nacional Colombia</title>
-    <desc>Los mejores MCs de Colombia se enfrentan en la Final Nacional de Red Bull Batalla para conquistar el título y conseguir un lugar en la Final Internacional de Perú.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119094905 +0100" stop="20261119114651 +0100">
-    <title>And Two If By Sea - rivalidad de gemelos en el surf</title>
-    <desc>Los gemelos CJ y Damien Hobgood enfrentan una rivalidad en el surf profesional mientras buscan diferenciarse y construir su propio camino dentro del mismo deporte.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119114656 +0100" stop="20261119131546 +0100">
-    <title>Against Gravity – la historia del surfer Leon Glatzer</title>
-    <desc>La historia de vida del surfista profesional Leon Glatzer y cómo el mar moldeó su vida.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119131551 +0100" stop="20261119144427 +0100">
-    <title>La leyenda del rally con ocho títulos mundiales</title>
-    <desc>Sébastien Ogier se despide del rally ganando su octavo y último título mundial, cerrando una carrera legendaria con una temporada final llena de maestría y determinación.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119144432 +0100" stop="20261119160838 +0100">
-    <title>The King of Tekken: Arslan Ash – historia de GAMING</title>
-    <desc>Descubre cómo Arslan Ash se convirtió en el mejor jugador de Tekken del mundo y en toda una leyenda.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119160843 +0100" stop="20261119165723 +0100">
-    <title>S01 : E01 Gold Coast Pro 2026: surf de élite en Australia - Gold Coast Pro 2026: surf de élite en Australia</title>
-    <sub-title>Gold Coast Pro 2026: surf de élite en Australia</sub-title>
-    <desc>Los mejores surfistas del mundo se enfrentan a las olas de Gold Coast, Australia, en una edición del Gold Coast Pro marcada por grandes actuaciones y un público entregado.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119165728 +0100" stop="20261119174814 +0100">
-    <title>S01 : E01 La élite del surf desafía las olas de Nueva Zelanda - La élite del surf desafía las olas de Nueva Zelanda</title>
-    <sub-title>La élite del surf desafía las olas de Nueva Zelanda</sub-title>
-    <desc>Los mejores surfistas del mundo llegan a Raglan para el New Zealand Pro, donde se enfrentan a sus famosas olas de izquierda en una nueva parada del WSL Championship Tour.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119174819 +0100" stop="20261119183905 +0100">
-    <title>S01 : E01 El mejor surf mundial llega a El Salvador - El mejor surf mundial llega a El Salvador</title>
-    <sub-title>El mejor surf mundial llega a El Salvador</sub-title>
-    <desc>Revive los mejores momentos del Surf City El Salvador Pro 2026, donde Carissa Moore y Leo Fioravanti conquistan las olas de Punta Roca en una parada del WSL Championship Tour.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119183910 +0100" stop="20261119190828 +0100">
-    <title>Las mujeres rompen fronteras en Red Bull Rampage</title>
-    <desc>Las riders de mountain bike de élite rompen barreras en el freeride al enfrentarse a los terrenos más desafiantes del Red Bull Rampage, mientras luchan por la igualdad y dejan un legado en su deporte.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119190833 +0100" stop="20261119205046 +0100">
-    <title>S01 : E01 Red Bull Soapbox Race: la carrera más loca de Londres - Red Bull Soapbox Race: la carrera más loca de Londres</title>
-    <sub-title>Red Bull Soapbox Race: la carrera más loca de Londres</sub-title>
-    <desc>Equipos construyen sus propios coches sin motor para desafiar una pista empinada llena de obstáculos en Londres, donde la competencia se basa en velocidad y creatividad de diseño.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119205051 +0100" stop="20261119212200 +0100">
-    <title>S01 : E01 El ABC de MotoGP - Todo lo que necesitas saber - El ABC de MotoGP - Todo lo que necesitas saber</title>
-    <sub-title>El ABC de MotoGP - Todo lo que necesitas saber</sub-title>
-    <desc>Guía esencial sobre MotoGP™, la categoría más alta del motociclismo, con información clave sobre reglas, términos y estructura del deporte.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119212205 +0100" stop="20261119215213 +0100">
-    <title>S01 : E01 El ABC del Skateboarding - El ABC del Skateboarding</title>
-    <sub-title>El ABC del Skateboarding</sub-title>
-    <desc>Un recorrido por la historia del skateboarding, desde sus inicios con el sidewalk surfing hasta los skaters actuales, explorando cómo este deporte se convirtió en una forma de expresión personal.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119215218 +0100" stop="20261119222326 +0100">
-    <title>S01 : E01 ABC de Cliff diving - Conoce todos los detalles - ABC de Cliff diving - Conoce todos los detalles</title>
-    <sub-title>ABC de Cliff diving - Conoce todos los detalles</sub-title>
-    <desc>Descubre el arte de saltar desde acantilados mientras los mejores clavadistas enfrentan el miedo y dominan caídas desde alturas de vértigo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119222331 +0100" stop="20261119225440 +0100">
-    <title>S01 : E01 El ABC de MotoGP - Todo lo que necesitas saber - El ABC de MotoGP - Todo lo que necesitas saber</title>
-    <sub-title>El ABC de MotoGP - Todo lo que necesitas saber</sub-title>
-    <desc>Guía esencial sobre MotoGP™, la categoría más alta del motociclismo, con información clave sobre reglas, términos y estructura del deporte.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119225445 +0100" stop="20261119232439 +0100">
-    <title>S01 : E01 El ABC del Kayaking - Conoce todo de este deporte - El ABC del Kayaking - Conoce todo de este deporte</title>
-    <sub-title>El ABC del Kayaking - Conoce todo de este deporte</sub-title>
-    <desc>Jessica Fox recorre la historia del piragüismo para descubrir sus orígenes y conocer a los atletas que ayudaron a transformar este deporte hasta convertirlo en un referente mundial.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261119232444 +0100" stop="20261120011601 +0100">
-    <title>Mondo Duplantis: Born to Fly - salto con pértiga</title>
-    <desc>De niño prodigio a fenómeno mundial, esta es la historia de Mondo Duplantis superando desafíos y alcanzando nuevos récords en su camino hacia convertirse en leyenda del salto con pértiga.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120011606 +0100" stop="20261120013438 +0100">
-    <title>S01 : E01 Skate Tales – Skateboarding en San Francisco - Skate Tales – Skateboarding en San Francisco</title>
-    <sub-title>Skate Tales – Skateboarding en San Francisco</sub-title>
-    <desc>Madars Apse y Nico Hiraga recorren San Francisco y muestran cómo sus calles y spots emblemáticos influyen en la nueva generación del skateboarding.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120013443 +0100" stop="20261120015221 +0100">
-    <title>S01 : E01 Skate Tales – Skateboarding de Brasil - Skate Tales – Skateboarding de Brasil</title>
-    <sub-title>Skate Tales – Skateboarding de Brasil</sub-title>
-    <desc>Madars Apse viaja a Brasil para seguir el ascenso de Tiago Lemos desde las calles hasta el estrellato del skate, mostrando cómo surge desde una escena local exigente.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120015226 +0100" stop="20261120020944 +0100">
-    <title>S01 : E01 Skate Tales – Skateboarding en Montreal - Skate Tales – Skateboarding en Montreal</title>
-    <sub-title>Skate Tales – Skateboarding en Montreal</sub-title>
-    <desc>Madars Apse viaja a Montreal para vivir el Dime Glory Challenge y explorar una escena skate marcada por la creatividad y el caos del evento más impredecible del circuito.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120020949 +0100" stop="20261120022950 +0100">
-    <title>S01 : E01 Skate Tales: La estrella de Japón del skate underground - Skate Tales: La estrella de Japón del skate underground</title>
-    <sub-title>Skate Tales: La estrella de Japón del skate underground</sub-title>
-    <desc>Madars Apse recorre Japón con Kento Yoshioka y se adentra en la escena skate underground, explorando su estilo y la cultura local que la define.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120022955 +0100" stop="20261120024946 +0100">
-    <title>S01 : E01 Los hermanos que llevaron el skate a YouTube - Los hermanos que llevaron el skate a YouTube</title>
-    <sub-title>Los hermanos que llevaron el skate a YouTube</sub-title>
-    <desc>Madars Apse, Bam Margera y Jamie Thomas siguen a los Hermanos Dern de Florida a California para descubrir cómo construyen uno de los canales de YouTube más influyentes del skateboarding.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120024951 +0100" stop="20261120030947 +0100">
-    <title>S01 : E01 Skate Tales – skateboarding en piscinas de Las Vegas - Skate Tales – skateboarding en piscinas de Las Vegas</title>
-    <sub-title>Skate Tales – skateboarding en piscinas de Las Vegas</sub-title>
-    <desc>Madars Apse, Gary Owens y Dave Deluna se van a las afueras de Las Vegas para explorar piscinas abandonadas.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120030952 +0100" stop="20261120045205 +0100">
-    <title>S01 : E01 Red Bull Soapbox Race: la carrera más loca de Londres - Red Bull Soapbox Race: la carrera más loca de Londres</title>
-    <sub-title>Red Bull Soapbox Race: la carrera más loca de Londres</sub-title>
-    <desc>Equipos construyen sus propios coches sin motor para desafiar una pista empinada llena de obstáculos en Londres, donde la competencia se basa en velocidad y creatividad de diseño.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120045210 +0100" stop="20261120052250 +0100">
-    <title>S01 : E01 For Reals - Volando sobre un volcán activo - For Reals - Volando sobre un volcán activo</title>
-    <sub-title>For Reals - Volando sobre un volcán activo</sub-title>
-    <desc>Los atletas de Red Bull lo hacen todo, volar con un traje de alas sobre un volcán activo, saltar en camión sobre una ciudad fantasma y enfrentarse a desafíos extremos en cada rincón del planeta.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120052255 +0100" stop="20261120055335 +0100">
-    <title>S01 : E01 For Reals: Aviones de papel y clavados entre ruinas - For Reals: Aviones de papel y clavados entre ruinas</title>
-    <sub-title>For Reals: Aviones de papel y clavados entre ruinas</sub-title>
-    <desc>Un vistazo a las disciplinas más inusuales y desafiantes que enfrentan los atletas de Red Bull, desde clavados en ruinas antiguas hasta duelos en competiciones de aviones de papel.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120055340 +0100" stop="20261120062420 +0100">
-    <title>S01 : E01 For Reals: saltando desde la estratósfera en paracaídas - For Reals: saltando desde la estratósfera en paracaídas</title>
-    <sub-title>For Reals: saltando desde la estratósfera en paracaídas</sub-title>
-    <desc>Los atletas de Red Bull rompen récords a diario, desde Felix Baumgartner saltando desde el espacio, 65 mujeres saltando en paracaídas juntas, hasta un BMXer conquistando el loop más grande del mundo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120062425 +0100" stop="20261120070000 +0100">
-    <title>S01 : E01 For Reals - Saltando en skate desde un avión - For Reals - Saltando en skate desde un avión</title>
-    <sub-title>For Reals - Saltando en skate desde un avión</sub-title>
-    <desc>Los atletas de Red Bull lo hacen todo, desde freerunning en un aeropuerto hasta saltar en patineta desde un avión en pleno vuelo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120070005 +0100" stop="20261120081223 +0100">
-    <title>Red Bull MotoGP™ Rookies Cup 2026 Spielberg</title>
-    <desc>Los pilotos novatos se enfrentan en Spielberg, Austria en la Red Bull MotoGP™ Rookies Cup 2026.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120081228 +0100" stop="20261120103124 +0100">
-    <title>Descensos extremos en Bicicleta por las calles de Chile</title>
-    <desc>Red Bull Valparaíso Cerro Abajo reúne a los mejores riders de MTB para descender a toda velocidad por las empinadas calles de la ciudad en una carrera extrema de downhill urbano.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120103129 +0100" stop="20261120113213 +0100">
-    <title>Fabio Wibmer – Video Game: el detrás de cámaras</title>
-    <desc>Fabio Wibmer y su equipo revelan el proceso detrás de Video Game, una de las producciones de bike más creativas de 2022, filmada durante 70 días y llena de retos técnicos y visuales.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120113218 +0100" stop="20261120122830 +0100">
-    <title>Así se preparan los mejores jugadores de Street Fighter</title>
-    <desc>Los mejores jugadores de Street Fighter V se preparan para Red Bull Kumite, mostrando el camino y la presión detrás de una de las competencias más importantes del gaming.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120122835 +0100" stop="20261120131311 +0100">
-    <title>Red Bull Batalla Nueva Historia: 20 Años de Rimas</title>
-    <desc>20 años de freestyle en español, desde la primera Final Internacional de Red Bull Batalla hasta el aniversario celebrado en Buenos Aires.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120131316 +0100" stop="20261120162004 +0100">
-    <title>EN VIVO Red Bull Batalla Final Nacional Argentina 2026</title>
-    <desc>Los mejores freestylers de Argentina compiten por el título nacional y un lugar en la Final Internacional de Red Bull Batalla.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120162009 +0100" stop="20261120170139 +0100">
-    <title>S01 : E01 Race Tapes: La historia de un downhiller americano - Race Tapes: La historia de un downhiller americano</title>
-    <sub-title>Race Tapes: La historia de un downhiller americano</sub-title>
-    <desc>Un downhiller estadounidense lucha por llegar a la cima del mountain bike enfrentando obstáculos para alcanzar el podio.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120170144 +0100" stop="20261120173825 +0100">
-    <title>S01 : E01 Race Tapes: Los campeones del mountain bike - Race Tapes: Los campeones del mountain bike</title>
-    <sub-title>Race Tapes: Los campeones del mountain bike</sub-title>
-    <desc>Un ciclista de montaña procedente del continente menos esperado impulsa a una pequeña marca, ajena a las grandes ligas del deporte, a entrar en el exclusivo círculo de los ganadores del MTB de élite.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120173830 +0100" stop="20261120181717 +0100">
-    <title>S01 : E01 Race Tapes: Una nueva generación domina el downhill - Race Tapes: Una nueva generación domina el downhill</title>
-    <sub-title>Race Tapes: Una nueva generación domina el downhill</sub-title>
-    <desc>Asa Vermette, joven promesa del mountain bike, une su destino a un equipo advenedizo. Juntos enfrentan el desafío de cumplir sus objetivos en la élite del Downhill.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120181722 +0100" stop="20261120185430 +0100">
-    <title>S01 : E01 Race Tapes: El rider chileno que busca volver a la cima - Race Tapes: El rider chileno que busca volver a la cima</title>
-    <sub-title>Race Tapes: El rider chileno que busca volver a la cima</sub-title>
-    <desc>El atleta de MTB Martín Vidaurre pasa de ganarlo todo a quedarse sin nada. Con su carrera en juego, enfrenta el reto de recuperar la confianza y volver a competir al más alto nivel.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120185435 +0100" stop="20261120193131 +0100">
-    <title>S01 : E01 Race Tapes: Creando un equipo de MTB exitoso - Race Tapes: Creando un equipo de MTB exitoso</title>
-    <sub-title>Race Tapes: Creando un equipo de MTB exitoso</sub-title>
-    <desc>De vuelta de una lesión que cambió su carrera, un equipo antaño dominante y su carismático patrocinador francés intentan recuperar el "je ne sais quoi" que les hizo grandes.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120193136 +0100" stop="20261120202622 +0100">
-    <title>Red Bull Stratos - saltando desde la estratosfera</title>
-    <desc>Red Bull Stratos llevó a Felix Baumgartner a romper la barrera del sonido saltando desde la estratosfera, dejando un legado en la exploración aeroespacial y las transmisiones en directo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120202627 +0100" stop="20261120221348 +0100">
-    <title>Sandro Dias en la rampa de skate más grande del mundo</title>
-    <desc>Repasa la carrera de Sandro Dias, una de las mayores leyendas del skate brasileño, mientras realiza el salto de su vida en la rampa de skate más grande del mundo.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120221353 +0100" stop="20261120233755 +0100">
-    <title>La Liste: esquí en las cordilleras más altas del mundo</title>
-    <desc>Jérémie Heitz y Sam Anthamatten, esquiadores de alta montaña, enfrentan los picos más altos del mundo, desde los Alpes suizos hasta el Himalaya, en una emocionante aventura de freeski.</desc>
-  </programme>
-  <programme channel="red-bull-tv-es" start="20261120233800 +0100" stop="20261121000342 +0100">
-    <title>Fairy Flight - Speedflying desde un globo en Capadocia</title>
-    <desc>El francés Valentin Delluc lleva el speedflying a nuevas alturas al lanzarse desde un globo aerostático sobre la mágica Capadocia, en Turquía, para vivir una aventura aérea tan visual como extrema.</desc>
   </programme>
   <programme channel="racer-international" start="20261116233001 +0100" stop="20261117000000 +0100">
     <title>S19 : E13 Datsun 240Z Suspension and Super Pull of the South - Stacey David's GearZ</title>
@@ -44882,540 +45011,540 @@ mostraba su cara... | Con tan solo 16 años, Alex Mandon se ha convertido en uno
     <sub-title>Los asesinatos de Midsomer</sub-title>
     <desc>El asesinato de un joven da pie a la bsqueda de su novia y compaera en clases de baile de saln.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261116233922 +0100" stop="20261117003113 +0100">
-    <title>Abigail - S04:E027  - Episode 27</title>
+  <programme channel="wedotv-amor" start="20261116233922 +0100" stop="20261117003114 +0100">
+    <title>Abigail - S04:E027 - Episode 27</title>
     <desc>Rosalba amenaza con contarle a Cheito la verdad a menos que firmen un permiso para sacar a Mariana del país. Látigo le roba a Cheito las llaves del negocio de Joao. Mariana se pone cada vez peor y Abigail teme que su fin haya llegado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117003114 +0100" stop="20261117012425 +0100">
-    <title>S01 : E37 Corazón Traicionado - S01:E37- - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261117003115 +0100" stop="20261117012425 +0100">
+    <title>S01 : E37 Corazón Traicionado - S01:E37 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Carmen acusa a Luis y Augusto de traficar con menores. Ricardo acorralado: por un lado siente que no puede mantener una relación con cuatro mujeres a la vez, pero por el otro está el millón de dólares perdidos. Gertrudis celebra que el éxito en el juicio del narcotraficante le abre las puertas a que todos ellos confíen en su Escritorio Jurídico. Alberto va saliendo de la casa Corona, cuando Guillermo lo intercepta en su moto; amenazante, se levanta la visera del casco y queda al descubierto ante su rival.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261117012426 +0100" stop="20261117021736 +0100">
-    <title>S01 : E37 Corazón Traicionado - S01:E37- - Corazon Traicionado</title>
+    <title>S01 : E37 Corazón Traicionado - S01:E37 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Carmen acusa a Luis y Augusto de traficar con menores. Ricardo acorralado: por un lado siente que no puede mantener una relación con cuatro mujeres a la vez, pero por el otro está el millón de dólares perdidos. Gertrudis celebra que el éxito en el juicio del narcotraficante le abre las puertas a que todos ellos confíen en su Escritorio Jurídico. Alberto va saliendo de la casa Corona, cuando Guillermo lo intercepta en su moto; amenazante, se levanta la visera del casco y queda al descubierto ante su rival.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117021737 +0100" stop="20261117031329 +0100">
+  <programme channel="wedotv-amor" start="20261117021737 +0100" stop="20261117031330 +0100">
     <title>S01 : E91 El Desprecio - S01:E91 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Luego que Pastora se durmiera, Elisenda recomienda a Raúl que no permita que su vida privada se hunda junto con la de Lara Portillo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117031330 +0100" stop="20261117040710 +0100">
+  <programme channel="wedotv-amor" start="20261117031331 +0100" stop="20261117040710 +0100">
     <title>S01 : E92 El Desprecio - S01:E92 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis pregunta a Cirilo si Clara Ines es su hija.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117040711 +0100" stop="20261117050039 +0100">
-    <title>S01 : E42 The Climber S01E042 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261117040711 +0100" stop="20261117050040 +0100">
+    <title>S01 : E42 La Trepadora - S01:E042 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Hilario ordena a Moncho que deje de investigar lo que le ordenó porque está convencido de que Florencia le es leal. Clementina rompe su trato con Felipe y se niega a seguir fingiendo que es su novia ante Antonieta. Nicolás es detenido por la muerte de Quijada.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117050040 +0100" stop="20261117055155 +0100">
-    <title>S01 : E43 La Trepadora - S01:E043 - A New Beginning - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261117050041 +0100" stop="20261117055155 +0100">
+    <title>S01 : E43 La Trepadora - S01:E043 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida le sube el ánimo a una deprimida Victoria. Yosmir pasa la noche en la habitación de Eugenia. Victoria comparte con Jack un paseo a la montaña; la joven sentencia que nada que tenga que ver con Nicolás volverá a afectarla. Leopoldo aconseja a Florencia se olvide de vengarse de Hilario y se vaya lejos a empezar una nueva vida.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261117055156 +0100" stop="20261117070007 +0100">
-    <title>S01 : E19 Te Tengo en Salsa - S01:E19- The Unexpected Arrival - Te Tengo en Salsa</title>
+    <title>S01 : E19 Te Tengo en Salsa - S01:E19 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos esta esperando en casa de Palacios, en el momento que Patricia sale con Tatiana. Patricia pregunta qué hace C.R. Perroni en su hogar y Adriana indaga de dónde se conocen.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261117070008 +0100" stop="20261117075314 +0100">
-    <title>S01 : E38 Corazón Traicionado - S01:E38- Protection and Revelations - Corazon Traicionado</title>
+    <title>S01 : E38 Corazón Traicionado - S01:E38 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto pide protección policial para su casa y su familia; Omar llega a la conclusión de que Claudio sí está involucrado en la muerte de su hermano - Patricia no entiende por qué Gertrudis insiste en condenar a su hija a una relación con un troglodita como Pablo - Alberto le cuenta a su madre el encuentro que tuvo con el sicario que mató a su papá; Gertrudis finge ira y sorpresa, llamando de inmediato a Claudio para alertarlo sobre la situación</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117075315 +0100" stop="20261117084613 +0100">
-    <title>S01 : E39 Corazón Traicionado - S01:E39- The Psychological War - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261117075315 +0100" stop="20261117084614 +0100">
+    <title>S01 : E39 Corazón Traicionado - S01:E39 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La guerra psicológica y las amenazas de agresión física de Pablo hacia Malena van en aumento; Isabel está con ellos, recibiendo su cuota de maltrato- Claudio no ve el momento en que pueda hacer pública su relación con Gertrudis - Omar y sus hombres irrumpen en el anexo de Lorena en busca de Guillermo, a quien ya tienen plenamente identificado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117084614 +0100" stop="20261117093954 +0100">
+  <programme channel="wedotv-amor" start="20261117084615 +0100" stop="20261117093954 +0100">
     <title>S01 : E92 El Desprecio - S01:E92 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis pregunta a Cirilo si Clara Ines es su hija.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117093955 +0100" stop="20261117103451 +0100">
+  <programme channel="wedotv-amor" start="20261117093955 +0100" stop="20261117103452 +0100">
     <title>S01 : E93 El Desprecio - S01:E93 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis revela a Clara Inés que fue Cirilo quien le verificó que ella era su hija; Clara y su madre sellaran con un abrazo su ansiado reencuentro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117103452 +0100" stop="20261117112607 +0100">
-    <title>S01 : E43 La Trepadora - S01:E043 - A New Beginning - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261117103453 +0100" stop="20261117112607 +0100">
+    <title>S01 : E43 La Trepadora - S01:E043 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida le sube el ánimo a una deprimida Victoria. Yosmir pasa la noche en la habitación de Eugenia. Victoria comparte con Jack un paseo a la montaña; la joven sentencia que nada que tenga que ver con Nicolás volverá a afectarla. Leopoldo aconseja a Florencia se olvide de vengarse de Hilario y se vaya lejos a empezar una nueva vida.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261117112608 +0100" stop="20261117121721 +0100">
-    <title>S01 : E44 La Trepadora - S01:E044 - Conflicts and Passions - La Trepadora</title>
+    <title>S01 : E44 La Trepadora - S01:E044 - Episodio 44 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria asegura ante Nicolás, Fernanda, Antonieta, Federico y Eugenia que ella y su padre se van a encargar de dejarlos en la ruina y que el culpable de ellos es Nicolás por atreverse a amenazar a Hilario. Hilario busca a Hansen para pedirle que lo ayude a abrirle una cuenta bancaria a Florencia como si la hubiera dejado Rosendo. Florencia ofrece a Hilario una nueva manera de hacer que los Alcoy pierdan dinero, pero ésta vez quiere una parte del dinero que Guanipa va a ganar en el negocio. A pesar de estar enfrentados y llenos de rabia; Nicolás y Victoria se dejan llevar por sus sentimientos y se besan con pasión sin poder evitarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117121722 +0100" stop="20261117130821 +0100">
-    <title>S01 : E20 Te Tengo en Salsa - S01:E20- An Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261117121722 +0100" stop="20261117130822 +0100">
+    <title>S01 : E20 Te Tengo en Salsa - S01:E20 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Al percatarse que ha dejado su celular en una tienda, Adriana se aleja de Tatiana y Patricia; justo entonces, ésta se topa con César Román, quien la reconoce de inmediato.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117130822 +0100" stop="20261117135837 +0100">
-    <title>S01 : E21 Te Tengo en Salsa - S01:E21- Carlos Raúl's Plan - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261117130823 +0100" stop="20261117135837 +0100">
+    <title>S01 : E21 Te Tengo en Salsa - S01:E21 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos Raúl le manifiesta a Mauricio que, a pesar de ser descubierto por Adriana en su plan de apresar a César, no desmayará en conquistar el corazón de la joven.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117135838 +0100" stop="20261117145029 +0100">
-    <title>Abigail - S04:E027  - Episode 27</title>
+  <programme channel="wedotv-amor" start="20261117135838 +0100" stop="20261117145030 +0100">
+    <title>Abigail - S04:E027 - Episode 27</title>
     <desc>Rosalba amenaza con contarle a Cheito la verdad a menos que firmen un permiso para sacar a Mariana del país. Látigo le roba a Cheito las llaves del negocio de Joao. Mariana se pone cada vez peor y Abigail teme que su fin haya llegado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117145030 +0100" stop="20261117152712 +0100">
-    <title>Abigail - S04:E028  - Episode 28</title>
+  <programme channel="wedotv-amor" start="20261117145031 +0100" stop="20261117152712 +0100">
+    <title>Abigail - S04:E028 - Episode 28</title>
     <desc>María Begoña se hace pasar por María Clara para manipular a Abigail y Mariana. Mariana hace prometer a Abigail que se casará con Álvaro. Carlos Alfredo se niega a firmar el permiso para sacar a Mariana del país a pesar de la presión de Rosalba.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117152713 +0100" stop="20261117154212 +0100">
+  <programme channel="wedotv-amor" start="20261117152713 +0100" stop="20261117154213 +0100">
     <title>Abigail - S01:E028 - Episode 28</title>
     <desc>Leónidas descubre que alguien se metió a la casa de los Guzmán. Carlos Alfredo le propone a María Clara irse de luna de miel. Leonel señala a Carlos Alfredo como el acosador de Abigail ante el inspector Camacho.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117154213 +0100" stop="20261117163520 +0100">
-    <title>S01 : E38 Corazón Traicionado - S01:E38- Protection and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261117154214 +0100" stop="20261117163520 +0100">
+    <title>S01 : E38 Corazón Traicionado - S01:E38 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto pide protección policial para su casa y su familia; Omar llega a la conclusión de que Claudio sí está involucrado en la muerte de su hermano - Patricia no entiende por qué Gertrudis insiste en condenar a su hija a una relación con un troglodita como Pablo - Alberto le cuenta a su madre el encuentro que tuvo con el sicario que mató a su papá; Gertrudis finge ira y sorpresa, llamando de inmediato a Claudio para alertarlo sobre la situación</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117163521 +0100" stop="20261117172827 +0100">
-    <title>S01 : E38 Corazón Traicionado - S01:E38- Protection and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261117163521 +0100" stop="20261117172828 +0100">
+    <title>S01 : E38 Corazón Traicionado - S01:E38 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto pide protección policial para su casa y su familia; Omar llega a la conclusión de que Claudio sí está involucrado en la muerte de su hermano - Patricia no entiende por qué Gertrudis insiste en condenar a su hija a una relación con un troglodita como Pablo - Alberto le cuenta a su madre el encuentro que tuvo con el sicario que mató a su papá; Gertrudis finge ira y sorpresa, llamando de inmediato a Claudio para alertarlo sobre la situación</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117172828 +0100" stop="20261117182208 +0100">
+  <programme channel="wedotv-amor" start="20261117172829 +0100" stop="20261117182208 +0100">
     <title>S01 : E92 El Desprecio - S01:E92 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis pregunta a Cirilo si Clara Ines es su hija.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117182209 +0100" stop="20261117191705 +0100">
+  <programme channel="wedotv-amor" start="20261117182209 +0100" stop="20261117191706 +0100">
     <title>S01 : E93 El Desprecio - S01:E93 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis revela a Clara Inés que fue Cirilo quien le verificó que ella era su hija; Clara y su madre sellaran con un abrazo su ansiado reencuentro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117191706 +0100" stop="20261117201035 +0100">
-    <title>S01 : E43 La Trepadora - S01:E043 - A New Beginning - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261117191707 +0100" stop="20261117201035 +0100">
+    <title>S01 : E43 La Trepadora - S01:E043 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida le sube el ánimo a una deprimida Victoria. Yosmir pasa la noche en la habitación de Eugenia. Victoria comparte con Jack un paseo a la montaña; la joven sentencia que nada que tenga que ver con Nicolás volverá a afectarla. Leopoldo aconseja a Florencia se olvide de vengarse de Hilario y se vaya lejos a empezar una nueva vida.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117201036 +0100" stop="20261117210403 +0100">
-    <title>S01 : E44 La Trepadora - S01:E044 - Conflicts and Passions - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261117201036 +0100" stop="20261117210404 +0100">
+    <title>S01 : E44 La Trepadora - S01:E044 - Episodio 44 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria asegura ante Nicolás, Fernanda, Antonieta, Federico y Eugenia que ella y su padre se van a encargar de dejarlos en la ruina y que el culpable de ellos es Nicolás por atreverse a amenazar a Hilario. Hilario busca a Hansen para pedirle que lo ayude a abrirle una cuenta bancaria a Florencia como si la hubiera dejado Rosendo. Florencia ofrece a Hilario una nueva manera de hacer que los Alcoy pierdan dinero, pero ésta vez quiere una parte del dinero que Guanipa va a ganar en el negocio. A pesar de estar enfrentados y llenos de rabia; Nicolás y Victoria se dejan llevar por sus sentimientos y se besan con pasión sin poder evitarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117210404 +0100" stop="20261117215503 +0100">
-    <title>S01 : E20 Te Tengo en Salsa - S01:E20- An Unexpected Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261117210405 +0100" stop="20261117215504 +0100">
+    <title>S01 : E20 Te Tengo en Salsa - S01:E20 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Al percatarse que ha dejado su celular en una tienda, Adriana se aleja de Tatiana y Patricia; justo entonces, ésta se topa con César Román, quien la reconoce de inmediato.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117215504 +0100" stop="20261117224519 +0100">
-    <title>S01 : E21 Te Tengo en Salsa - S01:E21- Carlos Raúl's Plan - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261117215505 +0100" stop="20261117224519 +0100">
+    <title>S01 : E21 Te Tengo en Salsa - S01:E21 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos Raúl le manifiesta a Mauricio que, a pesar de ser descubierto por Adriana en su plan de apresar a César, no desmayará en conquistar el corazón de la joven.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117224520 +0100" stop="20261117233711 +0100">
-    <title>Abigail - S04:E027  - Ameaças e Desespero</title>
+  <programme channel="wedotv-amor" start="20261117224520 +0100" stop="20261117233712 +0100">
+    <title>Abigail - S04:E027 - Episode 27</title>
     <desc>Rosalba amenaza con contarle a Cheito la verdad a menos que firmen un permiso para sacar a Mariana del país. Látigo le roba a Cheito las llaves del negocio de Joao. Mariana se pone cada vez peor y Abigail teme que su fin haya llegado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261117233712 +0100" stop="20261118001354 +0100">
-    <title>Abigail - S04:E028  - Título de Exemplo</title>
+  <programme channel="wedotv-amor" start="20261117233713 +0100" stop="20261118001354 +0100">
+    <title>Abigail - S04:E028 - Episode 28</title>
     <desc>María Begoña se hace pasar por María Clara para manipular a Abigail y Mariana. Mariana hace prometer a Abigail que se casará con Álvaro. Carlos Alfredo se niega a firmar el permiso para sacar a Mariana del país a pesar de la presión de Rosalba.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118001355 +0100" stop="20261118002854 +0100">
+  <programme channel="wedotv-amor" start="20261118001355 +0100" stop="20261118002855 +0100">
     <title>Abigail - S01:E028 - Episode 28</title>
     <desc>Leónidas descubre que alguien se metió a la casa de los Guzmán. Carlos Alfredo le propone a María Clara irse de luna de miel. Leonel señala a Carlos Alfredo como el acosador de Abigail ante el inspector Camacho.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118002855 +0100" stop="20261118012202 +0100">
-    <title>S01 : E38 Corazón Traicionado - S01:E38- Protection and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261118002856 +0100" stop="20261118012202 +0100">
+    <title>S01 : E38 Corazón Traicionado - S01:E38 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto pide protección policial para su casa y su familia; Omar llega a la conclusión de que Claudio sí está involucrado en la muerte de su hermano - Patricia no entiende por qué Gertrudis insiste en condenar a su hija a una relación con un troglodita como Pablo - Alberto le cuenta a su madre el encuentro que tuvo con el sicario que mató a su papá; Gertrudis finge ira y sorpresa, llamando de inmediato a Claudio para alertarlo sobre la situación</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118012203 +0100" stop="20261118021509 +0100">
-    <title>S01 : E38 Corazón Traicionado - S01:E38- Protection and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261118012203 +0100" stop="20261118021510 +0100">
+    <title>S01 : E38 Corazón Traicionado - S01:E38 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto pide protección policial para su casa y su familia; Omar llega a la conclusión de que Claudio sí está involucrado en la muerte de su hermano - Patricia no entiende por qué Gertrudis insiste en condenar a su hija a una relación con un troglodita como Pablo - Alberto le cuenta a su madre el encuentro que tuvo con el sicario que mató a su papá; Gertrudis finge ira y sorpresa, llamando de inmediato a Claudio para alertarlo sobre la situación</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118021510 +0100" stop="20261118030850 +0100">
+  <programme channel="wedotv-amor" start="20261118021511 +0100" stop="20261118030850 +0100">
     <title>S01 : E92 El Desprecio - S01:E92 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis pregunta a Cirilo si Clara Ines es su hija.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118030851 +0100" stop="20261118040347 +0100">
+  <programme channel="wedotv-amor" start="20261118030851 +0100" stop="20261118040348 +0100">
     <title>S01 : E93 El Desprecio - S01:E93 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis revela a Clara Inés que fue Cirilo quien le verificó que ella era su hija; Clara y su madre sellaran con un abrazo su ansiado reencuentro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118040348 +0100" stop="20261118045717 +0100">
-    <title>S01 : E43 La Trepadora - S01:E043 - A New Beginning - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261118040349 +0100" stop="20261118045717 +0100">
+    <title>S01 : E43 La Trepadora - S01:E043 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Adelaida le sube el ánimo a una deprimida Victoria. Yosmir pasa la noche en la habitación de Eugenia. Victoria comparte con Jack un paseo a la montaña; la joven sentencia que nada que tenga que ver con Nicolás volverá a afectarla. Leopoldo aconseja a Florencia se olvide de vengarse de Hilario y se vaya lejos a empezar una nueva vida.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118045718 +0100" stop="20261118054831 +0100">
-    <title>S01 : E44 La Trepadora - S01:E044 - Conflicts and Passions - La Trepadora</title>
+    <title>S01 : E44 La Trepadora - S01:E044 - Episodio 44 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria asegura ante Nicolás, Fernanda, Antonieta, Federico y Eugenia que ella y su padre se van a encargar de dejarlos en la ruina y que el culpable de ellos es Nicolás por atreverse a amenazar a Hilario. Hilario busca a Hansen para pedirle que lo ayude a abrirle una cuenta bancaria a Florencia como si la hubiera dejado Rosendo. Florencia ofrece a Hilario una nueva manera de hacer que los Alcoy pierdan dinero, pero ésta vez quiere una parte del dinero que Guanipa va a ganar en el negocio. A pesar de estar enfrentados y llenos de rabia; Nicolás y Victoria se dejan llevar por sus sentimientos y se besan con pasión sin poder evitarlo.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118054832 +0100" stop="20261118070007 +0100">
-    <title>S01 : E20 Te Tengo en Salsa - S01:E20- An Unexpected Encounter - Te Tengo en Salsa</title>
+    <title>S01 : E20 Te Tengo en Salsa - S01:E20 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Al percatarse que ha dejado su celular en una tienda, Adriana se aleja de Tatiana y Patricia; justo entonces, ésta se topa con César Román, quien la reconoce de inmediato.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118070008 +0100" stop="20261118075306 +0100">
-    <title>S01 : E39 Corazón Traicionado - S01:E39- The Psychological War - Corazon Traicionado</title>
+    <title>S01 : E39 Corazón Traicionado - S01:E39 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La guerra psicológica y las amenazas de agresión física de Pablo hacia Malena van en aumento; Isabel está con ellos, recibiendo su cuota de maltrato- Claudio no ve el momento en que pueda hacer pública su relación con Gertrudis - Omar y sus hombres irrumpen en el anexo de Lorena en busca de Guillermo, a quien ya tienen plenamente identificado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118075307 +0100" stop="20261118084256 +0100">
-    <title>S01 : E40 Corazón Traicionado - S01:E40- Conflict and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261118075307 +0100" stop="20261118084257 +0100">
+    <title>S01 : E40 Corazón Traicionado - S01:E40 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio recibe la llamada de Pedro advirtiéndole que se preparen, porque Guillermo cayó preso y siempre existe la posibilidad de que termine confesando. Alfonso y Malena dispuestos a no seguirle el juego a Pablo. Alberto y Guillermo de nuevo frente a frente, se miran con odio cada uno desde sus razones; toda la verdad pareciera estar a punto de ser descubierta.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118084257 +0100" stop="20261118093754 +0100">
+  <programme channel="wedotv-amor" start="20261118084258 +0100" stop="20261118093754 +0100">
     <title>S01 : E93 El Desprecio - S01:E93 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis revela a Clara Inés que fue Cirilo quien le verificó que ella era su hija; Clara y su madre sellaran con un abrazo su ansiado reencuentro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118093755 +0100" stop="20261118103222 +0100">
+  <programme channel="wedotv-amor" start="20261118093755 +0100" stop="20261118103223 +0100">
     <title>S01 : E94 El Desprecio - S01:E94 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Bernice acepta llevar a Tirso con un hombre que Pastora le asegura que convertirá a su amado en un caballero.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118103223 +0100" stop="20261118112337 +0100">
-    <title>S01 : E44 La Trepadora - S01:E044 - Conflicts and Passions - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261118103224 +0100" stop="20261118112337 +0100">
+    <title>S01 : E44 La Trepadora - S01:E044 - Episodio 44 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria asegura ante Nicolás, Fernanda, Antonieta, Federico y Eugenia que ella y su padre se van a encargar de dejarlos en la ruina y que el culpable de ellos es Nicolás por atreverse a amenazar a Hilario. Hilario busca a Hansen para pedirle que lo ayude a abrirle una cuenta bancaria a Florencia como si la hubiera dejado Rosendo. Florencia ofrece a Hilario una nueva manera de hacer que los Alcoy pierdan dinero, pero ésta vez quiere una parte del dinero que Guanipa va a ganar en el negocio. A pesar de estar enfrentados y llenos de rabia; Nicolás y Victoria se dejan llevar por sus sentimientos y se besan con pasión sin poder evitarlo.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118112338 +0100" stop="20261118121408 +0100">
-    <title>S01 : E45 La Trepadora - S01:E045- The Painting - La Trepadora</title>
+    <title>S01 : E45 La Trepadora - S01:E045 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Leopoldo acepta hacer el cuadro de Fernanda desnuda. Felipe quiere ser amigo de Clementina; ella se niega convencida de que él solo busca a alguien que lo ayude de olvidarse de Antonieta. Federico está decidido a intervenir en la guerra de su familia contra los Guanipa por recuperar lo que les robaron hace años. Se aclara el crimen de Quijada; Nicolás quiere saber si Hilario fue detenido por ello.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118121409 +0100" stop="20261118130423 +0100">
-    <title>S01 : E21 Te Tengo en Salsa - S01:E21- Carlos Raúl's Plan - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261118121409 +0100" stop="20261118130424 +0100">
+    <title>S01 : E21 Te Tengo en Salsa - S01:E21 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos Raúl le manifiesta a Mauricio que, a pesar de ser descubierto por Adriana en su plan de apresar a César, no desmayará en conquistar el corazón de la joven.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118130424 +0100" stop="20261118135544 +0100">
-    <title>S01 : E22 Te Tengo en Salsa - S01:E22- The Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261118130425 +0100" stop="20261118135544 +0100">
+    <title>S01 : E22 Te Tengo en Salsa - S01:E22 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>En un amable encuentro, César le asoma la posibilidad a su hermano Carlos Raúl, que lo mejor con Adriana está por llegar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118135545 +0100" stop="20261118144810 +0100">
-    <title>Abigail - S04:E028  - عنوان تجريبي</title>
+  <programme channel="wedotv-amor" start="20261118135545 +0100" stop="20261118144811 +0100">
+    <title>Abigail - S04:E028 - Episode 28</title>
     <desc>María Begoña se hace pasar por María Clara para manipular a Abigail y Mariana. Mariana hace prometer a Abigail que se casará con Álvaro. Carlos Alfredo se niega a firmar el permiso para sacar a Mariana del país a pesar de la presión de Rosalba.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118144811 +0100" stop="20261118153851 +0100">
-    <title>Abigail - S04:E029  - Episode 29</title>
+  <programme channel="wedotv-amor" start="20261118144812 +0100" stop="20261118153852 +0100">
+    <title>Abigail - S04:E029 - Episode 29</title>
     <desc>Carlota se preocupa por lo que pasará con Cheito cuando Abigail y Álvaro se casen. Carlos Alfredo descubre a Abigail y Álvaro besándose y planeando su boda. Mariana le confiesa a Carlos Alfredo que le pidió a Abigail que se case con Álvaro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118153852 +0100" stop="20261118163150 +0100">
-    <title>S01 : E39 Corazón Traicionado - S01:E39- The Psychological War - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261118153853 +0100" stop="20261118163151 +0100">
+    <title>S01 : E39 Corazón Traicionado - S01:E39 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La guerra psicológica y las amenazas de agresión física de Pablo hacia Malena van en aumento; Isabel está con ellos, recibiendo su cuota de maltrato- Claudio no ve el momento en que pueda hacer pública su relación con Gertrudis - Omar y sus hombres irrumpen en el anexo de Lorena en busca de Guillermo, a quien ya tienen plenamente identificado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118163151 +0100" stop="20261118172450 +0100">
-    <title>S01 : E39 Corazón Traicionado - S01:E39- The Psychological War - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261118163152 +0100" stop="20261118172450 +0100">
+    <title>S01 : E39 Corazón Traicionado - S01:E39 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La guerra psicológica y las amenazas de agresión física de Pablo hacia Malena van en aumento; Isabel está con ellos, recibiendo su cuota de maltrato- Claudio no ve el momento en que pueda hacer pública su relación con Gertrudis - Omar y sus hombres irrumpen en el anexo de Lorena en busca de Guillermo, a quien ya tienen plenamente identificado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118172451 +0100" stop="20261118181947 +0100">
+  <programme channel="wedotv-amor" start="20261118172451 +0100" stop="20261118181948 +0100">
     <title>S01 : E93 El Desprecio - S01:E93 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis revela a Clara Inés que fue Cirilo quien le verificó que ella era su hija; Clara y su madre sellaran con un abrazo su ansiado reencuentro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118181948 +0100" stop="20261118191416 +0100">
+  <programme channel="wedotv-amor" start="20261118181949 +0100" stop="20261118191416 +0100">
     <title>S01 : E94 El Desprecio - S01:E94 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Bernice acepta llevar a Tirso con un hombre que Pastora le asegura que convertirá a su amado en un caballero.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118191417 +0100" stop="20261118200744 +0100">
-    <title>S01 : E44 La Trepadora - S01:E044 - Conflicts and Passions - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261118191417 +0100" stop="20261118200745 +0100">
+    <title>S01 : E44 La Trepadora - S01:E044 - Episodio 44 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria asegura ante Nicolás, Fernanda, Antonieta, Federico y Eugenia que ella y su padre se van a encargar de dejarlos en la ruina y que el culpable de ellos es Nicolás por atreverse a amenazar a Hilario. Hilario busca a Hansen para pedirle que lo ayude a abrirle una cuenta bancaria a Florencia como si la hubiera dejado Rosendo. Florencia ofrece a Hilario una nueva manera de hacer que los Alcoy pierdan dinero, pero ésta vez quiere una parte del dinero que Guanipa va a ganar en el negocio. A pesar de estar enfrentados y llenos de rabia; Nicolás y Victoria se dejan llevar por sus sentimientos y se besan con pasión sin poder evitarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118200745 +0100" stop="20261118210030 +0100">
-    <title>S01 : E45 La Trepadora - S01:E045- The Painting - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261118200746 +0100" stop="20261118210030 +0100">
+    <title>S01 : E45 La Trepadora - S01:E045 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Leopoldo acepta hacer el cuadro de Fernanda desnuda. Felipe quiere ser amigo de Clementina; ella se niega convencida de que él solo busca a alguien que lo ayude de olvidarse de Antonieta. Federico está decidido a intervenir en la guerra de su familia contra los Guanipa por recuperar lo que les robaron hace años. Se aclara el crimen de Quijada; Nicolás quiere saber si Hilario fue detenido por ello.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118210031 +0100" stop="20261118215045 +0100">
-    <title>S01 : E21 Te Tengo en Salsa - S01:E21- Carlos Raúl's Plan - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261118210031 +0100" stop="20261118215046 +0100">
+    <title>S01 : E21 Te Tengo en Salsa - S01:E21 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos Raúl le manifiesta a Mauricio que, a pesar de ser descubierto por Adriana en su plan de apresar a César, no desmayará en conquistar el corazón de la joven.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118215046 +0100" stop="20261118224205 +0100">
-    <title>S01 : E22 Te Tengo en Salsa - S01:E22- The Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261118215047 +0100" stop="20261118224206 +0100">
+    <title>S01 : E22 Te Tengo en Salsa - S01:E22 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>En un amable encuentro, César le asoma la posibilidad a su hermano Carlos Raúl, que lo mejor con Adriana está por llegar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261118224206 +0100" stop="20261118233432 +0100">
-    <title>Abigail - S04:E028  - عنوان تجريبي</title>
+  <programme channel="wedotv-amor" start="20261118224207 +0100" stop="20261118233432 +0100">
+    <title>Abigail - S04:E028 - Episode 28</title>
     <desc>María Begoña se hace pasar por María Clara para manipular a Abigail y Mariana. Mariana hace prometer a Abigail que se casará con Álvaro. Carlos Alfredo se niega a firmar el permiso para sacar a Mariana del país a pesar de la presión de Rosalba.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261118233433 +0100" stop="20261119002513 +0100">
-    <title>Abigail - S04:E029  - Episode 29</title>
+    <title>Abigail - S04:E029 - Episode 29</title>
     <desc>Carlota se preocupa por lo que pasará con Cheito cuando Abigail y Álvaro se casen. Carlos Alfredo descubre a Abigail y Álvaro besándose y planeando su boda. Mariana le confiesa a Carlos Alfredo que le pidió a Abigail que se case con Álvaro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119002514 +0100" stop="20261119011812 +0100">
-    <title>S01 : E39 Corazón Traicionado - S01:E39- The Psychological War - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261119002514 +0100" stop="20261119011813 +0100">
+    <title>S01 : E39 Corazón Traicionado - S01:E39 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La guerra psicológica y las amenazas de agresión física de Pablo hacia Malena van en aumento; Isabel está con ellos, recibiendo su cuota de maltrato- Claudio no ve el momento en que pueda hacer pública su relación con Gertrudis - Omar y sus hombres irrumpen en el anexo de Lorena en busca de Guillermo, a quien ya tienen plenamente identificado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119011813 +0100" stop="20261119021112 +0100">
-    <title>S01 : E39 Corazón Traicionado - S01:E39- The Psychological War - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261119011814 +0100" stop="20261119021112 +0100">
+    <title>S01 : E39 Corazón Traicionado - S01:E39 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La guerra psicológica y las amenazas de agresión física de Pablo hacia Malena van en aumento; Isabel está con ellos, recibiendo su cuota de maltrato- Claudio no ve el momento en que pueda hacer pública su relación con Gertrudis - Omar y sus hombres irrumpen en el anexo de Lorena en busca de Guillermo, a quien ya tienen plenamente identificado.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119021113 +0100" stop="20261119030609 +0100">
+  <programme channel="wedotv-amor" start="20261119021113 +0100" stop="20261119030610 +0100">
     <title>S01 : E93 El Desprecio - S01:E93 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Illis revela a Clara Inés que fue Cirilo quien le verificó que ella era su hija; Clara y su madre sellaran con un abrazo su ansiado reencuentro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119030610 +0100" stop="20261119040038 +0100">
+  <programme channel="wedotv-amor" start="20261119030611 +0100" stop="20261119040038 +0100">
     <title>S01 : E94 El Desprecio - S01:E94 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Bernice acepta llevar a Tirso con un hombre que Pastora le asegura que convertirá a su amado en un caballero.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119040039 +0100" stop="20261119045406 +0100">
-    <title>S01 : E44 La Trepadora - S01:E044 - Conflicts and Passions - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261119040039 +0100" stop="20261119045407 +0100">
+    <title>S01 : E44 La Trepadora - S01:E044 - Episodio 44 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria asegura ante Nicolás, Fernanda, Antonieta, Federico y Eugenia que ella y su padre se van a encargar de dejarlos en la ruina y que el culpable de ellos es Nicolás por atreverse a amenazar a Hilario. Hilario busca a Hansen para pedirle que lo ayude a abrirle una cuenta bancaria a Florencia como si la hubiera dejado Rosendo. Florencia ofrece a Hilario una nueva manera de hacer que los Alcoy pierdan dinero, pero ésta vez quiere una parte del dinero que Guanipa va a ganar en el negocio. A pesar de estar enfrentados y llenos de rabia; Nicolás y Victoria se dejan llevar por sus sentimientos y se besan con pasión sin poder evitarlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119045407 +0100" stop="20261119054437 +0100">
-    <title>S01 : E45 La Trepadora - S01:E045- The Painting - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261119045408 +0100" stop="20261119054438 +0100">
+    <title>S01 : E45 La Trepadora - S01:E045 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Leopoldo acepta hacer el cuadro de Fernanda desnuda. Felipe quiere ser amigo de Clementina; ella se niega convencida de que él solo busca a alguien que lo ayude de olvidarse de Antonieta. Federico está decidido a intervenir en la guerra de su familia contra los Guanipa por recuperar lo que les robaron hace años. Se aclara el crimen de Quijada; Nicolás quiere saber si Hilario fue detenido por ello.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119054438 +0100" stop="20261119070007 +0100">
-    <title>S01 : E21 Te Tengo en Salsa - S01:E21- Carlos Raúl's Plan - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261119054439 +0100" stop="20261119070007 +0100">
+    <title>S01 : E21 Te Tengo en Salsa - S01:E21 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Carlos Raúl le manifiesta a Mauricio que, a pesar de ser descubierto por Adriana en su plan de apresar a César, no desmayará en conquistar el corazón de la joven.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261119070008 +0100" stop="20261119074957 +0100">
-    <title>S01 : E40 Corazón Traicionado - S01:E40- Conflict and Revelations - Corazon Traicionado</title>
+    <title>S01 : E40 Corazón Traicionado - S01:E40 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio recibe la llamada de Pedro advirtiéndole que se preparen, porque Guillermo cayó preso y siempre existe la posibilidad de que termine confesando. Alfonso y Malena dispuestos a no seguirle el juego a Pablo. Alberto y Guillermo de nuevo frente a frente, se miran con odio cada uno desde sus razones; toda la verdad pareciera estar a punto de ser descubierta.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119074958 +0100" stop="20261119084326 +0100">
-    <title>S01 : E41 Corazón Traicionado - S01:E41- Patricia's Confrontation - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261119074958 +0100" stop="20261119084327 +0100">
+    <title>S01 : E41 Corazón Traicionado - S01:E41 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Patricia no se amedrenta ante Gertrudis, está dispuesta a hacer que Pablo pague por la violencia física y psicológica que ejerce sobre su esposa; la señora amenaza feroz para que abandone la defensa de Malena, mientras Pablo se muestra triunfal- Guillermo es conducido a su celda, cuando uno de los reos le entrega una nota con su sentencia de muerte: “el pez muere por la boca”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119084327 +0100" stop="20261119093755 +0100">
+  <programme channel="wedotv-amor" start="20261119084328 +0100" stop="20261119093755 +0100">
     <title>S01 : E94 El Desprecio - S01:E94 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Bernice acepta llevar a Tirso con un hombre que Pastora le asegura que convertirá a su amado en un caballero.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119093756 +0100" stop="20261119103324 +0100">
+  <programme channel="wedotv-amor" start="20261119093756 +0100" stop="20261119103325 +0100">
     <title>S01 : E95 El Desprecio - S01:E95 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al comprobar la desaparición de Illis, Clara sentencia frente a Gabriel, Tamara, Israel y Pereto que a su madre no puede pasarle nada malo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119103325 +0100" stop="20261119112356 +0100">
-    <title>S01 : E45 La Trepadora - S01:E045- The Painting - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261119103326 +0100" stop="20261119112356 +0100">
+    <title>S01 : E45 La Trepadora - S01:E045 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Leopoldo acepta hacer el cuadro de Fernanda desnuda. Felipe quiere ser amigo de Clementina; ella se niega convencida de que él solo busca a alguien que lo ayude de olvidarse de Antonieta. Federico está decidido a intervenir en la guerra de su familia contra los Guanipa por recuperar lo que les robaron hace años. Se aclara el crimen de Quijada; Nicolás quiere saber si Hilario fue detenido por ello.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261119112357 +0100" stop="20261119121518 +0100">
-    <title>S01 : E46 La Trepadora - S01:E046- Victoria Confides in Jack - La Trepadora</title>
+    <title>S01 : E46 La Trepadora - S01:E046 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria le confía a Jack que quiere irse del país para alejarse de tanto odio. Yosmir lleva a Eugenia a pasear en la moto en que Chabeto pretendía salir con las otras muchachas. Florencia piensa seguir adelante con su venganza contra Hilario aunque Nicolás no la ayude. Victoria sorprende a Jack asegurándole a Jonás que no piensa huir del país; la muchacha exige una explicación.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119121519 +0100" stop="20261119130638 +0100">
-    <title>S01 : E22 Te Tengo en Salsa - S01:E22- The Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261119121519 +0100" stop="20261119130639 +0100">
+    <title>S01 : E22 Te Tengo en Salsa - S01:E22 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>En un amable encuentro, César le asoma la posibilidad a su hermano Carlos Raúl, que lo mejor con Adriana está por llegar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119130639 +0100" stop="20261119135756 +0100">
-    <title>S01 : E23 Te Tengo en Salsa - S01:E23- The Spa - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261119130640 +0100" stop="20261119135756 +0100">
+    <title>S01 : E23 Te Tengo en Salsa - S01:E23 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ya en el spa, Ninoska le advierte a Francesca que sacará para siempre a Adriana de la vida de Carlos Raúl.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261119135757 +0100" stop="20261119144837 +0100">
-    <title>Abigail - S04:E029  - Episode 29</title>
+    <title>Abigail - S04:E029 - Episode 29</title>
     <desc>Carlota se preocupa por lo que pasará con Cheito cuando Abigail y Álvaro se casen. Carlos Alfredo descubre a Abigail y Álvaro besándose y planeando su boda. Mariana le confiesa a Carlos Alfredo que le pidió a Abigail que se case con Álvaro.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261119144838 +0100" stop="20261119154023 +0100">
-    <title>Abigail - S04:E030  - Episode 30</title>
+    <title>Abigail - S04:E030 - Episode 30</title>
     <desc>María Begoña paga a Maruca para que Látigo y Navaja asusten a Carlota y a Cheito hasta el punto de que decidan desaparecer. Rosalba intenta contarle la verdad a Cheito pero Carlos Alfredo la detiene. Cheito le pide a Mariana que se case con él.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119154024 +0100" stop="20261119163013 +0100">
-    <title>S01 : E40 Corazón Traicionado - S01:E40- Conflict and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261119154024 +0100" stop="20261119163014 +0100">
+    <title>S01 : E40 Corazón Traicionado - S01:E40 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio recibe la llamada de Pedro advirtiéndole que se preparen, porque Guillermo cayó preso y siempre existe la posibilidad de que termine confesando. Alfonso y Malena dispuestos a no seguirle el juego a Pablo. Alberto y Guillermo de nuevo frente a frente, se miran con odio cada uno desde sus razones; toda la verdad pareciera estar a punto de ser descubierta.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119163014 +0100" stop="20261119172003 +0100">
-    <title>S01 : E40 Corazón Traicionado - S01:E40- Conflict and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261119163015 +0100" stop="20261119172004 +0100">
+    <title>S01 : E40 Corazón Traicionado - S01:E40 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio recibe la llamada de Pedro advirtiéndole que se preparen, porque Guillermo cayó preso y siempre existe la posibilidad de que termine confesando. Alfonso y Malena dispuestos a no seguirle el juego a Pablo. Alberto y Guillermo de nuevo frente a frente, se miran con odio cada uno desde sus razones; toda la verdad pareciera estar a punto de ser descubierta.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119172004 +0100" stop="20261119181432 +0100">
+  <programme channel="wedotv-amor" start="20261119172005 +0100" stop="20261119181432 +0100">
     <title>S01 : E94 El Desprecio - S01:E94 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Bernice acepta llevar a Tirso con un hombre que Pastora le asegura que convertirá a su amado en un caballero.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119181433 +0100" stop="20261119191001 +0100">
+  <programme channel="wedotv-amor" start="20261119181433 +0100" stop="20261119191002 +0100">
     <title>S01 : E95 El Desprecio - S01:E95 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al comprobar la desaparición de Illis, Clara sentencia frente a Gabriel, Tamara, Israel y Pereto que a su madre no puede pasarle nada malo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119191002 +0100" stop="20261119200247 +0100">
-    <title>S01 : E45 La Trepadora - S01:E045- The Painting - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261119191003 +0100" stop="20261119200247 +0100">
+    <title>S01 : E45 La Trepadora - S01:E045 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Leopoldo acepta hacer el cuadro de Fernanda desnuda. Felipe quiere ser amigo de Clementina; ella se niega convencida de que él solo busca a alguien que lo ayude de olvidarse de Antonieta. Federico está decidido a intervenir en la guerra de su familia contra los Guanipa por recuperar lo que les robaron hace años. Se aclara el crimen de Quijada; Nicolás quiere saber si Hilario fue detenido por ello.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119200248 +0100" stop="20261119205623 +0100">
-    <title>S01 : E46 La Trepadora - S01:E046- Victoria Confides in Jack - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261119200248 +0100" stop="20261119205624 +0100">
+    <title>S01 : E46 La Trepadora - S01:E046 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria le confía a Jack que quiere irse del país para alejarse de tanto odio. Yosmir lleva a Eugenia a pasear en la moto en que Chabeto pretendía salir con las otras muchachas. Florencia piensa seguir adelante con su venganza contra Hilario aunque Nicolás no la ayude. Victoria sorprende a Jack asegurándole a Jonás que no piensa huir del país; la muchacha exige una explicación.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119205624 +0100" stop="20261119214744 +0100">
-    <title>S01 : E22 Te Tengo en Salsa - S01:E22- The Encounter - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261119205625 +0100" stop="20261119214744 +0100">
+    <title>S01 : E22 Te Tengo en Salsa - S01:E22 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>En un amable encuentro, César le asoma la posibilidad a su hermano Carlos Raúl, que lo mejor con Adriana está por llegar.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119214745 +0100" stop="20261119223901 +0100">
-    <title>S01 : E23 Te Tengo en Salsa - S01:E23- The Spa - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261119214745 +0100" stop="20261119223902 +0100">
+    <title>S01 : E23 Te Tengo en Salsa - S01:E23 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ya en el spa, Ninoska le advierte a Francesca que sacará para siempre a Adriana de la vida de Carlos Raúl.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119223902 +0100" stop="20261119232942 +0100">
-    <title>Abigail - S04:E029  - Episode 29</title>
+  <programme channel="wedotv-amor" start="20261119223903 +0100" stop="20261119232943 +0100">
+    <title>Abigail - S04:E029 - Episode 29</title>
     <desc>Carlota se preocupa por lo que pasará con Cheito cuando Abigail y Álvaro se casen. Carlos Alfredo descubre a Abigail y Álvaro besándose y planeando su boda. Mariana le confiesa a Carlos Alfredo que le pidió a Abigail que se case con Álvaro.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119232943 +0100" stop="20261120002128 +0100">
-    <title>Abigail - S04:E030  - Episode 30</title>
+  <programme channel="wedotv-amor" start="20261119232944 +0100" stop="20261120002129 +0100">
+    <title>Abigail - S04:E030 - Episode 30</title>
     <desc>María Begoña paga a Maruca para que Látigo y Navaja asusten a Carlota y a Cheito hasta el punto de que decidan desaparecer. Rosalba intenta contarle la verdad a Cheito pero Carlos Alfredo la detiene. Cheito le pide a Mariana que se case con él.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120002129 +0100" stop="20261120011118 +0100">
-    <title>S01 : E40 Corazón Traicionado - S01:E40- Conflict and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120002130 +0100" stop="20261120011119 +0100">
+    <title>S01 : E40 Corazón Traicionado - S01:E40 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio recibe la llamada de Pedro advirtiéndole que se preparen, porque Guillermo cayó preso y siempre existe la posibilidad de que termine confesando. Alfonso y Malena dispuestos a no seguirle el juego a Pablo. Alberto y Guillermo de nuevo frente a frente, se miran con odio cada uno desde sus razones; toda la verdad pareciera estar a punto de ser descubierta.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120011119 +0100" stop="20261120020109 +0100">
-    <title>S01 : E40 Corazón Traicionado - S01:E40- Conflict and Revelations - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120011120 +0100" stop="20261120020109 +0100">
+    <title>S01 : E40 Corazón Traicionado - S01:E40 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio recibe la llamada de Pedro advirtiéndole que se preparen, porque Guillermo cayó preso y siempre existe la posibilidad de que termine confesando. Alfonso y Malena dispuestos a no seguirle el juego a Pablo. Alberto y Guillermo de nuevo frente a frente, se miran con odio cada uno desde sus razones; toda la verdad pareciera estar a punto de ser descubierta.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120020110 +0100" stop="20261120025537 +0100">
+  <programme channel="wedotv-amor" start="20261120020110 +0100" stop="20261120025538 +0100">
     <title>S01 : E94 El Desprecio - S01:E94 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Bernice acepta llevar a Tirso con un hombre que Pastora le asegura que convertirá a su amado en un caballero.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120025538 +0100" stop="20261120035107 +0100">
+  <programme channel="wedotv-amor" start="20261120025539 +0100" stop="20261120035107 +0100">
     <title>S01 : E95 El Desprecio - S01:E95 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al comprobar la desaparición de Illis, Clara sentencia frente a Gabriel, Tamara, Israel y Pereto que a su madre no puede pasarle nada malo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120035108 +0100" stop="20261120044352 +0100">
-    <title>S01 : E45 La Trepadora - S01:E045- The Painting - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261120035108 +0100" stop="20261120044353 +0100">
+    <title>S01 : E45 La Trepadora - S01:E045 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Leopoldo acepta hacer el cuadro de Fernanda desnuda. Felipe quiere ser amigo de Clementina; ella se niega convencida de que él solo busca a alguien que lo ayude de olvidarse de Antonieta. Federico está decidido a intervenir en la guerra de su familia contra los Guanipa por recuperar lo que les robaron hace años. Se aclara el crimen de Quijada; Nicolás quiere saber si Hilario fue detenido por ello.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120044353 +0100" stop="20261120053515 +0100">
-    <title>S01 : E46 La Trepadora - S01:E046- Victoria Confides in Jack - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261120044354 +0100" stop="20261120053515 +0100">
+    <title>S01 : E46 La Trepadora - S01:E046 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria le confía a Jack que quiere irse del país para alejarse de tanto odio. Yosmir lleva a Eugenia a pasear en la moto en que Chabeto pretendía salir con las otras muchachas. Florencia piensa seguir adelante con su venganza contra Hilario aunque Nicolás no la ayude. Victoria sorprende a Jack asegurándole a Jonás que no piensa huir del país; la muchacha exige una explicación.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120053516 +0100" stop="20261120070007 +0100">
-    <title>S01 : E22 Te Tengo en Salsa - S01:E22- The Encounter - Te Tengo en Salsa</title>
+    <title>S01 : E22 Te Tengo en Salsa - S01:E22 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>En un amable encuentro, César le asoma la posibilidad a su hermano Carlos Raúl, que lo mejor con Adriana está por llegar.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120070008 +0100" stop="20261120075336 +0100">
-    <title>S01 : E41 Corazón Traicionado - S01:E41- Patricia's Confrontation - Corazon Traicionado</title>
+    <title>S01 : E41 Corazón Traicionado - S01:E41 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Patricia no se amedrenta ante Gertrudis, está dispuesta a hacer que Pablo pague por la violencia física y psicológica que ejerce sobre su esposa; la señora amenaza feroz para que abandone la defensa de Malena, mientras Pablo se muestra triunfal- Guillermo es conducido a su celda, cuando uno de los reos le entrega una nota con su sentencia de muerte: “el pez muere por la boca”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120075337 +0100" stop="20261120084602 +0100">
-    <title>S01 : E42 Corazón Traicionado - S01:E42- Murder in the Dark - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120075337 +0100" stop="20261120084603 +0100">
+    <title>S01 : E42 Corazón Traicionado - S01:E42 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto recibe llamada de Omar, informándole que acaban de matar a Guillermo. María Lourdes enfurece al enterarse del asesinato del sicario, no le cabe la menor duda de que fue silenciado para que no delatara a los culpables de la muerte de Marco Aurelio. a propósito de las últimas palabras de Guillermo antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120084603 +0100" stop="20261120094132 +0100">
+  <programme channel="wedotv-amor" start="20261120084604 +0100" stop="20261120094132 +0100">
     <title>S01 : E95 El Desprecio - S01:E95 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al comprobar la desaparición de Illis, Clara sentencia frente a Gabriel, Tamara, Israel y Pereto que a su madre no puede pasarle nada malo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120094133 +0100" stop="20261120103538 +0100">
+  <programme channel="wedotv-amor" start="20261120094133 +0100" stop="20261120103539 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120103539 +0100" stop="20261120112701 +0100">
-    <title>S01 : E46 La Trepadora - S01:E046- Victoria Confides in Jack - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261120103540 +0100" stop="20261120112701 +0100">
+    <title>S01 : E46 La Trepadora - S01:E046 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria le confía a Jack que quiere irse del país para alejarse de tanto odio. Yosmir lleva a Eugenia a pasear en la moto en que Chabeto pretendía salir con las otras muchachas. Florencia piensa seguir adelante con su venganza contra Hilario aunque Nicolás no la ayude. Victoria sorprende a Jack asegurándole a Jonás que no piensa huir del país; la muchacha exige una explicación.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120112702 +0100" stop="20261120121742 +0100">
-    <title>S01 : E47 La Trepadora - S01:E047- The Invasion of Cantarrana - La Trepadora</title>
+    <title>S01 : E47 La Trepadora - S01:E047 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Federico está decidido a conseguir la gente suficiente para invadir Cantarrana para que a Hilario no le quede más remedio que vendérsela a su familia a pesar de que Bautista no lo considera capaz de lograr algo así. Leopoldo, que le reitera a Nicolás lo orgulloso que se encuentra de él, lamenta que no haya podido conseguir lo que quería con Victoria; Nicolás cree que, aunque no pueda ser feliz al lado de la mujer que ama, por lo menos va a tratar de demostrarle que él no es el delincuente que ella piensa. Nicolás no llega a salir con Moncho como pretende porque Joselo lo ataca por la espalda dejándolo sin sentido; ambos hombres deciden llevar a Del Casal ante Hilario. Federico se...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120121743 +0100" stop="20261120130859 +0100">
-    <title>S01 : E23 Te Tengo en Salsa - S01:E23- The Spa - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261120121743 +0100" stop="20261120130900 +0100">
+    <title>S01 : E23 Te Tengo en Salsa - S01:E23 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ya en el spa, Ninoska le advierte a Francesca que sacará para siempre a Adriana de la vida de Carlos Raúl.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120130900 +0100" stop="20261120140040 +0100">
-    <title>S01 : E24 Te Tengo en Salsa - S01:E24- Adriana Pleads with Her Sister - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261120130901 +0100" stop="20261120140040 +0100">
+    <title>S01 : E24 Te Tengo en Salsa - S01:E24 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana le suplica a su hermana que se cuide pues tarde o temprano sus padres podrían enterarse de la verdad.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120140041 +0100" stop="20261120145226 +0100">
-    <title>Abigail - S04:E030  - Episode 30</title>
+    <title>Abigail - S04:E030 - Episode 30</title>
     <desc>María Begoña paga a Maruca para que Látigo y Navaja asusten a Carlota y a Cheito hasta el punto de que decidan desaparecer. Rosalba intenta contarle la verdad a Cheito pero Carlos Alfredo la detiene. Cheito le pide a Mariana que se case con él.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120145227 +0100" stop="20261120154156 +0100">
-    <title>Abigail - S04:E031  - Título de Exemplo</title>
+    <title>Abigail - S04:E031 - Episode 31</title>
     <desc>Rosalba llega a casa de Abigail para llevarse a Mariana a Estados Unidos pero Pastora logra intervenir y le pide que abandone la casa pues Carlos Alfredo ya había hablado con ella. Guillermo apoya a Rosalba en la decisión.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120154157 +0100" stop="20261120163525 +0100">
-    <title>S01 : E41 Corazón Traicionado - S01:E41- Patricia's Confrontation - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120154157 +0100" stop="20261120163526 +0100">
+    <title>S01 : E41 Corazón Traicionado - S01:E41 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Patricia no se amedrenta ante Gertrudis, está dispuesta a hacer que Pablo pague por la violencia física y psicológica que ejerce sobre su esposa; la señora amenaza feroz para que abandone la defensa de Malena, mientras Pablo se muestra triunfal- Guillermo es conducido a su celda, cuando uno de los reos le entrega una nota con su sentencia de muerte: “el pez muere por la boca”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120163526 +0100" stop="20261120172855 +0100">
-    <title>S01 : E41 Corazón Traicionado - S01:E41- Patricia's Confrontation - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120163527 +0100" stop="20261120172855 +0100">
+    <title>S01 : E41 Corazón Traicionado - S01:E41 - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Patricia no se amedrenta ante Gertrudis, está dispuesta a hacer que Pablo pague por la violencia física y psicológica que ejerce sobre su esposa; la señora amenaza feroz para que abandone la defensa de Malena, mientras Pablo se muestra triunfal- Guillermo es conducido a su celda, cuando uno de los reos le entrega una nota con su sentencia de muerte: “el pez muere por la boca”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120172856 +0100" stop="20261120182424 +0100">
+  <programme channel="wedotv-amor" start="20261120172856 +0100" stop="20261120182425 +0100">
     <title>S01 : E95 El Desprecio - S01:E95 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al comprobar la desaparición de Illis, Clara sentencia frente a Gabriel, Tamara, Israel y Pereto que a su madre no puede pasarle nada malo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120182425 +0100" stop="20261120191831 +0100">
+  <programme channel="wedotv-amor" start="20261120182426 +0100" stop="20261120191831 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120191832 +0100" stop="20261120201207 +0100">
-    <title>S01 : E46 La Trepadora - S01:E046- Victoria Confides in Jack - La Trepadora</title>
+    <title>S01 : E46 La Trepadora - S01:E046 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria le confía a Jack que quiere irse del país para alejarse de tanto odio. Yosmir lleva a Eugenia a pasear en la moto en que Chabeto pretendía salir con las otras muchachas. Florencia piensa seguir adelante con su venganza contra Hilario aunque Nicolás no la ayude. Victoria sorprende a Jack asegurándole a Jonás que no piensa huir del país; la muchacha exige una explicación.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120201208 +0100" stop="20261120210502 +0100">
-    <title>S01 : E47 La Trepadora - S01:E047- The Invasion of Cantarrana - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261120201208 +0100" stop="20261120210503 +0100">
+    <title>S01 : E47 La Trepadora - S01:E047 - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Federico está decidido a conseguir la gente suficiente para invadir Cantarrana para que a Hilario no le quede más remedio que vendérsela a su familia a pesar de que Bautista no lo considera capaz de lograr algo así. Leopoldo, que le reitera a Nicolás lo orgulloso que se encuentra de él, lamenta que no haya podido conseguir lo que quería con Victoria; Nicolás cree que, aunque no pueda ser feliz al lado de la mujer que ama, por lo menos va a tratar de demostrarle que él no es el delincuente que ella piensa. Nicolás no llega a salir con Moncho como pretende porque Joselo lo ataca por la espalda dejándolo sin sentido; ambos hombres deciden llevar a Del Casal ante Hilario. Federico se...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120210503 +0100" stop="20261120215620 +0100">
-    <title>S01 : E23 Te Tengo en Salsa - S01:E23- The Spa - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261120210504 +0100" stop="20261120215620 +0100">
+    <title>S01 : E23 Te Tengo en Salsa - S01:E23 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ya en el spa, Ninoska le advierte a Francesca que sacará para siempre a Adriana de la vida de Carlos Raúl.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120215621 +0100" stop="20261120224800 +0100">
-    <title>S01 : E24 Te Tengo en Salsa - S01:E24- Adriana Pleads with Her Sister - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261120215621 +0100" stop="20261120224801 +0100">
+    <title>S01 : E24 Te Tengo en Salsa - S01:E24 - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana le suplica a su hermana que se cuide pues tarde o temprano sus padres podrían enterarse de la verdad.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120224801 +0100" stop="20261120233946 +0100">
-    <title>Abigail - S04:E030  - Episode 30</title>
+  <programme channel="wedotv-amor" start="20261120224802 +0100" stop="20261120233947 +0100">
+    <title>Abigail - S04:E030 - Episode 30</title>
     <desc>María Begoña paga a Maruca para que Látigo y Navaja asusten a Carlota y a Cheito hasta el punto de que decidan desaparecer. Rosalba intenta contarle la verdad a Cheito pero Carlos Alfredo la detiene. Cheito le pide a Mariana que se case con él.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120233947 +0100" stop="20261121002916 +0100">
-    <title>Abigail - S04:E031  - Episode 31</title>
+  <programme channel="wedotv-amor" start="20261120233948 +0100" stop="20261121002917 +0100">
+    <title>Abigail - S04:E031 - Episode 31</title>
     <desc>Rosalba llega a casa de Abigail para llevarse a Mariana a Estados Unidos pero Pastora logra intervenir y le pide que abandone la casa pues Carlos Alfredo ya había hablado con ella. Guillermo apoya a Rosalba en la decisión.</desc>
   </programme>
   <programme channel="rookie-blue-spa" start="20261116234730 +0100" stop="20261117003613 +0100">
@@ -60780,6 +60909,102 @@ laboratorio de Russell en su nuevo juego, cualquier cosa puede pasar.</desc>
   <programme channel="stingray-hit-list" start="20261120200000 +0100" stop="20261121000000 +0100">
     <title>Emisión Stingray Hit List</title>
     <desc>Programación continua para Stingray Hit List.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261117000000 +0100" stop="20261117040000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261117040000 +0100" stop="20261117080000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261117080000 +0100" stop="20261117120000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261117120000 +0100" stop="20261117160000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261117160000 +0100" stop="20261117200000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261117200000 +0100" stop="20261118000000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261118000000 +0100" stop="20261118040000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261118040000 +0100" stop="20261118080000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261118080000 +0100" stop="20261118120000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261118120000 +0100" stop="20261118160000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261118160000 +0100" stop="20261118200000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261118200000 +0100" stop="20261119000000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261119000000 +0100" stop="20261119040000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261119040000 +0100" stop="20261119080000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261119080000 +0100" stop="20261119120000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261119120000 +0100" stop="20261119160000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261119160000 +0100" stop="20261119200000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261119200000 +0100" stop="20261120000000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261120000000 +0100" stop="20261120040000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261120040000 +0100" stop="20261120080000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261120080000 +0100" stop="20261120120000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261120120000 +0100" stop="20261120160000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261120160000 +0100" stop="20261120200000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
+  </programme>
+  <programme channel="red-bull-tv-es" start="20261120200000 +0100" stop="20261121000000 +0100">
+    <title>Emisión Red Bull Tv Es</title>
+    <desc>Programación continua para Red Bull Tv Es.</desc>
   </programme>
   <programme channel="sports-illustrated-tv" start="20261117000000 +0100" stop="20261117040000 +0100">
     <title>Emisión Sports Illustrated Tv</title>
