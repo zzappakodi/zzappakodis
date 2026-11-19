@@ -943,13 +943,13 @@ https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 https://live.tvup.edge2befaster.io/laseptima/laseptima.m3u8
 
 #EXTINF:-1 tvg-id="Books" tvg-name="Books" tvg-logo="http://192.168.1.98:8080/logos/Books.png" group-title="Cajón de Sastre",Books
-https://books-tcs.fast.tcscdn.net/live/fast-channel-books-e1334866/fast-channel-books-e1334866.m3u8
+https://daiconnect.com/live/hls/tvup/books/.m3u8
 
 #EXTINF:-1 tvg-id="Epic" tvg-name="Epic" tvg-logo="http://192.168.1.98:8080/logos/Epic.png" group-title="Cajón de Sastre",Epic
-https://epic-tcs.fast.tcscdn.net/live/fast-channel-epic-e63a0223/fast-channel-epic-e63a0223.m3u8
+https://daiconnect.com/live/hls/tvup/epic/.m3u8
 
 #EXTINF:-1 tvg-id="Alma" tvg-name="Alma" tvg-logo="http://192.168.1.98:8080/logos/Alma.png" group-title="Cajón de Sastre",Alma
-https://alma-tcs.fast.tcscdn.net/live/fast-channel-alma-04563e88/fast-channel-alma-04563e88.m3u8
+https://daiconnect.com/live/hls/tvup/alma/.m3u8
 
 #EXTINF:-1 tvg-id="Accion+" tvg-name="Accion+" tvg-logo="http://192.168.1.98:8080/logos/Accion%2B.png" group-title="Cajón de Sastre",Accion+
-https://accionplus-tcs.fast.tcscdn.net/live/fast-channel-accionplus-366125d5/fast-channel-accionplus-366125d5.m3u8
+https://daiconnect.com/live/hls/tvup/accionplus/.m3u8
