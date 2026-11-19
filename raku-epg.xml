@@ -31049,10 +31049,15 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Concerto - Schubert e Strauss per Mariotti e OSN</sub-title>
     <desc>The Rai National Symphony Orchestra, under the baton of conductor Michele Mariotti, presents a captivating performance featuring the works of Franz Schubert and Richard Strauss. The programme showcases Schubert's rich melodies and lyrical compositions alongside Strauss's dynamic and expressive pieces, offering a journey through the Romantic and late-Romantic musical landscapes. The orchestra's interpretation highlights the depth and emotional power of these renowned composers, creating a memorable concert experience.</desc>
   </programme>
-  <programme channel="med-tv" start="20261122070000 +0100" stop="20261122072459 +0100">
+  <programme channel="med-tv" start="20261122070000 +0100" stop="20261122071959 +0100">
     <title>Mediterranean Yoga Start Your Day Gently</title>
     <sub-title>Mediterranean Yoga Start Your Day Gently</sub-title>
     <desc>Mediterranean Yoga is a series that blends Embodiment Yoga with the peaceful beauty of the Mediterranean. Set in stunning coastal and natural locations, each episode encourages viewers to reconnect mind and body through gentle movement, breathwork, and mindfulness in a safe and calming space.</desc>
+  </programme>
+  <programme channel="med-tv" start="20261122072000 +0100" stop="20261122072459 +0100">
+    <title>Memoirs 22 Nov</title>
+    <sub-title>Memoirs 22 Nov</sub-title>
+    <desc>Memoirs 22 Nov</desc>
   </programme>
   <programme channel="med-tv" start="20261122072500 +0100" stop="20261122072959 +0100">
     <title>Isabella Turso Get Busy</title>
@@ -31075,29 +31080,39 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <desc>Cyprus, an island where Mediterranean sunshine meets rich history. From the ancient streets of Nicosia to idyllic coastal villages, Cyprus reveals a unique blend of culture, cuisine, and seaside traditions shaped by centuries of Mediterranean life.</desc>
   </programme>
   <programme channel="med-tv" start="20261122081500 +0100" stop="20261122082833 +0100">
-    <title>Med Destinations Pula</title>
-    <sub-title>Med Destinations Pula</sub-title>
-    <desc>Discover Pula, Croatia, with Med Destinations. Famous for its Roman amphitheater and charming old town, Pula combines historical grandeur with Adriatic seaside beauty.</desc>
+    <title>Med Destinations Malta</title>
+    <sub-title>Med Destinations Malta</sub-title>
+    <desc>Med Destinations uncovers the magic of Malta, an island rich in history, culture, and stunning coastal landscapes. From medieval streets to turquoise waters, Malta is a Mediterranean treasure.</desc>
   </programme>
   <programme channel="med-tv" start="20261122082834 +0100" stop="20261122082959 +0100">
     <title>Isabella Turso Sliding Doors</title>
     <sub-title>Isabella Turso Sliding Doors</sub-title>
     <desc>An Original Music Video by Isabella Turso</desc>
   </programme>
-  <programme channel="med-tv" start="20261122083000 +0100" stop="20261122085959 +0100">
+  <programme channel="med-tv" start="20261122083000 +0100" stop="20261122085725 +0100">
     <title>Med Destinations Ancona</title>
     <sub-title>Med Destinations Ancona</sub-title>
     <desc>Explore Ancona, a bustling port city on the Adriatic, with Med Destinations. Discover its historic landmarks, scenic waterfronts, and the unique blend of maritime tradition and modern Italian life.</desc>
+  </programme>
+  <programme channel="med-tv" start="20261122085726 +0100" stop="20261122085959 +0100">
+    <title>Isabella Turso Dimples</title>
+    <sub-title>Isabella Turso Dimples</sub-title>
+    <desc>An Original Music Video by Isabella Turso</desc>
   </programme>
   <programme channel="med-tv" start="20261122090000 +0100" stop="20261122095959 +0100">
     <title>S01:E05 Gold Cuisine EP 5 - Gold Cuisine</title>
     <sub-title>Gold Cuisine</sub-title>
     <desc>The spotlight falls on two traditional Cypriot favorites. First, we explore the art of preparing Oven Lamb Kleftiko, a slow-cooked dish where tender lamb is infused with herbs and baked to perfection, capturing the essence of village cooking. Then, the journey continues with Kattimeria, fried sweet flatbreads that balance crisp texture with a hint of indulgent sweetness. Together, these recipes showcase the comforting richness and variety of Cyprus’s culinary heritage.</desc>
   </programme>
-  <programme channel="med-tv" start="20261122100000 +0100" stop="20261122101959 +0100">
+  <programme channel="med-tv" start="20261122100000 +0100" stop="20261122101459 +0100">
     <title>First Escape Holiday Home</title>
     <sub-title>First Escape Holiday Home</sub-title>
     <desc>Join in on another of Annette's journeys as she tours the perfect starter home for anyone dreaming of a vacation property in Italy. This semi-detached house boasts a lovely garden, endless views, charming village life, and surprisingly versatile interiors.</desc>
+  </programme>
+  <programme channel="med-tv" start="20261122101500 +0100" stop="20261122101959 +0100">
+    <title>Memoirs 22 Nov</title>
+    <sub-title>Memoirs 22 Nov</sub-title>
+    <desc>Memoirs 22 Nov</desc>
   </programme>
   <programme channel="med-tv" start="20261122102000 +0100" stop="20261122102959 +0100">
     <title>Fadi Abou Rjeili Sirena</title>
@@ -31210,8 +31225,8 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <desc>The island of Hvar, Croatia’s sunniest spot, is perfect for enjoying a traditional Dalmatian marenda. In the charming town of Stari Grad, restaurateur Damir Čavić welcomed us with a spread of marinated anchovies, octopus salad, pašticada, cod, and vegetables—washed down with a light bevanda.</desc>
   </programme>
   <programme channel="med-tv" start="20261122174500 +0100" stop="20261122175959 +0100">
-    <title>MED DST MAKARSKA 15MIN</title>
-    <sub-title>MED DST MAKARSKA 15MIN</sub-title>
+    <title>Med Destinations ITHAKA</title>
+    <sub-title>Med Destinations ITHAKA</sub-title>
     <desc>WITH VO</desc>
   </programme>
   <programme channel="med-tv" start="20261122180000 +0100" stop="20261122182459 +0100">
@@ -31225,8 +31240,8 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <desc>Plato, the philosopher of Athens, questioned life, truth, and society, leaving ideas that still shape the world.</desc>
   </programme>
   <programme channel="med-tv" start="20261122183000 +0100" stop="20261122184959 +0100">
-    <title>MED Destination  LJUBLJANA</title>
-    <sub-title>MED Destination  LJUBLJANA</sub-title>
+    <title>MED Destination KEFALONIA</title>
+    <sub-title>MED Destination KEFALONIA</sub-title>
     <desc>WITH VO</desc>
   </programme>
   <programme channel="med-tv" start="20261122185000 +0100" stop="20261122185959 +0100">
@@ -35290,185 +35305,348 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>2026 Coke Zero 400 at Daytona International Speedway</sub-title>
     <desc>Relive the 2026 Coke Zero 400 at Daytona International Speedway in this NASCAR Cup race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261119040936 +0100" stop="20261119060053 +0100">
+  <programme channel="nascar" start="20261119040936 +0100" stop="20261119071829 +0100">
     <title>S2019 : E01 NASCAR Classics: Cup Series - 2019 Daytona 500</title>
     <sub-title>2019 Daytona 500</sub-title>
     <desc>Relive the 2007 Daytona 500 at Daytona International Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261119060054 +0100" stop="20261119061807 +0100">
-    <title>S2025 : E23 NASCAR Classics: Cup Series - 2025 Iowa Corn 350 at Iowa Speedway</title>
-    <sub-title>2025 Iowa Corn 350 at Iowa Speedway</sub-title>
-    <desc>Relive the 2025 Iowa Corn 350 at Iowa Speedway in this Cup Series race replay</desc>
+  <programme channel="nascar" start="20261119071830 +0100" stop="20261119101330 +0100">
+    <title>S2025 : E01 NASCAR Classics: Cup Series - 2025 Daytona 500</title>
+    <sub-title>2025 Daytona 500</sub-title>
+    <desc>Relive the 2025 Daytona 500 at Daytona International Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261119061808 +0100" stop="20261119080927 +0100">
-    <title>S2025 : E24 NASCAR Classics: Cup Series - 2025 Go Bowling at Watkins Glen International</title>
-    <sub-title>2025 Go Bowling at Watkins Glen International</sub-title>
-    <desc>Relive the 2025 Go Bowling at the Glen from Watkins Glen, NY in this Cup Series race replay</desc>
+  <programme channel="nascar" start="20261119101331 +0100" stop="20261119103534 +0100">
+    <title>S2026 : E26 NASCAR Cup Series Extended Highlights - Daytona, August 2026</title>
+    <sub-title>Daytona, August 2026</sub-title>
+    <desc>Relive the NASCAR Cup Series race at Daytona International Speedway in this week's extended highlights.</desc>
   </programme>
-  <programme channel="nascar" start="20261119080928 +0100" stop="20261119110201 +0100">
-    <title>S2025 : E25 NASCAR Classics: Cup Series - 2025 Cook Out 400 at Richmond Raceway</title>
-    <sub-title>2025 Cook Out 400 at Richmond Raceway</sub-title>
-    <desc>Relive the 2025 Cook Out 400 from Richmond Raceway in this NASCAR Cup Series race replay</desc>
+  <programme channel="nascar" start="20261119103535 +0100" stop="20261119130000 +0100">
+    <title>S2023 : E26 NASCAR Classics: Cup Series - 2023 Coke Zero 400 at Daytona International Speedway</title>
+    <sub-title>2023 Coke Zero 400 at Daytona International Speedway</sub-title>
+    <desc>Relive the 2023 Coke Zero Sugar 400 at Daytona International Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261119110202 +0100" stop="20261119130000 +0100">
-    <title>S2025 : E26 NASCAR Classics: Cup Series - 2025 Coke Zero Sugar 400 at Daytona International Speedway</title>
-    <sub-title>2025 Coke Zero Sugar 400 at Daytona International Speedway</sub-title>
-    <desc>Relive the 2025 Coke Zero Sugar 400 from Daytona International Speedway in this NASCAR Cup Series race replay</desc>
-  </programme>
-  <programme channel="nascar" start="20261119130001 +0100" stop="20261119160158 +0100">
+  <programme channel="nascar" start="20261119130001 +0100" stop="20261119160128 +0100">
     <title>S01 : E01 SiriusXM NASCAR - The Morning Drive</title>
     <sub-title>The Morning Drive</sub-title>
     <desc>SiriusXM NASCAR Radio's Mike Bagley and Pete Pistone dive into the world of NASCAR on 'The Morning Drive.'</desc>
   </programme>
-  <programme channel="nascar" start="20261119160159 +0100" stop="20261119192501 +0100">
-    <title>S2025 : E27 NASCAR Classics: Cup Series - 2025 Cook Out Southern 500 at Darlington Raceway</title>
-    <sub-title>2025 Cook Out Southern 500 at Darlington Raceway</sub-title>
-    <desc>Relive the 2025 Cook Out Southern 500 from Darlington Raceway in this NASCAR Cup Series race replay</desc>
+  <programme channel="nascar" start="20261119160129 +0100" stop="20261119184033 +0100">
+    <title>S2024 : E25 NASCAR Classics: Cup Series - 2024 Coke Zero Sugar 400 at Daytona International Speedway</title>
+    <sub-title>2024 Coke Zero Sugar 400 at Daytona International Speedway</sub-title>
+    <desc>Relive the 2024 Coke Zero Sugar 400 at Daytona International Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261119192502 +0100" stop="20261119220517 +0100">
-    <title>S2025 : E28 NASCAR Classics: Cup Series - 2025 Enjoy Illinois 300 at World Wide Technology Raceway</title>
-    <sub-title>2025 Enjoy Illinois 300 at World Wide Technology Raceway</sub-title>
-    <desc>Relive the 2025 Enjoy Illinois 300 from World Wide Technology Raceway in this NASCAR Cup Series race replay</desc>
+  <programme channel="nascar" start="20261119184034 +0100" stop="20261119210046 +0100">
+    <title>S2022 : E26 NASCAR Classics: Cup Series - 2022 Coke Zero Sugar 400 at Daytona International Speedway</title>
+    <sub-title>2022 Coke Zero Sugar 400 at Daytona International Speedway</sub-title>
+    <desc>Relive the 2022 Coke Zero Sugar 400 at Daytona International Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261119220518 +0100" stop="20261120013550 +0100">
-    <title>S2025 : E29 NASCAR Classics: Cup Series - 2025 Bass Pro Shops Night Race at Bristol Motor Speedway</title>
-    <sub-title>2025 Bass Pro Shops Night Race at Bristol Motor Speedway</sub-title>
-    <desc>Relive the 2025 Bass Pro Shops Night Race from Bristol Motor Speedway in this NASCAR Cup Series race replay</desc>
+  <programme channel="nascar" start="20261119210047 +0100" stop="20261119211547 +0100">
+    <title>The Battle Within</title>
+    <desc>Cody Ware talks about mental health and how his own struggles have impacted his life and racing career</desc>
   </programme>
-  <programme channel="nascar" start="20261120013551 +0100" stop="20261120043112 +0100">
-    <title>S2025 : E30 NASCAR Classics: Cup Series - 2025 Mobil 1 301 at New Hampshire Motor Speedway</title>
-    <sub-title>2025 Mobil 1 301 at New Hampshire Motor Speedway</sub-title>
-    <desc>Relive the 2025 Mobil 1 301 from New Hampshire Motor Speedway in this Cup Series race replay.</desc>
+  <programme channel="nascar" start="20261119211548 +0100" stop="20261119213735 +0100">
+    <title>S2019 : E02 NASCAR Originals - This Racing Life</title>
+    <sub-title>This Racing Life</sub-title>
+    <desc>Two young and tenacious drivers overcome obstacles in the unique world of grassroots racing in America</desc>
   </programme>
-  <programme channel="nascar" start="20261120043113 +0100" stop="20261120073548 +0100">
-    <title>S2025 : E31 NASCAR Classics: Cup Series - 2025 Hollywood Casino 400 at Kansas Speedway</title>
-    <sub-title>2025 Hollywood Casino 400 at Kansas Speedway</sub-title>
-    <desc>Relive the 2025 Hollywood Casino 400 from Kansas Speedway in this Cup Series race replay</desc>
+  <programme channel="nascar" start="20261119213736 +0100" stop="20261119232350 +0100">
+    <title>S02 : E13 Radioactive - Best of the 2026 NASCAR Cup Series Chase</title>
+    <sub-title>Best of the 2026 NASCAR Cup Series Chase</sub-title>
+    <desc>Radioactive showcases the best radio chatter of the 2026 NASCAR Cup Series Chase.</desc>
   </programme>
-  <programme channel="nascar" start="20261120073549 +0100" stop="20261120101417 +0100">
-    <title>S2025 : E32 NASCAR Classics: Cup Series - 2025 Bank of America ROVAL 400 from Charlotte Motor Speedway</title>
-    <sub-title>2025 Bank of America ROVAL 400 from Charlotte Motor Speedway</sub-title>
-    <desc>Relive the 2025 Bank of America Roval 400 at Charlotte Motor Speedway in this Cup Series race replay.</desc>
+  <programme channel="nascar" start="20261119232351 +0100" stop="20261120001735 +0100">
+    <title>S2010 : E03 Hall of Fame - Bill France Sr. Biography</title>
+    <sub-title>Bill France Sr. Biography</sub-title>
+    <desc>A look back at the life and career of NASCAR's founder Bill France Sr.</desc>
   </programme>
-  <programme channel="nascar" start="20261120101418 +0100" stop="20261120104147 +0100">
-    <title>S01 : E02 NASCAR O'Reilly Auto Parts Series Extended Highlights - O'Reilly Auto Parts Series Extended Highlights</title>
-    <sub-title>O'Reilly Auto Parts Series Extended Highlights</sub-title>
-    <desc>Relive the NASCAR O'Reilly Auto Parts Series weekend in this week's Extended Highlights</desc>
+  <programme channel="nascar" start="20261120001736 +0100" stop="20261120003608 +0100">
+    <title>S2026 : E01 NASCAR Truck Series Extended Highlights - Daytona, February 2026</title>
+    <sub-title>Daytona, February 2026</sub-title>
+    <desc>Relive the NASCAR Truck Series weekend in this week's Extended Highlights</desc>
   </programme>
-  <programme channel="nascar" start="20261120104148 +0100" stop="20261120130000 +0100">
-    <title>S2025 : E33 NASCAR Classics: Cup Series - 2025 South Point Casino 400 at Las Vegas Motor Speedway</title>
-    <sub-title>2025 South Point Casino 400 at Las Vegas Motor Speedway</sub-title>
-    <desc>Relive the 2025 South Point Casino 400 from Las Vegas Motor Speedway in this Cup Series race replay.</desc>
+  <programme channel="nascar" start="20261120003609 +0100" stop="20261120005247 +0100">
+    <title>S2026 : E02 NASCAR Truck Series Extended Highlights - Atlanta, February 2026</title>
+    <sub-title>Atlanta, February 2026</sub-title>
+    <desc>Relive the NASCAR Truck Series weekend in this week's Extended Highlights</desc>
   </programme>
-  <programme channel="nascar" start="20261120130001 +0100" stop="20261120160158 +0100">
+  <programme channel="nascar" start="20261120005248 +0100" stop="20261120024818 +0100">
+    <title>S2026 : E03 NASCAR Truck Series Full Race Replay - 2026 OnlyBulls Green Flag 150 at Grand Prix of St. Petersburg</title>
+    <sub-title>2026 OnlyBulls Green Flag 150 at Grand Prix of St. Petersburg</sub-title>
+    <desc>Relive the 2026 OnlyBulls Green Flag 150 at St. Petersburg in this NASCAR Truck Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261120024819 +0100" stop="20261120030914 +0100">
+    <title>S2026 : E04 NASCAR Truck Series Extended Highlights - Darlington, March 2026</title>
+    <sub-title>Darlington, March 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Darlington in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120030915 +0100" stop="20261120042956 +0100">
+    <title>S2026 : E05 NASCAR Truck Series Full Race Replay - 2026 Black's Tire 200 at Rockingham Speedway</title>
+    <sub-title>2026 Black's Tire 200 at Rockingham Speedway</sub-title>
+    <desc>Relive the 2026 Black's Tire 200 at Rockingham Speedway in this NASCAR Truck Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261120042957 +0100" stop="20261120045231 +0100">
+    <title>S2026 : E06 NASCAR Truck Series Extended Highlights - Bristol, April 2026</title>
+    <sub-title>Bristol, April 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Bristol in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120045232 +0100" stop="20261120051909 +0100">
+    <title>S2026 : E07 NASCAR Truck Series Extended Highlights - Texas, May 2026</title>
+    <sub-title>Texas, May 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Texas in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120051910 +0100" stop="20261120054510 +0100">
+    <title>S2026 : E08 NASCAR Truck Series Extended Highlights - Watkins Glen, May 2026</title>
+    <sub-title>Watkins Glen, May 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Watkins Glen in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120054511 +0100" stop="20261120060557 +0100">
+    <title>S2026 : E09 NASCAR Truck Series Extended Highlights - Dover, May 2026</title>
+    <sub-title>Dover, May 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Dover in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120060558 +0100" stop="20261120063201 +0100">
+    <title>S2026 : E10 NASCAR Truck Series Extended Highlights - Charlotte, May 2026</title>
+    <sub-title>Charlotte, May 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Charlotte in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120063202 +0100" stop="20261120065525 +0100">
+    <title>S2026 : E11 NASCAR Truck Series Extended Highlights - Nashville, May 2026</title>
+    <sub-title>Nashville, May 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Nashville in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120065526 +0100" stop="20261120071746 +0100">
+    <title>S2026 : E12 NASCAR Truck Series Extended Highlights - Michigan, June 2026</title>
+    <sub-title>Michigan, June 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Michigan in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120071747 +0100" stop="20261120093159 +0100">
+    <title>S2026 : E13 NASCAR Truck Series Full Race Replay - 2026 Navy 250 at Naval Base Coronado</title>
+    <sub-title>2026 Navy 250 at Naval Base Coronado</sub-title>
+    <desc>Relive the 2026 Navy 250 at Naval Base Coronado in this NASCAR Truck Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261120093200 +0100" stop="20261120095749 +0100">
+    <title>The Next Lap: Wood Brothers Racing Third Generation Roundtable</title>
+    <desc>The third generation to run Wood Brothers Racing talks to Kyle Petty about the team's past, present and future</desc>
+  </programme>
+  <programme channel="nascar" start="20261120095750 +0100" stop="20261120101844 +0100">
+    <title>S2026 : E14 NASCAR Truck Series Extended Highlights - Lime Rock, July 2026</title>
+    <sub-title>Lime Rock, July 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Lime Rock in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120101845 +0100" stop="20261120103905 +0100">
+    <title>S2026 : E15 NASCAR Truck Series Extended Highlights - North Wilkesboro, July 2026</title>
+    <sub-title>North Wilkesboro, July 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at North Wilkesboro in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120103906 +0100" stop="20261120105851 +0100">
+    <title>S2026 : E16 NASCAR Truck Series Extended Highlights - Lucas Oil Raceway Park, July 2026</title>
+    <sub-title>Lucas Oil Raceway Park, July 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Lucas Oil Raceway Park in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120105852 +0100" stop="20261120111558 +0100">
+    <title>S2026 : E17 NASCAR Truck Series Extended Highlights - Richmond, August 2026</title>
+    <sub-title>Richmond, August 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at Richmond in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120111559 +0100" stop="20261120113843 +0100">
+    <title>S2026 : E18 NASCAR Truck Series Extended Highlights - New Hampshire, August 2026</title>
+    <sub-title>New Hampshire, August 2026</sub-title>
+    <desc>Relive NASCAR's Craftsman Truck Series race at New Hampshire in this week's Extended Highlights</desc>
+  </programme>
+  <programme channel="nascar" start="20261120113844 +0100" stop="20261120130000 +0100">
+    <title>S2026 : E19 NASCAR Truck Series Full Race Replay - 2026 UNOH 250 at Bristol Motor Speedway</title>
+    <sub-title>2026 UNOH 250 at Bristol Motor Speedway</sub-title>
+    <desc>Relive the 2026 UNOH 250 at Bristol Motor Speedway in this NASCAR Truck Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261120130001 +0100" stop="20261120160128 +0100">
     <title>S01 : E01 SiriusXM NASCAR - The Morning Drive</title>
     <sub-title>The Morning Drive</sub-title>
     <desc>SiriusXM NASCAR Radio's Mike Bagley and Pete Pistone dive into the world of NASCAR on 'The Morning Drive.'</desc>
   </programme>
-  <programme channel="nascar" start="20261120160159 +0100" stop="20261120185823 +0100">
-    <title>S2025 : E34 NASCAR Classics: Cup Series - 2025 Yellawood 500 at Talladega Superspeedway</title>
-    <sub-title>2025 Yellawood 500 at Talladega Superspeedway</sub-title>
-    <desc>Relive the 2025 Yellawood 500 from Talladega Superspeedway in this Cup Series race replay</desc>
+  <programme channel="nascar" start="20261120160129 +0100" stop="20261120173727 +0100">
+    <title>S01 : E01 NASCAR Timeline - Kevin Harvick's Rookie Season</title>
+    <sub-title>Kevin Harvick's Rookie Season</sub-title>
+    <desc>NASCAR Timeline features Kevin Harvick's incredible 2001 rookie season.</desc>
   </programme>
-  <programme channel="nascar" start="20261120185824 +0100" stop="20261120222042 +0100">
-    <title>S2025 : E35 NASCAR Classics: Cup Series - 2025 Xfinity 500 at Martinsville Speedway</title>
-    <sub-title>2025 Xfinity 500 at Martinsville Speedway</sub-title>
-    <desc>Relive the 2025 Xfinity 500 from Martinsville Speedway in this Cup Series race replay.</desc>
+  <programme channel="nascar" start="20261120173728 +0100" stop="20261120175854 +0100">
+    <title>Last-Lap Passes for the Win</title>
+    <desc>A last-lap pass for the win is pure NASCAR magic. Relive some of the greatest final laps.</desc>
   </programme>
-  <programme channel="nascar" start="20261120222043 +0100" stop="20261121012715 +0100">
-    <title>S2025 : E36 NASCAR Classics: Cup Series - 2025 NASCAR Cup Series Championship Race at Phoenix Raceway</title>
-    <sub-title>2025 NASCAR Cup Series Championship Race at Phoenix Raceway</sub-title>
-    <desc>Relive the 2025 NASCAR Cup Series Championship Race at Phoenix Raceway in this replay.</desc>
+  <programme channel="nascar" start="20261120175855 +0100" stop="20261120181756 +0100">
+    <title>NASCAR Drivers React: Wildest Race Highlights</title>
+    <desc>What happens when NASCAR drivers revisit some of the wildest moments of the last 20 years?</desc>
   </programme>
-  <programme channel="nascar" start="20261121012716 +0100" stop="20261121024416 +0100">
-    <title>S2025 : E50 NASCAR Classics: Cup Series - 2025 Cook Out Clash at Bowman Gray Stadium</title>
-    <sub-title>2025 Cook Out Clash at Bowman Gray Stadium</sub-title>
-    <desc>Relive the 2025 Cook Out Clash at Bowman Gray Stadium in this NASCAR Cup Series race replay.</desc>
+  <programme channel="nascar" start="20261120181757 +0100" stop="20261120191127 +0100">
+    <title>S2025 : E01 RISING - Inside the Future of NASCAR</title>
+    <sub-title>Inside the Future of NASCAR</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
   </programme>
-  <programme channel="nascar" start="20261121024417 +0100" stop="20261121044703 +0100">
-    <title>S2025 : E51 NASCAR Classics: Cup Series - 2025 Duel at Daytona</title>
-    <sub-title>2025 Duel at Daytona</sub-title>
-    <desc>Relive the 2025 Duel at Daytona International Speedway in this NASCAR Cup Series race replay.</desc>
+  <programme channel="nascar" start="20261120191128 +0100" stop="20261120200500 +0100">
+    <title>S2025 : E02 RISING - Finding Balance in NASCAR’s Chaos</title>
+    <sub-title>Finding Balance in NASCAR’s Chaos</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
   </programme>
-  <programme channel="nascar" start="20261121044704 +0100" stop="20261121061605 +0100">
-    <title>S2025 : E53 NASCAR Classics: Cup Series - 2025 All-Star Race at North Wilkesboro Speedway</title>
-    <sub-title>2025 All-Star Race at North Wilkesboro Speedway</sub-title>
-    <desc>Relive the 2025 All-Star Race at North Wilkesboro Speedway in this NASCAR Cup Series race replay.</desc>
+  <programme channel="nascar" start="20261120200501 +0100" stop="20261120205822 +0100">
+    <title>S2025 : E03 RISING - Carson Hocevar Sparks NASCAR Controversy</title>
+    <sub-title>Carson Hocevar Sparks NASCAR Controversy</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
   </programme>
-  <programme channel="nascar" start="20261121061606 +0100" stop="20261121090045 +0100">
-    <title>S2026 : E01 NASCAR Cup Series Full Race Replay - 2026 Daytona 500</title>
-    <sub-title>2026 Daytona 500</sub-title>
-    <desc>Relive the 2026 Daytona 500 in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261120205823 +0100" stop="20261120215152 +0100">
+    <title>S2025 : E04 RISING - Victory, Heartbreak &amp; One Last Chance</title>
+    <sub-title>Victory, Heartbreak &amp; One Last Chance</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
   </programme>
-  <programme channel="nascar" start="20261121090046 +0100" stop="20261121115920 +0100">
-    <title>S2026 : E02 NASCAR Cup Series Full Race Replay - 2026 Autotrader 400 at EchoPark Speedway</title>
-    <sub-title>2026 Autotrader 400 at EchoPark Speedway</sub-title>
-    <desc>Relive the 2026 Autotrader 400 at EchoPark Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261120215153 +0100" stop="20261120224423 +0100">
+    <title>S2025 : E05 RISING - For the Love of NASCAR</title>
+    <sub-title>For the Love of NASCAR</sub-title>
+    <desc>A look inside the lives of three young NASCAR drivers as they establish their identities on and off the track.</desc>
   </programme>
-  <programme channel="nascar" start="20261121115921 +0100" stop="20261121143442 +0100">
-    <title>S2026 : E03 NASCAR Cup Series Full Race Replay - 2026 DuraMax Texas Grand Prix at Circuit of the Americas</title>
-    <sub-title>2026 DuraMax Texas Grand Prix at Circuit of the Americas</sub-title>
-    <desc>Relive the 2026 DuraMax Texas Grand Prix at Circuit at Circuit of the Americas in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261120224424 +0100" stop="20261120234116 +0100">
+    <title>S2017 : E01 NASCAR Originals - Miracle at Daytona: The Tiny Lund Story</title>
+    <sub-title>Miracle at Daytona: The Tiny Lund Story</sub-title>
+    <desc>The story of Tiny Lund who risked his life to rescue a fellow driver before winning the 1963 Daytona 500</desc>
   </programme>
-  <programme channel="nascar" start="20261121143443 +0100" stop="20261121173119 +0100">
-    <title>S2026 : E04 NASCAR Cup Series Full Race Replay - 2026 Straight Talk Wireless 500 at Phoenix Raceway</title>
-    <sub-title>2026 Straight Talk Wireless 500 at Phoenix Raceway</sub-title>
-    <desc>Relive the 2026 Straight Talk Wireless 500 at Phoenix Raceway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261120234117 +0100" stop="20261121004628 +0100">
+    <title>S2011 : E37 NASCAR Classics: Cup Series - Press Conference leading up to the 2011 Championship weekend</title>
+    <sub-title>Press Conference leading up to the 2011 Championship weekend</sub-title>
+    <desc>Relive the Press Conference leading up to the 2011 Championship weekend.</desc>
   </programme>
-  <programme channel="nascar" start="20261121173120 +0100" stop="20261121194539 +0100">
-    <title>S2026 : E05 NASCAR Cup Series Full Race Replay - 2026 Pennzoil 400 at Las Vegas Motor Speedway</title>
-    <sub-title>2026 Pennzoil 400 at Las Vegas Motor Speedway</sub-title>
-    <desc>Relive the 2026 Pennzoil 400 at Las Vegas Motor Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121004629 +0100" stop="20261121043056 +0100">
+    <title>S2011 : E36 NASCAR Classics: Cup Series - 2011 Ford 400 at Homestead-Miami Speedway</title>
+    <sub-title>2011 Ford 400 at Homestead-Miami Speedway</sub-title>
+    <desc>Relive the 2011 Championship final race from Homestead-Miami Speedway in this Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261121194540 +0100" stop="20261121221844 +0100">
-    <title>S2026 : E06 NASCAR Cup Series Full Race Replay - 2026 Goodyear 400 at Darlington Raceway</title>
-    <sub-title>2026 Goodyear 400 at Darlington Raceway</sub-title>
-    <desc>Relive the 2026 Goodyear 400 at Darlington Raceway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121043057 +0100" stop="20261121052258 +0100">
+    <title>We've Lost Dale Earnhardt: 25 Years Later</title>
+    <desc>A powerful film marking the 25th anniversary of the 2001 Daytona 500, the race that forever changed NASCAR.</desc>
   </programme>
-  <programme channel="nascar" start="20261121221845 +0100" stop="20261122004151 +0100">
-    <title>S2026 : E07 NASCAR Cup Series Full Race Replay - 2026 Cook Out 400 at Martinsville Speedway</title>
-    <sub-title>2026 Cook Out 400 at Martinsville Speedway</sub-title>
-    <desc>Relive the 2026 Cook Out 400 at Martinsville Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121052259 +0100" stop="20261121114355 +0100">
+    <title>S03 : E04 Radioactive - Best of the 2026 NASCAR Cup Series Season</title>
+    <sub-title>Best of the 2026 NASCAR Cup Series Season</sub-title>
+    <desc>Radioactive showcases the best radio chatter of the 2026 NASCAR Cup Series season</desc>
   </programme>
-  <programme channel="nascar" start="20261122004152 +0100" stop="20261122032244 +0100">
-    <title>S2026 : E08 NASCAR Cup Series Full Race Replay - 2026 Food City 500 at Bristol Motor Speedway</title>
-    <sub-title>2026 Food City 500 at Bristol Motor Speedway</sub-title>
-    <desc>Relive the 2026 Food City 500 at Bristol Motor Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121114356 +0100" stop="20261121144753 +0100">
+    <title>S2004 : E02 NASCAR Classics: Cup Series - 2004 Subway 400 at Rockingham Speedway</title>
+    <sub-title>2004 Subway 400 at Rockingham Speedway</sub-title>
+    <desc>Relive the 2004 Subway 400 at Rockingham Speedway in this NASCAR Cup Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261122032245 +0100" stop="20261122054810 +0100">
-    <title>S2026 : E09 NASCAR Cup Series Full Race Replay - 2026 AdventHealth 400 at Kansas Speedway</title>
-    <sub-title>2026 AdventHealth 400 at Kansas Speedway</sub-title>
-    <desc>Relive the 2026 AdventHealth 400 at Kansas Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121144754 +0100" stop="20261121150605 +0100">
+    <title>S01 : E01 On The Gas with Ryan Blaney - Keegan-Michael Key Rides Shotgun at 180 MPH</title>
+    <sub-title>Keegan-Michael Key Rides Shotgun at 180 MPH</sub-title>
+    <desc>Keegan-Michael Key rides shotgun at Indy for an interview unlike anything he has ever done.</desc>
   </programme>
-  <programme channel="nascar" start="20261122054811 +0100" stop="20261122083141 +0100">
-    <title>S2026 : E10 NASCAR Cup Series Full Race Replay - 2026 Jack Link's 500 at Talladega Superspeedway</title>
-    <sub-title>2026 Jack Link's 500 at Talladega Superspeedway</sub-title>
-    <desc>Relive the 2026 Jack Link's 500 at Talladega Superspeedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121150606 +0100" stop="20261121152230 +0100">
+    <title>S01 : E02 On The Gas with Ryan Blaney - TheStradman straps in for a wild Indy interview</title>
+    <sub-title>TheStradman straps in for a wild Indy interview</sub-title>
+    <desc>TheStradman gets a tour of Ryan Blaney's Sunday office as he climbs into the race car for a wild interview.</desc>
   </programme>
-  <programme channel="nascar" start="20261122083142 +0100" stop="20261122105746 +0100">
-    <title>S2026 : E11 NASCAR Cup Series Full Race Replay - 2026 Würth 400 at Texas Motor Speedway</title>
-    <sub-title>2026 Würth 400 at Texas Motor Speedway</sub-title>
-    <desc>Relive the 2026 Würth 400 at Texas Motor Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121152231 +0100" stop="20261121153929 +0100">
+    <title>S01 : E03 On The Gas with Ryan Blaney - Chad Ochocinco Rides Shotgun at 180 MPH</title>
+    <sub-title>Chad Ochocinco Rides Shotgun at 180 MPH</sub-title>
+    <desc>Chad Ochocinco rides shotgun with Ryan Blaney and discusses what set him apart from other receivers in the NFL</desc>
   </programme>
-  <programme channel="nascar" start="20261122105747 +0100" stop="20261122125433 +0100">
-    <title>S2026 : E12 NASCAR Cup Series Full Race Replay - 2026 Go Bowling at The Glen at Watkins Glen International</title>
-    <sub-title>2026 Go Bowling at The Glen at Watkins Glen International</sub-title>
-    <desc>Relive the 2026 Go Bowling at The Glen at Watkins Glen International in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121153930 +0100" stop="20261121155744 +0100">
+    <title>S01 : E04 On The Gas with Ryan Blaney - Westen Champlin Rides Shotgun at 180 MPH</title>
+    <sub-title>Westen Champlin Rides Shotgun at 180 MPH</sub-title>
+    <desc>Westen Champlin has driven a lot of crazy machines, but he's never answered questions at 180 mph.</desc>
   </programme>
-  <programme channel="nascar" start="20261122125434 +0100" stop="20261122172042 +0100">
-    <title>S2026 : E13 NASCAR Cup Series Full Race Replay - 2026 Coca-Cola 600 at Charlotte Motor Speedway</title>
-    <sub-title>2026 Coca-Cola 600 at Charlotte Motor Speedway</sub-title>
-    <desc>Relive the 2026 Coca-Cola 600 at Charlotte Motor Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121155745 +0100" stop="20261121165903 +0100">
+    <title>S2026 : E01 Start/Finish - Mark Martin</title>
+    <sub-title>Mark Martin</sub-title>
+    <desc>The life and career of NASCAR legend Mark Martin, through the driver's own memories of his greatest races.</desc>
   </programme>
-  <programme channel="nascar" start="20261122172043 +0100" stop="20261122205312 +0100">
-    <title>S2026 : E14 NASCAR Cup Series Full Race Replay - 2026 Cracker Barrel 400 at Nashville Superspeedway</title>
-    <sub-title>2026 Cracker Barrel 400 at Nashville Superspeedway</sub-title>
-    <desc>Relive the 2026 Cracker Barrel 400 at Nashville Superspeedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121165904 +0100" stop="20261121190111 +0100">
+    <title>S2024 : E26 NASCAR Classics: O'Reilly Auto Parts Series - 2024 Food City 300 Night Race at Bristol Motor Speedway</title>
+    <sub-title>2024 Food City 300 Night Race at Bristol Motor Speedway</sub-title>
+    <desc>Relive the 2024 Food City 300 at Bristol Motor Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261122205313 +0100" stop="20261123000326 +0100">
-    <title>S2026 : E15 NASCAR Cup Series Full Race Replay - 2026 FireKeepers Casino 400 at Michigan International Speedway</title>
-    <sub-title>2026 FireKeepers Casino 400 at Michigan International Speedway</sub-title>
-    <desc>Relive the 2026 FireKeepers Casino 400 at Michigan International Speedway in this NASCAR Cup race replay.</desc>
+  <programme channel="nascar" start="20261121190112 +0100" stop="20261121192324 +0100">
+    <title>S2010 : E08 NASCAR Classic Highlights - 2010 Samsung Mobile 500 at Texas Motor Speedway</title>
+    <sub-title>2010 Samsung Mobile 500 at Texas Motor Speedway</sub-title>
+    <desc>Relive the Classic Highlights from the 2010 Samsung Mobile 500 at Texas Motor Speedway</desc>
+  </programme>
+  <programme channel="nascar" start="20261121192325 +0100" stop="20261121194315 +0100">
+    <title>S2010 : E20 NASCAR Classic Highlights - 2010 Brickyard 400 from Indianapolis</title>
+    <sub-title>2010 Brickyard 400 from Indianapolis</sub-title>
+    <desc>Relive the Classic Highlights from the 2010 Brickyard 400 at Indianapolis Motor Speedway</desc>
+  </programme>
+  <programme channel="nascar" start="20261121194316 +0100" stop="20261121200203 +0100">
+    <title>S2011 : E05 NASCAR Classic Highlights - 2011 Auto Club 400 from Fontana</title>
+    <sub-title>2011 Auto Club 400 from Fontana</sub-title>
+    <desc>Relive the Classic Highlights from the 2011 Auto Club 400 at Auto Club Speedway</desc>
+  </programme>
+  <programme channel="nascar" start="20261121200204 +0100" stop="20261121222340 +0100">
+    <title>S2014 : E27 NASCAR Classics: Cup Series - 2014 MYAFIBSTORY.COM 400 at Chicagoland Speedway</title>
+    <sub-title>2014 MYAFIBSTORY.COM 400 at Chicagoland Speedway</sub-title>
+    <desc>Relive the first race of the 2014 Playoffs in this Cup Series race replay from Chicagoland Speedway.</desc>
+  </programme>
+  <programme channel="nascar" start="20261121222341 +0100" stop="20261122005248 +0100">
+    <title>S2015 : E27 NASCAR Classics: Cup Series - 2015 MYAFIBRISK.COM 400 at Chicagoland Speedway</title>
+    <sub-title>2015 MYAFIBRISK.COM 400 at Chicagoland Speedway</sub-title>
+    <desc>Relive the first race of the 2015 Playoffs in this Cup Series race replay from Chicagoland Speedway.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122005249 +0100" stop="20261122033920 +0100">
+    <title>S2003 : E05 NASCAR Classics: Cup Series - 2003 Carolina Dodge Dealers 400 from Darlington Raceway</title>
+    <sub-title>2003 Carolina Dodge Dealers 400 from Darlington Raceway</sub-title>
+    <desc>Relive the 2003 Carolina Dodge Dealers 400 at Darlington Raceway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122033921 +0100" stop="20261122054441 +0100">
+    <title>S2020 : E03 NASCAR Classics: Cup Series - 2020 Auto Club 400 at Auto Club Speedway</title>
+    <sub-title>2020 Auto Club 400 at Auto Club Speedway</sub-title>
+    <desc>Relive the 2020 Auto Club 400 at Auto Club Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122054442 +0100" stop="20261122082318 +0100">
+    <title>S1994 : E19 NASCAR Classics: Cup Series - 1994 Brickyard 400 at Indianapolis Motor Speeedway</title>
+    <sub-title>1994 Brickyard 400 at Indianapolis Motor Speeedway</sub-title>
+    <desc>Relive the 1994 Brickyard 400 at Indianapolis Motor Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122082319 +0100" stop="20261122111727 +0100">
+    <title>S1995 : E19 NASCAR Classics: Cup Series - 1995 Brickyard 400 at Indianapolis Motor Speeedway</title>
+    <sub-title>1995 Brickyard 400 at Indianapolis Motor Speeedway</sub-title>
+    <desc>Relive the 1995 Brickyard 400 at Indianapolis Motor Speedway in this NASCAR Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122111728 +0100" stop="20261122132246 +0100">
+    <title>S2014 : E30 NASCAR Classics: Cup Series - 2014 Hollywood Casino 400 at Kansas Speedway</title>
+    <sub-title>2014 Hollywood Casino 400 at Kansas Speedway</sub-title>
+    <desc>Relive the 4th race of the 2014 Playoffs in this Cup Series race replay from Kansas Speedway.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122132247 +0100" stop="20261122141814 +0100">
+    <title>The Madhouse: NASCAR's Return to Bowman Gray Stadium</title>
+    <desc>The NASCAR Cup Series returns to Bowman Gray Stadium for the first time since 1971</desc>
+  </programme>
+  <programme channel="nascar" start="20261122141815 +0100" stop="20261122151112 +0100">
+    <title>So Damn Close: Atlanta '24</title>
+    <desc>The three drivers in the closest 3-wide finish in NASCAR history sit down and relive the drama of the race.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122151113 +0100" stop="20261122153307 +0100">
+    <title>S2018 : E02 NASCAR Originals - Davey Lives On</title>
+    <sub-title>Davey Lives On</sub-title>
+    <desc>After Davey Allison's death, his legacy lives on through those he touched and the families impacted.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122153308 +0100" stop="20261122155307 +0100">
+    <title>S2015 : E01 NASCAR Originals - Chasing Davey</title>
+    <sub-title>Chasing Davey</sub-title>
+    <desc>Robbie Allison seeks a healthy path to connect with his late father, NASCAR legend Davey Allison</desc>
+  </programme>
+  <programme channel="nascar" start="20261122155308 +0100" stop="20261122163028 +0100">
+    <title>S2026 : E04 Best Of NASCAR - Dale Earnhardt's Ten Consecutive Duel Wins</title>
+    <sub-title>Dale Earnhardt's Ten Consecutive Duel Wins</sub-title>
+    <desc>Relive Dale Earnhardt's dominating performances in the Duel Qualifying Races at Daytona.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122163029 +0100" stop="20261122191521 +0100">
+    <title>S03 : E01 Memory Lane - Kyle Larson vs Kyle Busch - 2018 Chicagoland</title>
+    <sub-title>Kyle Larson vs Kyle Busch - 2018 Chicagoland</sub-title>
+    <desc>Kyle Larson reflects on his unforgettable battle with Kyle Busch at Chicagoland Speedway in 2018.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122191522 +0100" stop="20261122220835 +0100">
+    <title>S2023 : E15 NASCAR Classics: Cup Series - 2023 Enjoy Illinois 300 at World Wide Technology Raceway</title>
+    <sub-title>2023 Enjoy Illinois 300 at World Wide Technology Raceway</sub-title>
+    <desc>Relive the 2023 Enjoy Illinois 300 at World Wide Technology Raceway at Gateway in this Cup Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261122220836 +0100" stop="20261123012428 +0100">
+    <title>S2017 : E34 NASCAR Classics: Cup Series - 2017 AAA Texas 500 at Texas Motor Speedway</title>
+    <sub-title>2017 AAA Texas 500 at Texas Motor Speedway</sub-title>
+    <desc>Relive the 8th race of the 2017 Playoffs in this Cup Series race replay from Texas Motor Speedway.</desc>
   </programme>
   <programme channel="tennis-plus" start="20261118215401 +0100" stop="20261119020249 +0100">
     <title>S2025 : E20 AO25 Men's Second Round - Draper v Kokkinakis - Australian Open Full Match</title>
@@ -58098,18 +58276,18 @@ Open</desc>
     <title>Seven Dorms of Death</title>
     <desc>Seven Dorms of Death tells the tale of a cursed stage play that is about to be performed at a New England college. Unfortunately for the director, the young cast, and anyone else unlucky enough to be involved with the production, someone has deadly plans for the play! Can a pair of homicide detectives and a student with psychic powers solve the mystery before it's too late'</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261120165316 +0100" stop="20261120184453 +0100">
-    <title>Circle Spanish Dub</title>
-    <desc>En este emocionante thriller, el FBI se une a los alguaciles estadounidenses en la búsqueda de un sociópata fugitivo, James Bennett, después de que comete una serie de asesinatos meticulosamente planeados. Para complicar aún más las cosas, se enteran de que Bennet se dirige a la casa de su infancia, donde un grupo de estudiantes graduados estudian su entorno para escribir su tesis.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261120184454 +0100" stop="20261120203751 +0100">
-    <title>Madam Yankelova's Fine Literature Club</title>
-    <desc>Members of a secret, all-female club lure unsuspecting men to their weekly meetings, murder them, and grind them into hot dogs. When Sophie meets an attractive young man, she must soon choose between true love and her loyalty to her fellow women.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261120203752 +0100" stop="20261120222007 +0100">
+  <programme channel="dark-matter-es-new" start="20261120165316 +0100" stop="20261120183531 +0100">
     <title>S01 : E03 Los misterios de Fixer Upper - Los misterios de Fixer Upper</title>
     <sub-title>Los misterios de Fixer Upper</sub-title>
     <desc>Shannon es la encargada de restaurar una mansión victoriana. Las renovaciones van perfectamente hasta que el jefe del banco local es encontrado muerto.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261120183532 +0100" stop="20261120202709 +0100">
+    <title>Circle Spanish Dub</title>
+    <desc>En este emocionante thriller, el FBI se une a los alguaciles estadounidenses en la búsqueda de un sociópata fugitivo, James Bennett, después de que comete una serie de asesinatos meticulosamente planeados. Para complicar aún más las cosas, se enteran de que Bennet se dirige a la casa de su infancia, donde un grupo de estudiantes graduados estudian su entorno para escribir su tesis.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261120202710 +0100" stop="20261120222007 +0100">
+    <title>Madam Yankelova's Fine Literature Club</title>
+    <desc>Members of a secret, all-female club lure unsuspecting men to their weekly meetings, murder them, and grind them into hot dogs. When Sophie meets an attractive young man, she must soon choose between true love and her loyalty to her fellow women.</desc>
   </programme>
   <programme channel="dark-matter-es-new" start="20261120222008 +0100" stop="20261120233353 +0100">
     <title>La Rusa</title>
@@ -58183,11 +58361,11 @@ Open</desc>
     <title>2 Palomas</title>
     <desc>Un agente inmobiliario amoral y grasiento es presa de una de sus victimas, que se muda silenciosamente a su apartamento y, sin ser visto, comienza una deliciosa y maliciosa campana de venganza. Two Pigeons es una comedia negra con una vena siniestra.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122024113 +0100" stop="20261122043343 +0100">
+  <programme channel="dark-matter-es-new" start="20261122024113 +0100" stop="20261122043344 +0100">
     <title>Psychomania - (aka The Death Wheelers)</title>
     <desc>A gang of young people call themselves the Living Dead. They terrorize the population from their small town. After an agreement with the devil, if they kill themselves firmly believing in it, they will survive and gain eternal life. Following their leader, they commit suicide one after the other, but things don't necessarily turn out as expected.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122043344 +0100" stop="20261122062745 +0100">
+  <programme channel="dark-matter-es-new" start="20261122043345 +0100" stop="20261122062745 +0100">
     <title>The Hard Ride</title>
     <desc>Phil agrees to look after his dying Vietnam vet buddy by taking care of his motorcycle only to run into some trouble with both the law and other bikers.</desc>
   </programme>
@@ -58227,13 +58405,13 @@ Open</desc>
     <title>Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
     <desc>Episode One discusses 'The Monster Within And Among Us', and discusses Jack The Ripper (even though he's not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122191607 +0100" stop="20261122205802 +0100">
-    <title>La Rapina a Pineville</title>
-    <desc>Un adolescente delle superiori si imbatte nelle conseguenze di una rapina in banca andata storta e si ritrova rinchiuso nella sua scuola cercando di mantenere in vita se stesso e il suo insegnante mentre uno dei rapinatori psicotici li dà la caccia.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261122205803 +0100" stop="20261122224643 +0100">
+  <programme channel="dark-matter-es-new" start="20261122191607 +0100" stop="20261122210447 +0100">
     <title>Asylum Seekers</title>
     <desc>A freewheeling demented comedy about the modern world, in which six people, fed up with the abuse they suffer in their normal lives, seek asylum ... as inmates of a mental institution. The only problem is, there's just one bed available.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261122210448 +0100" stop="20261122224643 +0100">
+    <title>La Rapina a Pineville</title>
+    <desc>Un adolescente delle superiori si imbatte nelle conseguenze di una rapina in banca andata storta e si ritrova rinchiuso nella sua scuola cercando di mantenere in vita se stesso e il suo insegnante mentre uno dei rapinatori psicotici li dà la caccia.</desc>
   </programme>
   <programme channel="dark-matter-es-new" start="20261122224644 +0100" stop="20261123003505 +0100">
     <title>End of the World</title>
