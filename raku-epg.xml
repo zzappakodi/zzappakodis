@@ -1288,403 +1288,7 @@
     <title>Tête à tête</title>
     <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
   </programme>
-  <programme channel="france-24-en" start="20261122010001 +0100" stop="20261122011500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122011501 +0100" stop="20261122012100 +0100">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122012101 +0100" stop="20261122013000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122013001 +0100" stop="20261122014500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122014501 +0100" stop="20261122020000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122020001 +0100" stop="20261122021000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122021001 +0100" stop="20261122022500 +0100">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122022501 +0100" stop="20261122023000 +0100">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122023001 +0100" stop="20261122024500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122024501 +0100" stop="20261122030000 +0100">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122030001 +0100" stop="20261122031500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122031501 +0100" stop="20261122033000 +0100">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122033001 +0100" stop="20261122034500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122034501 +0100" stop="20261122040000 +0100">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122040001 +0100" stop="20261122041500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122041501 +0100" stop="20261122043000 +0100">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122043001 +0100" stop="20261122044500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122044501 +0100" stop="20261122050000 +0100">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122050001 +0100" stop="20261122051500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122051501 +0100" stop="20261122053000 +0100">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the Asian continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122053001 +0100" stop="20261122054500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122054501 +0100" stop="20261122060000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122060001 +0100" stop="20261122061500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122061501 +0100" stop="20261122062100 +0100">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122062101 +0100" stop="20261122063000 +0100">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122063001 +0100" stop="20261122064500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122064501 +0100" stop="20261122065100 +0100">
-    <title>French Connections</title>
-    <desc>A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122065101 +0100" stop="20261122070000 +0100">
-    <title>Fashion</title>
-    <desc>All the best of Parisian catwalks and behind the scenes at the big names in Haute Couture.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122070001 +0100" stop="20261122072000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122072001 +0100" stop="20261122073000 +0100">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122073001 +0100" stop="20261122080000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122080001 +0100" stop="20261122083000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122083001 +0100" stop="20261122090000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122090001 +0100" stop="20261122091500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122091501 +0100" stop="20261122093000 +0100">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122093001 +0100" stop="20261122100000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122100001 +0100" stop="20261122101500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122101501 +0100" stop="20261122102000 +0100">
-    <title>Entre Nous</title>
-    <desc>From social norms, to what is making headlines in France, join us for an in-depth look at society.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122102001 +0100" stop="20261122103000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122103001 +0100" stop="20261122104500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122104501 +0100" stop="20261122110000 +0100">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122110001 +0100" stop="20261122111500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122111501 +0100" stop="20261122113000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122113001 +0100" stop="20261122114500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122114501 +0100" stop="20261122120000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122120001 +0100" stop="20261122121500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122121501 +0100" stop="20261122123000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122123001 +0100" stop="20261122124500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122124501 +0100" stop="20261122125000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122125001 +0100" stop="20261122130000 +0100">
-    <title>Sports</title>
-    <desc>A summary of world sports news of the day, both on and off the pitch.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122130001 +0100" stop="20261122131500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122131501 +0100" stop="20261122133000 +0100">
-    <title>Guest of the day</title>
-    <desc>France 24 and guest explore and analyse a key topic of the day</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122133001 +0100" stop="20261122134500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122134501 +0100" stop="20261122140000 +0100">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122140001 +0100" stop="20261122141300 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122141301 +0100" stop="20261122143000 +0100">
-    <title>Paris des Arts</title>
-    <desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122143001 +0100" stop="20261122144300 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122144301 +0100" stop="20261122145500 +0100">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122145501 +0100" stop="20261122150000 +0100">
-    <title>Short Cuts</title>
-    <desc>Inspiring topics and positive initiatives that are changing the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122150001 +0100" stop="20261122151000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122151001 +0100" stop="20261122151500 +0100">
-    <title>Tech 24</title>
-    <desc>The latest trends in the world of high-tech and the impact of digital revolutions on everyday life.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122151501 +0100" stop="20261122153000 +0100">
-    <title>Across Africa</title>
-    <desc>Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122153001 +0100" stop="20261122154000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122154001 +0100" stop="20261122155200 +0100">
-    <title>Reporters</title>
-    <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122155201 +0100" stop="20261122160000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122160001 +0100" stop="20261122161500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122161501 +0100" stop="20261122162100 +0100">
-    <title>The Observers</title>
-    <desc>Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122162101 +0100" stop="20261122163000 +0100">
-    <title>Focus</title>
-    <desc>Exclusive reports from France 24 correspondents around the world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122163001 +0100" stop="20261122164500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122164501 +0100" stop="20261122170000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122170001 +0100" stop="20261122171500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122171501 +0100" stop="20261122173000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122173001 +0100" stop="20261122174500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122174501 +0100" stop="20261122180000 +0100">
-    <title>Talking Europe</title>
-    <desc>Politicians, activists and researchers debate the issues facing the EU and an interview a special guest.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122180001 +0100" stop="20261122181500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122181501 +0100" stop="20261122183000 +0100">
-    <title>Spotlight</title>
-    <desc>Guests from around the globe go beyond the headlines on the stories that matter.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122183001 +0100" stop="20261122184500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122184501 +0100" stop="20261122190000 +0100">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122190001 +0100" stop="20261122191500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122191501 +0100" stop="20261122193000 +0100">
-    <title>Tête à tête</title>
-    <desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122193001 +0100" stop="20261122194500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122194501 +0100" stop="20261122200000 +0100">
-    <title>People And Profit</title>
-    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122200001 +0100" stop="20261122201600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122201601 +0100" stop="20261122203000 +0100">
-    <title>The 51 Percent</title>
-    <desc>A programme about the women reshaping our world.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122203001 +0100" stop="20261122204600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122204601 +0100" stop="20261122210000 +0100">
-    <title>Access Asia</title>
-    <desc>A week of political and social events across the Asian continent: exclusive reports, and analysis.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122210001 +0100" stop="20261122211500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122211501 +0100" stop="20261122212100 +0100">
-    <title>Global Grid</title>
-    <desc>France 24's International Affairs Editors come on set to give you their take on world events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122212101 +0100" stop="20261122213000 +0100">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122213001 +0100" stop="20261122214500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122214501 +0100" stop="20261122220000 +0100">
-    <title>The Reporter's Week</title>
-    <desc>From the 4 corners of the world, the week's news as seen by France 24 reporters</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122220001 +0100" stop="20261122221000 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122221001 +0100" stop="20261122223000 +0100">
-    <title>Revisited</title>
-    <desc>France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122223001 +0100" stop="20261122224500 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122224501 +0100" stop="20261122230000 +0100">
-    <title>A Week in France</title>
-    <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122230001 +0100" stop="20261122231600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122231601 +0100" stop="20261122233000 +0100">
-    <title>Sports Sunday</title>
-    <desc>The weekend's major sports results and events.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122233001 +0100" stop="20261122234600 +0100">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261122234601 +0100" stop="20261123000000 +0100">
-    <title>Arts24</title>
-    <desc>Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
-  </programme>
-  <programme channel="france-24-en" start="20261123000001 +0100" stop="20261123001500 +0100">
+  <programme channel="france-24-en" start="20261122010001 +0100" stop="20261123001500 +0100">
     <title>News</title>
     <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
@@ -38012,63 +37616,7 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <title>Mozambique Part 2</title>
     <desc>The surfer João Kopke will help us discover the destinations that a surfboard can take us.</desc>
   </programme>
-  <programme channel="fuel-tv-new" start="20261120011501 +0100" stop="20261120013000 +0100">
-    <title>Quivers: Gibbens Has a Fleet of Surfcraft for Skyward Journeys</title>
-    <desc>Brendon Gibbens breaks down four boards built for speed, airs, and break-in sessions.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120013001 +0100" stop="20261120020000 +0100">
-    <title>Nicaragua</title>
-    <desc>S&amp;S explore Nicaragua to discover the beauty and tragedy of a nation trying to rebuild itself from its past.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120020001 +0100" stop="20261120023000 +0100">
-    <title>Episode 3</title>
-    <desc>In Episode 3, meet Jack and Brighton Zeuner from Encinitas, California.  </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120023001 +0100" stop="20261120030000 +0100">
-    <title>Episode 4</title>
-    <desc>Damonte, Zepp, Brighton and Jack arrive at Camp Woodward and begin their two week journey.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120030001 +0100" stop="20261120033000 +0100">
-    <title>Skate Penitentiary</title>
-    <desc>Life behind bars shred style; This is the first time that skateboarders ever broke into jail.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120033001 +0100" stop="20261120040000 +0100">
-    <title>Offshore Banking</title>
-    <desc> Jeff King and the crew are setting sail for the Cayman Islands to pillage and plunder for shreddable terrain.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120040001 +0100" stop="20261120043000 +0100">
-    <title>Pat I Want More</title>
-    <desc>From huge backcountry airs and lines to street rails and gaps, Forum top rider, Pat Moore, stars this episode.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120043001 +0100" stop="20261120050000 +0100">
-    <title>Tom Burt &amp; Matt Hammer</title>
-    <desc>Tom Burt witnesses the evolution of backcountry riding, while Matt Hammer goes to Japan and New Zealand.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120050001 +0100" stop="20261120053000 +0100">
-    <title>Valentine's Day</title>
-    <desc>The gang heads to Mountain Creek, NJ, for Danny's hometown stop on the tour, sessioning some local wood rails.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120053001 +0100" stop="20261120060000 +0100">
-    <title>Mountain Creek</title>
-    <desc>Danny's ex-girlfriend arrives at Mountain Creek, where the crew goes snowboarding before judging the contest.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120060001 +0100" stop="20261120063000 +0100">
-    <title>Jeremy Lusk</title>
-    <desc>Join Token Hottie Stacey as M80 catches up with former "Blowin' Up" rider Jeremy Lusk.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120063001 +0100" stop="20261120070000 +0100">
-    <title>Loose Ends</title>
-    <desc>Join Token Twin Hotties Julie and Shawnie Castello for a look back at the life of Jeremy Carter. </desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120070001 +0100" stop="20261120073500 +0100">
-    <title>Episode 1</title>
-    <desc>This episode shows the process within the unique YT Mob World Tour scouting program.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120073501 +0100" stop="20261120075000 +0100">
-    <title>Loudenvielle</title>
-    <desc>The team returns to Loudenvielle after Gracey's World Champs result, ready to take on another UCI track.</desc>
-  </programme>
-  <programme channel="fuel-tv-new" start="20261120075001 +0100" stop="20261120090000 +0100">
+  <programme channel="fuel-tv-new" start="20261120011501 +0100" stop="20261120090000 +0100">
     <title>Strange Rumblings In Shangri La</title>
     <desc>A mix of high-performance surfing and stunning cinematography documents the search for surfing's holy grail.</desc>
   </programme>
@@ -45008,560 +44556,560 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Los asesinatos de Midsomer</sub-title>
     <desc>Llaman a Barnaby cuando la mujer del dueo del centro de artesana local desaparece y asesinan a un vecino.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261119232944 +0100" stop="20261120002129 +0100">
-    <title>Abigail - S04:E030 - Episode 30</title>
+  <programme channel="wedotv-amor" start="20261119232943 +0100" stop="20261120002128 +0100">
+    <title>Abigail - S04:E030  - Episode 30</title>
     <desc>María Begoña paga a Maruca para que Látigo y Navaja asusten a Carlota y a Cheito hasta el punto de que decidan desaparecer. Rosalba intenta contarle la verdad a Cheito pero Carlos Alfredo la detiene. Cheito le pide a Mariana que se case con él.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120002130 +0100" stop="20261120011119 +0100">
-    <title>S01 : E40 Corazón Traicionado - S01:E40 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120002129 +0100" stop="20261120011118 +0100">
+    <title>S01 : E40 Corazón Traicionado - S01:E40- Conflict and Revelations - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio recibe la llamada de Pedro advirtiéndole que se preparen, porque Guillermo cayó preso y siempre existe la posibilidad de que termine confesando. Alfonso y Malena dispuestos a no seguirle el juego a Pablo. Alberto y Guillermo de nuevo frente a frente, se miran con odio cada uno desde sus razones; toda la verdad pareciera estar a punto de ser descubierta.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120011120 +0100" stop="20261120020109 +0100">
-    <title>S01 : E40 Corazón Traicionado - S01:E40 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120011119 +0100" stop="20261120020109 +0100">
+    <title>S01 : E40 Corazón Traicionado - S01:E40- Conflict and Revelations - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Claudio recibe la llamada de Pedro advirtiéndole que se preparen, porque Guillermo cayó preso y siempre existe la posibilidad de que termine confesando. Alfonso y Malena dispuestos a no seguirle el juego a Pablo. Alberto y Guillermo de nuevo frente a frente, se miran con odio cada uno desde sus razones; toda la verdad pareciera estar a punto de ser descubierta.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120020110 +0100" stop="20261120025538 +0100">
+  <programme channel="wedotv-amor" start="20261120020110 +0100" stop="20261120025537 +0100">
     <title>S01 : E94 El Desprecio - S01:E94 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Bernice acepta llevar a Tirso con un hombre que Pastora le asegura que convertirá a su amado en un caballero.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120025539 +0100" stop="20261120035107 +0100">
+  <programme channel="wedotv-amor" start="20261120025538 +0100" stop="20261120035107 +0100">
     <title>S01 : E95 El Desprecio - S01:E95 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al comprobar la desaparición de Illis, Clara sentencia frente a Gabriel, Tamara, Israel y Pereto que a su madre no puede pasarle nada malo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120035108 +0100" stop="20261120044353 +0100">
-    <title>S01 : E45 La Trepadora - S01:E045 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261120035108 +0100" stop="20261120044352 +0100">
+    <title>S01 : E45 La Trepadora - S01:E045- The Painting - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Leopoldo acepta hacer el cuadro de Fernanda desnuda. Felipe quiere ser amigo de Clementina; ella se niega convencida de que él solo busca a alguien que lo ayude de olvidarse de Antonieta. Federico está decidido a intervenir en la guerra de su familia contra los Guanipa por recuperar lo que les robaron hace años. Se aclara el crimen de Quijada; Nicolás quiere saber si Hilario fue detenido por ello.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120044354 +0100" stop="20261120053515 +0100">
-    <title>S01 : E46 La Trepadora - S01:E046 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261120044353 +0100" stop="20261120053515 +0100">
+    <title>S01 : E46 La Trepadora - S01:E046- Victoria Confides in Jack - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria le confía a Jack que quiere irse del país para alejarse de tanto odio. Yosmir lleva a Eugenia a pasear en la moto en que Chabeto pretendía salir con las otras muchachas. Florencia piensa seguir adelante con su venganza contra Hilario aunque Nicolás no la ayude. Victoria sorprende a Jack asegurándole a Jonás que no piensa huir del país; la muchacha exige una explicación.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120053516 +0100" stop="20261120070007 +0100">
-    <title>S01 : E22 Te Tengo en Salsa - S01:E22 - Te Tengo en Salsa</title>
+    <title>S01 : E22 Te Tengo en Salsa - S01:E22- The Encounter - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>En un amable encuentro, César le asoma la posibilidad a su hermano Carlos Raúl, que lo mejor con Adriana está por llegar.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120070008 +0100" stop="20261120075336 +0100">
-    <title>S01 : E41 Corazón Traicionado - S01:E41 - Corazon Traicionado</title>
+    <title>S01 : E41 Corazón Traicionado - S01:E41- Patricia's Confrontation - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Patricia no se amedrenta ante Gertrudis, está dispuesta a hacer que Pablo pague por la violencia física y psicológica que ejerce sobre su esposa; la señora amenaza feroz para que abandone la defensa de Malena, mientras Pablo se muestra triunfal- Guillermo es conducido a su celda, cuando uno de los reos le entrega una nota con su sentencia de muerte: “el pez muere por la boca”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120075337 +0100" stop="20261120084603 +0100">
-    <title>S01 : E42 Corazón Traicionado - S01:E42 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120075337 +0100" stop="20261120084602 +0100">
+    <title>S01 : E42 Corazón Traicionado - S01:E42- Murder in the Dark - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto recibe llamada de Omar, informándole que acaban de matar a Guillermo. María Lourdes enfurece al enterarse del asesinato del sicario, no le cabe la menor duda de que fue silenciado para que no delatara a los culpables de la muerte de Marco Aurelio. a propósito de las últimas palabras de Guillermo antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120084604 +0100" stop="20261120094132 +0100">
+  <programme channel="wedotv-amor" start="20261120084603 +0100" stop="20261120094132 +0100">
     <title>S01 : E95 El Desprecio - S01:E95 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al comprobar la desaparición de Illis, Clara sentencia frente a Gabriel, Tamara, Israel y Pereto que a su madre no puede pasarle nada malo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120094133 +0100" stop="20261120103539 +0100">
+  <programme channel="wedotv-amor" start="20261120094133 +0100" stop="20261120103538 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120103540 +0100" stop="20261120112701 +0100">
-    <title>S01 : E46 La Trepadora - S01:E046 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261120103539 +0100" stop="20261120112701 +0100">
+    <title>S01 : E46 La Trepadora - S01:E046- Victoria Confides in Jack - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria le confía a Jack que quiere irse del país para alejarse de tanto odio. Yosmir lleva a Eugenia a pasear en la moto en que Chabeto pretendía salir con las otras muchachas. Florencia piensa seguir adelante con su venganza contra Hilario aunque Nicolás no la ayude. Victoria sorprende a Jack asegurándole a Jonás que no piensa huir del país; la muchacha exige una explicación.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120112702 +0100" stop="20261120121742 +0100">
-    <title>S01 : E47 La Trepadora - S01:E047 - La Trepadora</title>
+    <title>S01 : E47 La Trepadora - S01:E047- The Invasion of Cantarrana - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Federico está decidido a conseguir la gente suficiente para invadir Cantarrana para que a Hilario no le quede más remedio que vendérsela a su familia a pesar de que Bautista no lo considera capaz de lograr algo así. Leopoldo, que le reitera a Nicolás lo orgulloso que se encuentra de él, lamenta que no haya podido conseguir lo que quería con Victoria; Nicolás cree que, aunque no pueda ser feliz al lado de la mujer que ama, por lo menos va a tratar de demostrarle que él no es el delincuente que ella piensa. Nicolás no llega a salir con Moncho como pretende porque Joselo lo ataca por la espalda dejándolo sin sentido; ambos hombres deciden llevar a Del Casal ante Hilario. Federico se...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120121743 +0100" stop="20261120130900 +0100">
-    <title>S01 : E23 Te Tengo en Salsa - S01:E23 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261120121743 +0100" stop="20261120130859 +0100">
+    <title>S01 : E23 Te Tengo en Salsa - S01:E23- The Spa - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ya en el spa, Ninoska le advierte a Francesca que sacará para siempre a Adriana de la vida de Carlos Raúl.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120130901 +0100" stop="20261120140040 +0100">
-    <title>S01 : E24 Te Tengo en Salsa - S01:E24 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261120130900 +0100" stop="20261120140040 +0100">
+    <title>S01 : E24 Te Tengo en Salsa - S01:E24- Adriana Pleads with Her Sister - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana le suplica a su hermana que se cuide pues tarde o temprano sus padres podrían enterarse de la verdad.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120140041 +0100" stop="20261120145226 +0100">
-    <title>Abigail - S04:E030 - Episode 30</title>
+    <title>Abigail - S04:E030  -</title>
     <desc>María Begoña paga a Maruca para que Látigo y Navaja asusten a Carlota y a Cheito hasta el punto de que decidan desaparecer. Rosalba intenta contarle la verdad a Cheito pero Carlos Alfredo la detiene. Cheito le pide a Mariana que se case con él.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120145227 +0100" stop="20261120154156 +0100">
-    <title>Abigail - S04:E031 - Episode 31</title>
+    <title>Abigail - S04:E031  - Tajuk Contoh</title>
     <desc>Rosalba llega a casa de Abigail para llevarse a Mariana a Estados Unidos pero Pastora logra intervenir y le pide que abandone la casa pues Carlos Alfredo ya había hablado con ella. Guillermo apoya a Rosalba en la decisión.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120154157 +0100" stop="20261120163526 +0100">
-    <title>S01 : E41 Corazón Traicionado - S01:E41 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120154157 +0100" stop="20261120163525 +0100">
+    <title>S01 : E41 Corazón Traicionado - S01:E41- Patricia's Confrontation - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Patricia no se amedrenta ante Gertrudis, está dispuesta a hacer que Pablo pague por la violencia física y psicológica que ejerce sobre su esposa; la señora amenaza feroz para que abandone la defensa de Malena, mientras Pablo se muestra triunfal- Guillermo es conducido a su celda, cuando uno de los reos le entrega una nota con su sentencia de muerte: “el pez muere por la boca”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120163527 +0100" stop="20261120172855 +0100">
-    <title>S01 : E41 Corazón Traicionado - S01:E41 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261120163526 +0100" stop="20261120172855 +0100">
+    <title>S01 : E41 Corazón Traicionado - S01:E41- Patricia's Confrontation - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Patricia no se amedrenta ante Gertrudis, está dispuesta a hacer que Pablo pague por la violencia física y psicológica que ejerce sobre su esposa; la señora amenaza feroz para que abandone la defensa de Malena, mientras Pablo se muestra triunfal- Guillermo es conducido a su celda, cuando uno de los reos le entrega una nota con su sentencia de muerte: “el pez muere por la boca”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120172856 +0100" stop="20261120182425 +0100">
+  <programme channel="wedotv-amor" start="20261120172856 +0100" stop="20261120182424 +0100">
     <title>S01 : E95 El Desprecio - S01:E95 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al comprobar la desaparición de Illis, Clara sentencia frente a Gabriel, Tamara, Israel y Pereto que a su madre no puede pasarle nada malo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120182426 +0100" stop="20261120191831 +0100">
+  <programme channel="wedotv-amor" start="20261120182425 +0100" stop="20261120191831 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261120191832 +0100" stop="20261120201207 +0100">
-    <title>S01 : E46 La Trepadora - S01:E046 - La Trepadora</title>
+    <title>S01 : E46 La Trepadora - S01:E046- Victoria Confides in Jack - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria le confía a Jack que quiere irse del país para alejarse de tanto odio. Yosmir lleva a Eugenia a pasear en la moto en que Chabeto pretendía salir con las otras muchachas. Florencia piensa seguir adelante con su venganza contra Hilario aunque Nicolás no la ayude. Victoria sorprende a Jack asegurándole a Jonás que no piensa huir del país; la muchacha exige una explicación.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120201208 +0100" stop="20261120210503 +0100">
-    <title>S01 : E47 La Trepadora - S01:E047 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261120201208 +0100" stop="20261120210502 +0100">
+    <title>S01 : E47 La Trepadora - S01:E047- The Invasion of Cantarrana - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Federico está decidido a conseguir la gente suficiente para invadir Cantarrana para que a Hilario no le quede más remedio que vendérsela a su familia a pesar de que Bautista no lo considera capaz de lograr algo así. Leopoldo, que le reitera a Nicolás lo orgulloso que se encuentra de él, lamenta que no haya podido conseguir lo que quería con Victoria; Nicolás cree que, aunque no pueda ser feliz al lado de la mujer que ama, por lo menos va a tratar de demostrarle que él no es el delincuente que ella piensa. Nicolás no llega a salir con Moncho como pretende porque Joselo lo ataca por la espalda dejándolo sin sentido; ambos hombres deciden llevar a Del Casal ante Hilario. Federico se...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120210504 +0100" stop="20261120215620 +0100">
-    <title>S01 : E23 Te Tengo en Salsa - S01:E23 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261120210503 +0100" stop="20261120215620 +0100">
+    <title>S01 : E23 Te Tengo en Salsa - S01:E23- The Spa - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ya en el spa, Ninoska le advierte a Francesca que sacará para siempre a Adriana de la vida de Carlos Raúl.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120215621 +0100" stop="20261120224801 +0100">
-    <title>S01 : E24 Te Tengo en Salsa - S01:E24 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261120215621 +0100" stop="20261120224800 +0100">
+    <title>S01 : E24 Te Tengo en Salsa - S01:E24- Adriana Pleads with Her Sister - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana le suplica a su hermana que se cuide pues tarde o temprano sus padres podrían enterarse de la verdad.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120224802 +0100" stop="20261120233947 +0100">
-    <title>Abigail - S04:E030 - Episode 30</title>
+  <programme channel="wedotv-amor" start="20261120224801 +0100" stop="20261120233946 +0100">
+    <title>Abigail - S04:E030  - Episode 30</title>
     <desc>María Begoña paga a Maruca para que Látigo y Navaja asusten a Carlota y a Cheito hasta el punto de que decidan desaparecer. Rosalba intenta contarle la verdad a Cheito pero Carlos Alfredo la detiene. Cheito le pide a Mariana que se case con él.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261120233948 +0100" stop="20261121002917 +0100">
-    <title>Abigail - S04:E031 - Episode 31</title>
+  <programme channel="wedotv-amor" start="20261120233947 +0100" stop="20261121002916 +0100">
+    <title>Abigail - S04:E031  - Título de Exemplo</title>
     <desc>Rosalba llega a casa de Abigail para llevarse a Mariana a Estados Unidos pero Pastora logra intervenir y le pide que abandone la casa pues Carlos Alfredo ya había hablado con ella. Guillermo apoya a Rosalba en la decisión.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121002918 +0100" stop="20261121012246 +0100">
-    <title>S01 : E41 Corazón Traicionado - S01:E41 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261121002917 +0100" stop="20261121012246 +0100">
+    <title>S01 : E41 Corazón Traicionado - S01:E41- Patricia's Confrontation - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Patricia no se amedrenta ante Gertrudis, está dispuesta a hacer que Pablo pague por la violencia física y psicológica que ejerce sobre su esposa; la señora amenaza feroz para que abandone la defensa de Malena, mientras Pablo se muestra triunfal- Guillermo es conducido a su celda, cuando uno de los reos le entrega una nota con su sentencia de muerte: “el pez muere por la boca”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121012247 +0100" stop="20261121021616 +0100">
-    <title>S01 : E41 Corazón Traicionado - S01:E41 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261121012247 +0100" stop="20261121021615 +0100">
+    <title>S01 : E41 Corazón Traicionado - S01:E41- Patricia's Confrontation - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Patricia no se amedrenta ante Gertrudis, está dispuesta a hacer que Pablo pague por la violencia física y psicológica que ejerce sobre su esposa; la señora amenaza feroz para que abandone la defensa de Malena, mientras Pablo se muestra triunfal- Guillermo es conducido a su celda, cuando uno de los reos le entrega una nota con su sentencia de muerte: “el pez muere por la boca”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121021617 +0100" stop="20261121031145 +0100">
+  <programme channel="wedotv-amor" start="20261121021616 +0100" stop="20261121031145 +0100">
     <title>S01 : E95 El Desprecio - S01:E95 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Al comprobar la desaparición de Illis, Clara sentencia frente a Gabriel, Tamara, Israel y Pereto que a su madre no puede pasarle nada malo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121031146 +0100" stop="20261121040552 +0100">
+  <programme channel="wedotv-amor" start="20261121031146 +0100" stop="20261121040551 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121040553 +0100" stop="20261121045928 +0100">
-    <title>S01 : E46 La Trepadora - S01:E046 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261121040552 +0100" stop="20261121045928 +0100">
+    <title>S01 : E46 La Trepadora - S01:E046- Victoria Confides in Jack - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria le confía a Jack que quiere irse del país para alejarse de tanto odio. Yosmir lleva a Eugenia a pasear en la moto en que Chabeto pretendía salir con las otras muchachas. Florencia piensa seguir adelante con su venganza contra Hilario aunque Nicolás no la ayude. Victoria sorprende a Jack asegurándole a Jonás que no piensa huir del país; la muchacha exige una explicación.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261121045929 +0100" stop="20261121055009 +0100">
-    <title>S01 : E47 La Trepadora - S01:E047 - La Trepadora</title>
+    <title>S01 : E47 La Trepadora - S01:E047- The Invasion of Cantarrana - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Federico está decidido a conseguir la gente suficiente para invadir Cantarrana para que a Hilario no le quede más remedio que vendérsela a su familia a pesar de que Bautista no lo considera capaz de lograr algo así. Leopoldo, que le reitera a Nicolás lo orgulloso que se encuentra de él, lamenta que no haya podido conseguir lo que quería con Victoria; Nicolás cree que, aunque no pueda ser feliz al lado de la mujer que ama, por lo menos va a tratar de demostrarle que él no es el delincuente que ella piensa. Nicolás no llega a salir con Moncho como pretende porque Joselo lo ataca por la espalda dejándolo sin sentido; ambos hombres deciden llevar a Del Casal ante Hilario. Federico se...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261121055010 +0100" stop="20261121070007 +0100">
-    <title>S01 : E23 Te Tengo en Salsa - S01:E23 - Te Tengo en Salsa</title>
+    <title>S01 : E23 Te Tengo en Salsa - S01:E23- The Spa - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Ya en el spa, Ninoska le advierte a Francesca que sacará para siempre a Adriana de la vida de Carlos Raúl.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261121070008 +0100" stop="20261121075233 +0100">
-    <title>S01 : E42 Corazón Traicionado - S01:E42 - Corazon Traicionado</title>
+    <title>S01 : E42 Corazón Traicionado - S01:E42- Murder in the Dark - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto recibe llamada de Omar, informándole que acaban de matar a Guillermo. María Lourdes enfurece al enterarse del asesinato del sicario, no le cabe la menor duda de que fue silenciado para que no delatara a los culpables de la muerte de Marco Aurelio. a propósito de las últimas palabras de Guillermo antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121075234 +0100" stop="20261121084617 +0100">
-    <title>S01 : E43 Corazón Traicionado - S01:E43 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261121075234 +0100" stop="20261121084616 +0100">
+    <title>S01 : E43 Corazón Traicionado - S01:E43- The Wedding Celebration - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La casa Corona comienza a vestirse de gala para la celebración del matrimonio entre Lorena y Alberto. Gertrudis le recuerda a Lorena su pacto de silencio y la amenaza con su vida Alberto sostiene una conversación de “hombre a hombre” con el pequeño Ignacio. El niño, inocente, pregunta qué va a pasar con su papá “Guille”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121084618 +0100" stop="20261121094023 +0100">
+  <programme channel="wedotv-amor" start="20261121084617 +0100" stop="20261121094023 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121094024 +0100" stop="20261121103500 +0100">
+  <programme channel="wedotv-amor" start="20261121094024 +0100" stop="20261121103459 +0100">
     <title>S01 : E97 El Desprecio - S01:E97 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora se vanagloria ante Elisenda de haber mandado a Cirilo preso además de humillar a Clara en la comisaría.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121103501 +0100" stop="20261121112541 +0100">
-    <title>S01 : E47 La Trepadora - S01:E047 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261121103500 +0100" stop="20261121112541 +0100">
+    <title>S01 : E47 La Trepadora - S01:E047- The Invasion of Cantarrana - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Federico está decidido a conseguir la gente suficiente para invadir Cantarrana para que a Hilario no le quede más remedio que vendérsela a su familia a pesar de que Bautista no lo considera capaz de lograr algo así. Leopoldo, que le reitera a Nicolás lo orgulloso que se encuentra de él, lamenta que no haya podido conseguir lo que quería con Victoria; Nicolás cree que, aunque no pueda ser feliz al lado de la mujer que ama, por lo menos va a tratar de demostrarle que él no es el delincuente que ella piensa. Nicolás no llega a salir con Moncho como pretende porque Joselo lo ataca por la espalda dejándolo sin sentido; ambos hombres deciden llevar a Del Casal ante Hilario. Federico se...</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261121112542 +0100" stop="20261121121621 +0100">
-    <title>S01 : E48 La Trepadora - S01:E048 - La Trepadora</title>
+    <title>S01 : E48 La Trepadora - S01:E048- Trust in Danger - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria decide darle un voto de confianza a Nicolás y lo deja huir con su caballo; antes de irse,la besa. Moncho pide a Florencia le diga en dónde están las reses robadas o la pondrá en evidencia ante Hilario; la joven lo convence de que no lo haga. Nicolás y Leopoldo advierten a Florencia que ya Hilario puede saber que ella es la espía que los ayuda; la joven está dispuesta a enfrentarse a Guanipa.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121121622 +0100" stop="20261121130802 +0100">
-    <title>S01 : E24 Te Tengo en Salsa - S01:E24 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261121121622 +0100" stop="20261121130801 +0100">
+    <title>S01 : E24 Te Tengo en Salsa - S01:E24- Adriana Pleads with Her Sister - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana le suplica a su hermana que se cuide pues tarde o temprano sus padres podrían enterarse de la verdad.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121130803 +0100" stop="20261121135916 +0100">
-    <title>S01 : E25 Te Tengo en Salsa - S01:E25 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261121130802 +0100" stop="20261121135916 +0100">
+    <title>S01 : E25 Te Tengo en Salsa - S01:E25- The True Face of Carlos Raúl - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana ayuda a un “adolorido” Carlos Raúl cuando de pronto irrumpe César dejando al descubierto que su hermano es un farsante.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261121135917 +0100" stop="20261121144846 +0100">
-    <title>Abigail - S04:E031 - Episode 31</title>
+    <title>Abigail - S04:E031  - Episode 31</title>
     <desc>Rosalba llega a casa de Abigail para llevarse a Mariana a Estados Unidos pero Pastora logra intervenir y le pide que abandone la casa pues Carlos Alfredo ya había hablado con ella. Guillermo apoya a Rosalba en la decisión.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121144847 +0100" stop="20261121154159 +0100">
-    <title>Abigail - S04:E032 - Episode 32</title>
+  <programme channel="wedotv-amor" start="20261121144847 +0100" stop="20261121154158 +0100">
+    <title>Abigail - S04:E032  - Confissões e acidentes familiares</title>
     <desc>Cheito le confiesa a Abigail lo mucho que odia a su verdadera madre. Pastora le comunica al padre que Carlota tuvo un accidente. Abigail echa de su casa a Carlos Alfredo y le dice que no quiere saber de él nunca más.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121154200 +0100" stop="20261121163425 +0100">
-    <title>S01 : E42 Corazón Traicionado - S01:E42 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261121154159 +0100" stop="20261121163424 +0100">
+    <title>S01 : E42 Corazón Traicionado - S01:E42- Murder in the Dark - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto recibe llamada de Omar, informándole que acaban de matar a Guillermo. María Lourdes enfurece al enterarse del asesinato del sicario, no le cabe la menor duda de que fue silenciado para que no delatara a los culpables de la muerte de Marco Aurelio. a propósito de las últimas palabras de Guillermo antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121163426 +0100" stop="20261121172651 +0100">
-    <title>S01 : E42 Corazón Traicionado - S01:E42 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261121163425 +0100" stop="20261121172651 +0100">
+    <title>S01 : E42 Corazón Traicionado - S01:E42- Murder in the Dark - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto recibe llamada de Omar, informándole que acaban de matar a Guillermo. María Lourdes enfurece al enterarse del asesinato del sicario, no le cabe la menor duda de que fue silenciado para que no delatara a los culpables de la muerte de Marco Aurelio. a propósito de las últimas palabras de Guillermo antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121172652 +0100" stop="20261121182058 +0100">
+  <programme channel="wedotv-amor" start="20261121172652 +0100" stop="20261121182057 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121182059 +0100" stop="20261121191534 +0100">
+  <programme channel="wedotv-amor" start="20261121182058 +0100" stop="20261121191534 +0100">
     <title>S01 : E97 El Desprecio - S01:E97 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora se vanagloria ante Elisenda de haber mandado a Cirilo preso además de humillar a Clara en la comisaría.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121191535 +0100" stop="20261121200830 +0100">
-    <title>S01 : E47 La Trepadora - S01:E047 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261121191535 +0100" stop="20261121200829 +0100">
+    <title>S01 : E47 La Trepadora - S01:E047- The Invasion of Cantarrana - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Federico está decidido a conseguir la gente suficiente para invadir Cantarrana para que a Hilario no le quede más remedio que vendérsela a su familia a pesar de que Bautista no lo considera capaz de lograr algo así. Leopoldo, que le reitera a Nicolás lo orgulloso que se encuentra de él, lamenta que no haya podido conseguir lo que quería con Victoria; Nicolás cree que, aunque no pueda ser feliz al lado de la mujer que ama, por lo menos va a tratar de demostrarle que él no es el delincuente que ella piensa. Nicolás no llega a salir con Moncho como pretende porque Joselo lo ataca por la espalda dejándolo sin sentido; ambos hombres deciden llevar a Del Casal ante Hilario. Federico se...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121200831 +0100" stop="20261121210124 +0100">
-    <title>S01 : E48 La Trepadora - S01:E048 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261121200830 +0100" stop="20261121210124 +0100">
+    <title>S01 : E48 La Trepadora - S01:E048- Trust in Danger - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria decide darle un voto de confianza a Nicolás y lo deja huir con su caballo; antes de irse,la besa. Moncho pide a Florencia le diga en dónde están las reses robadas o la pondrá en evidencia ante Hilario; la joven lo convence de que no lo haga. Nicolás y Leopoldo advierten a Florencia que ya Hilario puede saber que ella es la espía que los ayuda; la joven está dispuesta a enfrentarse a Guanipa.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121210125 +0100" stop="20261121215305 +0100">
-    <title>S01 : E24 Te Tengo en Salsa - S01:E24 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261121210125 +0100" stop="20261121215304 +0100">
+    <title>S01 : E24 Te Tengo en Salsa - S01:E24- Adriana Pleads with Her Sister - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana le suplica a su hermana que se cuide pues tarde o temprano sus padres podrían enterarse de la verdad.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121215306 +0100" stop="20261121224419 +0100">
-    <title>S01 : E25 Te Tengo en Salsa - S01:E25 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261121215305 +0100" stop="20261121224418 +0100">
+    <title>S01 : E25 Te Tengo en Salsa - S01:E25- The True Face of Carlos Raúl - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana ayuda a un “adolorido” Carlos Raúl cuando de pronto irrumpe César dejando al descubierto que su hermano es un farsante.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261121224420 +0100" stop="20261121233349 +0100">
-    <title>Abigail - S04:E031 - Episode 31</title>
+  <programme channel="wedotv-amor" start="20261121224419 +0100" stop="20261121233349 +0100">
+    <title>Abigail - S04:E031  - Episode 31</title>
     <desc>Rosalba llega a casa de Abigail para llevarse a Mariana a Estados Unidos pero Pastora logra intervenir y le pide que abandone la casa pues Carlos Alfredo ya había hablado con ella. Guillermo apoya a Rosalba en la decisión.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261121233350 +0100" stop="20261122002701 +0100">
-    <title>Abigail - S04:E032 - Episode 32</title>
+    <title>Abigail - S04:E032  - Episode 32</title>
     <desc>Cheito le confiesa a Abigail lo mucho que odia a su verdadera madre. Pastora le comunica al padre que Carlota tuvo un accidente. Abigail echa de su casa a Carlos Alfredo y le dice que no quiere saber de él nunca más.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122002702 +0100" stop="20261122011928 +0100">
-    <title>S01 : E42 Corazón Traicionado - S01:E42 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261122002702 +0100" stop="20261122011927 +0100">
+    <title>S01 : E42 Corazón Traicionado - S01:E42- Murder in the Dark - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto recibe llamada de Omar, informándole que acaban de matar a Guillermo. María Lourdes enfurece al enterarse del asesinato del sicario, no le cabe la menor duda de que fue silenciado para que no delatara a los culpables de la muerte de Marco Aurelio. a propósito de las últimas palabras de Guillermo antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122011929 +0100" stop="20261122021154 +0100">
-    <title>S01 : E42 Corazón Traicionado - S01:E42 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261122011928 +0100" stop="20261122021153 +0100">
+    <title>S01 : E42 Corazón Traicionado - S01:E42- Murder in the Dark - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto recibe llamada de Omar, informándole que acaban de matar a Guillermo. María Lourdes enfurece al enterarse del asesinato del sicario, no le cabe la menor duda de que fue silenciado para que no delatara a los culpables de la muerte de Marco Aurelio. a propósito de las últimas palabras de Guillermo antes de morir.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122021155 +0100" stop="20261122030600 +0100">
+  <programme channel="wedotv-amor" start="20261122021154 +0100" stop="20261122030600 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122030601 +0100" stop="20261122040037 +0100">
+  <programme channel="wedotv-amor" start="20261122030601 +0100" stop="20261122040036 +0100">
     <title>S01 : E97 El Desprecio - S01:E97 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora se vanagloria ante Elisenda de haber mandado a Cirilo preso además de humillar a Clara en la comisaría.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122040038 +0100" stop="20261122045332 +0100">
-    <title>S01 : E47 La Trepadora - S01:E047 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261122040037 +0100" stop="20261122045332 +0100">
+    <title>S01 : E47 La Trepadora - S01:E047- The Invasion of Cantarrana - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Federico está decidido a conseguir la gente suficiente para invadir Cantarrana para que a Hilario no le quede más remedio que vendérsela a su familia a pesar de que Bautista no lo considera capaz de lograr algo así. Leopoldo, que le reitera a Nicolás lo orgulloso que se encuentra de él, lamenta que no haya podido conseguir lo que quería con Victoria; Nicolás cree que, aunque no pueda ser feliz al lado de la mujer que ama, por lo menos va a tratar de demostrarle que él no es el delincuente que ella piensa. Nicolás no llega a salir con Moncho como pretende porque Joselo lo ataca por la espalda dejándolo sin sentido; ambos hombres deciden llevar a Del Casal ante Hilario. Federico se...</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122045333 +0100" stop="20261122054413 +0100">
-    <title>S01 : E48 La Trepadora - S01:E048 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261122045333 +0100" stop="20261122054412 +0100">
+    <title>S01 : E48 La Trepadora - S01:E048- Trust in Danger - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria decide darle un voto de confianza a Nicolás y lo deja huir con su caballo; antes de irse,la besa. Moncho pide a Florencia le diga en dónde están las reses robadas o la pondrá en evidencia ante Hilario; la joven lo convence de que no lo haga. Nicolás y Leopoldo advierten a Florencia que ya Hilario puede saber que ella es la espía que los ayuda; la joven está dispuesta a enfrentarse a Guanipa.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122054414 +0100" stop="20261122070007 +0100">
-    <title>S01 : E24 Te Tengo en Salsa - S01:E24 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261122054413 +0100" stop="20261122070007 +0100">
+    <title>S01 : E24 Te Tengo en Salsa - S01:E24- Adriana Pleads with Her Sister - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana le suplica a su hermana que se cuide pues tarde o temprano sus padres podrían enterarse de la verdad.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261122070008 +0100" stop="20261122075350 +0100">
-    <title>S01 : E43 Corazón Traicionado - S01:E43 - Corazon Traicionado</title>
+    <title>S01 : E43 Corazón Traicionado - S01:E43- The Wedding Celebration - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La casa Corona comienza a vestirse de gala para la celebración del matrimonio entre Lorena y Alberto. Gertrudis le recuerda a Lorena su pacto de silencio y la amenaza con su vida Alberto sostiene una conversación de “hombre a hombre” con el pequeño Ignacio. El niño, inocente, pregunta qué va a pasar con su papá “Guille”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122075351 +0100" stop="20261122084728 +0100">
-    <title>S01 : E44 Corazón Traicionado - S01:E44 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261122075351 +0100" stop="20261122084727 +0100">
+    <title>S01 : E44 Corazón Traicionado - S01:E44- Name Conflicts - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto se impresiona al oír que el nombre del padre de Ignacio es Guillermo. Lorena se controla y, con la mayor naturalidad, le dice que es una terrible coincidencia de nombres, nada más. Magda le confiesa a Lorena que fue ella la que denunció a Guillermo. Alberto listo para su boda, cuando recibe la inesperada visita de Nilda.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122084729 +0100" stop="20261122094134 +0100">
+  <programme channel="wedotv-amor" start="20261122084728 +0100" stop="20261122094134 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122094135 +0100" stop="20261122103611 +0100">
+  <programme channel="wedotv-amor" start="20261122094135 +0100" stop="20261122103610 +0100">
     <title>S01 : E97 El Desprecio - S01:E97 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora se vanagloria ante Elisenda de haber mandado a Cirilo preso además de humillar a Clara en la comisaría.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122103612 +0100" stop="20261122112651 +0100">
-    <title>S01 : E48 La Trepadora - S01:E048 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261122103611 +0100" stop="20261122112651 +0100">
+    <title>S01 : E48 La Trepadora - S01:E048- Trust in Danger - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria decide darle un voto de confianza a Nicolás y lo deja huir con su caballo; antes de irse,la besa. Moncho pide a Florencia le diga en dónde están las reses robadas o la pondrá en evidencia ante Hilario; la joven lo convence de que no lo haga. Nicolás y Leopoldo advierten a Florencia que ya Hilario puede saber que ella es la espía que los ayuda; la joven está dispuesta a enfrentarse a Guanipa.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261122112652 +0100" stop="20261122121735 +0100">
-    <title>S01 : E49 La Trepadora - S01:E049 - La Trepadora</title>
+    <title>S01 : E49 La Trepadora - S01:E049- The Plot of Feelings - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Felipe asegura a Antonieta que Clementina logro que él se olvidara de ella. Eugenia se molesta con Yosmir cuando él menciona que Chabeto le aconseja que se busque una novia más “fácil”. Victoria y Nicolás buscan a Leopoldo por el río; sólo encuentran el sombrero del hombre. Nicolás parece creer que en realidad fue Victoria quien le disparó a Leopoldo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122121736 +0100" stop="20261122130850 +0100">
-    <title>S01 : E25 Te Tengo en Salsa - S01:E25 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261122121736 +0100" stop="20261122130849 +0100">
+    <title>S01 : E25 Te Tengo en Salsa - S01:E25- The True Face of Carlos Raúl - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana ayuda a un “adolorido” Carlos Raúl cuando de pronto irrumpe César dejando al descubierto que su hermano es un farsante.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122130851 +0100" stop="20261122140021 +0100">
-    <title>S01 : E26 Te Tengo en Salsa - S01:E26 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261122130850 +0100" stop="20261122140021 +0100">
+    <title>S01 : E26 Te Tengo en Salsa - S01:E26- The Surprising Resignation - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>César y Carlos Raúl esperan la llegada de Adriana hasta que ésta los sorprende cuando les entrega su renuncia inmediata e irrevocable.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261122140022 +0100" stop="20261122145333 +0100">
-    <title>Abigail - S04:E032 - Episode 32</title>
+    <title>Abigail - S04:E032  - Episode 32</title>
     <desc>Cheito le confiesa a Abigail lo mucho que odia a su verdadera madre. Pastora le comunica al padre que Carlota tuvo un accidente. Abigail echa de su casa a Carlos Alfredo y le dice que no quiere saber de él nunca más.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261122145334 +0100" stop="20261122154312 +0100">
-    <title>Abigail - S04:E033 - Episode 33</title>
+    <title>Abigail - S04:E033  - Episode 33</title>
     <desc>Carlota se preocupa al saber que se llevaron a Mariana y que Cheito no ha regresado a su casa. Carlos Alfredo pasa la noche con María Begoña y ésta aprovecha para sembrar en él odio por Abigail.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261122154313 +0100" stop="20261122163655 +0100">
-    <title>S01 : E43 Corazón Traicionado - S01:E43 - Corazon Traicionado</title>
+    <title>S01 : E43 Corazón Traicionado - S01:E43- The Wedding Celebration - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La casa Corona comienza a vestirse de gala para la celebración del matrimonio entre Lorena y Alberto. Gertrudis le recuerda a Lorena su pacto de silencio y la amenaza con su vida Alberto sostiene una conversación de “hombre a hombre” con el pequeño Ignacio. El niño, inocente, pregunta qué va a pasar con su papá “Guille”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122163656 +0100" stop="20261122173039 +0100">
-    <title>S01 : E43 Corazón Traicionado - S01:E43 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261122163656 +0100" stop="20261122173038 +0100">
+    <title>S01 : E43 Corazón Traicionado - S01:E43- The Wedding Celebration - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La casa Corona comienza a vestirse de gala para la celebración del matrimonio entre Lorena y Alberto. Gertrudis le recuerda a Lorena su pacto de silencio y la amenaza con su vida Alberto sostiene una conversación de “hombre a hombre” con el pequeño Ignacio. El niño, inocente, pregunta qué va a pasar con su papá “Guille”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122173040 +0100" stop="20261122182445 +0100">
+  <programme channel="wedotv-amor" start="20261122173039 +0100" stop="20261122182445 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122182446 +0100" stop="20261122191922 +0100">
+  <programme channel="wedotv-amor" start="20261122182446 +0100" stop="20261122191921 +0100">
     <title>S01 : E97 El Desprecio - S01:E97 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora se vanagloria ante Elisenda de haber mandado a Cirilo preso además de humillar a Clara en la comisaría.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122191923 +0100" stop="20261122201216 +0100">
-    <title>S01 : E48 La Trepadora - S01:E048 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261122191922 +0100" stop="20261122201216 +0100">
+    <title>S01 : E48 La Trepadora - S01:E048- Trust in Danger - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria decide darle un voto de confianza a Nicolás y lo deja huir con su caballo; antes de irse,la besa. Moncho pide a Florencia le diga en dónde están las reses robadas o la pondrá en evidencia ante Hilario; la joven lo convence de que no lo haga. Nicolás y Leopoldo advierten a Florencia que ya Hilario puede saber que ella es la espía que los ayuda; la joven está dispuesta a enfrentarse a Guanipa.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122201217 +0100" stop="20261122210515 +0100">
-    <title>S01 : E49 La Trepadora - S01:E049 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261122201217 +0100" stop="20261122210514 +0100">
+    <title>S01 : E49 La Trepadora - S01:E049- The Plot of Feelings - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Felipe asegura a Antonieta que Clementina logro que él se olvidara de ella. Eugenia se molesta con Yosmir cuando él menciona que Chabeto le aconseja que se busque una novia más “fácil”. Victoria y Nicolás buscan a Leopoldo por el río; sólo encuentran el sombrero del hombre. Nicolás parece creer que en realidad fue Victoria quien le disparó a Leopoldo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122210516 +0100" stop="20261122215629 +0100">
-    <title>S01 : E25 Te Tengo en Salsa - S01:E25 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261122210515 +0100" stop="20261122215629 +0100">
+    <title>S01 : E25 Te Tengo en Salsa - S01:E25- The True Face of Carlos Raúl - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana ayuda a un “adolorido” Carlos Raúl cuando de pronto irrumpe César dejando al descubierto que su hermano es un farsante.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261122215630 +0100" stop="20261122224800 +0100">
-    <title>S01 : E26 Te Tengo en Salsa - S01:E26 - Te Tengo en Salsa</title>
+    <title>S01 : E26 Te Tengo en Salsa - S01:E26- The Surprising Resignation - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>César y Carlos Raúl esperan la llegada de Adriana hasta que ésta los sorprende cuando les entrega su renuncia inmediata e irrevocable.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122224801 +0100" stop="20261122234113 +0100">
-    <title>Abigail - S04:E032 - Episode 32</title>
+  <programme channel="wedotv-amor" start="20261122224801 +0100" stop="20261122234112 +0100">
+    <title>Abigail - S04:E032  - Episode 32</title>
     <desc>Cheito le confiesa a Abigail lo mucho que odia a su verdadera madre. Pastora le comunica al padre que Carlota tuvo un accidente. Abigail echa de su casa a Carlos Alfredo y le dice que no quiere saber de él nunca más.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261122234114 +0100" stop="20261123003051 +0100">
-    <title>Abigail - S04:E033 - Episode 33</title>
+  <programme channel="wedotv-amor" start="20261122234113 +0100" stop="20261123003051 +0100">
+    <title>Abigail - S04:E033  - Episode 33</title>
     <desc>Carlota se preocupa al saber que se llevaron a Mariana y que Cheito no ha regresado a su casa. Carlos Alfredo pasa la noche con María Begoña y ésta aprovecha para sembrar en él odio por Abigail.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123003052 +0100" stop="20261123012435 +0100">
-    <title>S01 : E43 Corazón Traicionado - S01:E43 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261123003052 +0100" stop="20261123012434 +0100">
+    <title>S01 : E43 Corazón Traicionado - S01:E43- The Wedding Celebration - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La casa Corona comienza a vestirse de gala para la celebración del matrimonio entre Lorena y Alberto. Gertrudis le recuerda a Lorena su pacto de silencio y la amenaza con su vida Alberto sostiene una conversación de “hombre a hombre” con el pequeño Ignacio. El niño, inocente, pregunta qué va a pasar con su papá “Guille”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123012436 +0100" stop="20261123021818 +0100">
-    <title>S01 : E43 Corazón Traicionado - S01:E43 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261123012435 +0100" stop="20261123021818 +0100">
+    <title>S01 : E43 Corazón Traicionado - S01:E43- The Wedding Celebration - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>La casa Corona comienza a vestirse de gala para la celebración del matrimonio entre Lorena y Alberto. Gertrudis le recuerda a Lorena su pacto de silencio y la amenaza con su vida Alberto sostiene una conversación de “hombre a hombre” con el pequeño Ignacio. El niño, inocente, pregunta qué va a pasar con su papá “Guille”.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123021819 +0100" stop="20261123031225 +0100">
+  <programme channel="wedotv-amor" start="20261123021819 +0100" stop="20261123031224 +0100">
     <title>S01 : E96 El Desprecio - S01:E96 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Con la sensación de que algo extraño sucede con Illis, Clara Inés visita a ‘su madre’ en su habitación; la impostora trata de manipular a Clara.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123031226 +0100" stop="20261123040701 +0100">
+  <programme channel="wedotv-amor" start="20261123031225 +0100" stop="20261123040701 +0100">
     <title>S01 : E97 El Desprecio - S01:E97 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora se vanagloria ante Elisenda de haber mandado a Cirilo preso además de humillar a Clara en la comisaría.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123040702 +0100" stop="20261123045956 +0100">
-    <title>S01 : E48 La Trepadora - S01:E048 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261123040702 +0100" stop="20261123045955 +0100">
+    <title>S01 : E48 La Trepadora - S01:E048- Trust in Danger - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Victoria decide darle un voto de confianza a Nicolás y lo deja huir con su caballo; antes de irse,la besa. Moncho pide a Florencia le diga en dónde están las reses robadas o la pondrá en evidencia ante Hilario; la joven lo convence de que no lo haga. Nicolás y Leopoldo advierten a Florencia que ya Hilario puede saber que ella es la espía que los ayuda; la joven está dispuesta a enfrentarse a Guanipa.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123045957 +0100" stop="20261123055040 +0100">
-    <title>S01 : E49 La Trepadora - S01:E049 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261123045956 +0100" stop="20261123055039 +0100">
+    <title>S01 : E49 La Trepadora - S01:E049- The Plot of Feelings - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Felipe asegura a Antonieta que Clementina logro que él se olvidara de ella. Eugenia se molesta con Yosmir cuando él menciona que Chabeto le aconseja que se busque una novia más “fácil”. Victoria y Nicolás buscan a Leopoldo por el río; sólo encuentran el sombrero del hombre. Nicolás parece creer que en realidad fue Victoria quien le disparó a Leopoldo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123055041 +0100" stop="20261123070007 +0100">
-    <title>S01 : E25 Te Tengo en Salsa - S01:E25 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261123055040 +0100" stop="20261123070007 +0100">
+    <title>S01 : E25 Te Tengo en Salsa - S01:E25- The True Face of Carlos Raúl - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Adriana ayuda a un “adolorido” Carlos Raúl cuando de pronto irrumpe César dejando al descubierto que su hermano es un farsante.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261123070008 +0100" stop="20261123075344 +0100">
-    <title>S01 : E44 Corazón Traicionado - S01:E44 - Corazon Traicionado</title>
+    <title>S01 : E44 Corazón Traicionado - S01:E44- Name Conflicts - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto se impresiona al oír que el nombre del padre de Ignacio es Guillermo. Lorena se controla y, con la mayor naturalidad, le dice que es una terrible coincidencia de nombres, nada más. Magda le confiesa a Lorena que fue ella la que denunció a Guillermo. Alberto listo para su boda, cuando recibe la inesperada visita de Nilda.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123075345 +0100" stop="20261123084504 +0100">
-    <title>S01 : E45 Corazón Traicionado - S01:E45 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261123075345 +0100" stop="20261123084503 +0100">
+    <title>S01 : E45 Corazón Traicionado - S01:E45- Alberto's Confrontation - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto se entera que la mujer es la mamá del ex de Lorena, y quiere sacarle dinero. Alberto confronta a Lorena, pidiéndole que le diga toda la verdad sobre Nilda.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123084505 +0100" stop="20261123093940 +0100">
+  <programme channel="wedotv-amor" start="20261123084504 +0100" stop="20261123093940 +0100">
     <title>S01 : E97 El Desprecio - S01:E97 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora se vanagloria ante Elisenda de haber mandado a Cirilo preso además de humillar a Clara en la comisaría.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123093941 +0100" stop="20261123103523 +0100">
+  <programme channel="wedotv-amor" start="20261123093941 +0100" stop="20261123103522 +0100">
     <title>S01 : E98 El Desprecio - S01:E98 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>En medio de la vinada un misterioso mesonero saca una botella de su bolso y la coloca junto a las copas con los que brindarán los padrinos.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123103524 +0100" stop="20261123112607 +0100">
-    <title>S01 : E49 La Trepadora - S01:E049 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261123103523 +0100" stop="20261123112607 +0100">
+    <title>S01 : E49 La Trepadora - S01:E049- The Plot of Feelings - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Felipe asegura a Antonieta que Clementina logro que él se olvidara de ella. Eugenia se molesta con Yosmir cuando él menciona que Chabeto le aconseja que se busque una novia más “fácil”. Victoria y Nicolás buscan a Leopoldo por el río; sólo encuentran el sombrero del hombre. Nicolás parece creer que en realidad fue Victoria quien le disparó a Leopoldo.</desc>
   </programme>
   <programme channel="wedotv-amor" start="20261123112608 +0100" stop="20261123121656 +0100">
-    <title>S01 : E50 La Trepadora - S01:E050 - La Trepadora</title>
+    <title>S01 : E50 La Trepadora - S01:E050- Search for Leopoldo - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás quiere seguir buscando a Leopoldo aunque Victoria está convencida de que el hombre está muerto. Hilario explica a Adelaida que si insiste en proteger a Florencia es porque se siente culpable de la muerte de Rosendo aunque no fue él quien lo mató. Jack informa a Victoria de que Nicolás pasó la noche en casa de Florencia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123121657 +0100" stop="20261123130828 +0100">
-    <title>S01 : E26 Te Tengo en Salsa - S01:E26 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261123121657 +0100" stop="20261123130827 +0100">
+    <title>S01 : E26 Te Tengo en Salsa - S01:E26- The Surprising Resignation - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>César y Carlos Raúl esperan la llegada de Adriana hasta que ésta los sorprende cuando les entrega su renuncia inmediata e irrevocable.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123130829 +0100" stop="20261123135939 +0100">
-    <title>S01 : E27 Te Tengo en Salsa - S01:E27 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261123130828 +0100" stop="20261123135939 +0100">
+    <title>S01 : E27 Te Tengo en Salsa - S01:E27- The End of the Business - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Nuevamente en la fonda, Patricia se desploma en llanto anunciándole a su familia que ya no habrá negocio pues no tiene dinero para hacerlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123135940 +0100" stop="20261123144918 +0100">
-    <title>Abigail - S04:E033 - Episode 33</title>
+  <programme channel="wedotv-amor" start="20261123135940 +0100" stop="20261123144917 +0100">
+    <title>Abigail - S04:E033  - Episode 33</title>
     <desc>Carlota se preocupa al saber que se llevaron a Mariana y que Cheito no ha regresado a su casa. Carlos Alfredo pasa la noche con María Begoña y ésta aprovecha para sembrar en él odio por Abigail.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123144919 +0100" stop="20261123154140 +0100">
-    <title>Abigail - S04:E034 - Episode 34</title>
+  <programme channel="wedotv-amor" start="20261123144918 +0100" stop="20261123154139 +0100">
+    <title>Abigail - S04:E034  -</title>
     <desc>Abigail le prohíbe a Carlos Alfredo que le diga la verdad a su hijo. Carlos Alfredo le pide a Abigail que deje a Álvaro para que retomen su vida de casados. Silvia asegura que Cheito está cada vez más cerca de ella.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123154141 +0100" stop="20261123163517 +0100">
-    <title>S01 : E44 Corazón Traicionado - S01:E44 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261123154140 +0100" stop="20261123163517 +0100">
+    <title>S01 : E44 Corazón Traicionado - S01:E44- Name Conflicts - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto se impresiona al oír que el nombre del padre de Ignacio es Guillermo. Lorena se controla y, con la mayor naturalidad, le dice que es una terrible coincidencia de nombres, nada más. Magda le confiesa a Lorena que fue ella la que denunció a Guillermo. Alberto listo para su boda, cuando recibe la inesperada visita de Nilda.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123163518 +0100" stop="20261123172855 +0100">
-    <title>S01 : E44 Corazón Traicionado - S01:E44 - Corazon Traicionado</title>
+  <programme channel="wedotv-amor" start="20261123163518 +0100" stop="20261123172854 +0100">
+    <title>S01 : E44 Corazón Traicionado - S01:E44- Name Conflicts - Corazon Traicionado</title>
     <sub-title>Corazon Traicionado</sub-title>
     <desc>Alberto se impresiona al oír que el nombre del padre de Ignacio es Guillermo. Lorena se controla y, con la mayor naturalidad, le dice que es una terrible coincidencia de nombres, nada más. Magda le confiesa a Lorena que fue ella la que denunció a Guillermo. Alberto listo para su boda, cuando recibe la inesperada visita de Nilda.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123172856 +0100" stop="20261123182331 +0100">
+  <programme channel="wedotv-amor" start="20261123172855 +0100" stop="20261123182331 +0100">
     <title>S01 : E97 El Desprecio - S01:E97 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>Pastora se vanagloria ante Elisenda de haber mandado a Cirilo preso además de humillar a Clara en la comisaría.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123182332 +0100" stop="20261123191914 +0100">
+  <programme channel="wedotv-amor" start="20261123182332 +0100" stop="20261123191913 +0100">
     <title>S01 : E98 El Desprecio - S01:E98 - El Desprecio</title>
     <sub-title>El Desprecio</sub-title>
     <desc>En medio de la vinada un misterioso mesonero saca una botella de su bolso y la coloca junto a las copas con los que brindarán los padrinos.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123191915 +0100" stop="20261123201212 +0100">
-    <title>S01 : E49 La Trepadora - S01:E049 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261123191914 +0100" stop="20261123201212 +0100">
+    <title>S01 : E49 La Trepadora - S01:E049- The Plot of Feelings - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Felipe asegura a Antonieta que Clementina logro que él se olvidara de ella. Eugenia se molesta con Yosmir cuando él menciona que Chabeto le aconseja que se busque una novia más “fácil”. Victoria y Nicolás buscan a Leopoldo por el río; sólo encuentran el sombrero del hombre. Nicolás parece creer que en realidad fue Victoria quien le disparó a Leopoldo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123201213 +0100" stop="20261123210516 +0100">
-    <title>S01 : E50 La Trepadora - S01:E050 - La Trepadora</title>
+  <programme channel="wedotv-amor" start="20261123201213 +0100" stop="20261123210515 +0100">
+    <title>S01 : E50 La Trepadora - S01:E050- Search for Leopoldo - La Trepadora</title>
     <sub-title>La Trepadora</sub-title>
     <desc>Nicolás quiere seguir buscando a Leopoldo aunque Victoria está convencida de que el hombre está muerto. Hilario explica a Adelaida que si insiste en proteger a Florencia es porque se siente culpable de la muerte de Rosendo aunque no fue él quien lo mató. Jack informa a Victoria de que Nicolás pasó la noche en casa de Florencia.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123210517 +0100" stop="20261123215647 +0100">
-    <title>S01 : E26 Te Tengo en Salsa - S01:E26 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261123210516 +0100" stop="20261123215646 +0100">
+    <title>S01 : E26 Te Tengo en Salsa - S01:E26- The Surprising Resignation - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>César y Carlos Raúl esperan la llegada de Adriana hasta que ésta los sorprende cuando les entrega su renuncia inmediata e irrevocable.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123215648 +0100" stop="20261123224758 +0100">
-    <title>S01 : E27 Te Tengo en Salsa - S01:E27 - Te Tengo en Salsa</title>
+  <programme channel="wedotv-amor" start="20261123215647 +0100" stop="20261123224758 +0100">
+    <title>S01 : E27 Te Tengo en Salsa - S01:E27- The End of the Business - Te Tengo en Salsa</title>
     <sub-title>Te Tengo en Salsa</sub-title>
     <desc>Nuevamente en la fonda, Patricia se desploma en llanto anunciándole a su familia que ya no habrá negocio pues no tiene dinero para hacerlo.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123224759 +0100" stop="20261123233737 +0100">
-    <title>Abigail - S04:E033 - Episode 33</title>
+  <programme channel="wedotv-amor" start="20261123224759 +0100" stop="20261123233736 +0100">
+    <title>Abigail - S04:E033  - Episode 33</title>
     <desc>Carlota se preocupa al saber que se llevaron a Mariana y que Cheito no ha regresado a su casa. Carlos Alfredo pasa la noche con María Begoña y ésta aprovecha para sembrar en él odio por Abigail.</desc>
   </programme>
-  <programme channel="wedotv-amor" start="20261123233738 +0100" stop="20261124002959 +0100">
-    <title>Abigail - S04:E034 - Episode 34</title>
+  <programme channel="wedotv-amor" start="20261123233737 +0100" stop="20261124002958 +0100">
+    <title>Abigail - S04:E034  - Episode 34</title>
     <desc>Abigail le prohíbe a Carlos Alfredo que le diga la verdad a su hijo. Carlos Alfredo le pide a Abigail que deje a Álvaro para que retomen su vida de casados. Silvia asegura que Cheito está cada vez más cerca de ella.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261119234954 +0100" stop="20261120003655 +0100">
+  <programme channel="rookie-blue-spa" start="20261119234954 +0100" stop="20261120003654 +0100">
     <title>S02 : E04 Chispa y corazón - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras la 15.ª División se recupera del tiroteo al inspector Luke Callaghan, una serie de incendios provocados culmina con una lavandería incenciada.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120003656 +0100" stop="20261120012514 +0100">
+  <programme channel="rookie-blue-spa" start="20261120003655 +0100" stop="20261120012514 +0100">
     <title>S02 : E05 De encubierto - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Utilizando un concesionario de coches local, la 15.ª División lleva a cabo una operación encubierta para detener a sospechosos con órdenes de detención pendientes.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120012515 +0100" stop="20261120021336 +0100">
+  <programme channel="rookie-blue-spa" start="20261120012515 +0100" stop="20261120021335 +0100">
     <title>S02 : E06 A simple vista - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando un informante de la policía aparece asesinado, la 15 pone sus miras en la búsqueda de un eslabón débil en la banda tristemente famosa y brutal de East Jameson.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120021337 +0100" stop="20261120030049 +0100">
+  <programme channel="rookie-blue-spa" start="20261120021336 +0100" stop="20261120030048 +0100">
     <title>S02 : E07 El que se escapó - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando una mujer es brutalmente atacada de la misma manera que la fallecida policía novata Zoe Martinelli, el inspector Luke Callaghan está convencido de que se trata del mismo sospechoso.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120030050 +0100" stop="20261120034949 +0100">
+  <programme channel="rookie-blue-spa" start="20261120030049 +0100" stop="20261120034948 +0100">
     <title>S02 : E08 Monstruo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando un hombre aparentemente borracho se desploma en el granero, ponen a la 15.º División en cuarentena.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120034950 +0100" stop="20261120043610 +0100">
+  <programme channel="rookie-blue-spa" start="20261120034949 +0100" stop="20261120043610 +0100">
     <title>S02 : E09 Hermandad - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Dov y Gail trabajan juntos bajo la experta tutela de Swarek en una operación de vigilancia para impedir que una banda asiática mate a un soplón.</desc>
@@ -45581,37 +45129,42 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando roban el uniforme de Gail Peck, los novatos persiguen a un vigilante que se hace pasar por policía.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120070130 +0100" stop="20261120075028 +0100">
+  <programme channel="rookie-blue-spa" start="20261120070130 +0100" stop="20261120075027 +0100">
     <title>S02 : E13 La gracia de Dios - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras Swarek es brutalmente interrogado por Jamie Brennan en el sótano de una granja de Pickering, los novatos ayudan a Andy a resolver un misterio que puede revelar su ubicación.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120075029 +0100" stop="20261120083931 +0100">
+  <programme channel="rookie-blue-spa" start="20261120075028 +0100" stop="20261120083931 +0100">
     <title>S03 : E01 El primer día del resto de tu vida - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una joven desaparece del lugar donde se ha producido un accidente de tráfico, y Andy McNally la relaciona con un caso sin resolver. Andy y el resto de la 15.ª División intentan encontrarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120083932 +0100" stop="20261120092824 +0100">
+  <programme channel="rookie-blue-spa" start="20261120083932 +0100" stop="20261120092823 +0100">
     <title>S03 : E02 Pueden retirarse - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y Swarek siguen el rastro de un adolescente tras robar y agredir a un delincuente que resulta ser el padre de su novia. Andy y Swarek deben encontrar a la pareja antes de que sea tarde.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120092825 +0100" stop="20261120101725 +0100">
+  <programme channel="rookie-blue-spa" start="20261120092824 +0100" stop="20261120101724 +0100">
     <title>S03 : E03 Buen tiro - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Dov se topa con un atraco en una tienda y dispara a un joven negro. Todo se complica en la 15 cuando la noticia llega a una comunidad muy unida. Dov debe enfrentarse a las consecuencias.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120101726 +0100" stop="20261120110539 +0100">
+  <programme channel="rookie-blue-spa" start="20261120101725 +0100" stop="20261120110538 +0100">
     <title>S03 : E04 Noche de chicas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un coche choca contra otro, matando al conductor. Jerry descubre que este ya estaba muerto. Traci y Andy descubren que la novia oculta algo y deben encontrar al asesino lo antes posible.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120110540 +0100" stop="20261120115442 +0100">
+  <programme channel="rookie-blue-spa" start="20261120110539 +0100" stop="20261120115442 +0100">
     <title>S03 : E05 Casas desordenadas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras una llamada por problemas domésticos, la vida de Andy cambia: la trabajadora social es su madre. Andy debe trabajar con ella, y Swarek, Nick, Chris y Gail buscan a la madre del caso.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120115443 +0100" stop="20261120124329 +0100">
+  <programme channel="rookie-blue-spa" start="20261120115443 +0100" stop="20261120120000 +0100">
+    <title>S03 : E06 De regreso en casa - Rookie Blue</title>
+    <sub-title>Rookie Blue</sub-title>
+    <desc>Andy y a Swarek descubren una fiesta ilegal en un almacén y a un okupa herido. Gail y Dov interrogan a los asistentes, y Andy y Swarek detienen a una sorprendente testigo: la hija de Oliver.</desc>
+  </programme>
+  <programme channel="rookie-blue-spa" start="20261120120001 +0100" stop="20261120124329 +0100">
     <title>S03 : E06 De regreso en casa - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y a Swarek descubren una fiesta ilegal en un almacén y a un okupa herido. Gail y Dov interrogan a los asistentes, y Andy y Swarek detienen a una sorprendente testigo: la hija de Oliver.</desc>
@@ -45621,32 +45174,32 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Un vidente, o un estafador, entra en la 15 para ayudar a encontrar al testigo de un caso de crimen organizado, y los agentes se enfrentan a verdades sobre sí mismos y sobre sus compañeros.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120133234 +0100" stop="20261120142122 +0100">
+  <programme channel="rookie-blue-spa" start="20261120133234 +0100" stop="20261120142121 +0100">
     <title>S03 : E08 El papel de la novia - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Investigan la desaparición de estudiantes convertidas en acompañantes. Gail encaja con la descripción y la envían de incógnito. Pero Dov y Chris descubren el cadáver de una desaparecida.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120142123 +0100" stop="20261120151020 +0100">
+  <programme channel="rookie-blue-spa" start="20261120142122 +0100" stop="20261120151020 +0100">
     <title>S03 : E09 Fuera de plazo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una pista prometedora lleva a la 15 hasta el cuerpo de la mujer desaparecida y el caso da un giro peligroso: parece obra de un asesino en libertad y que podría tener a Gail en el punto de mira.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120151021 +0100" stop="20261120155923 +0100">
+  <programme channel="rookie-blue-spa" start="20261120151021 +0100" stop="20261120155922 +0100">
     <title>S03 : E10 Triste consuelo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 sigue conmocionada por la muerte de uno de los suyos. Tras robarles información confidencial, intentan resolver varios casos y buscar a un informante posiblemente descubierto.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120155924 +0100" stop="20261120164721 +0100">
+  <programme channel="rookie-blue-spa" start="20261120155923 +0100" stop="20261120164720 +0100">
     <title>S03 : E11 Las reglas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 vuelve a sus orígenes. Una amenaza de muerte a un sacerdote lleva a Andy y Nick a un capo de la droga, y se dan cuenta de que están en una zona de guerra con una relación sorprendente.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120164722 +0100" stop="20261120173623 +0100">
+  <programme channel="rookie-blue-spa" start="20261120164721 +0100" stop="20261120173622 +0100">
     <title>S03 : E12 Cada uno de nosotros - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 vuelve a sus orígenes. Una amenaza de muerte a un sacerdote lleva a Andy y Nick a un capo de la droga, y se dan cuenta de que están en una zona de guerra con una relación sorprendente.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120173624 +0100" stop="20261120182525 +0100">
+  <programme channel="rookie-blue-spa" start="20261120173623 +0100" stop="20261120182525 +0100">
     <title>S03 : E13 Yo, nunca - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 busca a un secuestrador de niños, pero descubren que se ha llevado a otra víctima. El instinto de Andy se confirma al localizarlos y descubre a Sam Swarek en un mortal enfrentamiento.</desc>
@@ -45666,37 +45219,37 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy se asocia con la nueva novia de Swarek. Se encuentran con una PEP (Persona Emocionalmente Perturbada) y sus diferencias son puestas a prueba y uno de ellos debe apretar el gatillo.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120205112 +0100" stop="20261120214007 +0100">
+  <programme channel="rookie-blue-spa" start="20261120205112 +0100" stop="20261120214006 +0100">
     <title>S04 : E04 Los chicos no están bien - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy ansía descansar. Pero una comprobación conduce al descubrimiento de un adolescente en un maletero y deben convencerlo de que ningún dolor es eterno para evitar que cometa un error.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120214008 +0100" stop="20261120222907 +0100">
+  <programme channel="rookie-blue-spa" start="20261120214007 +0100" stop="20261120222906 +0100">
     <title>S04 : E05 Píldora de veneno - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras un arresto por drogas, Andy y Marlo están en cuarentena. Mientras, la 15 División entra en emergencia para sacar las drogas contaminadas antes de que un brote mortal se extienda.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120222908 +0100" stop="20261120231729 +0100">
+  <programme channel="rookie-blue-spa" start="20261120222907 +0100" stop="20261120231728 +0100">
     <title>S04 : E06 Esqueletos - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Al denunciarse la desaparición de una joven, pronto descubren una posible conexión con uno de los casos más angustiosos. Contrarreloj, Gail debe afrontar sus temores para encontrarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261120231730 +0100" stop="20261121000629 +0100">
+  <programme channel="rookie-blue-spa" start="20261120231729 +0100" stop="20261121000629 +0100">
     <title>S04 : E07 Martes 13 - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando unos huesos encontrados abren un caso de personas desaparecidas, Swarek se reúne con su antiguo mentor para resolver el caso. Swarek se fija en él y debe decidir si seguir sus pasos.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121000630 +0100" stop="20261121005510 +0100">
+  <programme channel="rookie-blue-spa" start="20261121000630 +0100" stop="20261121005509 +0100">
     <title>S04 : E08 Para bien, para mal - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Todos, especialmente Andy, quieren un turno fácil para ir a la boda de Frank y Noelle. Pero las cosas se complican cuando secuestran un autobús con personas mayores y la novia desaparece.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121005511 +0100" stop="20261121014406 +0100">
+  <programme channel="rookie-blue-spa" start="20261121005510 +0100" stop="20261121014405 +0100">
     <title>S04 : E09 Lo que perdí - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La visita de Chris cambia cuando secuestran a su hijo al cuidado de Andy y Nick. Todos se unen para encontrarlo. Pero su vuelta no libra a Chris de una revelación impactante.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121014407 +0100" stop="20261121023306 +0100">
+  <programme channel="rookie-blue-spa" start="20261121014406 +0100" stop="20261121023306 +0100">
     <title>S04 : E10 Estás aquí - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una redada es el primer caso de homicidio de Traci y les obliga a trabajar horas extras. Swarek, Oliver, Chris y Dov van a la cabaña de Oliver para confesarse, reparar generadores y unirse.</desc>
@@ -45721,32 +45274,32 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras los sucesos traumáticos de la noche (Ep. 413), Andy y Dov intentan tranquilizarse en un restaurante abierto las 24 horas, pero un asalto imprevisto los pilla por sorpresa y fuera de servicio. Mientras, los cansados agentes de la División 15 intentan contener los daños colaterales bajo la vigilancia de un nuevo y duro inspector.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121054852 +0100" stop="20261121063755 +0100">
+  <programme channel="rookie-blue-spa" start="20261121054852 +0100" stop="20261121063754 +0100">
     <title>S05 : E02 Por su cuenta - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Es un día de sorpresas: Oliver es ascendido a sargento en funciones y Andy debe entrenar a Duncan Moore, el nuevo recluta de la División 15. Pero cuando Andy y Duncan responden a un homicidio en una tienda de empeños, queda claro que el novato va a ser todo un desafío para Andy.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121063756 +0100" stop="20261121072602 +0100">
+  <programme channel="rookie-blue-spa" start="20261121063755 +0100" stop="20261121072601 +0100">
     <title>S05 : E03 Los rompecorazones ganan dinero - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Se acerca la noche benéfica y el inspector Jarvis envía a los agentes de la División 15 a incautar cualquier cosa obtenida con dinero ilegal. Pero cuando Andy y Nick van a una casa de apuestas ilegal y consiguen una confesión un tanto turbia, Andy pide ayuda a Sam para descubrir quién miente, por qué miente, y dónde está escondido el dinero antes de que nadie salga herido.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121072603 +0100" stop="20261121081445 +0100">
+  <programme channel="rookie-blue-spa" start="20261121072602 +0100" stop="20261121081444 +0100">
     <title>S05 : E04 Buscado - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Descubren a un jefe mafioso ejecutado tras un tiroteo en un edificio de apartamentos y la División 15 tiene que encontrar al asesino antes de que estalle una guerra de bandas. Mientras el asesino intenta encontrar al único testigo que puede relacionarlo con el crimen, Andy y su novato, Duncan, se enfrentan a una heroica prueba a vida o muerte.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121081446 +0100" stop="20261121090325 +0100">
+  <programme channel="rookie-blue-spa" start="20261121081445 +0100" stop="20261121090324 +0100">
     <title>S05 : E05 De encubierto - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La División 15 se infiltra en un club que podría ser la tapadera de una tienda de armas, pero el comportamiento errático de Chris y su preocupación por un traficante en concreto provocan las sospechas de Dov. Andy descubre que Duncan ha presentado acusaciones graves contra ella, pero decide ayudar a Sam en un caso de personas desaparecidas con un giro un tanto tenebroso.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121090326 +0100" stop="20261121095228 +0100">
+  <programme channel="rookie-blue-spa" start="20261121090325 +0100" stop="20261121095227 +0100">
     <title>S05 : E06 Dos verdades y una mentira - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Los agentes de la División 15 intentan encontrar al asesino de Brian Gowdy y Andy Sam viajan hasta la penitenciaria de Millburn para entrevistar a varios reclusos. Todos tienen relación con el sospechoso principal, pero uno resulta ser Jay Swarek, el escurridizo padre de Sam.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121095229 +0100" stop="20261121104132 +0100">
+  <programme channel="rookie-blue-spa" start="20261121095228 +0100" stop="20261121104132 +0100">
     <title>S05 : E07 Trato con el diablo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Es un día caótico en comisaría y Oliver tiene que preparar a Andy para defenderse en la vista de la expulsión de Duncan, que es en dos horas. Pero cuando Duncan presenta unas pruebas que culpan directamente a Andy, Oliver deberá decidir si está dispuesto a comprometer su integridad profesional, y su amistad con Andy, para salvarla.</desc>
@@ -45776,32 +45329,32 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Un mes después de la explosión en la sala de pruebas (Ep. 511), Andy y Sam regresan al trabajo después de unas muy necesarias vacaciones. Pero cuando un intruso ataca a Andy en casa de Traci, la Unidad de Delitos Sexuales se hace cargo del caso a su manera, y la División 15 deberá decidir si toman cartas en el asunto.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121144553 +0100" stop="20261121153440 +0100">
+  <programme channel="rookie-blue-spa" start="20261121144553 +0100" stop="20261121153439 +0100">
     <title>S05 : E13 Familia perfecta - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy se plantea su futuro con Sam tras la sorprendente noticia de que Marlo está embarazada con su bebé (Ep. 512). Pero la idea de una familia perfecta de Andy cambia radicalmente cuando conoce a un descontrolado adolescente que necesita ser protegido de su conservadora familia.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121153441 +0100" stop="20261121162328 +0100">
+  <programme channel="rookie-blue-spa" start="20261121153440 +0100" stop="20261121162327 +0100">
     <title>S05 : E14 Levantamiento - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Hay un motín en un centro penitenciario para mujeres mientras Andy, Juliet, Nick y Gail están allí para trasladar a varias prisioneras. Los cuatro acaban separados en una cárcel confinada, y Andy y Juliet quedan atrapadas con una mujer desesperada por demostrar su inocencia.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121162329 +0100" stop="20261121171231 +0100">
+  <programme channel="rookie-blue-spa" start="20261121162328 +0100" stop="20261121171230 +0100">
     <title>S05 : E15 Soltar - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>El hermano desaparecido de Nick llega con nueva información sobre alguien de su trágico pasado y Nick intenta encontrarlo por su cuenta. Pero Juliet no lo pierde de vista y Nick se ve obligado a contarle los secretos de su pasado.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121171232 +0100" stop="20261121180120 +0100">
+  <programme channel="rookie-blue-spa" start="20261121171231 +0100" stop="20261121180119 +0100">
     <title>S05 : E16 Un verdadero caballero - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Traci no aparece para su primera redada y la División 15 teme que un infame traficante de armas la haya secuestrado. Pero cuando Andy descubre que el violador en serie que no atraparon (Ep. 512) ha vuelto, todos deberán colaborar para encontrar a Traci. Mientras, Traci se enfrenta a su captor e intenta escapar antes de que sea tarde.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121180121 +0100" stop="20261121184941 +0100">
+  <programme channel="rookie-blue-spa" start="20261121180120 +0100" stop="20261121184940 +0100">
     <title>S05 : E17 Cuadrangular - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La relación de Gail con su hermano Steve Peck es puesta prueba mientras buscan al pistolero que ha disparado desde un coche en un partido de béisbol comunitario. Mientras, Swarek planea una escapada con Andy a la cabaña de Gavin, pero la cosa acaba fatal de todas las maneras posibles menos una.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121184942 +0100" stop="20261121193843 +0100">
+  <programme channel="rookie-blue-spa" start="20261121184941 +0100" stop="20261121193843 +0100">
     <title>S05 : E18 El mejor - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y Sam se sorprenden al descubrir que Oliver es el principal sospechoso de la investigación de Asuntos Internos sobre la corrupción en la División 15. Y lo que es peor, solo tienen hasta la noche para encontrar a Chris Klem, el vendedor de explosivos desaparecido, y limpiar el nombre de Oliver antes de que cargue con todo.</desc>
@@ -45811,77 +45364,77 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Oliver es el principal sospechoso de la bomba en la sala de pruebas de la División 15 y Andy, Dov, Gail y Nick traman un peligroso plan que podría acabar con sus carreras para demostrar que el comisionado Alonso Santana es corrupto. Mientras, Traci sigue a Steve Peck con la esperanza de calmar sus temores sobre su relación con el atentado.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121202747 +0100" stop="20261121211615 +0100">
+  <programme channel="rookie-blue-spa" start="20261121202747 +0100" stop="20261121211614 +0100">
     <title>S05 : E20 Treinta y dos grados - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras los agentes de la División 15 intentan pasar página tras el escándalo de corrupción, una ola de calor obliga a Jarvis a abrir la división al público para que puedan refrescarse. Andy ayudar a la embarazada Marlo a encontrar a una mujer que ha desaparecido tras una terapia en grupo, pero ni Andy ni Marlo están preparadas cuando la última se pone de parto.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121211616 +0100" stop="20261121220518 +0100">
+  <programme channel="rookie-blue-spa" start="20261121211615 +0100" stop="20261121220517 +0100">
     <title>S05 : E21 Se separa la banda - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Ahora que ha llegado el bebé de Sam y Marlo (Ep. 520), es evidente que nada podría haber preparado a Andy para este momento. Así que cuando Juliet le ofrece a Andy la oportunidad de participar en una misión encubierta de cuatro meses, esta empieza a pensárselo. Mientras, Jarvis revela la sorprendente noticia de que la División 15 se reestructurará tras el escándalo de corrupción.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121220519 +0100" stop="20261121225421 +0100">
+  <programme channel="rookie-blue-spa" start="20261121220518 +0100" stop="20261121225420 +0100">
     <title>S05 : E22 74 epifanías - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La reestructuración de la División 15 está al caer y la boda de Andy y Sam llega en el momento justo para celebrar una última fiesta todos juntos. Pero cuando un autoestopista hace desviar a Andy y acaba en una carretera sin salida, con un hombre moribundo y sin modo de pedir ayuda ni de avisar a Sam de que no ha huido, ¿será capaz de salvar la vida al hombre? ¿Llegará a tiempo a su boda?</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121225422 +0100" stop="20261121234211 +0100">
+  <programme channel="rookie-blue-spa" start="20261121225421 +0100" stop="20261121234210 +0100">
     <title>S01 : E01 Pintura fresca - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>El triunfo se convierte en humillación. Una operación de alto riesgo se tuerce cuando la agente novata Andy McNally pilla a uno de los suyos frustrando una operación encubierta.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261121234212 +0100" stop="20261122003055 +0100">
+  <programme channel="rookie-blue-spa" start="20261121234211 +0100" stop="20261122003054 +0100">
     <title>S01 : E02 Mercurio en retroceso - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras los demás novatos persiguen a un preso fugado, Swarek le cuenta a Andy sus hazañas encubiertas del pasado. Juntos persiguen a un informante desaparecido en peligro y saltan chispas.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122003056 +0100" stop="20261122011853 +0100">
+  <programme channel="rookie-blue-spa" start="20261122003055 +0100" stop="20261122011852 +0100">
     <title>S01 : E03 Noche de pelea - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy debe saltarse el protocolo para ganarse la confianza de una víctima de abusos a la que el sistema ha defraudado. Mientras, los demás novatos se pelean en "La Noche de Combate".</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122011854 +0100" stop="20261122020707 +0100">
+  <programme channel="rookie-blue-spa" start="20261122011853 +0100" stop="20261122020706 +0100">
     <title>S01 : E04 Señales cruzadas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy se infiltra como prostituta. La tensión se dispara cuando Dov pone en peligro la vida de una informante y Andy tiene que infiltrarse en un arriesgado negocio de armas para salvarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122020708 +0100" stop="20261122025438 +0100">
+  <programme channel="rookie-blue-spa" start="20261122020707 +0100" stop="20261122025437 +0100">
     <title>S01 : E05 A plena luz del día - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un allanamiento de morada en un barrio de lujo moviliza a todos los novatos, pero una vez despejado el lugar, es Andy quien se queda sola y se enfrenta a un ladrón muy volátil.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122025439 +0100" stop="20261122034247 +0100">
+  <programme channel="rookie-blue-spa" start="20261122025438 +0100" stop="20261122034246 +0100">
     <title>S01 : E06 A prueba de balas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un accidente de tráfico fatal revela una verdad impactante, y el romance de Andy y el inspector Luke Callaghan se complica cuando discrepan sobre el manejo de un testigo de asesinato.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122034248 +0100" stop="20261122043150 +0100">
+  <programme channel="rookie-blue-spa" start="20261122034247 +0100" stop="20261122043150 +0100">
     <title>S01 : E07 Con los nervios de punta - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una ola de calor causa estragos en la ciudad, que se multiplican ante el temor de un violador en serie que anda suelto. Mientras, un apagón obliga a Andy a enfrentarse a un cruel agresor.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122043151 +0100" stop="20261122051953 +0100">
+  <programme channel="rookie-blue-spa" start="20261122043151 +0100" stop="20261122051952 +0100">
     <title>S01 : E08 Cuadro de honor - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y Chris investigan una paliza en un club. Cuando las pistas apuntan a un policía, deben tomar una decisión que pondrá a prueba su lealtad al cuerpo y puede hacer peligrar sus carreras.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122051954 +0100" stop="20261122060845 +0100">
+  <programme channel="rookie-blue-spa" start="20261122051953 +0100" stop="20261122060844 +0100">
     <title>S01 : E09 La novia del año - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Chris y Gail ven un coche cuya matrícula coincide con una alerta ámbar de una niña de 9 años. Mientras buscan al conductor, el interrogatorio a los padres revela pruebas inquietantes.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122060846 +0100" stop="20261122065625 +0100">
+  <programme channel="rookie-blue-spa" start="20261122060845 +0100" stop="20261122065624 +0100">
     <title>S01 : E10 Big Nickel - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La tensión entre Andy y Swarek es máxima, pero deben dejar a un lado sus sentimientos cuando el transporte de un preso fallido los obliga a buscar al fugitivo.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122065626 +0100" stop="20261122074434 +0100">
+  <programme channel="rookie-blue-spa" start="20261122065625 +0100" stop="20261122074433 +0100">
     <title>S01 : E11 Para servir o proteger - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>El padre de Andy, Tommy, expolicía, confiesa que pudo haber cometido un delito estando ebrio. Andy profundiza en el caso y se enfrenta a la posibilidad de enviar a su padre a la cárcel.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122074435 +0100" stop="20261122083332 +0100">
+  <programme channel="rookie-blue-spa" start="20261122074434 +0100" stop="20261122083332 +0100">
     <title>S01 : E12 El Día del Juicio Final - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Son las evaluaciones de rendimiento, o Día del Juicio Final. ¿Entregará Andy su placa antes de que el sargento Frank dé su opinión? El asesinato de una desconocida conmociona a Andy.</desc>
@@ -45891,22 +45444,22 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando una detención de Andy y Chris pone en peligro una operación antidroga, Andy intenta salvarla yendo de incógnito con Swarek, pero un cambio de planes pone la vida de ambos en peligro.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122092236 +0100" stop="20261122101026 +0100">
+  <programme channel="rookie-blue-spa" start="20261122092236 +0100" stop="20261122101025 +0100">
     <title>S02 : E01 Mariposas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una universitaria muere en un tiroteo, y una bala acaba en el chaleco de Andy. Esta intenta demostrar que el tiroteo no fue al azar, lo que la enfrenta al nuevo inspector de la 15.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122101027 +0100" stop="20261122105813 +0100">
+  <programme channel="rookie-blue-spa" start="20261122101026 +0100" stop="20261122105813 +0100">
     <title>S02 : E02 Lo que podría haber sido - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Todo el mundo vive su “pudo haber sido”. Andy y Gail van de incógnito como camareras para limpiar un club infestado de drogas, pero su compañera resulta ser la novia de un criminal.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122105814 +0100" stop="20261122114714 +0100">
+  <programme channel="rookie-blue-spa" start="20261122105814 +0100" stop="20261122114713 +0100">
     <title>S02 : E03 Mala luna creciente - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La luna llena se cierne sobre la ciudad. Al investigar el robo de tres cabezas cortadas de un laboratorio, Andy y Swarek siguen la pista de un hombre que ha dejado de tomar su medicación.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122114715 +0100" stop="20261122123415 +0100">
+  <programme channel="rookie-blue-spa" start="20261122114714 +0100" stop="20261122123415 +0100">
     <title>S02 : E04 Chispa y corazón - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras la 15.ª División se recupera del tiroteo al inspector Luke Callaghan, una serie de incendios provocados culmina con una lavandería incenciada.</desc>
@@ -45916,32 +45469,32 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Utilizando un concesionario de coches local, la 15.ª División lleva a cabo una operación encubierta para detener a sospechosos con órdenes de detención pendientes.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122132236 +0100" stop="20261122141057 +0100">
+  <programme channel="rookie-blue-spa" start="20261122132236 +0100" stop="20261122141056 +0100">
     <title>S02 : E06 A simple vista - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando un informante de la policía aparece asesinado, la 15 pone sus miras en la búsqueda de un eslabón débil en la banda tristemente famosa y brutal de East Jameson.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122141058 +0100" stop="20261122145810 +0100">
+  <programme channel="rookie-blue-spa" start="20261122141057 +0100" stop="20261122145809 +0100">
     <title>S02 : E07 El que se escapó - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando una mujer es brutalmente atacada de la misma manera que la fallecida policía novata Zoe Martinelli, el inspector Luke Callaghan está convencido de que se trata del mismo sospechoso.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122145811 +0100" stop="20261122154710 +0100">
+  <programme channel="rookie-blue-spa" start="20261122145810 +0100" stop="20261122154709 +0100">
     <title>S02 : E08 Monstruo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando un hombre aparentemente borracho se desploma en el granero, ponen a la 15.º División en cuarentena.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122154711 +0100" stop="20261122163331 +0100">
+  <programme channel="rookie-blue-spa" start="20261122154710 +0100" stop="20261122163330 +0100">
     <title>S02 : E09 Hermandad - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Dov y Gail trabajan juntos bajo la experta tutela de Swarek en una operación de vigilancia para impedir que una banda asiática mate a un soplón.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122163332 +0100" stop="20261122172229 +0100">
+  <programme channel="rookie-blue-spa" start="20261122163331 +0100" stop="20261122172228 +0100">
     <title>S02 : E10 Los mejores planes - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La caza de un ladrón armado los lleva al escenario de un accidente de coche. Mientras Andy se ocupa de una mujer inmovilizada en su coche, los demás agentes deben rastrear al fugitivo.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122172230 +0100" stop="20261122181123 +0100">
+  <programme channel="rookie-blue-spa" start="20261122172229 +0100" stop="20261122181123 +0100">
     <title>S02 : E11 Un poco de fe - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando envían a Traci y Andy a un ejercicio de entrenamiento encubierto, tropiezan con una joven que está a punto de morir de sobredosis.</desc>
@@ -45956,27 +45509,27 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Mientras Swarek es brutalmente interrogado por Jamie Brennan en el sótano de una granja de Pickering, los novatos ayudan a Andy a resolver un misterio que puede revelar su ubicación.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122194749 +0100" stop="20261122203652 +0100">
+  <programme channel="rookie-blue-spa" start="20261122194749 +0100" stop="20261122203651 +0100">
     <title>S03 : E01 El primer día del resto de tu vida - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una joven desaparece del lugar donde se ha producido un accidente de tráfico, y Andy McNally la relaciona con un caso sin resolver. Andy y el resto de la 15.ª División intentan encontrarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122203653 +0100" stop="20261122212545 +0100">
+  <programme channel="rookie-blue-spa" start="20261122203652 +0100" stop="20261122212544 +0100">
     <title>S03 : E02 Pueden retirarse - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy y Swarek siguen el rastro de un adolescente tras robar y agredir a un delincuente que resulta ser el padre de su novia. Andy y Swarek deben encontrar a la pareja antes de que sea tarde.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122212546 +0100" stop="20261122221446 +0100">
+  <programme channel="rookie-blue-spa" start="20261122212545 +0100" stop="20261122221445 +0100">
     <title>S03 : E03 Buen tiro - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Dov se topa con un atraco en una tienda y dispara a un joven negro. Todo se complica en la 15 cuando la noticia llega a una comunidad muy unida. Dov debe enfrentarse a las consecuencias.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122221447 +0100" stop="20261122230300 +0100">
+  <programme channel="rookie-blue-spa" start="20261122221446 +0100" stop="20261122230259 +0100">
     <title>S03 : E04 Noche de chicas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Un coche choca contra otro, matando al conductor. Jerry descubre que este ya estaba muerto. Traci y Andy descubren que la novia oculta algo y deben encontrar al asesino lo antes posible.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261122230301 +0100" stop="20261122235203 +0100">
+  <programme channel="rookie-blue-spa" start="20261122230300 +0100" stop="20261122235203 +0100">
     <title>S03 : E05 Casas desordenadas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras una llamada por problemas domésticos, la vida de Andy cambia: la trabajadora social es su madre. Andy debe trabajar con ella, y Swarek, Nick, Chris y Gail buscan a la madre del caso.</desc>
@@ -46006,17 +45559,17 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 sigue conmocionada por la muerte de uno de los suyos. Tras robarles información confidencial, intentan resolver varios casos y buscar a un informante posiblemente descubierto.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123035644 +0100" stop="20261123044442 +0100">
+  <programme channel="rookie-blue-spa" start="20261123035644 +0100" stop="20261123044441 +0100">
     <title>S03 : E11 Las reglas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 vuelve a sus orígenes. Una amenaza de muerte a un sacerdote lleva a Andy y Nick a un capo de la droga, y se dan cuenta de que están en una zona de guerra con una relación sorprendente.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123044443 +0100" stop="20261123053344 +0100">
+  <programme channel="rookie-blue-spa" start="20261123044442 +0100" stop="20261123053343 +0100">
     <title>S03 : E12 Cada uno de nosotros - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 vuelve a sus orígenes. Una amenaza de muerte a un sacerdote lleva a Andy y Nick a un capo de la droga, y se dan cuenta de que están en una zona de guerra con una relación sorprendente.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123053345 +0100" stop="20261123062246 +0100">
+  <programme channel="rookie-blue-spa" start="20261123053344 +0100" stop="20261123062246 +0100">
     <title>S03 : E13 Yo, nunca - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La 15 busca a un secuestrador de niños, pero descubren que se ha llevado a otra víctima. El instinto de Andy se confirma al localizarlos y descubre a Sam Swarek en un mortal enfrentamiento.</desc>
@@ -46031,42 +45584,42 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Al volver, Andy debe trabajar con Swarek para rastrear a un exconvicto decidido a recuperar su antigua vida. Andy se da cuenta de cuánto ha cambiado desde que dejó su antigua vida.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123080047 +0100" stop="20261123084832 +0100">
+  <programme channel="rookie-blue-spa" start="20261123080047 +0100" stop="20261123084831 +0100">
     <title>S04 : E03 Diferente, pero no mejor - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy se asocia con la nueva novia de Swarek. Se encuentran con una PEP (Persona Emocionalmente Perturbada) y sus diferencias son puestas a prueba y uno de ellos debe apretar el gatillo.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123084833 +0100" stop="20261123093727 +0100">
+  <programme channel="rookie-blue-spa" start="20261123084832 +0100" stop="20261123093727 +0100">
     <title>S04 : E04 Los chicos no están bien - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Andy ansía descansar. Pero una comprobación conduce al descubrimiento de un adolescente en un maletero y deben convencerlo de que ningún dolor es eterno para evitar que cometa un error.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123093728 +0100" stop="20261123102628 +0100">
+  <programme channel="rookie-blue-spa" start="20261123093728 +0100" stop="20261123102627 +0100">
     <title>S04 : E05 Píldora de veneno - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras un arresto por drogas, Andy y Marlo están en cuarentena. Mientras, la 15 División entra en emergencia para sacar las drogas contaminadas antes de que un brote mortal se extienda.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123102629 +0100" stop="20261123111450 +0100">
+  <programme channel="rookie-blue-spa" start="20261123102628 +0100" stop="20261123111449 +0100">
     <title>S04 : E06 Esqueletos - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Al denunciarse la desaparición de una joven, pronto descubren una posible conexión con uno de los casos más angustiosos. Contrarreloj, Gail debe afrontar sus temores para encontrarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123111451 +0100" stop="20261123120350 +0100">
+  <programme channel="rookie-blue-spa" start="20261123111450 +0100" stop="20261123120350 +0100">
     <title>S04 : E07 Martes 13 - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando unos huesos encontrados abren un caso de personas desaparecidas, Swarek se reúne con su antiguo mentor para resolver el caso. Swarek se fija en él y debe decidir si seguir sus pasos.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123120351 +0100" stop="20261123125231 +0100">
+  <programme channel="rookie-blue-spa" start="20261123120351 +0100" stop="20261123125230 +0100">
     <title>S04 : E08 Para bien, para mal - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Todos, especialmente Andy, quieren un turno fácil para ir a la boda de Frank y Noelle. Pero las cosas se complican cuando secuestran un autobús con personas mayores y la novia desaparece.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123125232 +0100" stop="20261123134127 +0100">
+  <programme channel="rookie-blue-spa" start="20261123125231 +0100" stop="20261123134126 +0100">
     <title>S04 : E09 Lo que perdí - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La visita de Chris cambia cuando secuestran a su hijo al cuidado de Andy y Nick. Todos se unen para encontrarlo. Pero su vuelta no libra a Chris de una revelación impactante.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123134128 +0100" stop="20261123143027 +0100">
+  <programme channel="rookie-blue-spa" start="20261123134127 +0100" stop="20261123143027 +0100">
     <title>S04 : E10 Estás aquí - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Una redada es el primer caso de homicidio de Traci y les obliga a trabajar horas extras. Swarek, Oliver, Chris y Dov van a la cabaña de Oliver para confesarse, reparar generadores y unirse.</desc>
@@ -46076,12 +45629,12 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Cuando se encuentran a un sospechoso pedófilo medio muerto, Andy descubre que Marlo lo ha investigado durante días. Andy y Swarek deben luchar para cubrir a Marlo y encontrar al agresor.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123151928 +0100" stop="20261123160810 +0100">
+  <programme channel="rookie-blue-spa" start="20261123151928 +0100" stop="20261123160809 +0100">
     <title>S04 : E12 Bajo fuego - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Después de que disparen a Andy y Chloe, los agentes ven que son el objetivo de alguien con rencor. Deben continuar sirviendo y protegiendo mientras están en la línea de fuego.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123160811 +0100" stop="20261123165709 +0100">
+  <programme channel="rookie-blue-spa" start="20261123160810 +0100" stop="20261123165709 +0100">
     <title>S04 : E13 Mira las estrellas - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Tras un ataque contra los agentes de la 15 División, Andy, Swarek y sus compañeros tienen que reunir la verdad sobre un crimen pasado para encontrar a Oliver Shaw y salvar su vida.</desc>
@@ -46096,37 +45649,37 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Rookie Blue</sub-title>
     <desc>Es un día de sorpresas: Oliver es ascendido a sargento en funciones y Andy debe entrenar a Duncan Moore, el nuevo recluta de la División 15. Pero cuando Andy y Duncan responden a un homicidio en una tienda de empeños, queda claro que el novato va a ser todo un desafío para Andy.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123183516 +0100" stop="20261123192323 +0100">
+  <programme channel="rookie-blue-spa" start="20261123183516 +0100" stop="20261123192322 +0100">
     <title>S05 : E03 Los rompecorazones ganan dinero - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Se acerca la noche benéfica y el inspector Jarvis envía a los agentes de la División 15 a incautar cualquier cosa obtenida con dinero ilegal. Pero cuando Andy y Nick van a una casa de apuestas ilegal y consiguen una confesión un tanto turbia, Andy pide ayuda a Sam para descubrir quién miente, por qué miente, y dónde está escondido el dinero antes de que nadie salga herido.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123192324 +0100" stop="20261123201205 +0100">
+  <programme channel="rookie-blue-spa" start="20261123192323 +0100" stop="20261123201205 +0100">
     <title>S05 : E04 Buscado - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Descubren a un jefe mafioso ejecutado tras un tiroteo en un edificio de apartamentos y la División 15 tiene que encontrar al asesino antes de que estalle una guerra de bandas. Mientras el asesino intenta encontrar al único testigo que puede relacionarlo con el crimen, Andy y su novato, Duncan, se enfrentan a una heroica prueba a vida o muerte.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123201206 +0100" stop="20261123210046 +0100">
+  <programme channel="rookie-blue-spa" start="20261123201206 +0100" stop="20261123210045 +0100">
     <title>S05 : E05 De encubierto - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La División 15 se infiltra en un club que podría ser la tapadera de una tienda de armas, pero el comportamiento errático de Chris y su preocupación por un traficante en concreto provocan las sospechas de Dov. Andy descubre que Duncan ha presentado acusaciones graves contra ella, pero decide ayudar a Sam en un caso de personas desaparecidas con un giro un tanto tenebroso.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123210047 +0100" stop="20261123214949 +0100">
+  <programme channel="rookie-blue-spa" start="20261123210046 +0100" stop="20261123214948 +0100">
     <title>S05 : E06 Dos verdades y una mentira - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Los agentes de la División 15 intentan encontrar al asesino de Brian Gowdy y Andy Sam viajan hasta la penitenciaria de Millburn para entrevistar a varios reclusos. Todos tienen relación con el sospechoso principal, pero uno resulta ser Jay Swarek, el escurridizo padre de Sam.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123214950 +0100" stop="20261123223853 +0100">
+  <programme channel="rookie-blue-spa" start="20261123214949 +0100" stop="20261123223852 +0100">
     <title>S05 : E07 Trato con el diablo - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>Es un día caótico en comisaría y Oliver tiene que preparar a Andy para defenderse en la vista de la expulsión de Duncan, que es en dos horas. Pero cuando Duncan presenta unas pruebas que culpan directamente a Andy, Oliver deberá decidir si está dispuesto a comprometer su integridad profesional, y su amistad con Andy, para salvarla.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123223854 +0100" stop="20261123232756 +0100">
+  <programme channel="rookie-blue-spa" start="20261123223853 +0100" stop="20261123232755 +0100">
     <title>S05 : E08 Estrategia de salida - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La adicción de Chris se hace evidente cuando una inocente llamada en una casa obliga a Dov y Chris a investigar un sospechoso allanamiento. El hijo adolescente de las víctimas entra en una depresión a medida que los secretos familiares revelan los problemas de la familia, pero son Chris y Dov los que acaban luchando por sus vidas.</desc>
   </programme>
-  <programme channel="rookie-blue-spa" start="20261123232757 +0100" stop="20261124001617 +0100">
+  <programme channel="rookie-blue-spa" start="20261123232756 +0100" stop="20261124001616 +0100">
     <title>S05 : E09 Día de mudanza - Rookie Blue</title>
     <sub-title>Rookie Blue</sub-title>
     <desc>La División 15 es asignada a un programa de ayuda comunitario: “Día de mudanza”, para ayudar a los inquilinos a desalojar un complejo que va a ser demolido. Pero cuando Andy y Chloe encuentra a un hombre apalizado en un piso vacío, su investigación desvela una despiadada operación criminal más grande de lo que podían imaginar.</desc>
@@ -57979,163 +57532,151 @@ Open</desc>
     <title>The Perfect Husband</title>
     <desc>A married couple decide to spend a weekend in a remote cabin, but the romantic journey takes a turn for the worse, when a sneaking suspicion becomes pure madness.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261121150310 +0100" stop="20261121163840 +0100">
+  <programme channel="dark-matter-es-new" start="20261121150310 +0100" stop="20261121163841 +0100">
     <title>El monstruo humano AKA The Human Monster</title>
     <desc>Agente de seguros-medico cobra polizas de hombres asesinados por un residente desfigurado del hogar para ciegos donde actua como medico de guardia.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261121163841 +0100" stop="20261121165214 +0100">
+  <programme channel="dark-matter-es-new" start="20261121163842 +0100" stop="20261121165215 +0100">
     <title>Beating Hearts</title>
     <desc>A harrowing take on family ties, true love and murder.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261121165215 +0100" stop="20261121185504 +0100">
+  <programme channel="dark-matter-es-new" start="20261121165216 +0100" stop="20261121185504 +0100">
     <title>SAGA: La maldición de la sombra</title>
     <desc>Un grupo formado por una elfa, un hombre y un orco emprenderán una aventura para evitar que una orden secreta lleve al mundo de Saga a la oscuridad.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261121185505 +0100" stop="20261121203914 +0100">
-    <title>Los misterios de Emma Fielding: La maldicion del pasado</title>
-    <desc>Cuando Emma Fielding es contratada para investigar un castillo, se ve envuelta en otro misterio al encontrar a un companero asesinado en las criptas.</desc>
+  <programme channel="dark-matter-es-new" start="20261121185505 +0100" stop="20261121195543 +0100">
+    <title>Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
+    <desc>Episode One discusses 'The Monster Within And Among Us', and discusses Jack The Ripper (even though he's not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261121203915 +0100" stop="20261121224023 +0100">
+  <programme channel="dark-matter-es-new" start="20261121195544 +0100" stop="20261121215652 +0100">
     <title>Sons of Liberty</title>
     <desc>An elite team of scientists and soldiers unite to thwart a terrorist plot to detonate a nuclear weapon along the Gulf Coast.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261121224024 +0100" stop="20261122003041 +0100">
+  <programme channel="dark-matter-es-new" start="20261121215653 +0100" stop="20261121234102 +0100">
+    <title>Los misterios de Emma Fielding: La maldicion del pasado</title>
+    <desc>Cuando Emma Fielding es contratada para investigar un castillo, se ve envuelta en otro misterio al encontrar a un companero asesinado en las criptas.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261121234103 +0100" stop="20261122013120 +0100">
     <title>Dirty Shield</title>
     <desc>Detective Ricardo Colletti's personal life is turned upside down when his wife is raped by members of a notorious street gang. When two of the gang members are found dead, Internal Affairs Bureau makes a bold move to catch their suspect.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122003042 +0100" stop="20261122022041 +0100">
+  <programme channel="dark-matter-es-new" start="20261122013121 +0100" stop="20261122032121 +0100">
     <title>Vixen</title>
     <desc>Una hermosa pero mortífera mujer policía china debe formar equipo con un pícaro y apuesto agente de la Interpol para luchar contra los terroristas que se han apoderado del edificio más alto del mundo.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122022042 +0100" stop="20261122024112 +0100">
-    <title>2 Palomas</title>
-    <desc>Un agente inmobiliario amoral y grasiento es presa de una de sus victimas, que se muda silenciosamente a su apartamento y, sin ser visto, comienza una deliciosa y maliciosa campana de venganza. Two Pigeons es una comedia negra con una vena siniestra.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261122024113 +0100" stop="20261122043344 +0100">
+  <programme channel="dark-matter-es-new" start="20261122032122 +0100" stop="20261122051352 +0100">
     <title>Psychomania - (aka The Death Wheelers)</title>
     <desc>A gang of young people call themselves the Living Dead. They terrorize the population from their small town. After an agreement with the devil, if they kill themselves firmly believing in it, they will survive and gain eternal life. Following their leader, they commit suicide one after the other, but things don't necessarily turn out as expected.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122043345 +0100" stop="20261122062745 +0100">
+  <programme channel="dark-matter-es-new" start="20261122051353 +0100" stop="20261122070753 +0100">
     <title>The Hard Ride</title>
     <desc>Phil agrees to look after his dying Vietnam vet buddy by taking care of his motorcycle only to run into some trouble with both the law and other bikers.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122062746 +0100" stop="20261122081501 +0100">
+  <programme channel="dark-matter-es-new" start="20261122070754 +0100" stop="20261122085510 +0100">
     <title>The Thirsty Dead</title>
     <desc>Beautiful young girls are kidnapped off the streets of Manila by a death cult that needs their blood to remain immortal.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122081502 +0100" stop="20261122083532 +0100">
-    <title>2 Palomas</title>
-    <desc>Un agente inmobiliario amoral y grasiento es presa de una de sus victimas, que se muda silenciosamente a su apartamento y, sin ser visto, comienza una deliciosa y maliciosa campana de venganza. Two Pigeons es una comedia negra con una vena siniestra.</desc>
+  <programme channel="dark-matter-es-new" start="20261122085511 +0100" stop="20261122095549 +0100">
+    <title>Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
+    <desc>Episode One discusses 'The Monster Within And Among Us', and discusses Jack The Ripper (even though he's not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122083533 +0100" stop="20261122101415 +0100">
+  <programme channel="dark-matter-es-new" start="20261122095550 +0100" stop="20261122113431 +0100">
     <title>Disembodied</title>
     <desc>The 90's VHS cult classic is now in HD! Connie Sproutz, a likeable young woman with the sad problem of a spore-generating deformity on her face which causes difficulties in her day-to-day life such as dissolving into a gelatinous mass anyone who is to be devoured by the neural parasite that inhabits her skull, which is empty due to the fact that she stores her brain in a jar beside her bed.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122101416 +0100" stop="20261122111454 +0100">
-    <title>Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
-    <desc>Episode One discusses 'The Monster Within And Among Us', and discusses Jack The Ripper (even though he's not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261122111455 +0100" stop="20261122125915 +0100">
+  <programme channel="dark-matter-es-new" start="20261122113432 +0100" stop="20261122131852 +0100">
     <title>The Brain That Wouldn't Die</title>
     <desc>A doctor experimenting with transplant techniques keeps his girlfriend's head alive when she is decapitated in a car crash, then goes hunting for a new body.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122125916 +0100" stop="20261122144836 +0100">
+  <programme channel="dark-matter-es-new" start="20261122131853 +0100" stop="20261122150813 +0100">
     <title>Payasos Infernales</title>
     <desc>Durante un viaje a un festival de música, un grupo de amigos se pierden en lo que parece ser un pueblo abandonado y acaban cruzándose en el camino con un grupo de psicópatas disfrazados de payasos.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122144837 +0100" stop="20261122163311 +0100">
+  <programme channel="dark-matter-es-new" start="20261122150814 +0100" stop="20261122165248 +0100">
     <title>Cub</title>
     <desc>A camping trip turns into a carnage for a troop of cub scouts as a killer stalks them with deadly traps.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122163312 +0100" stop="20261122181526 +0100">
+  <programme channel="dark-matter-es-new" start="20261122165249 +0100" stop="20261122183503 +0100">
     <title>Las Escrituras de la Muerte</title>
     <desc>Shannon es la encargada de restaurar una mansion victoriana. Las renovaciones van perfectamente hasta que el jefe del banco local es encontrado muerto.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122181527 +0100" stop="20261122191606 +0100">
-    <title>Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
-    <desc>Episode One discusses 'The Monster Within And Among Us', and discusses Jack The Ripper (even though he's not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261122191607 +0100" stop="20261122210447 +0100">
+  <programme channel="dark-matter-es-new" start="20261122183504 +0100" stop="20261122202345 +0100">
     <title>Asylum Seekers</title>
     <desc>A freewheeling demented comedy about the modern world, in which six people, fed up with the abuse they suffer in their normal lives, seek asylum ... as inmates of a mental institution. The only problem is, there's just one bed available.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122210448 +0100" stop="20261122224643 +0100">
+  <programme channel="dark-matter-es-new" start="20261122202346 +0100" stop="20261122220541 +0100">
     <title>La Rapina a Pineville</title>
     <desc>Un adolescente delle superiori si imbatte nelle conseguenze di una rapina in banca andata storta e si ritrova rinchiuso nella sua scuola cercando di mantenere in vita se stesso e il suo insegnante mentre uno dei rapinatori psicotici li dà la caccia.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261122224644 +0100" stop="20261123003505 +0100">
+  <programme channel="dark-matter-es-new" start="20261122220542 +0100" stop="20261122235403 +0100">
     <title>End of the World</title>
     <desc>After witnessing a man's death in a bizarre accident, Father Pergado goes on a spiritual retreat, where he encounters his alien double bent on world conquest.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123003506 +0100" stop="20261123021816 +0100">
+  <programme channel="dark-matter-es-new" start="20261122235404 +0100" stop="20261123010748 +0100">
+    <title>La Rusa</title>
+    <desc>Tito es un hombre de 50 anos que atraviesa una crisis personal y decide regresar a su ciudad. Cuando llega, se encuentra con un pueblo mucho mas tranquilo y deprimido, dominado por la familia Crespo.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261123010749 +0100" stop="20261123025100 +0100">
     <title>Reptilicus</title>
     <desc>After copper miners discover part of the frozen tail of a prehistoric monster in Lapland, scientists inadvertently bring it back to life.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123021817 +0100" stop="20261123040834 +0100">
+  <programme channel="dark-matter-es-new" start="20261123025101 +0100" stop="20261123044117 +0100">
     <title>Killer Campout</title>
     <desc>Two youth counselors bring a group of emotionally troubled teens deep into the woods for a weekend of solitude and confrontational therapy. The trip turns deadly when they are terrorized by a cannibalistic hermit with a thirst for blood.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123040835 +0100" stop="20261123041806 +0100">
-    <title>Chain Letter</title>
-    <desc>Six friends receive a mysterious chain letter via text and email from a maniac who hunts down those who delete the message. Who knew they should take the threats in the chain letter seriously or that their favorite technologies could help track and kill them? This maniacal game pits friend against friend as they try to escape the impossible. Break the chain, lose a life.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261123041807 +0100" stop="20261123060432 +0100">
+  <programme channel="dark-matter-es-new" start="20261123044118 +0100" stop="20261123062744 +0100">
     <title>Parasite</title>
     <desc>Paul Dean has created a deadly parasite that is now attached to his stomach. He and his female companion, Patricia Welles, must find a way to destroy it while also trying to avoid Ricus, his rednecks, and an evil government agent named Merchant.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123060433 +0100" stop="20261123074004 +0100">
+  <programme channel="dark-matter-es-new" start="20261123062745 +0100" stop="20261123080315 +0100">
     <title>El monstruo humano AKA The Human Monster</title>
     <desc>Agente de seguros-medico cobra polizas de hombres asesinados por un residente desfigurado del hogar para ciegos donde actua como medico de guardia.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123074005 +0100" stop="20261123092517 +0100">
+  <programme channel="dark-matter-es-new" start="20261123080316 +0100" stop="20261123094829 +0100">
     <title>Vampire Circus</title>
     <desc>As the plague sweeps the countryside, a quarantined village is visited by a mysterious traveling circus. Soon, young children begin to disappear, and the locals suspect the circus troupe might be hiding a horrifying secret.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123092518 +0100" stop="20261123105317 +0100">
+  <programme channel="dark-matter-es-new" start="20261123094830 +0100" stop="20261123111628 +0100">
     <title>Sed de Sangre</title>
     <desc>Un cazador enloquecido secuestra personas y las suelta en su propiedad privada, donde las caza por deporte.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123105318 +0100" stop="20261123123628 +0100">
+  <programme channel="dark-matter-es-new" start="20261123111629 +0100" stop="20261123125939 +0100">
     <title>Un misterio para Aurora Teagarden: Un monton de problemas</title>
     <desc>Aurora Teagarden empieza a alarmarse cuando desaparece la sobrina de Martin Bartell y encuentran a su bebe escondido en una banera.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123123629 +0100" stop="20261123124600 +0100">
-    <title>Chain Letter</title>
-    <desc>Six friends receive a mysterious chain letter via text and email from a maniac who hunts down those who delete the message. Who knew they should take the threats in the chain letter seriously or that their favorite technologies could help track and kill them? This maniacal game pits friend against friend as they try to escape the impossible. Break the chain, lose a life.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261123124601 +0100" stop="20261123141624 +0100">
+  <programme channel="dark-matter-es-new" start="20261123125940 +0100" stop="20261123143003 +0100">
     <title>Blood Riders: The Devil Rides With Us</title>
     <desc>Blood Riders is a blood soaked adventure comedy about 4 young friends who stumble upon a body after stealing a car. That discovery pushes the friends on a road trip around town during which they try get rid of the increasing amount of corpses. Along their wild ride the kids encounter neo-Nazis, punk artists, devil worshipers and a plan to resurrect Hitler.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123141625 +0100" stop="20261123142556 +0100">
+  <programme channel="dark-matter-es-new" start="20261123143004 +0100" stop="20261123143935 +0100">
     <title>Chain Letter</title>
     <desc>Six friends receive a mysterious chain letter via text and email from a maniac who hunts down those who delete the message. Who knew they should take the threats in the chain letter seriously or that their favorite technologies could help track and kill them? This maniacal game pits friend against friend as they try to escape the impossible. Break the chain, lose a life.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123142557 +0100" stop="20261123161604 +0100">
+  <programme channel="dark-matter-es-new" start="20261123143936 +0100" stop="20261123162943 +0100">
     <title>The Food of the Gods</title>
     <desc>A group of friends travel to a remote Canadian island to hunt, only to be attacked by giant killer animals which have populated the place.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123161605 +0100" stop="20261123162938 +0100">
+  <programme channel="dark-matter-es-new" start="20261123162944 +0100" stop="20261123164317 +0100">
     <title>Beating Hearts</title>
     <desc>A harrowing take on family ties, true love and murder.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123162939 +0100" stop="20261123182642 +0100">
-    <title>Experiment</title>
-    <desc>A man and woman walk the streets of a foreign city with no memory of who they are and plagued by nightmarish visions. Unknown to them their every action is being guided by unseen forces from the dark underground shadows of the city.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261123182643 +0100" stop="20261123201738 +0100">
-    <title>La Invocación de Enver Simaku</title>
-    <desc>Albania 1997. Una imagen de vídeo, fantasmagórica y deteriorada desvela y obsesiona a Julien cada noche. Casi dos décadas desde el asesinato de su esposa Ángela, Julien regresa a Albania con la determinación de investigar un mar de grabaciones imposibles, expedientes policiales y visiones del más allá.</desc>
-  </programme>
-  <programme channel="dark-matter-es-new" start="20261123201739 +0100" stop="20261123211817 +0100">
+  <programme channel="dark-matter-es-new" start="20261123164318 +0100" stop="20261123174357 +0100">
     <title>Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
     <desc>Episode One discusses 'The Monster Within And Among Us', and discusses Jack The Ripper (even though he's not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123211818 +0100" stop="20261123225908 +0100">
+  <programme channel="dark-matter-es-new" start="20261123174358 +0100" stop="20261123193453 +0100">
+    <title>La Invocación de Enver Simaku</title>
+    <desc>Albania 1997. Una imagen de vídeo, fantasmagórica y deteriorada desvela y obsesiona a Julien cada noche. Casi dos décadas desde el asesinato de su esposa Ángela, Julien regresa a Albania con la determinación de investigar un mar de grabaciones imposibles, expedientes policiales y visiones del más allá.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261123193454 +0100" stop="20261123213157 +0100">
+    <title>Experiment</title>
+    <desc>A man and woman walk the streets of a foreign city with no memory of who they are and plagued by nightmarish visions. Unknown to them their every action is being guided by unseen forces from the dark underground shadows of the city.</desc>
+  </programme>
+  <programme channel="dark-matter-es-new" start="20261123213158 +0100" stop="20261123231247 +0100">
     <title>The Man With The X-Ray Eyes</title>
     <desc>Dr. James Xavier (Ray Milland, 1945 Best Actor OscarÂ© - Winner For The Lost Weekend) is a world renowned scientist experimenting with human eyesight. He devises a drug, that when applied to the eyes, enables the user to see beyond the normal realm of our sight. It also gives the user the power to see through objects. Xavier tests this drug on himself, when his funding is cut off he takes refuge in a small carnival run by Crane (Don Rickles).</desc>
   </programme>
-  <programme channel="dark-matter-es-new" start="20261123225909 +0100" stop="20261124004625 +0100">
+  <programme channel="dark-matter-es-new" start="20261123231248 +0100" stop="20261124010004 +0100">
     <title>The Thirsty Dead</title>
     <desc>Beautiful young girls are kidnapped off the streets of Manila by a death cult that needs their blood to remain immortal.</desc>
   </programme>
@@ -58411,12 +57952,12 @@ Open</desc>
     <title>Nieve de verano</title>
     <desc>Hallie es una niña pequeña con un gran corazón, pero sus formas de ayudar a menudo crean un desastre.</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261121005043 +0100" stop="20261121012027 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261121005043 +0100" stop="20261121012012 +0100">
     <title>S01 : E08 Campamento Beverly Hills - En casa con Tori</title>
     <sub-title>En casa con Tori</sub-title>
     <desc>Tori se une a Josh Flagg para crear un campamento de verano con el tema de la tropa Beverly Hills.</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261121012028 +0100" stop="20261121030507 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261121012013 +0100" stop="20261121030507 +0100">
     <title>Retrato de un Secuestro</title>
     <desc>Durante un día con su hija en un carnaval, una fotógrafo mira hacia otro lado por un momento y su hija desaparece. Esta madre arriesga todo, incluso su cordura para encontrar a su hija.</desc>
   </programme>
@@ -58452,15 +57993,15 @@ Open</desc>
     <title>Llamada oculta</title>
     <desc>Un psicópata utiliza una sofisticada bomba de tiempo exigiendo una respuesta a su pregunta: '¿QUIÉN SOY?'</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261121165509 +0100" stop="20261121184503 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261121165509 +0100" stop="20261121184504 +0100">
     <title>FaceValue-feature-eng-spa</title>
     <desc>Info not available</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261121184504 +0100" stop="20261121203500 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261121184505 +0100" stop="20261121203501 +0100">
     <title>FrozenWithFear-feature-eng-spa</title>
     <desc>Info not available</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261121203501 +0100" stop="20261121222005 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261121203502 +0100" stop="20261121222005 +0100">
     <title>Mami Nunca te Haría Daño</title>
     <desc>Riley quiere volver a tener relación con su madre y su hermana pequeña, que están encerradas debido a la enfermedad de la pequeña.</desc>
   </programme>
@@ -58492,25 +58033,25 @@ DURACION: 87 MINUTOS</desc>
     <title>Llamada oculta</title>
     <desc>Un psicópata utiliza una sofisticada bomba de tiempo exigiendo una respuesta a su pregunta: '¿QUIÉN SOY?'</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261122063010 +0100" stop="20261122082004 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261122063010 +0100" stop="20261122082005 +0100">
     <title>FaceValue-feature-eng-spa</title>
     <desc>Info not available</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261122082005 +0100" stop="20261122101002 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261122082006 +0100" stop="20261122101002 +0100">
     <title>FrozenWithFear-feature-eng-spa</title>
     <desc>Info not available</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261122101003 +0100" stop="20261122115506 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261122101003 +0100" stop="20261122115507 +0100">
     <title>Mami Nunca te Haría Daño</title>
     <desc>Riley quiere volver a tener relación con su madre y su hermana pequeña, que están encerradas debido a la enfermedad de la pequeña.</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261122115507 +0100" stop="20261122133559 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261122115508 +0100" stop="20261122133600 +0100">
     <title>WEBCAM DE ANIMADORAS</title>
     <desc>Maisy se traslada a la universidad de su difunta hermana para encontrar la verdad detrás de su muerte, donde descubre que muchas de las chicas del equipo de porristas también son chicas webcam, pero revelar la verdad puede tener consecuencias mortales.
 
 DURACION: 87 MINUTOS</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261122133600 +0100" stop="20261122152513 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261122133601 +0100" stop="20261122152513 +0100">
     <title>Crónicas de un crimen</title>
     <desc>La novelista Hannah Ryan crea una serie de crímenes que alguien imita en la vida real.</desc>
   </programme>
@@ -58526,11 +58067,11 @@ DURACION: 87 MINUTOS</desc>
     <title>Capilla de Boda, La</title>
     <desc>Sarah es una pintora sin inspiración, soltera, tiene mala suerte y quiere escapar de sus problemas. Decide visitar a su madre, y se involucra en salvar una iglesia local que está en peligro de cerrar.</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261122204524 +0100" stop="20261122223001 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261122204524 +0100" stop="20261122223002 +0100">
     <title>Sazonado con amor</title>
     <desc>El coche de Winona se avería en un pequeño pueblo donde termina encontrando  el amor en uno de sus habitantes.</desc>
   </programme>
-  <programme channel="mytime-movie-network-spanish" start="20261122223002 +0100" stop="20261123001530 +0100">
+  <programme channel="mytime-movie-network-spanish" start="20261122223003 +0100" stop="20261123001530 +0100">
     <title>Corrupt</title>
     <desc>Hallie Jones era una contable forense para la oficina del fiscal des distrito hasta que su testimonio le costó la vida a un hombre inocente. Pero cuando el testigo clave de un importante caso de corrupción aparece muerto, el fiscal del distrito Frank Morries, pedirá ayuda a la única persona que puede resolver el caso: Hallie. Pero a medida que empieza a descubrir la verdad sobre el caso, también sale a la luz una peligrosa red de mentiras y engaños que la ponen cada vez más en peligo.</desc>
   </programme>
