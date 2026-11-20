@@ -953,3 +953,9 @@ https://daiconnect.com/live/hls/tvup/alma/.m3u8
 
 #EXTINF:-1 tvg-id="Accion+" tvg-name="Accion+" tvg-logo="http://192.168.1.98:8080/logos/Accion%2B.png" group-title="Cajón de Sastre",Accion+
 https://daiconnect.com/live/hls/tvup/accionplus/.m3u8
+
+#EXTINF:-1 tvg-id="Barça_24H" tvg-name="Barça 24H" tvg-logo="http://192.168.1.98:8080/logos/Bar%C3%A7a%2024H.png" group-title="Cajón de Sastre",Barça 24H
+https://daiconnect.com/live/hls/tvup/tvfy-topbarcaspanish/.m3u8
+
+#EXTINF:-1 tvg-id="Barça_24H_|_Català" tvg-name="Barça 24H | Català" tvg-logo="http://192.168.1.98:8080/logos/Bar%C3%A7a%2024H%20%7C%20Catal%C3%A0.png" group-title="Cajón de Sastre",Barça 24H | Català
+https://daiconnect.com/live/hls/tvup/tvfy-topbarcacatala/.m3u8
