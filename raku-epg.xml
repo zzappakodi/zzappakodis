@@ -35376,10 +35376,14 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>2020 Shady Rays 200 at Kentucky Speedway</sub-title>
     <desc>Relive the 2020 Shady Rays 200 at Kentucky Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
   </programme>
-  <programme channel="nascar" start="20261126045116 +0100" stop="20261126065844 +0100">
+  <programme channel="nascar" start="20261126045116 +0100" stop="20261126063359 +0100">
     <title>S2020 : E15 NASCAR Classics: O'Reilly Auto Parts Series - 2020 ALSCO 300 at Kentucky Speedway</title>
     <sub-title>2020 ALSCO 300 at Kentucky Speedway</sub-title>
     <desc>Relive the 2020 Alsco 300 at Kentucky Speedway in this NASCAR O'Reilly Auto Parts Series race replay.</desc>
+  </programme>
+  <programme channel="nascar" start="20261126063400 +0100" stop="20261126065844 +0100">
+    <title>NASCAR Burnouts</title>
+    <desc>Experience the sights and sounds of NASCAR victory in this 30-minute compilation of burnouts</desc>
   </programme>
   <programme channel="nascar" start="20261126065845 +0100" stop="20261126131941 +0100">
     <title>S03 : E04 Radioactive - Best of the 2026 NASCAR Cup Series Season</title>
@@ -40659,102 +40663,156 @@ relevantes del panorama nacional. | A sus 29 años, Nina Urgell es una de las in
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Iniesta como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261125205105 +0100" stop="20261125225104 +0100">
-    <title>FULL MATCH | FC Barcelona - Villarreal | La Liga 2026-27</title>
-    <desc>FULL MATCH | FC Barcelona - Villarreal | La Liga 2026-27</desc>
+  <programme channel="top-barca-es" start="20261125205105 +0100" stop="20261125224001 +0100">
+    <title>S202627 : E06 PARTIDO COMPLETO | Barça - Racing de Santander | La Liga 2026-27 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del partido de la liga 2026-27 entre Barça y Racing de Santander</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261125225105 +0100" stop="20261125234724 +0100">
+  <programme channel="top-barca-es" start="20261125224002 +0100" stop="20261125233620 +0100">
     <title>S202526 : E54 TODOS LOS GOLES | Caroline Graham Hansen - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Caroline Graham Hansen como jugadora blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261125234725 +0100" stop="20261126014724 +0100">
-    <title>FULL MATCH | FC Barcelona - Athletic Club | Liga F 2026-2027</title>
-    <desc>FULL MATCH | FC Barcelona - Athletic Club | Liga F 2026-2027</desc>
-  </programme>
-  <programme channel="top-barca-es" start="20261126014725 +0100" stop="20261126020815 +0100">
+  <programme channel="top-barca-es" start="20261125233621 +0100" stop="20261125235711 +0100">
     <title>S202526 : E44 TODOS LOS GOLES | Dani Olmo - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Dani Olmo como jugador blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126020816 +0100" stop="20261126024211 +0100">
+  <programme channel="top-barca-es" start="20261125235712 +0100" stop="20261126003630 +0100">
+    <title>S202223 : E01 EL ÁLBUM | Rafa Márquez - El Álbum</title>
+    <sub-title>El Álbum</sub-title>
+    <desc>Rafa Márquez recuerda con nosotros su etapa en el Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126003631 +0100" stop="20261126010730 +0100">
+    <title>S202627 : E08 HIGHLIGHTS | Betis - FC Barcelona | La Liga 2026-27 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del mejor resumen del partido de la Liga 2026-27 entre Betis y Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126010731 +0100" stop="20261126014215 +0100">
+    <title>S199495 : E10 TODOS LOS GOLES | Temporada 1994-95 - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles del Barça en la temporada 1994-95</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126014216 +0100" stop="20261126021612 +0100">
     <title>S202627 : E01 HIGHLIGHTS | Barça - Feyenoord | UEFA Champions League 2026-27 - UEFA Champions League</title>
     <sub-title>UEFA Champions League</sub-title>
     <desc>Disfruta del resumen del partido de la UEFA Champions League 2026-27 entre Barça y Feyenoord</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126024212 +0100" stop="20261126033146 +0100">
+  <programme channel="top-barca-es" start="20261126021613 +0100" stop="20261126030547 +0100">
     <title>S202526 : E34 TODOS LOS GOLES | Leo Messi Parte 2 - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126033147 +0100" stop="20261126053146 +0100">
-    <title>FULL MATCH | FC Barcelona - Villarreal | La Liga 2026-27</title>
-    <desc>FULL MATCH | FC Barcelona - Villarreal | La Liga 2026-27</desc>
+  <programme channel="top-barca-es" start="20261126030548 +0100" stop="20261126041628 +0100">
+    <title>S202526 : E33 TODOS LOS GOLES | Claudia Pina - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Claudia Pina como jugadora del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126053147 +0100" stop="20261126061701 +0100">
+  <programme channel="top-barca-es" start="20261126041629 +0100" stop="20261126044634 +0100">
+    <title>S202627 : E03 HIGHLIGHTS | HC Koge - FC Barcelona | UWCL 2026-27 - UEFA Women's Champions League</title>
+    <sub-title>UEFA Women's Champions League</sub-title>
+    <desc>Disfruta del resumen del partido de la UWCL 2026-27 entre HC Koge y Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126044635 +0100" stop="20261126050444 +0100">
+    <title>S202627 : E02 TODOS LOS GOLES | FC Barcelona Femenino | Octubre 2026 - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Disfruta de todos los goles del Barça femenino durante este mes de octubre</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126050445 +0100" stop="20261126060000 +0100">
     <title>S202526 : E16 TODOS LOS GOLES | Lamine Yamal - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Lamine como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126061702 +0100" stop="20261126081701 +0100">
-    <title>FULL MATCH | FC Barcelona - Athletic Club | Liga F 2026-2027</title>
-    <desc>FULL MATCH | FC Barcelona - Athletic Club | Liga F 2026-2027</desc>
+  <programme channel="top-barca-es" start="20261126060001 +0100" stop="20261126063018 +0100">
+    <title>S202627 : E04 HIGHLIGHTS | València - Barça | La Liga 202627 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta de los mejores momentos del partido de la liga 202627 entre València y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126081702 +0100" stop="20261126093612 +0100">
+  <programme channel="top-barca-es" start="20261126063019 +0100" stop="20261126072103 +0100">
+    <title>S202627 : E03 TODOS LOS GOLES | Leo Messi Parte 3 - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Leo Messi como jugador del Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126072104 +0100" stop="20261126074719 +0100">
+    <title>S202627 : E03 HIGHLIGHTS | Barça - Rayo Vallecano | La Liga 202627 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta de los mejores momentos del partido de la liga 202627 entre Barça y Rayo Vallecano</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126074720 +0100" stop="20261126090630 +0100">
     <title>S202526 : E56 TODOS LOS GOLES | Robert Lewandowski - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de los grandes jugadores de la historia del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126093613 +0100" stop="20261126113612 +0100">
-    <title>FULL MATCH | FC Barcelona - Villarreal | La Liga 2026-27</title>
-    <desc>FULL MATCH | FC Barcelona - Villarreal | La Liga 2026-27</desc>
+  <programme channel="top-barca-es" start="20261126090631 +0100" stop="20261126095144 +0100">
+    <title>S202526 : E16 TODOS LOS GOLES | Lamine Yamal - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Lamine como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126113613 +0100" stop="20261126122414 +0100">
+  <programme channel="top-barca-es" start="20261126095145 +0100" stop="20261126102211 +0100">
+    <title>S200304 : E26 HIGHLIGHTS | Deportivo - FC Barcelona | La Liga 2003-04 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del partido de la liga 2003-04 entre Deportivo y Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126102212 +0100" stop="20261126111702 +0100">
+    <title>S202526 : E21 TODOS LOS GOLES | Luis Enrique - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Luis Enrique con la camiseta blaugrana</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126111703 +0100" stop="20261126120504 +0100">
     <title>S202526 : E20 TODOS LOS GOLES | Ronaldinho - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Ronaldinho en el FC Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126122415 +0100" stop="20261126132144 +0100">
+  <programme channel="top-barca-es" start="20261126120505 +0100" stop="20261126130234 +0100">
     <title>S202526 : E01 ORÍGENES | Fermín López - Orígenes</title>
     <sub-title>Orígenes</sub-title>
     <desc>Los origenes de Fermín López antes de llegar al primer equipo blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126132145 +0100" stop="20261126135144 +0100">
-    <title>HIGHLIGHTS | FC Barcelona - Athletic Club | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | FC Barcelona - Athletic Club | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261126130235 +0100" stop="20261126133659 +0100">
+    <title>S202627 : E05 HIGHLIGHTS | FC Barcelona - Racing | La Liga 2026-27 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta de los mejores momentos del partido de la liga 2026-27 entre FC Barcelona y Racing de Santander</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126135145 +0100" stop="20261126155144 +0100">
-    <title>FULL MATCH | Espanyol - Barça Atlètic | La Liga 2026-2027</title>
-    <desc>FULL MATCH | Espanyol - Barça Atlètic | La Liga 2026-2027</desc>
+  <programme channel="top-barca-es" start="20261126133700 +0100" stop="20261126152649 +0100">
+    <title>S202627 : E08 PARTIDO COMPLETO | Betis - FC Barcelona | La Liga 2026-27 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del partido de la Liga 2026-27 entre Betis y Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126155145 +0100" stop="20261126162144 +0100">
-    <title>HIGHLIGHTS | FC Barcelona - Athletic Club | Liga F 2026/2027</title>
-    <desc>HIGHLIGHTS | FC Barcelona - Athletic Club | Liga F 2026/2027</desc>
+  <programme channel="top-barca-es" start="20261126152650 +0100" stop="20261126155719 +0100">
+    <title>S202526 : E25 TODOS LOS GOLES | Ronaldo - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles de Ronaldo con el FC Barcelona</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126162145 +0100" stop="20261126182144 +0100">
-    <title>FULL MATCH | FC Barcelona - Villarreal | La Liga 2026-27</title>
-    <desc>FULL MATCH | FC Barcelona - Villarreal | La Liga 2026-27</desc>
+  <programme channel="top-barca-es" start="20261126155720 +0100" stop="20261126173238 +0100">
+    <title>S201516 : E90 TODOS LOS GOLES | Temporada 2015-16 - Todos los goles</title>
+    <sub-title>Todos los goles</sub-title>
+    <desc>Todos los goles del Barça en la temporada 2015-16</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126182145 +0100" stop="20261126184235 +0100">
+  <programme channel="top-barca-es" start="20261126173239 +0100" stop="20261126180043 +0100">
+    <title>S201516 : E34 HIGHLIGHTS | Deportivo - FC Barcelona | La Liga 2015-16 - LaLiga</title>
+    <sub-title>LaLiga</sub-title>
+    <desc>Disfruta del resumen del partido de la liga 2015-16 entre Deportivo y Barça</desc>
+  </programme>
+  <programme channel="top-barca-es" start="20261126180044 +0100" stop="20261126182134 +0100">
     <title>S202526 : E44 TODOS LOS GOLES | Dani Olmo - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Dani Olmo como jugador blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126184236 +0100" stop="20261126201235 +0100">
+  <programme channel="top-barca-es" start="20261126182135 +0100" stop="20261126195134 +0100">
     <title>LA MASIA | FC Barcelona Sub-13 - Atlètic Masnou | 2026/2027</title>
     <desc>LA MASIA | FC Barcelona Sub-13 - Atlètic Masnou | 2026/2027</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126201236 +0100" stop="20261126210203 +0100">
+  <programme channel="top-barca-es" start="20261126195135 +0100" stop="20261126204102 +0100">
     <title>S202021 : E01 EL ÁLBUM | Andrés Iniesta - El Álbum</title>
     <sub-title>El Álbum</sub-title>
     <desc>Andrés Iniesta recuerda sus años en Barcelona, donde lo ganó todo con el equipo blaugrana</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126210204 +0100" stop="20261126213212 +0100">
+  <programme channel="top-barca-es" start="20261126204103 +0100" stop="20261126211111 +0100">
     <title>S202526 : E09 TODOS LOS GOLES | Andrés Iniesta - Todos los goles</title>
     <sub-title>Todos los goles</sub-title>
     <desc>Todos los goles de Iniesta como jugador del Barça</desc>
   </programme>
-  <programme channel="top-barca-es" start="20261126213213 +0100" stop="20261126220212 +0100">
+  <programme channel="top-barca-es" start="20261126211112 +0100" stop="20261126220212 +0100">
     <title>HIGHLIGHTS | FC Barcelona - Athletic Club | Liga F 2026/2027</title>
     <desc>HIGHLIGHTS | FC Barcelona - Athletic Club | Liga F 2026/2027</desc>
   </programme>
