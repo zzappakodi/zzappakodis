@@ -959,3 +959,6 @@ https://daiconnect.com/live/hls/tvup/tvfy-topbarcacatala/.m3u8
 
 #EXTINF:-1 tvg-id="Wedo_Cars" tvg-name="Wedo Cars" tvg-logo="http://192.168.1.98:8080/logos/Wedo%20Cars.png" group-title="Cajón de Sastre",Wedo Cars
 https://amg00735-amg00735c78-amgplt0203.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00735-amg00735c78-amgplt0203/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Inazuma_Eleven" tvg-name="Inazuma Eleven" tvg-logo="http://192.168.1.98:8080/logos/Inazuma%20Eleven.png" group-title="Cajón de Sastre",Inazuma Eleven
+https://amg01821-amg01821c93-amgplt0203.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01821-amg01821c93-amgplt0203/playlist.m3u8
